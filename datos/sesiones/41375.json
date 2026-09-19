@@ -1,0 +1,97 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "36",
+  "fecha": "2026-08-18T12:55:59",
+  "evento_id": 41375,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41375",
+  "listado": {
+    "sesion": 36,
+    "fase": 1,
+    "fecha": "2026-08-18T12:55:59",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-08-18T14:45:25",
+        "votacion_id": 51146,
+        "evento_id": 41375,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51146/41375",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51146/41375"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE PALALA)",
+        "numero_pregunta": 2,
+        "fecha": "2026-08-18T14:47:29",
+        "votacion_id": 51148,
+        "evento_id": 41375,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51148/41375",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51148/41375"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 3,
+        "fecha": "2026-08-18T14:51:26",
+        "votacion_id": 51147,
+        "evento_id": 41375,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51147/41375",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51147/41375"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 4,
+        "fecha": "2026-08-18T14:55:09",
+        "votacion_id": 51145,
+        "evento_id": 41375,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51145/41375",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51145/41375"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (FALLECIMIENTO DIPUTADO QUIJADA)",
+        "numero_pregunta": 5,
+        "fecha": "2026-08-18T15:50:52",
+        "votacion_id": 51149,
+        "evento_id": 41375,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51149/41375",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51149/41375"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (DECLARA LA VACANTE DE DIPUTADO)",
+        "numero_pregunta": 6,
+        "fecha": "2026-08-18T15:54:53",
+        "votacion_id": 51150,
+        "evento_id": 41375,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51150/41375",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51150/41375"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (PUNTO RESOLUTIVO)",
+        "numero_pregunta": 7,
+        "fecha": "2026-08-18T16:07:46",
+        "votacion_id": 51151,
+        "evento_id": 41375,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51151/41375",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51151/41375"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO",
+        "numero_pregunta": 8,
+        "fecha": "2026-08-18T16:16:45",
+        "votacion_id": 51159,
+        "evento_id": 41375,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51159/41375",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51159/41375"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (URGENCIA NACIONAL 6556)",
+        "numero_pregunta": 9,
+        "fecha": "2026-08-18T17:12:13",
+        "votacion_id": 51152,
+        "evento_id": 41375,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51152/41375",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51152/41375"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-19T23:33:05+00:00"
+}

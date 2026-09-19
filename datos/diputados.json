@@ -1,0 +1,1442 @@
+[
+  {
+    "id_diputado": "970",
+    "nombre": "De León Benítez Alberto Eduardo",
+    "clave": "de-leon-benitez-alberto-eduardo",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Totonicapán",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/970"
+  },
+  {
+    "id_diputado": "770",
+    "nombre": "Rodríguez Reyes Allan Estuardo",
+    "clave": "rodriguez-reyes-allan-estuardo",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Sololá",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/770"
+  },
+  {
+    "id_diputado": "935",
+    "nombre": "Guerrero de la Cruz Alma Luz",
+    "clave": "guerrero-de-la-cruz-alma-luz",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/935"
+  },
+  {
+    "id_diputado": "11",
+    "nombre": "Arzú Escobar Alvaro Enrique",
+    "clave": "arzu-escobar-alvaro-enrique",
+    "id_bloque": "2",
+    "bloque": "Partido Unionista",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/11"
+  },
+  {
+    "id_diputado": "179",
+    "nombre": "Marroquín Godoy de Palomo Ana Lucrecia",
+    "clave": "marroquin-godoy-de-palomo-ana-lucrecia",
+    "id_bloque": "2",
+    "bloque": "Partido Unionista",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/179"
+  },
+  {
+    "id_diputado": "938",
+    "nombre": "Orantes Thomas Ana Patricia",
+    "clave": "orantes-thomas-ana-patricia",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/938"
+  },
+  {
+    "id_diputado": "155",
+    "nombre": "Villagrán Antón de Pantoja Andrea Beatríz",
+    "clave": "villagran-anton-de-pantoja-andrea-beatriz",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/155"
+  },
+  {
+    "id_diputado": "913",
+    "nombre": "Reyes Zeceña Andrea María",
+    "clave": "reyes-zecena-andrea-maria",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/913"
+  },
+  {
+    "id_diputado": "949",
+    "nombre": "Ipiña Leiva Benjamin",
+    "clave": "ipina-leiva-benjamin",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Petén",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/949"
+  },
+  {
+    "id_diputado": "965",
+    "nombre": "Chocooj de la Cruz Bequer Neftali",
+    "clave": "chocooj-de-la-cruz-bequer-neftali",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Sololá",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/965"
+  },
+  {
+    "id_diputado": "54",
+    "nombre": "España Cáceres Boris Roberto",
+    "clave": "espana-caceres-boris-roberto",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Chiquimula",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/54"
+  },
+  {
+    "id_diputado": "896",
+    "nombre": "Mejía López Brenda Marleny",
+    "clave": "mejia-lopez-brenda-marleny",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/896"
+  },
+  {
+    "id_diputado": "937",
+    "nombre": "Obregón Castañeda Byron Alesky",
+    "clave": "obregon-castaneda-byron-alesky",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/937"
+  },
+  {
+    "id_diputado": "952",
+    "nombre": "Rodríguez Palacios Byron Bladimiro",
+    "clave": "rodriguez-palacios-byron-bladimiro",
+    "id_bloque": "7",
+    "bloque": "TODOS",
+    "distrito": "Quetzaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/952"
+  },
+  {
+    "id_diputado": "887",
+    "nombre": "Tejeda Marroquín Byron Leonidas",
+    "clave": "tejeda-marroquin-byron-leonidas",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Baja Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/887"
+  },
+  {
+    "id_diputado": "780",
+    "nombre": "Leal Gómez Candido Fernando",
+    "clave": "leal-gomez-candido-fernando",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/780"
+  },
+  {
+    "id_diputado": "976",
+    "nombre": "López Girón Carlos Enrique",
+    "clave": "lopez-giron-carlos-enrique",
+    "id_bloque": "28",
+    "bloque": "Valor",
+    "distrito": "Quiché",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/976"
+  },
+  {
+    "id_diputado": "92",
+    "nombre": "López Maldonado Carlos Enrique",
+    "clave": "lopez-maldonado-carlos-enrique",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Quiché",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/92"
+  },
+  {
+    "id_diputado": "130",
+    "nombre": "Rojas Alarcón Carlos Napoleon",
+    "clave": "rojas-alarcon-carlos-napoleon",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Santa Rosa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/130"
+  },
+  {
+    "id_diputado": "774",
+    "nombre": "Calderon Galvez Carlos Roberto",
+    "clave": "calderon-galvez-carlos-roberto",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/774"
+  },
+  {
+    "id_diputado": "948",
+    "nombre": "Amézquita Del Valle César Augusto",
+    "clave": "amezquita-del-valle-cesar-augusto",
+    "id_bloque": "9",
+    "bloque": "Partido Político Visión con Valores",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/948"
+  },
+  {
+    "id_diputado": "796",
+    "nombre": "Fión Morales César Augusto",
+    "clave": "fion-morales-cesar-augusto",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Petén",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/796"
+  },
+  {
+    "id_diputado": "901",
+    "nombre": "Rodas Cardona César Augusto",
+    "clave": "rodas-cardona-cesar-augusto",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "El Progreso",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/901"
+  },
+  {
+    "id_diputado": "906",
+    "nombre": "Dávila Córdova César Roberto",
+    "clave": "davila-cordova-cesar-roberto",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/906"
+  },
+  {
+    "id_diputado": "921",
+    "nombre": "Martínez Juárez Christian Joél",
+    "clave": "martinez-juarez-christian-joel",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Huehuetenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/921"
+  },
+  {
+    "id_diputado": "65",
+    "nombre": "García García Cornelio Gonzalo",
+    "clave": "garcia-garcia-cornelio-gonzalo",
+    "id_bloque": "7",
+    "bloque": "TODOS",
+    "distrito": "Huehuetenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/65"
+  },
+  {
+    "id_diputado": "851",
+    "nombre": "Alvarez y Alvarez Cristian Rodolfo",
+    "clave": "alvarez-y-alvarez-cristian-rodolfo",
+    "id_bloque": "8",
+    "bloque": "Compromiso, Renovación y Orden",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/851"
+  },
+  {
+    "id_diputado": "939",
+    "nombre": "Cerna Acevedo Dámaris Carolina",
+    "clave": "cerna-acevedo-damaris-carolina",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/939"
+  },
+  {
+    "id_diputado": "967",
+    "nombre": "Madrazo Mazariegos Danilo",
+    "clave": "madrazo-mazariegos-danilo",
+    "id_bloque": "7",
+    "bloque": "TODOS",
+    "distrito": "Suchitepéquez",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/967"
+  },
+  {
+    "id_diputado": "801",
+    "nombre": "Lucas Paz Darwin Alberto",
+    "clave": "lucas-paz-darwin-alberto",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Alta Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/801"
+  },
+  {
+    "id_diputado": "922",
+    "nombre": "Ramírez Cameros Darwin Edgardo",
+    "clave": "ramirez-cameros-darwin-edgardo",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Izabal",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/922"
+  },
+  {
+    "id_diputado": "910",
+    "nombre": "Illescas Sandoval David Mauricio",
+    "clave": "illescas-sandoval-david-mauricio",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/910"
+  },
+  {
+    "id_diputado": "781",
+    "nombre": "Martinez Salazar Duay Antoni",
+    "clave": "martinez-salazar-duay-antoni",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Quetzaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/781"
+  },
+  {
+    "id_diputado": "127",
+    "nombre": "Reyes Lee Edgar Raúl",
+    "clave": "reyes-lee-edgar-raul",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Petén",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/127"
+  },
+  {
+    "id_diputado": "950",
+    "nombre": "De Jesús Mejía Edin Alexander",
+    "clave": "de-jesus-mejia-edin-alexander",
+    "id_bloque": "9",
+    "bloque": "Partido Político Visión con Valores",
+    "distrito": "Petén",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/950"
+  },
+  {
+    "id_diputado": "897",
+    "nombre": "Motta Kolleff Elena Sofia",
+    "clave": "motta-kolleff-elena-sofia",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/897"
+  },
+  {
+    "id_diputado": "919",
+    "nombre": "Palencia Reyes Elmer Josué",
+    "clave": "palencia-reyes-elmer-josue",
+    "id_bloque": "28",
+    "bloque": "Valor",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/919"
+  },
+  {
+    "id_diputado": "793",
+    "nombre": "Martínez Hernández Erick Geovany",
+    "clave": "martinez-hernandez-erick-geovany",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Huehuetenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/793"
+  },
+  {
+    "id_diputado": "954",
+    "nombre": "Tzún De León Erick José Mario",
+    "clave": "tzun-de-leon-erick-jose-mario",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Quetzaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/954"
+  },
+  {
+    "id_diputado": "900",
+    "nombre": "Bran Colindres Ernesto",
+    "clave": "bran-colindres-ernesto",
+    "id_bloque": "28",
+    "bloque": "Valor",
+    "distrito": "El Progreso",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/900"
+  },
+  {
+    "id_diputado": "95",
+    "nombre": "Maldonado Molina Ervin Adim",
+    "clave": "maldonado-molina-ervin-adim",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/95"
+  },
+  {
+    "id_diputado": "892",
+    "nombre": "Javier Javier Esduín Jerson",
+    "clave": "javier-javier-esduin-jerson",
+    "id_bloque": "37",
+    "bloque": "CAMBIO",
+    "distrito": "Chiquimula",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/892"
+  },
+  {
+    "id_diputado": "828",
+    "nombre": "Morataya Marroquín Evelyn Oddeth",
+    "clave": "morataya-marroquin-evelyn-oddeth",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/828"
+  },
+  {
+    "id_diputado": "924",
+    "nombre": "Salazar Cordero Faver Emilio",
+    "clave": "salazar-cordero-faver-emilio",
+    "id_bloque": "28",
+    "bloque": "Valor",
+    "distrito": "Jalapa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/924"
+  },
+  {
+    "id_diputado": "2",
+    "nombre": "Alejos Lorenzana Felipe",
+    "clave": "alejos-lorenzana-felipe",
+    "id_bloque": "7",
+    "bloque": "TODOS",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/2"
+  },
+  {
+    "id_diputado": "128",
+    "nombre": "Reyes Lee Fidel",
+    "clave": "reyes-lee-fidel",
+    "id_bloque": "34",
+    "bloque": "Bienestar Nacional",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/128"
+  },
+  {
+    "id_diputado": "247",
+    "nombre": "Lima Pop Fidencio",
+    "clave": "lima-pop-fidencio",
+    "id_bloque": "9",
+    "bloque": "Partido Político Visión con Valores",
+    "distrito": "Alta Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/247"
+  },
+  {
+    "id_diputado": "86",
+    "nombre": "Lam Ruano Francisco Vitelio",
+    "clave": "lam-ruano-francisco-vitelio",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Escuintla",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/86"
+  },
+  {
+    "id_diputado": "818",
+    "nombre": "Díaz Mazariegos Gerardín Ariel",
+    "clave": "diaz-mazariegos-gerardin-ariel",
+    "id_bloque": "28",
+    "bloque": "Valor",
+    "distrito": "Quetzaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/818"
+  },
+  {
+    "id_diputado": "969",
+    "nombre": "Barragán Morales Gerson Geovanny",
+    "clave": "barragan-morales-gerson-geovanny",
+    "id_bloque": "9",
+    "bloque": "Partido Político Visión con Valores",
+    "distrito": "Suchitepéquez",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/969"
+  },
+  {
+    "id_diputado": "962",
+    "nombre": "Cifuentes Barragán Gladis Carolina",
+    "clave": "cifuentes-barragan-gladis-carolina",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "San Marcos",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/962"
+  },
+  {
+    "id_diputado": "777",
+    "nombre": "De León De León Greicy Domenica",
+    "clave": "de-leon-de-leon-greicy-domenica",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Quiché",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/777"
+  },
+  {
+    "id_diputado": "776",
+    "nombre": "Cifuentes Barragán Guillermo Alberto",
+    "clave": "cifuentes-barragan-guillermo-alberto",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "San Marcos",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/776"
+  },
+  {
+    "id_diputado": "957",
+    "nombre": "Ralda Conde Guillermo Antonio",
+    "clave": "ralda-conde-guillermo-antonio",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Retalhuleu",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/957"
+  },
+  {
+    "id_diputado": "961",
+    "nombre": "Cifuentes Navarro Gustavo Adolfo",
+    "clave": "cifuentes-navarro-gustavo-adolfo",
+    "id_bloque": "7",
+    "bloque": "TODOS",
+    "distrito": "San Marcos",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/961"
+  },
+  {
+    "id_diputado": "826",
+    "nombre": "Crúz Montoya Gustavo Adolfo",
+    "clave": "cruz-montoya-gustavo-adolfo",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/826"
+  },
+  {
+    "id_diputado": "943",
+    "nombre": "Aldana Reyes Héctor Adolfo",
+    "clave": "aldana-reyes-hector-adolfo",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/943"
+  },
+  {
+    "id_diputado": "840",
+    "nombre": "Ajcip Canel Hellen Magaly Alexándra",
+    "clave": "ajcip-canel-hellen-magaly-alexandra",
+    "id_bloque": "40",
+    "bloque": "Comunidad Elefante",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/840"
+  },
+  {
+    "id_diputado": "884",
+    "nombre": "Echeverría Casado Herman Otoniel",
+    "clave": "echeverria-casado-herman-otoniel",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Alta Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/884"
+  },
+  {
+    "id_diputado": "979",
+    "nombre": "Bonilla Oliva Ivana",
+    "clave": "bonilla-oliva-ivana",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Chiquimula",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/979"
+  },
+  {
+    "id_diputado": "911",
+    "nombre": "Luján Padilla Ivanna María",
+    "clave": "lujan-padilla-ivanna-maria",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/911"
+  },
+  {
+    "id_diputado": "93",
+    "nombre": "Lucero Vásquez Jaime Octavio Augusto",
+    "clave": "lucero-vasquez-jaime-octavio-augusto",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Jalapa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/93"
+  },
+  {
+    "id_diputado": "923",
+    "nombre": "Orellana Sandoval Jairo Danilo",
+    "clave": "orellana-sandoval-jairo-danilo",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Jalapa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/923"
+  },
+  {
+    "id_diputado": "61",
+    "nombre": "Flores Divas Jairo Joaquín",
+    "clave": "flores-divas-jairo-joaquin",
+    "id_bloque": "46",
+    "bloque": "Voluntad, Oportunidad y Solidaridad",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/61"
+  },
+  {
+    "id_diputado": "963",
+    "nombre": "Dominguez Orozco Jeovanni Omar",
+    "clave": "dominguez-orozco-jeovanni-omar",
+    "id_bloque": "9",
+    "bloque": "Partido Político Visión con Valores",
+    "distrito": "San Marcos",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/963"
+  },
+  {
+    "id_diputado": "99",
+    "nombre": "Martínez Herrera Joél Rubén",
+    "clave": "martinez-herrera-joel-ruben",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Huehuetenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/99"
+  },
+  {
+    "id_diputado": "918",
+    "nombre": "Ayala Marroquin Jorge Estuardo",
+    "clave": "ayala-marroquin-jorge-estuardo",
+    "id_bloque": "28",
+    "bloque": "Valor",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/918"
+  },
+  {
+    "id_diputado": "973",
+    "nombre": "Cabrera Ordóñez Jorge Mario",
+    "clave": "cabrera-ordonez-jorge-mario",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Totonicapán",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/973"
+  },
+  {
+    "id_diputado": "928",
+    "nombre": "Villagrán Alvarez Jorge Mario",
+    "clave": "villagran-alvarez-jorge-mario",
+    "id_bloque": "41",
+    "bloque": "Partido Azul",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/928"
+  },
+  {
+    "id_diputado": "842",
+    "nombre": "Castro Delgado Jorge Romeo",
+    "clave": "castro-delgado-jorge-romeo",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/842"
+  },
+  {
+    "id_diputado": "864",
+    "nombre": "Quezada Valdéz José Adolfo",
+    "clave": "quezada-valdez-jose-adolfo",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Quiché",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/864"
+  },
+  {
+    "id_diputado": "899",
+    "nombre": "Chic Cardona José Alberto",
+    "clave": "chic-cardona-jose-alberto",
+    "id_bloque": "46",
+    "bloque": "Voluntad, Oportunidad y Solidaridad",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/899"
+  },
+  {
+    "id_diputado": "788",
+    "nombre": "García Barrios José Arnulfo",
+    "clave": "garcia-barrios-jose-arnulfo",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Suchitepéquez",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/788"
+  },
+  {
+    "id_diputado": "958",
+    "nombre": "Solano José Carlo",
+    "clave": "solano-jose-carlo",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Retalhuleu",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/958"
+  },
+  {
+    "id_diputado": "914",
+    "nombre": "Sanabria Arias José Carlos",
+    "clave": "sanabria-arias-jose-carlos",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/914"
+  },
+  {
+    "id_diputado": "960",
+    "nombre": "Toledo Cruz José Diego",
+    "clave": "toledo-cruz-jose-diego",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Sacatepéquez",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/960"
+  },
+  {
+    "id_diputado": "30",
+    "nombre": "Castillo Martínez José Inés",
+    "clave": "castillo-martinez-jose-ines",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Santa Rosa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/30"
+  },
+  {
+    "id_diputado": "819",
+    "nombre": "Galindo De León José Luis",
+    "clave": "galindo-de-leon-jose-luis",
+    "id_bloque": "28",
+    "bloque": "Valor",
+    "distrito": "Retalhuleu",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/819"
+  },
+  {
+    "id_diputado": "951",
+    "nombre": "Pérez Marroquín José Orlando",
+    "clave": "perez-marroquin-jose-orlando",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Quetzaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/951"
+  },
+  {
+    "id_diputado": "893",
+    "nombre": "Mendoza Franco José Pablo",
+    "clave": "mendoza-franco-jose-pablo",
+    "id_bloque": "8",
+    "bloque": "Compromiso, Renovación y Orden",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/893"
+  },
+  {
+    "id_diputado": "881",
+    "nombre": "Lemus Cifuentes Josué Edmundo",
+    "clave": "lemus-cifuentes-josue-edmundo",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Quiché",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/881"
+  },
+  {
+    "id_diputado": "857",
+    "nombre": "Rivera Estevez Juan Carlos",
+    "clave": "rivera-estevez-juan-carlos",
+    "id_bloque": "29",
+    "bloque": "Victoria",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/857"
+  },
+  {
+    "id_diputado": "811",
+    "nombre": "Rivas García Juan Ramon",
+    "clave": "rivas-garcia-juan-ramon",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Izabal",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/811"
+  },
+  {
+    "id_diputado": "789",
+    "nombre": "López Escobar Julio César",
+    "clave": "lopez-escobar-julio-cesar",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Huehuetenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/789"
+  },
+  {
+    "id_diputado": "974",
+    "nombre": "Portillo Paz Julio César",
+    "clave": "portillo-paz-julio-cesar",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Zacapa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/974"
+  },
+  {
+    "id_diputado": "917",
+    "nombre": "Marroquín Ordoñez Julio Daniel",
+    "clave": "marroquin-ordonez-julio-daniel",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/917"
+  },
+  {
+    "id_diputado": "930",
+    "nombre": "Estrada Domínguez Julio Héctor",
+    "clave": "estrada-dominguez-julio-hector",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/930"
+  },
+  {
+    "id_diputado": "971",
+    "nombre": "Gómez Gómez Julio Pedro",
+    "clave": "gomez-gomez-julio-pedro",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Totonicapán",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/971"
+  },
+  {
+    "id_diputado": "160",
+    "nombre": "Paz Rosales Karina Alexandra",
+    "clave": "paz-rosales-karina-alexandra",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/160"
+  },
+  {
+    "id_diputado": "791",
+    "nombre": "Cardona Arreaga Karla Betzaida",
+    "clave": "cardona-arreaga-karla-betzaida",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Huehuetenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/791"
+  },
+  {
+    "id_diputado": "926",
+    "nombre": "Escobar Castillo Kevyn Luis Carlo",
+    "clave": "escobar-castillo-kevyn-luis-carlo",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Jutiapa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/926"
+  },
+  {
+    "id_diputado": "895",
+    "nombre": "Marroquín Cordón Laura Fabiola",
+    "clave": "marroquin-cordon-laura-fabiola",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/895"
+  },
+  {
+    "id_diputado": "915",
+    "nombre": "Barrera Villanueva León Felipe",
+    "clave": "barrera-villanueva-leon-felipe",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/915"
+  },
+  {
+    "id_diputado": "822",
+    "nombre": "Salazar Samayoa Leopoldo",
+    "clave": "salazar-samayoa-leopoldo",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Alta Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/822"
+  },
+  {
+    "id_diputado": "940",
+    "nombre": "De León Torres Lourdes Teresita",
+    "clave": "de-leon-torres-lourdes-teresita",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/940"
+  },
+  {
+    "id_diputado": "135",
+    "nombre": "Samayoa Reyes Lucrecia Carola",
+    "clave": "samayoa-reyes-lucrecia-carola",
+    "id_bloque": "34",
+    "bloque": "Bienestar Nacional",
+    "distrito": "Huehuetenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/135"
+  },
+  {
+    "id_diputado": "39",
+    "nombre": "Contreras Colíndres Luis Alberto",
+    "clave": "contreras-colindres-luis-alberto",
+    "id_bloque": "8",
+    "bloque": "Compromiso, Renovación y Orden",
+    "distrito": "San Marcos",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/39"
+  },
+  {
+    "id_diputado": "966",
+    "nombre": "Rodríguez Reyes Luis Alberto",
+    "clave": "rodriguez-reyes-luis-alberto",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Sololá",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/966"
+  },
+  {
+    "id_diputado": "908",
+    "nombre": "Cáceres Gamarro Luis Antonio",
+    "clave": "caceres-gamarro-luis-antonio",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/908"
+  },
+  {
+    "id_diputado": "929",
+    "nombre": "Aguirre Estrada Luis Fernando",
+    "clave": "aguirre-estrada-luis-fernando",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/929"
+  },
+  {
+    "id_diputado": "942",
+    "nombre": "López Bolaños Luis Javier",
+    "clave": "lopez-bolanos-luis-javier",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/942"
+  },
+  {
+    "id_diputado": "934",
+    "nombre": "Castañón González Manfredo Duvalier",
+    "clave": "castanon-gonzalez-manfredo-duvalier",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/934"
+  },
+  {
+    "id_diputado": "920",
+    "nombre": "Gálvez De León Manrique Obel",
+    "clave": "galvez-de-leon-manrique-obel",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Huehuetenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/920"
+  },
+  {
+    "id_diputado": "907",
+    "nombre": "Archila Cordón Manuel de Jesús",
+    "clave": "archila-cordon-manuel-de-jesus",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/907"
+  },
+  {
+    "id_diputado": "956",
+    "nombre": "Alvarado Vásquez Manuel Geovany",
+    "clave": "alvarado-vasquez-manuel-geovany",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Quiché",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/956"
+  },
+  {
+    "id_diputado": "945",
+    "nombre": "Pérez Toribio Marco Alejandro",
+    "clave": "perez-toribio-marco-alejandro",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/945"
+  },
+  {
+    "id_diputado": "903",
+    "nombre": "Mejía Alfaro Marco Aurelio",
+    "clave": "mejia-alfaro-marco-aurelio",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Escuintla",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/903"
+  },
+  {
+    "id_diputado": "955",
+    "nombre": "Tebelán Pantzay Marcos Eduardo",
+    "clave": "tebelan-pantzay-marcos-eduardo",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Quiché",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/955"
+  },
+  {
+    "id_diputado": "154",
+    "nombre": "Velásquez Pérez Mario",
+    "clave": "velasquez-perez-mario",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "San Marcos",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/154"
+  },
+  {
+    "id_diputado": "870",
+    "nombre": "Gálvez Muñóz Mario Ernesto",
+    "clave": "galvez-munoz-mario-ernesto",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "San Marcos",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/870"
+  },
+  {
+    "id_diputado": "100",
+    "nombre": "Matías Santiago Marleni Lineth",
+    "clave": "matias-santiago-marleni-lineth",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Baja Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/100"
+  },
+  {
+    "id_diputado": "806",
+    "nombre": "Nicolás Segundo Martín",
+    "clave": "nicolas-segundo-martin",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Huehuetenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/806"
+  },
+  {
+    "id_diputado": "927",
+    "nombre": "Zepeda Zepeda Marvin Adrián",
+    "clave": "zepeda-zepeda-marvin-adrian",
+    "id_bloque": "7",
+    "bloque": "TODOS",
+    "distrito": "Jutiapa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/927"
+  },
+  {
+    "id_diputado": "787",
+    "nombre": "Castillo y Castillo Maynor Estuardo",
+    "clave": "castillo-y-castillo-maynor-estuardo",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Jutiapa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/787"
+  },
+  {
+    "id_diputado": "782",
+    "nombre": "Mejía Popol Maynor Gabriel",
+    "clave": "mejia-popol-maynor-gabriel",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Chimaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/782"
+  },
+  {
+    "id_diputado": "904",
+    "nombre": "Guardado Linares de Nájera Mercedes Cristabel",
+    "clave": "guardado-linares-de-najera-mercedes-cristabel",
+    "id_bloque": "28",
+    "bloque": "Valor",
+    "distrito": "Escuintla",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/904"
+  },
+  {
+    "id_diputado": "959",
+    "nombre": "Monzón Escobedo Mercedes del Rosario",
+    "clave": "monzon-escobedo-mercedes-del-rosario",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Sacatepéquez",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/959"
+  },
+  {
+    "id_diputado": "909",
+    "nombre": "Godoy Palala Mirna Victoria",
+    "clave": "godoy-palala-mirna-victoria",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/909"
+  },
+  {
+    "id_diputado": "944",
+    "nombre": "De la Rosa Palacios Mynor Alfonso",
+    "clave": "de-la-rosa-palacios-mynor-alfonso",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/944"
+  },
+  {
+    "id_diputado": "890",
+    "nombre": "Rivera Salazar Mynor Francisco",
+    "clave": "rivera-salazar-mynor-francisco",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Chimaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/890"
+  },
+  {
+    "id_diputado": "933",
+    "nombre": "De León Torres Nadia Lorena",
+    "clave": "de-leon-torres-nadia-lorena",
+    "id_bloque": "35",
+    "bloque": "Partido Político Nosotros",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/933"
+  },
+  {
+    "id_diputado": "925",
+    "nombre": "Ramos y Ramos Nery Abilio",
+    "clave": "ramos-y-ramos-nery-abilio",
+    "id_bloque": "41",
+    "bloque": "Partido Azul",
+    "distrito": "Jutiapa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/925"
+  },
+  {
+    "id_diputado": "931",
+    "nombre": "Rodas Méndez Nery Mamfredo",
+    "clave": "rodas-mendez-nery-mamfredo",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/931"
+  },
+  {
+    "id_diputado": "845",
+    "nombre": "Mazariegos López Nery René",
+    "clave": "mazariegos-lopez-nery-rene",
+    "id_bloque": "9",
+    "bloque": "Partido Político Visión con Valores",
+    "distrito": "Quetzaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/845"
+  },
+  {
+    "id_diputado": "905",
+    "nombre": "Castañasa Mendizábal Obbed Ediberto",
+    "clave": "castanasa-mendizabal-obbed-ediberto",
+    "id_bloque": "9",
+    "bloque": "Partido Político Visión con Valores",
+    "distrito": "Escuintla",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/905"
+  },
+  {
+    "id_diputado": "977",
+    "nombre": "Villalta Pereira Olga Isabel",
+    "clave": "villalta-pereira-olga-isabel",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/977"
+  },
+  {
+    "id_diputado": "18",
+    "nombre": "Blanco Lapola Orlando Joaquín",
+    "clave": "blanco-lapola-orlando-joaquin",
+    "id_bloque": "46",
+    "bloque": "Voluntad, Oportunidad y Solidaridad",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/18"
+  },
+  {
+    "id_diputado": "41",
+    "nombre": "Corleto Rivera Oscar Rolando",
+    "clave": "corleto-rivera-oscar-rolando",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Alta Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/41"
+  },
+  {
+    "id_diputado": "874",
+    "nombre": "Rosales Polanco Oswaldo",
+    "clave": "rosales-polanco-oswaldo",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Suchitepéquez",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/874"
+  },
+  {
+    "id_diputado": "888",
+    "nombre": "Cifuentes Ovalle Pablo Leonel",
+    "clave": "cifuentes-ovalle-pablo-leonel",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Chimaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/888"
+  },
+  {
+    "id_diputado": "885",
+    "nombre": "Coc Figueroa Randy Araely",
+    "clave": "coc-figueroa-randy-araely",
+    "id_bloque": "29",
+    "bloque": "Victoria",
+    "distrito": "Alta Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/885"
+  },
+  {
+    "id_diputado": "894",
+    "nombre": "Barrera Robles Raúl Amilcar",
+    "clave": "barrera-robles-raul-amilcar",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/894"
+  },
+  {
+    "id_diputado": "875",
+    "nombre": "Solórzano Quevedo Raúl Antonio",
+    "clave": "solorzano-quevedo-raul-antonio",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Quiché",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/875"
+  },
+  {
+    "id_diputado": "889",
+    "nombre": "Cuá Tumín Raúl Arnulfo",
+    "clave": "cua-tumin-raul-arnulfo",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Chimaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/889"
+  },
+  {
+    "id_diputado": "964",
+    "nombre": "Martínez Alarcón Ricardo Leonel",
+    "clave": "martinez-alarcon-ricardo-leonel",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Santa Rosa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/964"
+  },
+  {
+    "id_diputado": "932",
+    "nombre": "Pellecer Rodriguez Rodrigo Antonio",
+    "clave": "pellecer-rodriguez-rodrigo-antonio",
+    "id_bloque": "40",
+    "bloque": "Comunidad Elefante",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/932"
+  },
+  {
+    "id_diputado": "902",
+    "nombre": "Guzmán Figueroa Rolando",
+    "clave": "guzman-figueroa-rolando",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Escuintla",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/902"
+  },
+  {
+    "id_diputado": "953",
+    "nombre": "Ovalle Barrios Rolando Miguel",
+    "clave": "ovalle-barrios-rolando-miguel",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Quetzaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/953"
+  },
+  {
+    "id_diputado": "831",
+    "nombre": "Castellanos Caal Román Wilfredo",
+    "clave": "castellanos-caal-roman-wilfredo",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/831"
+  },
+  {
+    "id_diputado": "946",
+    "nombre": "Portillo Cordón Ronald Yomelfy",
+    "clave": "portillo-cordon-ronald-yomelfy",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/946"
+  },
+  {
+    "id_diputado": "912",
+    "nombre": "Ochaeta Aguilar Ronalth Ivan",
+    "clave": "ochaeta-aguilar-ronalth-ivan",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/912"
+  },
+  {
+    "id_diputado": "117",
+    "nombre": "Pereira Delgado Rudy Berner",
+    "clave": "pereira-delgado-rudy-berner",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Alta Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/117"
+  },
+  {
+    "id_diputado": "829",
+    "nombre": "Velásquez Bámaca Sabino Sebastián",
+    "clave": "velasquez-bamaca-sabino-sebastian",
+    "id_bloque": "34",
+    "bloque": "Bienestar Nacional",
+    "distrito": "San Marcos",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/829"
+  },
+  {
+    "id_diputado": "834",
+    "nombre": "Pérez Alvarez Samuel Andrés",
+    "clave": "perez-alvarez-samuel-andres",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/834"
+  },
+  {
+    "id_diputado": "790",
+    "nombre": "Orellana Cruz Sandra Carolina",
+    "clave": "orellana-cruz-sandra-carolina",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Zacapa",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/790"
+  },
+  {
+    "id_diputado": "898",
+    "nombre": "Jovel Polanco Sandra Erica",
+    "clave": "jovel-polanco-sandra-erica",
+    "id_bloque": "28",
+    "bloque": "Valor",
+    "distrito": "Distrito Central",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/898"
+  },
+  {
+    "id_diputado": "886",
+    "nombre": "Milian Gomez Sandra Yanet",
+    "clave": "milian-gomez-sandra-yanet",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "Alta Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/886"
+  },
+  {
+    "id_diputado": "772",
+    "nombre": "Arana Roca Sergio David",
+    "clave": "arana-roca-sergio-david",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Escuintla",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/772"
+  },
+  {
+    "id_diputado": "941",
+    "nombre": "Enriquez Garzaro Sergio Guillermo",
+    "clave": "enriquez-garzaro-sergio-guillermo",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/941"
+  },
+  {
+    "id_diputado": "31",
+    "nombre": "Celis Navas Sergio Leonel",
+    "clave": "celis-navas-sergio-leonel",
+    "id_bloque": "45",
+    "bloque": "CABAL",
+    "distrito": "Sacatepéquez",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/31"
+  },
+  {
+    "id_diputado": "972",
+    "nombre": "Arévalo Avila Sherol Ivanisse",
+    "clave": "arevalo-avila-sherol-ivanisse",
+    "id_bloque": "28",
+    "bloque": "Valor",
+    "distrito": "Totonicapán",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/972"
+  },
+  {
+    "id_diputado": "785",
+    "nombre": "Rivera Zaldaña Shirley Joanna",
+    "clave": "rivera-zaldana-shirley-joanna",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Guatemala",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/785"
+  },
+  {
+    "id_diputado": "78",
+    "nombre": "Hernández Herrera Sofía Jeanetth",
+    "clave": "hernandez-herrera-sofia-jeanetth",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Huehuetenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/78"
+  },
+  {
+    "id_diputado": "861",
+    "nombre": "Gutierrez Raguay Sonia Marina",
+    "clave": "gutierrez-raguay-sonia-marina",
+    "id_bloque": "42",
+    "bloque": "Movimiento Político Winaq-Unidad Revolucionaria Nacional Guatemalteca",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/861"
+  },
+  {
+    "id_diputado": "126",
+    "nombre": "Ramirez Retana Thelma Elizabeth",
+    "clave": "ramirez-retana-thelma-elizabeth",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Izabal",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/126"
+  },
+  {
+    "id_diputado": "802",
+    "nombre": "Maldonado Alonzo Vasny Adiel",
+    "clave": "maldonado-alonzo-vasny-adiel",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Suchitepéquez",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/802"
+  },
+  {
+    "id_diputado": "947",
+    "nombre": "Valenzuela Argueta Victor Alfredo",
+    "clave": "valenzuela-argueta-victor-alfredo",
+    "id_bloque": "27",
+    "bloque": "Vamos por una Guatemala Diferente",
+    "distrito": "Lista Nacional",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/947"
+  },
+  {
+    "id_diputado": "883",
+    "nombre": "Cifuentes Delgado Victor Hugo",
+    "clave": "cifuentes-delgado-victor-hugo",
+    "id_bloque": "1",
+    "bloque": "Unidad Nacional de la Esperanza",
+    "distrito": "Alta Verapaz",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/883"
+  },
+  {
+    "id_diputado": "891",
+    "nombre": "Bonilla González Víctor Vicente",
+    "clave": "bonilla-gonzalez-victor-vicente",
+    "id_bloque": "9",
+    "bloque": "Partido Político Visión con Valores",
+    "distrito": "Chimaltenango",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/891"
+  },
+  {
+    "id_diputado": "122",
+    "nombre": "Preciado Navarijo Vivian Beatriz",
+    "clave": "preciado-navarijo-vivian-beatriz",
+    "id_bloque": "11",
+    "bloque": "Independiente",
+    "distrito": "San Marcos",
+    "perfil_url": "https://www.congreso.gob.gt/perfil_diputado/122"
+  }
+]

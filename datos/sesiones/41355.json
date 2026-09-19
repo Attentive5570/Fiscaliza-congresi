@@ -1,0 +1,304 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "27",
+  "fecha": "2026-04-28T12:56:59",
+  "evento_id": 41355,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41355",
+  "listado": {
+    "sesion": 27,
+    "fase": 1,
+    "fecha": "2026-04-28T12:56:59",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-04-28T14:54:55",
+        "votacion_id": 50832,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50832/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50832/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-04-28T14:56:47",
+        "votacion_id": 50833,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50833/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50833/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2026-04-28T14:59:08",
+        "votacion_id": 50830,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50830/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50830/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (APORTE ECONÓMICO)",
+        "numero_pregunta": 4,
+        "fecha": "2026-04-28T15:14:44",
+        "votacion_id": 50835,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50835/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50835/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6616",
+        "numero_pregunta": 5,
+        "fecha": "2026-04-28T15:23:05",
+        "votacion_id": 50837,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50837/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50837/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6616",
+        "numero_pregunta": 6,
+        "fecha": "2026-04-28T15:25:09",
+        "votacion_id": 50838,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50838/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50838/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INSERTO ENTRE EL ARTÍCULO 1 Y EL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6616",
+        "numero_pregunta": 7,
+        "fecha": "2026-04-28T15:38:37",
+        "votacion_id": 50839,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50839/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50839/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6616",
+        "numero_pregunta": 8,
+        "fecha": "2026-04-28T15:40:55",
+        "votacion_id": 50841,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50841/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50841/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6616",
+        "numero_pregunta": 9,
+        "fecha": "2026-04-28T15:42:13",
+        "votacion_id": 50842,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50842/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50842/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6616",
+        "numero_pregunta": 10,
+        "fecha": "2026-04-28T15:45:27",
+        "votacion_id": 50843,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50843/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50843/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6616",
+        "numero_pregunta": 11,
+        "fecha": "2026-04-28T15:50:31",
+        "votacion_id": 50844,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50844/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50844/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6705-6707",
+        "numero_pregunta": 12,
+        "fecha": "2026-04-28T16:27:43",
+        "votacion_id": 50845,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50845/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50845/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6705-6707",
+        "numero_pregunta": 13,
+        "fecha": "2026-04-28T16:30:59",
+        "votacion_id": 50846,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50846/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50846/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6705-6707",
+        "numero_pregunta": 14,
+        "fecha": "2026-04-28T16:33:24",
+        "votacion_id": 50847,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50847/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50847/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6705-6707",
+        "numero_pregunta": 15,
+        "fecha": "2026-04-28T16:36:24",
+        "votacion_id": 50849,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50849/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50849/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6705-6707",
+        "numero_pregunta": 16,
+        "fecha": "2026-04-28T16:37:53",
+        "votacion_id": 50850,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50850/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50850/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6705-6707",
+        "numero_pregunta": 17,
+        "fecha": "2026-04-28T16:40:45",
+        "votacion_id": 50851,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50851/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50851/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6705-6707",
+        "numero_pregunta": 18,
+        "fecha": "2026-04-28T16:45:20",
+        "votacion_id": 50852,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50852/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50852/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6705-6707",
+        "numero_pregunta": 19,
+        "fecha": "2026-04-28T16:48:57",
+        "votacion_id": 50853,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50853/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50853/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6705-6707",
+        "numero_pregunta": 20,
+        "fecha": "2026-04-28T16:57:07",
+        "votacion_id": 50854,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50854/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50854/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA Y RETIRAR LA INICIATIVA 6449",
+        "numero_pregunta": 21,
+        "fecha": "2026-04-28T17:13:40",
+        "votacion_id": 50834,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50834/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50834/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6418",
+        "numero_pregunta": 22,
+        "fecha": "2026-04-28T17:15:30",
+        "votacion_id": 50867,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50867/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50867/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6418",
+        "numero_pregunta": 23,
+        "fecha": "2026-04-28T17:17:11",
+        "votacion_id": 50868,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50868/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50868/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6418",
+        "numero_pregunta": 24,
+        "fecha": "2026-04-28T17:18:51",
+        "votacion_id": 50869,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50869/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50869/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6418",
+        "numero_pregunta": 25,
+        "fecha": "2026-04-28T17:20:15",
+        "votacion_id": 50870,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50870/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50870/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6418",
+        "numero_pregunta": 26,
+        "fecha": "2026-04-28T17:21:50",
+        "votacion_id": 50871,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50871/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50871/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6418",
+        "numero_pregunta": 27,
+        "fecha": "2026-04-28T17:23:32",
+        "votacion_id": 50872,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50872/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50872/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6418",
+        "numero_pregunta": 28,
+        "fecha": "2026-04-28T17:24:49",
+        "votacion_id": 50873,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50873/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50873/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL AL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6418",
+        "numero_pregunta": 29,
+        "fecha": "2026-04-28T17:27:40",
+        "votacion_id": 50875,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50875/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50875/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6418",
+        "numero_pregunta": 30,
+        "fecha": "2026-04-28T17:28:50",
+        "votacion_id": 50876,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50876/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50876/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6418",
+        "numero_pregunta": 31,
+        "fecha": "2026-04-28T17:33:05",
+        "votacion_id": 50877,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50877/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50877/41355"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (6709)",
+        "numero_pregunta": 32,
+        "fecha": "2026-04-28T17:46:48",
+        "votacion_id": 50855,
+        "evento_id": 41355,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50855/41355",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50855/41355"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-19T23:46:47+00:00"
+}

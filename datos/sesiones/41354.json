@@ -1,0 +1,34 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "26",
+  "fecha": "2026-04-23T08:55:48",
+  "evento_id": 41354,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41354",
+  "listado": {
+    "sesion": 26,
+    "fase": 1,
+    "fecha": "2026-04-23T08:55:48",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-04-23T10:10:45",
+        "votacion_id": 50826,
+        "evento_id": 41354,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50826/41354",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50826/41354"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2026-04-23T10:12:22",
+        "votacion_id": 50827,
+        "evento_id": 41354,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50827/41354",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50827/41354"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-19T23:46:59+00:00"
+}

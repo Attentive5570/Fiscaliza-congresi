@@ -1,0 +1,115 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "42",
+  "fecha": "2026-09-08T12:59:43",
+  "evento_id": 41385,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41385",
+  "listado": {
+    "sesion": 42,
+    "fase": 1,
+    "fecha": "2026-09-08T12:59:43",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-09-08T15:14:24",
+        "votacion_id": 51360,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51360/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51360/41385"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-09-08T15:16:52",
+        "votacion_id": 51361,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51361/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51361/41385"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2026-09-08T15:22:18",
+        "votacion_id": 51332,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51332/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51332/41385"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (URGENCIA NACIONAL 6844)",
+        "numero_pregunta": 4,
+        "fecha": "2026-09-08T19:41:09",
+        "votacion_id": 51364,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51364/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51364/41385"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6844",
+        "numero_pregunta": 5,
+        "fecha": "2026-09-08T19:43:27",
+        "votacion_id": 51365,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51365/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51365/41385"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6844",
+        "numero_pregunta": 6,
+        "fecha": "2026-09-08T20:07:09",
+        "votacion_id": 51371,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51371/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51371/41385"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6844",
+        "numero_pregunta": 7,
+        "fecha": "2026-09-08T20:08:37",
+        "votacion_id": 51372,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51372/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51372/41385"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONSTA DE LOS ARTÍCULOS 1 AL 12 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6844",
+        "numero_pregunta": 8,
+        "fecha": "2026-09-08T20:10:08",
+        "votacion_id": 51373,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51373/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51373/41385"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II QUE CONSTA DE LOS ARTÍCULOS 13 Y 14 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6844",
+        "numero_pregunta": 9,
+        "fecha": "2026-09-08T20:12:26",
+        "votacion_id": 51367,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51367/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51367/41385"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6844",
+        "numero_pregunta": 10,
+        "fecha": "2026-09-08T20:16:13",
+        "votacion_id": 51368,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51368/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51368/41385"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6844",
+        "numero_pregunta": 11,
+        "fecha": "2026-09-08T20:36:51",
+        "votacion_id": 51369,
+        "evento_id": 41385,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51369/41385",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51369/41385"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-19T23:30:59+00:00"
+}

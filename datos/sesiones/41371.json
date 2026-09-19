@@ -1,0 +1,448 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "33",
+  "fecha": "2026-08-04T12:53:37",
+  "evento_id": 41371,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41371",
+  "listado": {
+    "sesion": 33,
+    "fase": 1,
+    "fecha": "2026-08-04T12:53:37",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE MOTTA)",
+        "numero_pregunta": 1,
+        "fecha": "2026-08-04T14:48:27",
+        "votacion_id": 51086,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51086/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51086/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-08-04T14:49:58",
+        "votacion_id": 51073,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51073/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51073/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2026-08-04T14:51:56",
+        "votacion_id": 51075,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51075/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51075/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE ILLESCAS)",
+        "numero_pregunta": 4,
+        "fecha": "2026-08-04T16:14:25",
+        "votacion_id": 51087,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51087/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51087/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE ESTRADA)",
+        "numero_pregunta": 5,
+        "fecha": "2026-08-04T16:27:53",
+        "votacion_id": 51088,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51088/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51088/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 6,
+        "fecha": "2026-08-04T18:58:04",
+        "votacion_id": 51089,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51089/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51089/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 7,
+        "fecha": "2026-08-04T18:59:30",
+        "votacion_id": 51090,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51090/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51090/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 8,
+        "fecha": "2026-08-04T19:01:10",
+        "votacion_id": 51132,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51132/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51132/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 9,
+        "fecha": "2026-08-04T19:02:48",
+        "votacion_id": 51091,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51091/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51091/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 17 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 10,
+        "fecha": "2026-08-04T19:04:05",
+        "votacion_id": 51092,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51092/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51092/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 19 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 11,
+        "fecha": "2026-08-04T19:05:29",
+        "votacion_id": 51093,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51093/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51093/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 39 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 12,
+        "fecha": "2026-08-04T19:06:52",
+        "votacion_id": 51094,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51094/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51094/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 40 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 13,
+        "fecha": "2026-08-04T19:08:15",
+        "votacion_id": 51095,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51095/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51095/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 42 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 14,
+        "fecha": "2026-08-04T19:09:40",
+        "votacion_id": 51096,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51096/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51096/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 44 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 15,
+        "fecha": "2026-08-04T19:10:51",
+        "votacion_id": 51097,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51097/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51097/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 45 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 16,
+        "fecha": "2026-08-04T19:12:11",
+        "votacion_id": 51098,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51098/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51098/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 46 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 17,
+        "fecha": "2026-08-04T19:13:35",
+        "votacion_id": 51099,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51099/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51099/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 47 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 18,
+        "fecha": "2026-08-04T19:15:03",
+        "votacion_id": 51100,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51100/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51100/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 48 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 19,
+        "fecha": "2026-08-04T19:16:17",
+        "votacion_id": 51101,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51101/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51101/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 50 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 20,
+        "fecha": "2026-08-04T19:17:34",
+        "votacion_id": 51102,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51102/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51102/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 53 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 21,
+        "fecha": "2026-08-04T19:19:02",
+        "votacion_id": 51103,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51103/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51103/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONSTA DE LOS CAPÍTULOS I AL VI Y LOS ARTÍCULOS DEL 1 AL 57 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 22,
+        "fecha": "2026-08-04T19:20:35",
+        "votacion_id": 51104,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51104/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51104/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 64 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 23,
+        "fecha": "2026-08-04T21:38:51",
+        "votacion_id": 51106,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51106/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51106/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 70 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 24,
+        "fecha": "2026-08-04T21:40:27",
+        "votacion_id": 51107,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51107/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51107/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 86 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 25,
+        "fecha": "2026-08-04T21:41:53",
+        "votacion_id": 51108,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51108/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51108/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 94 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 26,
+        "fecha": "2026-08-04T21:43:14",
+        "votacion_id": 51109,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51109/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51109/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 97 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 27,
+        "fecha": "2026-08-04T21:44:37",
+        "votacion_id": 51110,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51110/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51110/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONSTA DE LOS CAPÍTULOS I AL VII Y LOS ARTÍCULOS DEL 58 AL 112 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 28,
+        "fecha": "2026-08-04T21:46:07",
+        "votacion_id": 51112,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51112/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51112/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONSTA DE LOS CAPÍTULOS I AL III Y LOS ARTÍCULOS DEL 113 AL 121 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 29,
+        "fecha": "2026-08-04T22:03:23",
+        "votacion_id": 51079,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51079/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51079/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 123 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 30,
+        "fecha": "2026-08-04T22:41:36",
+        "votacion_id": 51114,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51114/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51114/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 124 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 31,
+        "fecha": "2026-08-04T22:42:55",
+        "votacion_id": 51115,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51115/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51115/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 125 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 32,
+        "fecha": "2026-08-04T22:44:24",
+        "votacion_id": 51116,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51116/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51116/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 127 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 33,
+        "fecha": "2026-08-04T22:45:42",
+        "votacion_id": 51117,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51117/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51117/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 128 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 34,
+        "fecha": "2026-08-04T22:46:56",
+        "votacion_id": 51118,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51118/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51118/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 129 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 35,
+        "fecha": "2026-08-04T22:48:07",
+        "votacion_id": 51119,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51119/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51119/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 130 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 36,
+        "fecha": "2026-08-04T22:49:28",
+        "votacion_id": 51120,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51120/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51120/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 130 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 37,
+        "fecha": "2026-08-04T22:50:39",
+        "votacion_id": 51121,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51121/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51121/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 130 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 38,
+        "fecha": "2026-08-04T22:51:52",
+        "votacion_id": 51122,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51122/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51122/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 140 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 39,
+        "fecha": "2026-08-04T22:53:13",
+        "votacion_id": 51123,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51123/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51123/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO IV QUE CONSTA DE LOS CAPÍTULOS I Y II Y LOS ARTÍCULOS DEL 122 AL 142 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 40,
+        "fecha": "2026-08-04T22:54:50",
+        "votacion_id": 51124,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51124/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51124/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 145 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 41,
+        "fecha": "2026-08-04T23:18:39",
+        "votacion_id": 51126,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51126/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51126/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 150 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 42,
+        "fecha": "2026-08-04T23:20:25",
+        "votacion_id": 51127,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51127/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51127/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 154 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 43,
+        "fecha": "2026-08-04T23:21:56",
+        "votacion_id": 51128,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51128/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51128/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL AL ARTÍCULO 155 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 44,
+        "fecha": "2026-08-04T23:23:15",
+        "votacion_id": 51129,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51129/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51129/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 157 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 45,
+        "fecha": "2026-08-04T23:24:28",
+        "votacion_id": 51130,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51130/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51130/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO V QUE CONSTA DE LOS ARTÍCULOS DEL 143 AL 163 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 46,
+        "fecha": "2026-08-04T23:26:00",
+        "votacion_id": 51131,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51131/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51131/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 47,
+        "fecha": "2026-08-04T23:29:43",
+        "votacion_id": 51082,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51082/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51082/41371"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 48,
+        "fecha": "2026-08-05T02:40:01",
+        "votacion_id": 51083,
+        "evento_id": 41371,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51083/41371",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51083/41371"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-19T23:37:01+00:00"
+}

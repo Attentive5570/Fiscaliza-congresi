@@ -1,0 +1,61 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "40",
+  "fecha": "2026-09-01T12:44:47",
+  "evento_id": 41383,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41383",
+  "listado": {
+    "sesion": 40,
+    "fase": 1,
+    "fecha": "2026-09-01T12:44:47",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-09-01T14:46:07",
+        "votacion_id": 51274,
+        "evento_id": 41383,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51274/41383",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51274/41383"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-09-01T14:49:27",
+        "votacion_id": 51275,
+        "evento_id": 41383,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51275/41383",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51275/41383"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2026-09-01T14:51:36",
+        "votacion_id": 51272,
+        "evento_id": 41383,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51272/41383",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51272/41383"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 4,
+        "fecha": "2026-09-01T17:05:07",
+        "votacion_id": 51317,
+        "evento_id": 41383,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51317/41383",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51317/41383"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (PROYECTO DE PUNTO RESOLUTIVO REPRESENTANTE MORATAYA)",
+        "numero_pregunta": 5,
+        "fecha": "2026-09-01T17:08:09",
+        "votacion_id": 51318,
+        "evento_id": 41383,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51318/41383",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51318/41383"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-19T23:31:37+00:00"
+}

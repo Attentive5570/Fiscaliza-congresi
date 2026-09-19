@@ -1,0 +1,358 @@
+{
+  "tipo": "Extraordinaria",
+  "numero": "1",
+  "fecha": "2026-06-02T01:40:22",
+  "evento_id": 41365,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41365",
+  "listado": {
+    "sesion": 1,
+    "fase": 1,
+    "fecha": "2026-06-02T01:40:22",
+    "tipo": "Extraordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE JAIRO FLORES)",
+        "numero_pregunta": 1,
+        "fecha": "2026-06-02T15:18:35",
+        "votacion_id": 50976,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50976/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50976/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-06-02T15:20:36",
+        "votacion_id": 50972,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50972/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50972/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE CONVOCA A INTEGRAR LA COMISIÓN DE POSTULACIÓN (CONTRALORÍA GENERAL DE CUENTAS)",
+        "numero_pregunta": 3,
+        "fecha": "2026-06-02T15:33:03",
+        "votacion_id": 50974,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50974/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50974/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 4,
+        "fecha": "2026-06-02T15:53:01",
+        "votacion_id": 50944,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50944/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50944/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONTIENE LOS ARTÍCULOS 1 Y 2 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 5,
+        "fecha": "2026-06-02T15:54:44",
+        "votacion_id": 50945,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50945/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50945/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 6,
+        "fecha": "2026-06-02T16:51:48",
+        "votacion_id": 50947,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50947/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50947/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 7,
+        "fecha": "2026-06-02T16:53:12",
+        "votacion_id": 50948,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50948/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50948/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 25 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 8,
+        "fecha": "2026-06-02T16:54:48",
+        "votacion_id": 50949,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50949/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50949/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 34 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 9,
+        "fecha": "2026-06-02T16:56:13",
+        "votacion_id": 50950,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50950/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50950/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 42 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 10,
+        "fecha": "2026-06-02T16:57:33",
+        "votacion_id": 50951,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50951/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50951/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONSTA DE LOS CAPÍTULOS I AL IX Y LOS ARTÍCULOS DEL 3 AL 44 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 11,
+        "fecha": "2026-06-02T16:59:09",
+        "votacion_id": 50952,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50952/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50952/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 52 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 12,
+        "fecha": "2026-06-02T17:30:58",
+        "votacion_id": 50954,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50954/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50954/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONSTA DE LOS CAPÍTULOS I AL IV Y LOS ARTÍCULOS DEL 45 AL 72 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 13,
+        "fecha": "2026-06-02T17:32:35",
+        "votacion_id": 50955,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50955/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50955/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 75 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 14,
+        "fecha": "2026-06-02T18:02:56",
+        "votacion_id": 50957,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50957/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50957/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 83 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 15,
+        "fecha": "2026-06-02T18:04:35",
+        "votacion_id": 50958,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50958/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50958/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 89 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 16,
+        "fecha": "2026-06-02T18:06:00",
+        "votacion_id": 50959,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50959/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50959/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO IV QUE CONSTA DE LOS CAPÍTULOS I AL IX Y LOS ARTÍCULOS DEL 73 AL 103 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 17,
+        "fecha": "2026-06-02T18:08:33",
+        "votacion_id": 50960,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50960/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50960/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 104 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 18,
+        "fecha": "2026-06-02T18:24:06",
+        "votacion_id": 50962,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50962/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50962/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 111 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 19,
+        "fecha": "2026-06-02T18:25:50",
+        "votacion_id": 50963,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50963/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50963/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO V QUE CONSTA DE LOS CAPÍTULOS I AL V Y LOS ARTÍCULOS DEL 104 AL 115 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 20,
+        "fecha": "2026-06-02T18:27:51",
+        "votacion_id": 50964,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50964/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50964/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 122 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 21,
+        "fecha": "2026-06-02T18:40:05",
+        "votacion_id": 50966,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50966/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50966/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 122 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 22,
+        "fecha": "2026-06-02T18:41:44",
+        "votacion_id": 50967,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50967/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50967/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 126 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 23,
+        "fecha": "2026-06-02T18:43:37",
+        "votacion_id": 50968,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50968/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50968/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO VI QUE CONSTA DE LOS CAPÍTULOS I Y II Y LOS ARTÍCULOS DEL 116 AL 126 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 24,
+        "fecha": "2026-06-02T18:45:53",
+        "votacion_id": 50969,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50969/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50969/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 25,
+        "fecha": "2026-06-02T18:49:52",
+        "votacion_id": 50970,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50970/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50970/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 26,
+        "fecha": "2026-06-02T20:46:21",
+        "votacion_id": 50971,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50971/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50971/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (6773)",
+        "numero_pregunta": 27,
+        "fecha": "2026-06-02T21:15:15",
+        "votacion_id": 50992,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50992/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50992/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (DISPENSA DE DICTAMEN Y URGENCIA NACIONAL 6773)",
+        "numero_pregunta": 28,
+        "fecha": "2026-06-02T21:17:24",
+        "votacion_id": 50977,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50977/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50977/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6773",
+        "numero_pregunta": 29,
+        "fecha": "2026-06-02T21:19:35",
+        "votacion_id": 50978,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50978/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50978/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6773",
+        "numero_pregunta": 30,
+        "fecha": "2026-06-02T21:26:02",
+        "votacion_id": 50980,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50980/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50980/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6773",
+        "numero_pregunta": 31,
+        "fecha": "2026-06-02T21:27:32",
+        "votacion_id": 50981,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50981/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50981/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6773",
+        "numero_pregunta": 32,
+        "fecha": "2026-06-02T21:31:13",
+        "votacion_id": 50983,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50983/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50983/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6773",
+        "numero_pregunta": 33,
+        "fecha": "2026-06-02T21:33:45",
+        "votacion_id": 50984,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50984/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50984/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6773",
+        "numero_pregunta": 34,
+        "fecha": "2026-06-02T21:39:55",
+        "votacion_id": 50990,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50990/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50990/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6773",
+        "numero_pregunta": 35,
+        "fecha": "2026-06-02T21:42:44",
+        "votacion_id": 50986,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50986/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50986/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6773",
+        "numero_pregunta": 36,
+        "fecha": "2026-06-02T21:44:14",
+        "votacion_id": 50987,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50987/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50987/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6773",
+        "numero_pregunta": 37,
+        "fecha": "2026-06-02T21:47:48",
+        "votacion_id": 50988,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50988/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50988/41365"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6773",
+        "numero_pregunta": 38,
+        "fecha": "2026-06-02T21:56:30",
+        "votacion_id": 50989,
+        "evento_id": 41365,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50989/41365",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50989/41365"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-19T23:43:04+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "31",
+  "fecha": "2026-05-12T12:56:36",
+  "evento_id": 41361,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41361",
+  "listado": {
+    "sesion": 31,
+    "fase": 1,
+    "fecha": "2026-05-12T12:56:36",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-05-12T15:23:24",
+        "votacion_id": 50929,
+        "evento_id": 41361,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50929/41361",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50929/41361"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2026-05-12T15:24:59",
+        "votacion_id": 50931,
+        "evento_id": 41361,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50931/41361",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50931/41361"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (REMITIR A LA CORTE DE CONSTITUCIONALIDAD EL VETO PRESIDENCIAL)",
+        "numero_pregunta": 3,
+        "fecha": "2026-05-12T16:23:39",
+        "votacion_id": 50936,
+        "evento_id": 41361,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50936/41361",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50936/41361"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-19T23:43:37+00:00"
+}

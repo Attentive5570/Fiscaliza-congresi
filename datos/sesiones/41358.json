@@ -1,0 +1,52 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "29",
+  "fecha": "2026-05-05T02:39:14",
+  "evento_id": 41358,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41358",
+  "listado": {
+    "sesion": 29,
+    "fase": 1,
+    "fecha": "2026-05-05T02:39:14",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-05-05T14:51:45",
+        "votacion_id": 50884,
+        "evento_id": 41358,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50884/41358",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50884/41358"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 2,
+        "fecha": "2026-05-05T14:52:53",
+        "votacion_id": 50881,
+        "evento_id": 41358,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50881/41358",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50881/41358"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2026-05-05T14:58:24",
+        "votacion_id": 50883,
+        "evento_id": 41358,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50883/41358",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50883/41358"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 4,
+        "fecha": "2026-05-05T17:23:21",
+        "votacion_id": 50916,
+        "evento_id": 41358,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50916/41358",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50916/41358"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-19T23:44:10+00:00"
+}

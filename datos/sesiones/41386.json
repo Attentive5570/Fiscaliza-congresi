@@ -1,0 +1,15 @@
+{
+  "tipo": "Solemne",
+  "numero": "5",
+  "fecha": "2026-09-10T08:13:28",
+  "evento_id": 41386,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41386",
+  "listado": {
+    "sesion": 5,
+    "fase": 1,
+    "fecha": "2026-09-10T08:13:28",
+    "tipo": "Solemne",
+    "votaciones": []
+  },
+  "recolectado_en": "2026-09-19T23:30:00+00:00"
+}

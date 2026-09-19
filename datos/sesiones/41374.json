@@ -1,0 +1,43 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "35",
+  "fecha": "2026-08-13T08:55:34",
+  "evento_id": 41374,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41374",
+  "listado": {
+    "sesion": 35,
+    "fase": 1,
+    "fecha": "2026-08-13T08:55:34",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-08-13T10:20:16",
+        "votacion_id": 51141,
+        "evento_id": 41374,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51141/41374",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51141/41374"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-08-13T10:21:41",
+        "votacion_id": 51142,
+        "evento_id": 41374,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51142/41374",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51142/41374"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2026-08-13T10:23:24",
+        "votacion_id": 51140,
+        "evento_id": 41374,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51140/41374",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51140/41374"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-19T23:33:21+00:00"
+}
