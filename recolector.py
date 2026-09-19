@@ -34,6 +34,7 @@ import re
 import sys
 import time
 import unicodedata
+import urllib.error
 import urllib.request
 import urllib.robotparser
 from datetime import datetime, timezone
@@ -41,7 +42,10 @@ from urllib.parse import urlparse
 
 from bs4 import BeautifulSoup
 
-USER_AGENT = "FiscalizaCongresoBot/0.1 (proyecto ciudadano; contacto: Attentive5570@proton.me)"
+# Formato habitual de los bots honestos (como Googlebot): dice quién es y cómo contactarlo.
+# El sitio del Congreso rechaza clientes sin identificar (curl/Python por defecto), pero acepta este.
+USER_AGENT = "Mozilla/5.0 (compatible; FiscalizaCongresoBot/0.1; proyecto ciudadano; contacto: Attentive5570@proton.me)"
+ROBOT_NAME = "FiscalizaCongresoBot"
 ESPERA_SEGUNDOS = 3
 
 # id de cada tabla en la página  ->  categoría normalizada
@@ -203,15 +207,30 @@ def parsear_listado(html: str) -> dict:
 _ROBOTS = {}
 
 
+def _robots(base: str):
+    """Lee robots.txt CON nuestro identificador (el lector estándar de Python usa uno genérico y el sitio lo corta)."""
+    if base not in _ROBOTS:
+        rp = urllib.robotparser.RobotFileParser()
+        req = urllib.request.Request(base + "/robots.txt", headers={"User-Agent": USER_AGENT})
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                rp.parse(r.read().decode("utf-8", errors="replace").splitlines())
+        except urllib.error.HTTPError as e:
+            if e.code in (401, 403):
+                rp.disallow_all = True
+            elif 400 <= e.code < 500:
+                rp.allow_all = True
+            else:
+                raise
+        rp.modified()  # marca el archivo como leído; sin esto can_fetch() siempre dice que no
+        _ROBOTS[base] = rp
+    return _ROBOTS[base]
+
+
 def descargar(url: str) -> str:
     partes = urlparse(url)
     base = f"{partes.scheme}://{partes.netloc}"
-    if base not in _ROBOTS:
-        rp = urllib.robotparser.RobotFileParser()
-        rp.set_url(base + "/robots.txt")
-        rp.read()
-        _ROBOTS[base] = rp
-    if not _ROBOTS[base].can_fetch(USER_AGENT, url):
+    if not _robots(base).can_fetch(ROBOT_NAME, url):
         raise PermissionError(f"robots.txt no permite pedir: {url}")
     time.sleep(ESPERA_SEGUNDOS)
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -290,12 +309,7 @@ def post_json(url: str, payload=None):
     """POST con cuerpo JSON, como lo hace la propia página del Congreso para cargar sus tablas."""
     partes = urlparse(url)
     base = f"{partes.scheme}://{partes.netloc}"
-    if base not in _ROBOTS:
-        rp = urllib.robotparser.RobotFileParser()
-        rp.set_url(base + "/robots.txt")
-        rp.read()
-        _ROBOTS[base] = rp
-    if not _ROBOTS[base].can_fetch(USER_AGENT, url):
+    if not _robots(base).can_fetch(ROBOT_NAME, url):
         raise PermissionError(f"robots.txt no permite pedir: {url}")
     time.sleep(ESPERA_SEGUNDOS)
     cuerpo = json.dumps(payload).encode() if payload is not None else b""
