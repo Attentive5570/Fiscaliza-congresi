@@ -1,0 +1,23 @@
+name: Diagnostico
+on: workflow_dispatch
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pruebas de conexion
+        run: |
+          UA="FiscalizaCongresoBot/0.1 (proyecto ciudadano; contacto: Attentive5570@proton.me)"
+          UA2="Mozilla/5.0 (compatible; FiscalizaCongresoBot/0.1; contacto: Attentive5570@proton.me)"
+          U=https://www.congreso.gob.gt
+          echo "IP de salida:"; curl -s -m 10 https://api.ipify.org; echo
+          echo "--- 1) curl normal"
+          curl -sS -m 20 -o /dev/null -w "codigo %{http_code} en %{time_total}s\n" $U/robots.txt || true
+          echo "--- 2) con nuestro nombre"
+          curl -sS -m 20 -A "$UA" -o /dev/null -w "codigo %{http_code} en %{time_total}s\n" $U/robots.txt || true
+          echo "--- 3) con nombre tipo Mozilla compatible"
+          curl -sS -m 20 -A "$UA2" -o /dev/null -w "codigo %{http_code} en %{time_total}s\n" $U/robots.txt || true
+          echo "--- 4) pagina de votaciones"
+          curl -sS -m 20 -A "$UA2" -o /dev/null -w "codigo %{http_code} en %{time_total}s\n" $U/seccion_informacion_legislativa/votaciones_pleno || true
+          echo "--- 5) lista de diputados (POST)"
+          curl -sS -m 20 -A "$UA2" -X POST -H "Content-Type: application/json" -o /tmp/d.json -w "codigo %{http_code} en %{time_total}s, %{size_download} bytes\n" $U/ctrl_diputados_por_distrito/get_distritos_default || true
+          head -c 300 /tmp/d.json
