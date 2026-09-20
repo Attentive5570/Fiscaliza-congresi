@@ -399,6 +399,17 @@ def titulo_corto(texto_oficial: str) -> str:
     return t[:1].upper() + t[1:] if t else texto_oficial
 
 
+def dividir_titulo(texto_oficial: str):
+    """Separa el texto oficial en (título, descripción). El Congreso escribe primero el nombre de la
+    iniciativa y, después de un punto, detalla qué artículos reforma o adiciona.
+    'Reformas a la Ley X. Adiciona el art. 3bis. Tasas al valor.' -> ('Reformas a la Ley X', 'Adiciona el art. 3bis. Tasas al valor')"""
+    t = titulo_corto(texto_oficial)
+    m = re.search(r"\.\s+(?=[A-ZÁÉÍÓÚÑ])", t)
+    if not m or m.start() < 25:      # sin punto útil, o un corte demasiado temprano (abreviatura): no dividir
+        return t, ""
+    return t[:m.start()].strip(), t[m.end():].strip()
+
+
 def parsear_detalle_iniciativa(html: str) -> dict:
     """Ficha de una iniciativa: número, texto oficial, institución, diputados ponentes, fecha y pasos de avance."""
     sopa = BeautifulSoup(html, "html.parser")
@@ -596,7 +607,8 @@ def consolidar(carpeta: str):
             if not base and not det and n not in manual:
                 continue
             texto = det.get("texto_oficial") or (base or {}).get("texto_oficial") or ""
-            ficha = {"titulo": titulo_corto(texto) if texto else "", "texto_oficial": texto,
+            titulo, descripcion = dividir_titulo(texto) if texto else ("", "")
+            ficha = {"titulo": titulo, "descripcion": descripcion, "texto_oficial": texto,
                      "fecha_pleno": det.get("fecha_pleno") or (base or {}).get("fecha_pleno"),
                      "url": (base or {}).get("detalle_url"), "pdf": (base or {}).get("pdf_url"),
                      "institucion": det.get("institucion"), "pasos": det.get("pasos", []),

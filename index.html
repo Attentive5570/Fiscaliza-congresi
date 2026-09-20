@@ -55,6 +55,7 @@ button.chip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink
 .bar{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--soft)}
 .bar span{display:block;height:100%}
 .inicard p{margin:6px 0}
+.inicard summary{cursor:pointer;font-size:.9rem}
 .note hr{border:0;border-top:1px solid var(--line);margin:12px 0}
 .ini{font-size:.9rem;color:var(--muted);margin:0 0 6px}
 .etapa{font-size:.9rem;color:var(--muted);margin:-2px 0 4px}
@@ -126,7 +127,8 @@ async function pedir(ruta) {
 /* ---------- estado ---------- */
 let IDX = null, INI = {}; const DIP = {}, VOT = {};
 const tituloIni = n => (INI[n] && INI[n].titulo) ? INI[n].titulo : '';
-const textoIni = n => (INI[n] && (INI[n].descripcion || INI[n].texto_oficial)) || '';
+const textoIni = n => INI[n] ? ((INI[n].texto_oficial || '') + ' ' + (INI[n].descripcion || '')) : '';
+const breveIni = n => (INI[n] && INI[n].descripcion) || '';
 /* Línea breve para la lista: cuándo la conoció el Pleno y cuántos diputados la presentaron. */
 const descIni = n => { const i = INI[n]; if (!i) return ''; const p = [];
   if (i.fecha_pleno) p.push('Conoció el Pleno el ' + fecha(i.fecha_pleno));
@@ -140,7 +142,8 @@ function fichaIni(n) {
   const pon = (i.ponentes || []).map(x => x.clave && DIP[x.clave] ? `<a class="chip" href="#/diputado/${esc(x.clave)}">${esc(DIP[x.clave].nombre)}</a>` : `<span class="chip">${esc(x.nombre)}</span>`).join('');
   const pasos = (i.pasos || []).map(x => esc(x.paso) + ' (' + esc(fmtIso(x.fecha)) + ')').join(' → ');
   return `<div class="inicard"><b>Iniciativa ${esc(n)}</b>${i.titulo ? ': ' + esc(i.titulo) : ' <span class="muted">(título aún no registrado)</span>'}
-    ${i.texto_oficial ? '<p class="muted">Texto oficial: ' + esc(i.texto_oficial) + '</p>' : ''}
+    ${i.descripcion ? '<p>' + esc(i.descripcion) + '</p>' : ''}
+    ${i.texto_oficial ? '<details><summary class="muted">Texto oficial completo</summary><p class="muted">' + esc(i.texto_oficial) + '</p></details>' : ''}
     ${i.fecha_pleno ? '<p><b>Conoció el Pleno:</b> ' + fecha(i.fecha_pleno) + '</p>' : ''}
     ${pon ? '<p><b>Presentada por:</b></p><div class="chips">' + pon + '</div>' : ''}
     ${pasos ? '<p><b>Avance:</b> ' + pasos + '</p>' : ''}
@@ -151,9 +154,9 @@ const recorte = (t, n) => t.length > n ? t.slice(0, n).replace(/\s+\S*$/, '') + 
 const etapa = p => { const m = String(p).match(/^(.*?)\s+(?:DEL|AL|EN EL)\s+PROYECTO\b/i); return bonito(m ? m[1] : p); };
 /* Encabezado de una votación: si trata una iniciativa, se muestra ella (y su título si se conoce) y aparte la etapa que se votó. */
 function encabezado(v) {
-  if (!v.iniciativas.length) return {titulo: bonito(v.pregunta), etapa: '', desc: ''};
+  if (!v.iniciativas.length) return {titulo: bonito(v.pregunta), etapa: '', breve: '', desc: ''};
   return {titulo: v.iniciativas.map(n => 'Iniciativa ' + n + (tituloIni(n) ? ': ' + tituloIni(n) : '')).join(' | '),
-          etapa: etapa(v.pregunta), desc: v.iniciativas.map(descIni).filter(Boolean).join(' ')};
+          etapa: etapa(v.pregunta), breve: v.iniciativas.map(breveIni).filter(Boolean).join(' '), desc: v.iniciativas.map(descIni).filter(Boolean).join(' ')};
 }
 const st = {clase:'debate_final', q:'', n:30, dq:'', dbloque:'', fclase:'debate_final', hl:null, sel:null, nq:'', ndip:''};
 
@@ -190,9 +193,10 @@ function listaVotaciones() {
   if (!L.length) return '<p class="muted">No hay votaciones con esos filtros.</p>';
   const items = L.slice(0, st.n).map(v => { const h = encabezado(v); return `<a class="vitem" href="#/votacion/${esc(v.id)}">
       <div class="vmeta"><span>${fecha(v.fecha)}</span><span>Sesión ${esc(v.sesion)}</span></div>
-      <div class="vtitle">${esc(h.titulo)}</div>
+      <div class="vtitle">${esc(recorte(h.titulo, 190))}</div>
       ${h.etapa ? '<div class="etapa">Se votó: ' + esc(h.etapa) + '</div>' : ''}
-      ${h.desc ? '<div class="ini">' + esc(recorte(h.desc, 170)) + '</div>' : ''}
+      ${h.breve ? '<div class="ini">' + esc(recorte(h.breve, 160)) + '</div>' : ''}
+      ${h.desc ? '<div class="ini">' + esc(h.desc) + '</div>' : ''}
       <div class="bar" aria-hidden="true">${barra(v.conteo)}</div>
       <div class="vnums">${v.conteo.F} a favor, ${v.conteo.C} en contra, ${v.conteo.X} ausentes, ${v.conteo.L} con licencia</div></a>`; }).join('');
   const mas = L.length > st.n ? `<p><button class="btn" data-act="mas">Ver más (${L.length - st.n} restantes)</button></p>` : '';
