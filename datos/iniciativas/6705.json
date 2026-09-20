@@ -1,0 +1,85 @@
+{
+  "numero": "6705",
+  "texto_oficial": "Iniciativa que dispone aprobar reforma a la Ley de Actualización Tributaria, Decreto Número 10-2012 del Congreso de la República. Reforma la literal a) del art. 72.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Edin Alexander De Jesús Mejía",
+    "Obbed Ediberto Castañasa Mendizábal",
+    "Gerson Geovanny Barragán Morales",
+    "Jeovanni Omar Dominguez Orozco",
+    "Víctor Vicente Bonilla González",
+    "Rudy Berner Pereira Delgado",
+    "Joél Rubén Martínez Herrera",
+    "Christian Joél Martínez Juárez"
+  ],
+  "fecha_pleno": "2026-01-27",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-01-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-02-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2026-02-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-04-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2026-04-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-04-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-04-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-04-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2026-04-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2026-05-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2026-05-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2026-05-15",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2026-05-23",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6375",
+  "recolectado_en": "2026-09-20T09:02:55+00:00"
+}

@@ -1,0 +1,214 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "41",
+  "fecha": "2025-10-21T12:55:27",
+  "evento_id": 41306,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41306",
+  "listado": {
+    "sesion": 41,
+    "fase": 1,
+    "fecha": "2025-10-21T12:55:27",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-10-21T14:54:11",
+        "votacion_id": 49706,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49706/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49706/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LAS ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2025-10-21T14:55:38",
+        "votacion_id": 49708,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49708/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49708/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE MORATAYA)",
+        "numero_pregunta": 3,
+        "fecha": "2025-10-21T15:23:40",
+        "votacion_id": 49711,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49711/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49711/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE CELIS)",
+        "numero_pregunta": 4,
+        "fecha": "2025-10-21T16:02:56",
+        "votacion_id": 49712,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49712/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49712/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE HERNÁNDEZ)",
+        "numero_pregunta": 5,
+        "fecha": "2025-10-21T16:06:34",
+        "votacion_id": 49722,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49722/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49722/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA URGENCIA NACIONAL (INICIATIVA DE LEY 6579)",
+        "numero_pregunta": 6,
+        "fecha": "2025-10-21T16:18:24",
+        "votacion_id": 49713,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49713/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49713/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6579",
+        "numero_pregunta": 7,
+        "fecha": "2025-10-21T16:20:38",
+        "votacion_id": 49714,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49714/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49714/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6579",
+        "numero_pregunta": 8,
+        "fecha": "2025-10-21T16:22:44",
+        "votacion_id": 49715,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49715/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49715/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6579",
+        "numero_pregunta": 9,
+        "fecha": "2025-10-21T16:24:28",
+        "votacion_id": 49716,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49716/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49716/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6579",
+        "numero_pregunta": 10,
+        "fecha": "2025-10-21T16:28:56",
+        "votacion_id": 49717,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49717/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49717/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6579",
+        "numero_pregunta": 11,
+        "fecha": "2025-10-21T16:31:43",
+        "votacion_id": 49718,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49718/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49718/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6579",
+        "numero_pregunta": 12,
+        "fecha": "2025-10-21T16:32:47",
+        "votacion_id": 49719,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49719/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49719/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6579",
+        "numero_pregunta": 13,
+        "fecha": "2025-10-21T16:38:02",
+        "votacion_id": 49723,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49723/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49723/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6579",
+        "numero_pregunta": 14,
+        "fecha": "2025-10-21T16:39:13",
+        "votacion_id": 49724,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49724/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49724/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6579",
+        "numero_pregunta": 15,
+        "fecha": "2025-10-21T16:44:48",
+        "votacion_id": 49721,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49721/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49721/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 16,
+        "fecha": "2025-10-21T17:21:41",
+        "votacion_id": 49725,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49725/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49725/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA URGENCIA NACIONAL 6509",
+        "numero_pregunta": 17,
+        "fecha": "2025-10-21T17:24:35",
+        "votacion_id": 49726,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49726/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49726/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE FONDO DE REVISIÓN DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5692",
+        "numero_pregunta": 18,
+        "fecha": "2025-10-21T17:58:24",
+        "votacion_id": 49696,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49696/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49696/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL CON EL FONDO DE REVISIÓN INCLUIDO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5692",
+        "numero_pregunta": 19,
+        "fecha": "2025-10-21T18:00:03",
+        "votacion_id": 49697,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49697/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49697/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LAS OBJECIONES Y OBSERVACIONES PRESENTADAS (DECRETO 9-2025)",
+        "numero_pregunta": 20,
+        "fecha": "2025-10-21T18:25:24",
+        "votacion_id": 49710,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49710/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49710/41306"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (CONSULTA SOBRE LA CONTINUACIÓN DE LA INTERPELACIÓN AL MINISTRO DE SALUD PÚBLICA Y ASISTENCIA SOCIAL)",
+        "numero_pregunta": 21,
+        "fecha": "2025-10-21T18:30:10",
+        "votacion_id": 49729,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49729/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49729/41306"
+      },
+      {
+        "pregunta": "CONSULTA SOBRE CONTINUAR LA INTERPELACIÓN AL MINISTRO DE SALUD PÚBLICA Y ASISTENCIA SOCIAL",
+        "numero_pregunta": 22,
+        "fecha": "2025-10-21T18:36:06",
+        "votacion_id": 49730,
+        "evento_id": 41306,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49730/41306",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49730/41306"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T08:58:23+00:00"
+}

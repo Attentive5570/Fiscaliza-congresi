@@ -1,0 +1,36 @@
+{
+  "numero": "6682",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley que aprueba el Contrato de Préstamo Número 5991/OC-GU, a ser Celebrado entre la República de Guatemala y el Banco Interamericano de Desarrollo -BID-, para el Financiamiento del Programa de Acceso a la Electrificación Rural (PAER).",
+  "institucion": "Organismo Ejecutivo",
+  "ponentes": [],
+  "fecha_pleno": "2025-11-21",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-11-21",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6347",
+  "recolectado_en": "2026-09-20T09:03:12+00:00"
+}

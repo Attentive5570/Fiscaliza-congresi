@@ -1,0 +1,66 @@
+{
+  "numero": "6702",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 7-2025 y al Decreto Número 11-2002 del Congreso de la República. Reforma Ley Orgánica del Presupuesto art. 45 Ter. Disponibilidad de asignaciones extraordinarias y continuidad de la ejecución. Reforma Ley de los Consejos de Desarrollo Urbano y Rural art. 30. Cooperación obligada y plazos administrativos.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Julio Héctor Estrada Domínguez",
+    "Mirna Victoria Godoy Palala",
+    "José Carlos Sanabria Arias",
+    "Elmer Josué Palencia Reyes"
+  ],
+  "fecha_pleno": "2026-01-26",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-01-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-01-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-01-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-01-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-01-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2026-01-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2026-02-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2026-02-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2026-02-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2026-02-10",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6371",
+  "recolectado_en": "2026-09-20T09:02:59+00:00"
+}

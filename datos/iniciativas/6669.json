@@ -1,0 +1,56 @@
+{
+  "numero": "6669",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para la Facilitación del Cumplimiento en la Devolución de Impuestos.",
+  "institucion": "Organismo Ejecutivo",
+  "ponentes": [],
+  "fecha_pleno": "2025-11-10",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-11-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-11-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-11-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-11-29",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6337",
+  "recolectado_en": "2026-09-20T09:03:19+00:00"
+}

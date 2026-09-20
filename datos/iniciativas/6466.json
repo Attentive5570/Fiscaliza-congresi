@@ -1,0 +1,78 @@
+{
+  "numero": "6466",
+  "texto_oficial": "Iniciativa que dispone aprobar reforma al Decreto Número 101-97 del Congreso de la República de Guatemala, Ley Orgánica del Presupuesto. Reforma el art. 30 bis. Construcciones del Estado.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Sergio Leonel Celis Navas"
+  ],
+  "fecha_pleno": "2024-10-29",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-10-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-11-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-06-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-08-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-11-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-12-04",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6183",
+  "recolectado_en": "2026-09-20T09:03:57+00:00"
+}

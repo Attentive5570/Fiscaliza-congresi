@@ -1,0 +1,80 @@
+{
+  "numero": "6426",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley Temporal para la Agilización de la Inscripción de la Posesión de Bienes Inmuebles a favor del Estado para el Funcionamiento de Centros Educativos Públicos del Ministerio de Educación.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Ana Lucrecia Marroquín Godoy De Palomo",
+    "Alvaro Enrique Arzú Escobar",
+    "Faver Emilio Salazar Cordero"
+  ],
+  "fecha_pleno": "2024-07-31",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-07-31",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-03-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-09-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-11-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-12-04",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6147",
+  "recolectado_en": "2026-09-20T09:04:08+00:00"
+}

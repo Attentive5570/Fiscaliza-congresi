@@ -1,0 +1,96 @@
+{
+  "numero": "6594",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley Orgánica de la Procuraduría General de la Nación.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Alvaro Enrique Arzú Escobar",
+    "Héctor Adolfo Aldana Reyes",
+    "Byron Bladimiro Rodríguez Palacios",
+    "Lourdes Teresita De León Torres",
+    "Ervin Adim Maldonado Molina",
+    "Greicy Domenica De León De León",
+    "Ronald Yomelfy Portillo Cordón",
+    "Victor Alfredo Valenzuela Argueta",
+    "Boris Roberto España Cáceres",
+    "Sandra Erica Jovel Polanco",
+    "Carlos Enrique López Girón",
+    "Felipe Alejos Lorenzana",
+    "Bequer Neftali Chocooj De La Cruz",
+    "Carlos Enrique López Maldonado",
+    "José Carlos Sanabria Arias",
+    "Andrea María Reyes Zeceña",
+    "Raúl Amilcar Barrera Robles",
+    "Julio César López Escobar",
+    "Julio César Portillo Paz"
+  ],
+  "fecha_pleno": "2025-07-28",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-07-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-08-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-12-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-01-20",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2026-02-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-02-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-02-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-02-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2026-02-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2026-03-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2026-03-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2026-03-16",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2026-03-24",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6274",
+  "recolectado_en": "2026-09-20T09:03:33+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "numero": "6701",
+  "texto_oficial": "Iniciativa que dispone aprobar modificación al Presupuesto General de Ingresos y Egresos del Estado contenido en el Decreto Número 36-2024 del Congreso de la República de Guatemala, vigente para el Ejercicio Fiscal dos mil veintiséis y Normas Complementarias para su Ejecución.",
+  "institucion": "Organismo Ejecutivo",
+  "ponentes": [],
+  "fecha_pleno": "2026-01-26",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-01-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-01-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-01-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-01-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-01-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2026-01-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2026-02-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2026-02-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2026-02-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2026-02-10",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6370",
+  "recolectado_en": "2026-09-20T09:03:02+00:00"
+}

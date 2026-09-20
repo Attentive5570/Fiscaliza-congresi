@@ -1,0 +1,124 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "43",
+  "fecha": "2025-10-28T12:55:10",
+  "evento_id": 41308,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41308",
+  "listado": {
+    "sesion": 43,
+    "fase": 1,
+    "fecha": "2025-10-28T12:55:10",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACÍON DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-10-28T14:30:01",
+        "votacion_id": 49734,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49734/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49734/41308"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-10-28T14:32:12",
+        "votacion_id": 49737,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49737/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49737/41308"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE CELIS)",
+        "numero_pregunta": 3,
+        "fecha": "2025-10-28T14:51:03",
+        "votacion_id": 49738,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49738/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49738/41308"
+      },
+      {
+        "pregunta": "CONSULTA AL PLENO SOBRE ACEPTACIÓN DE LA RENUNCIA AL CARGO DE PRIMER SECRETARIO DE JUNTA DIRECTIVA, PRESENTADA POR EL JEFE DEL BLOQUE LEGISLATIVO VOS",
+        "numero_pregunta": 4,
+        "fecha": "2025-11-04T15:31:13",
+        "votacion_id": 49745,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49745/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49745/41308"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ORLANDO JOAQUÍN BLANCO LAPOLA COMO PRIMER SECRETARIO DE LA JUNTA DIRECTIVA PARA COMPLETAR EL PERÍODO LEGISLATIVO 2025-2026",
+        "numero_pregunta": 5,
+        "fecha": "2025-11-04T15:37:28",
+        "votacion_id": 49748,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49748/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49748/41308"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (ELECCIÓN DE PRIMER SECRETARIO DE LA JUNTA DIRECTIVA DEL CONGRESO DE LA REPÚBLICA, PARA COMPLETAR EL PERIODO LEGISLATIVO 2025-2026)",
+        "numero_pregunta": 6,
+        "fecha": "2025-11-04T15:43:48",
+        "votacion_id": 49749,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49749/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49749/41308"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE EDIN DE JESÚS)",
+        "numero_pregunta": 7,
+        "fecha": "2025-11-04T15:51:20",
+        "votacion_id": 49750,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49750/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49750/41308"
+      },
+      {
+        "pregunta": "ELECCIÓN DE GERSON GEOVANNY BARRAGÁN MORALES COMO PRIMER VICEPRESIDENTE DE LA JUNTA DIRECTIVA PARA COMPLETAR EL PERÍODO LEGISLATIVO 2025-2026",
+        "numero_pregunta": 8,
+        "fecha": "2025-11-04T16:01:29",
+        "votacion_id": 49751,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49751/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49751/41308"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (ELECCIÓN DE PRIMER VICEPRESIDENTE DE LA JUNTA DIRECTIVA DEL CONGRESO DE LA REPÚBLICA, PARA COMPLETAR EL PERIODO LEGISLATIVO 2025-2026)",
+        "numero_pregunta": 9,
+        "fecha": "2025-11-04T16:05:49",
+        "votacion_id": 49752,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49752/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49752/41308"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE SANABRIA)",
+        "numero_pregunta": 10,
+        "fecha": "2025-11-04T16:12:31",
+        "votacion_id": 49753,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49753/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49753/41308"
+      },
+      {
+        "pregunta": "ELECCIÓN PLANILLA 1",
+        "numero_pregunta": 11,
+        "fecha": "2025-11-04T16:17:21",
+        "votacion_id": 49754,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49754/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49754/41308"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (ELECCIÓN DE JUNTA DIRECTIVA DEL CONGRESO DE LA REPÚBLICA, PERIODO LEGISLATIVO 2026-2027)",
+        "numero_pregunta": 12,
+        "fecha": "2025-11-04T17:12:10",
+        "votacion_id": 49755,
+        "evento_id": 41308,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49755/41308",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49755/41308"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T08:56:37+00:00"
+}

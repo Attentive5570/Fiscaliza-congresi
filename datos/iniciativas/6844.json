@@ -1,0 +1,48 @@
+{
+  "numero": "6844",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley de Estabilización y Precios de Referencia de Venta al Consumidor Final para los Combustibles Cubiertos.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Mirna Victoria Godoy Palala",
+    "José Carlos Sanabria Arias",
+    "Edin Alexander De Jesús Mejía",
+    "Alvaro Enrique Arzú Escobar",
+    "Jorge Mario Villagrán Alvarez",
+    "Sabino Sebastián Velásquez Bámaca",
+    "Rodrigo Antonio Pellecer Rodriguez",
+    "Luis Alberto Contreras Colíndres",
+    "Lucrecia Carola Samayoa Reyes",
+    "Juan Carlos Rivera Estevez",
+    "Gerson Geovanny Barragán Morales"
+  ],
+  "fecha_pleno": "2026-09-08",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-09-08",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-09-08",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-09-08",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-09-08",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-09-08",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6485",
+  "recolectado_en": "2026-09-20T09:02:31+00:00"
+}

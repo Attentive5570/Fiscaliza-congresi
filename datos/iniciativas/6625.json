@@ -1,0 +1,51 @@
+{
+  "numero": "6625",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley del Presupuesto General de Ingresos y Egresos del Estado para el Ejercicio Fiscal Dos Mil Veintiséis.",
+  "institucion": "Organismo Ejecutivo",
+  "ponentes": [],
+  "fecha_pleno": "2025-09-01",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-09-01",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-09-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-12-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-12-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-12-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2026-01-01",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6293",
+  "recolectado_en": "2026-09-20T09:03:26+00:00"
+}

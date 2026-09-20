@@ -1,0 +1,56 @@
+{
+  "numero": "6518",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas al Código Civil, Decreto Ley Número 106, sobre la Disolución de los Bienes en Común dentro del Matrimonio, y la Tutela. Reforma art. 139. Disolución de la comunidad de bienes, deroga los artículos 141 y 142, reforma el art. 216. Reconocimiento por abuelas y abuelos, art. 299. Tutela Legítima y art. 317. Excusa de la Tutela y Protutela.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Olga Isabel Villalta Pereira",
+    "Andrea Beatríz Villagrán Antón De Pantoja",
+    "Sandra Yanet Milian Gomez",
+    "Ivanna María Luján Padilla",
+    "Raúl Amilcar Barrera Robles",
+    "José Carlos Sanabria Arias",
+    "Andrea María Reyes Zeceña",
+    "Laura Fabiola Marroquín Cordón",
+    "Samuel Andrés Pérez Alvarez",
+    "Mirna Victoria Godoy Palala",
+    "Alma Luz Guerrero De La Cruz",
+    "Brenda Marleny Mejía López",
+    "David Mauricio Illescas Sandoval",
+    "Elena Sofia Motta Kolleff"
+  ],
+  "fecha_pleno": "2025-03-25",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-03-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-06-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2026-02-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-04-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2026-08-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-08-25",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6232",
+  "recolectado_en": "2026-09-20T09:03:50+00:00"
+}

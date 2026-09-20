@@ -1,0 +1,88 @@
+{
+  "numero": "6527",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley General del Sistema Portuario.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Sandra Erica Jovel Polanco",
+    "Alberto Eduardo De León Benítez",
+    "Erick Geovany Martínez Hernández",
+    "Ernesto Bran Colindres",
+    "Edin Alexander De Jesús Mejía",
+    "Oswaldo Rosales Polanco",
+    "Guillermo Antonio Ralda Conde",
+    "Jorge Mario Villagrán Alvarez",
+    "Mario Ernesto Gálvez Muñóz",
+    "Gerardín Ariel Díaz Mazariegos",
+    "Héctor Adolfo Aldana Reyes"
+  ],
+  "fecha_pleno": "2025-04-09",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-04-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-06-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2026-02-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-02-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2026-02-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-04-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-08-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-08-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2026-08-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2026-08-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2026-08-31",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2026-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2026-10-02",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6234",
+  "recolectado_en": "2026-09-20T09:03:47+00:00"
+}

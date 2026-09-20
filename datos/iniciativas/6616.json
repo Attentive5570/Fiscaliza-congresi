@@ -1,0 +1,84 @@
+{
+  "numero": "6616",
+  "texto_oficial": "Iniciativa que dispone aprobar reforma al Decreto Número 17-95 del Congreso de la República, Ley de Institutos de Educación por Cooperativa de Enseñanza. Reforma el primer párrafo del art. 3. Recursos.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Jeovanni Omar Dominguez Orozco",
+    "Edin Alexander De Jesús Mejía",
+    "Gerson Geovanny Barragán Morales",
+    "Víctor Vicente Bonilla González",
+    "Randy Araely Coc Figueroa",
+    "Sandra Yanet Milian Gomez",
+    "Christian Joél Martínez Juárez"
+  ],
+  "fecha_pleno": "2025-08-21",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-08-21",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-10-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-02-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2026-02-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-04-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-04-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-04-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2026-04-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2026-05-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2026-05-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2026-05-15",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2027-01-01",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6291",
+  "recolectado_en": "2026-09-20T09:03:30+00:00"
+}

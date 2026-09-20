@@ -1,0 +1,34 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "40",
+  "fecha": "2025-10-16T08:52:09",
+  "evento_id": 41305,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41305",
+  "listado": {
+    "sesion": 40,
+    "fase": 1,
+    "fecha": "2025-10-16T08:52:09",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-10-16T10:51:13",
+        "votacion_id": 49701,
+        "evento_id": 41305,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49701/41305",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49701/41305"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-10-16T10:53:18",
+        "votacion_id": 49703,
+        "evento_id": 41305,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49703/41305",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49703/41305"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T08:58:35+00:00"
+}

@@ -1,0 +1,69 @@
+{
+  "numero": "6773",
+  "texto_oficial": "Iniciativa que dispone aprobar Disposiciones Presupuestarias para el Fortalecimiento del Tribunal Supremo Electoral y la preparación del Evento Electoral 2027.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Julio Héctor Estrada Domínguez",
+    "Maynor Gabriel Mejía Popol",
+    "Duay Antoni Martinez Salazar",
+    "Alvaro Enrique Arzú Escobar",
+    "Byron Bladimiro Rodríguez Palacios",
+    "Jorge Mario Villagrán Alvarez",
+    "José Pablo Mendoza Franco"
+  ],
+  "fecha_pleno": "2026-05-11",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-05-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-06-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-06-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-06-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-06-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2026-06-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2026-06-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2026-06-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2026-06-16",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2026-06-17",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6441",
+  "recolectado_en": "2026-09-20T09:02:38+00:00"
+}

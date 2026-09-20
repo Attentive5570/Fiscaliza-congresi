@@ -1,0 +1,66 @@
+{
+  "numero": "6678",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas a la Ley del Presupuesto General de Ingresos y Egresos del Estado para el Ejercicio Fiscal 2025, Decreto Número 36-2024 del Congreso de la República. Reforma art. 132. Asignaciones Especiales, art. 2, literales e.7), e.8) y adiciona la literal e.9 y adiciona un último párrafo al art. 18.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Ronald Yomelfy Portillo Cordón",
+    "Elmer Josué Palencia Reyes",
+    "Nery Abilio Ramos Y Ramos",
+    "Mario Ernesto Gálvez Muñóz"
+  ],
+  "fecha_pleno": "2025-11-18",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-11-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-11-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-11-29",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6344",
+  "recolectado_en": "2026-09-20T09:03:16+00:00"
+}

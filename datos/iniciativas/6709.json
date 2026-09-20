@@ -1,0 +1,99 @@
+{
+  "numero": "6709",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 15-98 del Congreso de la República de Guatemala, Ley del Impuesto Único Sobre Inmuebles. Adiciona el art. 3bis. Exoneración Temporal y reforma art. 11. Tasas al valor.",
+  "institucion": "N/A",
+  "ponentes": [
+    "José Inés Castillo Martínez",
+    "Lourdes Teresita De León Torres",
+    "Pablo Leonel Cifuentes Ovalle",
+    "Héctor Adolfo Aldana Reyes",
+    "Rolando Miguel Ovalle Barrios",
+    "Marco Alejandro Pérez Toribio",
+    "Mario Ernesto Gálvez Muñóz",
+    "Dámaris Carolina Cerna Acevedo",
+    "Darwin Edgardo Ramírez Cameros",
+    "Jaime Octavio Augusto Lucero Vásquez",
+    "Sofía Jeanetth Hernández Herrera",
+    "Sergio Guillermo Enriquez Garzaro",
+    "Julio César Portillo Paz",
+    "Marleni Lineth Matías Santiago",
+    "Maynor Estuardo Castillo Y Castillo",
+    "Victor Hugo Cifuentes Delgado",
+    "Manrique Obel Gálvez De León",
+    "José Arnulfo García Barrios",
+    "Carlos Enrique López Girón",
+    "Oscar Rolando Corleto Rivera",
+    "Julio Daniel Marroquín Ordoñez",
+    "Marco Aurelio Mejía Alfaro"
+  ],
+  "fecha_pleno": "2026-02-03",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-02-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-02-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2026-03-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-04-21",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2026-04-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-07-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-07-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-07-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2026-07-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2026-08-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2026-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2026-08-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2026-10-27",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6372",
+  "recolectado_en": "2026-09-20T09:02:52+00:00"
+}
