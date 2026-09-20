@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Fiscaliza tu Congreso</title>
+<meta name="description" content="Cómo votó cada diputado del Congreso de Guatemala, con enlace al registro oficial de cada votación.">
+<style>
+:root{
+  --bg:#EDF0F3;--surface:#FFFFFF;--ink:#16212C;--muted:#55636F;--line:#D3DAE1;
+  --accent:#0E5C63;--accent-ink:#FFFFFF;--soft:#E3EAEE;
+  --F:#1E7F5C;--C:#C23B2E;--X:#A7B1BA;--L:#3B6FB6;
+  box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0F161D;--surface:#17212A;--ink:#E7EDF2;--muted:#93A1AD;--line:#2A3743;
+    --accent:#5CC0C8;--accent-ink:#0F161D;--soft:#1F2C36;
+    --F:#3FBF8E;--C:#F0705F;--X:#5E6C78;--L:#6E9BE0;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0F161D;--surface:#17212A;--ink:#E7EDF2;--muted:#93A1AD;--line:#2A3743;
+  --accent:#5CC0C8;--accent-ink:#0F161D;--soft:#1F2C36;
+  --F:#3FBF8E;--C:#F0705F;--X:#5E6C78;--L:#6E9BE0;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+.wrap{max-width:1060px;margin:0 auto;padding:16px}
+h1{font-weight:800;font-size:clamp(1.8rem,6vw,2.7rem);line-height:1.05;letter-spacing:-.02em;margin:8px 0 6px}
+h2{font-size:1.2rem;line-height:1.3;margin:0 0 6px;font-weight:650}
+h3{font-size:1rem;margin:0 0 8px;font-weight:650}
+.lead{color:var(--muted);max-width:62ch;margin:0 0 14px}
+nav{display:flex;gap:6px;overflow-x:auto;margin-bottom:14px;border-bottom:1px solid var(--line)}
+nav a{flex:none;color:var(--muted);font-weight:600;padding:8px 12px;border-bottom:3px solid transparent;text-decoration:none}
+nav a[aria-current="page"]{color:var(--ink);border-bottom-color:var(--accent)}
+a{color:var(--accent)}
+a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:14px}
+label{display:block;font-size:.85rem;color:var(--muted);margin-bottom:4px}
+select,input[type=search],input[type=text]{width:100%;font:inherit;padding:9px 10px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+.row{display:grid;gap:10px;grid-template-columns:1fr}
+@media(min-width:720px){.row.two{grid-template-columns:2fr 1fr}}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-flex;align-items:center;gap:6px;background:var(--soft);border-radius:999px;padding:3px 11px;font:inherit;font-size:.85rem;border:1px solid transparent;color:var(--ink);text-decoration:none}
+button.chip{cursor:pointer}
+button.chip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.sw{display:inline-block;width:11px;height:11px;border-radius:50%;flex:none}
+.bgF{background:var(--F)}.bgC{background:var(--C)}.bgX{background:var(--X)}.bgL{background:var(--L)}
+.vitem{display:block;text-decoration:none;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:8px}
+.vitem:hover{border-color:var(--accent)}
+.vmeta{display:flex;flex-wrap:wrap;gap:2px 14px;color:var(--muted);font-size:.85rem}
+.vtitle{font-weight:600;margin:3px 0 6px}
+.bar{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--soft)}
+.bar span{display:block;height:100%}
+.vnums{font-size:.85rem;color:var(--muted);margin-top:5px}
+.cnts{display:flex;flex-wrap:wrap;gap:6px 20px;margin:10px 0}
+.cnt{display:flex;align-items:baseline;gap:6px}
+.cnt b{font-size:1.6rem;font-weight:800;font-variant-numeric:tabular-nums}
+svg.hemi{width:100%;height:auto;display:block}
+.dot{stroke:var(--surface);stroke-width:1.5;cursor:pointer;transition:opacity .2s}
+.v-F{fill:var(--F)}.v-C{fill:var(--C)}.v-X{fill:var(--X)}.v-L{fill:var(--L)}
+.dot.dim{opacity:.18}
+.dot.sel{stroke:var(--ink);stroke-width:3.5}
+.selpanel{min-height:44px;border-top:1px solid var(--line);padding-top:10px;margin-top:6px}
+.brow{display:grid;grid-template-columns:minmax(90px,1.3fr) 2fr auto;gap:8px;align-items:center;padding:7px 4px;border-top:1px solid var(--line);font-size:.9rem;width:100%;text-align:left;background:none;color:var(--ink);font-family:inherit;border-left:0;border-right:0;border-bottom:0;cursor:pointer}
+.brow[aria-pressed="true"]{background:var(--soft)}
+.num{font-variant-numeric:tabular-nums;color:var(--muted);text-align:right;white-space:nowrap}
+.drow{display:grid;grid-template-columns:1fr auto;gap:2px 10px;text-decoration:none;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin-bottom:6px}
+.drow:hover{border-color:var(--accent)}
+.drow small{color:var(--muted)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin:10px 0}
+.stat{background:var(--soft);border-radius:8px;padding:10px}
+.stat b{display:block;font-size:1.6rem;font-weight:800;line-height:1.1;font-variant-numeric:tabular-nums}
+.stat span{font-size:.82rem;color:var(--muted)}
+table{width:100%;border-collapse:collapse;font-size:.92rem}
+th,td{text-align:left;padding:8px 6px;border-top:1px solid var(--line);vertical-align:top}
+th{font-weight:600;color:var(--muted);border-top:0}
+.tscroll{overflow-x:auto}
+.muted{color:var(--muted)}
+.btn{font:inherit;font-weight:600;padding:9px 14px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:var(--accent-ink);cursor:pointer}
+.note{border-left:4px solid var(--accent);background:var(--surface);padding:10px 12px;border-radius:6px;font-size:.92rem;margin-bottom:14px}
+.foot{color:var(--muted);font-size:.85rem;margin:20px 0 8px}
+.news{padding:12px 0;border-top:1px solid var(--line)}
+.news:first-child{border-top:0}
+.news h3{font-family:Georgia,"Times New Roman",serif;font-weight:600;font-size:1.05rem;line-height:1.3}
+@media(prefers-reduced-motion:reduce){.dot{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Fiscaliza tu Congreso</h1>
+  <p class="lead">Cómo votó cada diputado del Congreso de Guatemala. Cada dato lleva el enlace al registro oficial.</p>
+  <nav id="nav" aria-label="Secciones">
+    <a href="#/votaciones" data-v="votaciones">Votaciones</a>
+    <a href="#/diputados" data-v="diputados">Diputados</a>
+    <a href="#/biblioteca" data-v="biblioteca">Biblioteca</a>
+    <a href="#/acerca" data-v="acerca">Acerca de los datos</a>
+  </nav>
+  <main id="app"><p class="muted">Cargando datos…</p></main>
+  <p class="foot" id="pie"></p>
+</div>
+
+<script>
+/* ---------- utilidades ---------- */
+const $ = s => document.querySelector(s);
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const CODIGOS = {F:'A favor', C:'En contra', X:'Ausente', L:'Licencia o excusa'};
+const CLASES = {debate_final:'Leyes (debate final)', articulado:'Artículos y enmiendas', procedimiento:'Trámite', otra:'Otras', todas:'Todas'};
+const fecha = iso => { const d = iso.slice(0,10).split('-'); return d[2] + '/' + d[1] + '/' + d[0]; };
+const bonito = t => { const s = String(t).toLowerCase(); return s.charAt(0).toUpperCase() + s.slice(1); };
+const pct = (a, b) => b ? Math.round(a / b * 100) + '%' : '-';
+const CACHE = {};
+async function pedir(ruta) {
+  if (CACHE[ruta]) return CACHE[ruta];
+  const r = await fetch(ruta, {cache: 'no-cache'});
+  if (!r.ok) throw new Error(ruta + ' (' + r.status + ')');
+  return (CACHE[ruta] = await r.json());
+}
+
+/* ---------- estado ---------- */
+let IDX = null; const DIP = {}, VOT = {};
+const st = {clase:'debate_final', q:'', n:30, dq:'', dbloque:'', fclase:'debate_final', hl:null, sel:null, nq:'', ndip:''};
+
+/* ---------- hemiciclo ---------- */
+function posiciones(n) {
+  const radios = [110,144,178,212,246,280], suma = radios.reduce((a,b)=>a+b,0);
+  const cuentas = radios.map(r => Math.round(n * r / suma));
+  cuentas[cuentas.length-1] += n - cuentas.reduce((a,b)=>a+b,0);
+  const pts = [];
+  radios.forEach((r,i) => { const k = cuentas[i];
+    for (let j = 0; j < k; j++) { const a = k === 1 ? Math.PI/2 : Math.PI * (1 - j/(k-1));
+      pts.push({a, r, x: 350 + r*Math.cos(a), y: 340 - r*Math.sin(a)}); } });
+  pts.sort((p,q) => q.a - p.a || p.r - q.r);
+  return pts;
+}
+const ULTIMOS = ['Independiente', 'Sin dato de bloque'];
+function ordenBloques(porBloque) {
+  return Object.keys(porBloque).sort((a,b) => {
+    const ua = ULTIMOS.indexOf(a), ub = ULTIMOS.indexOf(b);
+    if (ua !== ub) return (ua < 0 ? -1 : ua) - (ub < 0 ? -1 : ub);
+    return porBloque[b].length - porBloque[a].length || a.localeCompare(b, 'es');
+  });
+}
+
+/* ---------- vistas ---------- */
+function barra(c) {
+  const t = c.F + c.C + c.X + c.L || 1;
+  return ['F','C','L','X'].map(k => `<span class="bg${k}" style="width:${c[k]/t*100}%"></span>`).join('');
+}
+function listaVotaciones() {
+  const q = st.q.trim().toLowerCase();
+  const L = IDX.votaciones.filter(v => (st.clase === 'todas' || v.clase === st.clase) &&
+    (!q || v.pregunta.toLowerCase().includes(q) || v.iniciativas.some(n => n.includes(q))));
+  if (!L.length) return '<p class="muted">No hay votaciones con esos filtros.</p>';
+  const items = L.slice(0, st.n).map(v => `<a class="vitem" href="#/votacion/${esc(v.id)}">
+      <div class="vmeta"><span>${fecha(v.fecha)}</span><span>Sesión ${esc(v.sesion)}</span>${v.iniciativas.length ? '<span>Iniciativa ' + esc(v.iniciativas.join(', ')) + '</span>' : ''}</div>
+      <div class="vtitle">${esc(bonito(v.pregunta))}</div>
+      <div class="bar" aria-hidden="true">${barra(v.conteo)}</div>
+      <div class="vnums">${v.conteo.F} a favor, ${v.conteo.C} en contra, ${v.conteo.X} ausentes, ${v.conteo.L} con licencia</div></a>`).join('');
+  const mas = L.length > st.n ? `<p><button class="btn" data-act="mas">Ver más (${L.length - st.n} restantes)</button></p>` : '';
+  return `<p class="muted">${L.length} votaciones</p>` + items + mas;
+}
+function votacionesHTML() {
+  const chips = Object.keys(CLASES).map(k => `<button class="chip" data-clase="${k}" aria-pressed="${st.clase === k}">${CLASES[k]}</button>`).join('');
+  return `<div class="card"><div class="row two">
+      <div><label for="q">Buscar por texto o número de iniciativa</label><input id="q" type="search" value="${esc(st.q)}" placeholder="Por ejemplo: 6844"></div></div>
+      <div class="chips" style="margin-top:10px">${chips}</div></div>
+    <div id="vlista">${listaVotaciones()}</div>`;
+}
+
+async function votacionHTML(id) {
+  const v = VOT[id];
+  if (!v) return '<div class="card"><p>No encontramos esa votación.</p><p><a href="#/votaciones">Volver a las votaciones</a></p></div>';
+  const mapa = await pedir(`datos/sitio/votos/${id}.json`);
+  const porBloque = {};
+  Object.keys(mapa).forEach(cl => { const d = DIP[cl] || {bloque:'Sin dato de bloque', nombre:cl};
+    (porBloque[d.bloque] = porBloque[d.bloque] || []).push(cl); });
+  const orden = ordenBloques(porBloque), asientos = [];
+  orden.forEach(b => porBloque[b].sort((x,y) => (DIP[x]?DIP[x].nombre:x).localeCompare(DIP[y]?DIP[y].nombre:y, 'es')).forEach(cl => asientos.push(cl)));
+  const pos = posiciones(asientos.length);
+  const puntos = asientos.map((cl,i) => { const d = DIP[cl] || {nombre:cl, bloque:'Sin dato de bloque'};
+    return `<circle class="dot v-${mapa[cl]}" data-c="${esc(cl)}" cx="${pos[i].x.toFixed(1)}" cy="${pos[i].y.toFixed(1)}" r="8"><title>${esc(d.nombre)}: ${CODIGOS[mapa[cl]]}</title></circle>`; }).join('');
+  const filas = orden.map(b => { const c = {F:0,C:0,X:0,L:0}; porBloque[b].forEach(cl => c[mapa[cl]]++);
+    return `<button class="brow" data-bloque="${esc(b)}" aria-pressed="false"><span>${esc(b)}</span><div class="bar" aria-hidden="true">${barra(c)}</div><span class="num">${c.F}/${c.C}/${c.X}/${c.L}</span></button>`; }).join('');
+  const c = v.conteo;
+  const aviso = v.problemas && v.problemas.length ? `<div class="note">Aviso: ${esc(v.problemas.join(' '))}</div>` : '';
+  return `<p><a href="#/votaciones">Volver a las votaciones</a></p>
+  <div class="card">
+    <h2>${esc(bonito(v.pregunta))}</h2>
+    <div class="vmeta"><span>${fecha(v.fecha)}</span><span>Sesión ${esc(v.sesion)}${v.tipo_sesion ? ' (' + esc(v.tipo_sesion.toLowerCase()) + ')' : ''}</span><span>${esc(CLASES[v.clase])}</span>${v.iniciativas.length ? '<span>Iniciativa ' + esc(v.iniciativas.join(', ')) + '</span>' : ''}</div>
+    ${aviso}
+    <div class="cnts">${['F','C','L','X'].map(k => `<div class="cnt"><span class="sw bg${k}"></span><b>${c[k]}</b><span>${CODIGOS[k]}</span></div>`).join('')}</div>
+    <svg class="hemi" viewBox="0 0 700 360" role="img" aria-label="Hemiciclo con cada diputado coloreado por su voto">${puntos}</svg>
+    <div class="selpanel" id="selpanel"><span class="muted">Toca un punto para ver quién es y cómo votó.</span></div>
+    <p class="muted" style="font-size:.85rem">Texto oficial: ${esc(v.pregunta)}</p>
+    <p><a href="${esc(v.fuente_url)}" target="_blank" rel="noopener">Ver el registro oficial de esta votación</a>${v.pdf_url ? ' · <a href="' + esc(v.pdf_url) + '" target="_blank" rel="noopener">Resultado en PDF (Congreso)</a>' : ''}</p>
+  </div>
+  <div class="card"><h3>Por bloque (a favor / en contra / ausente / licencia)</h3><p class="muted" style="font-size:.85rem;margin-top:0">Toca un bloque para resaltarlo en el hemiciclo.</p>${filas}</div>`;
+}
+function panelSel(cl, mapa) {
+  const d = DIP[cl] || {nombre:cl, bloque:'Sin dato de bloque'};
+  return `<div class="chips"><span class="chip"><i class="sw bg${mapa[cl]}"></i>${CODIGOS[mapa[cl]]}</span><b>${esc(d.nombre)}</b><span class="muted">${esc(d.bloque)}${d.distrito ? ', ' + esc(d.distrito) : ''}</span><a href="#/diputado/${esc(cl)}">Ver ficha</a></div>`;
+}
+
+function listaDiputados() {
+  const q = st.dq.trim().toLowerCase();
+  const L = IDX.diputados.filter(d => (!st.dbloque || d.bloque === st.dbloque) && (!q || d.nombre.toLowerCase().includes(q)));
+  if (!L.length) return '<p class="muted">Ningún diputado coincide con la búsqueda.</p>';
+  return `<p class="muted">${L.length} diputados</p>` + L.map(d => `<a class="drow" href="#/diputado/${esc(d.clave)}"><b>${esc(d.nombre)}</b><small>Votó en ${pct(d.totales.F + d.totales.C, d.n)}</small><small>${esc(d.bloque)}${d.activo === false ? ' (ya no figura en la lista actual)' : ''}</small><small>${esc(d.distrito)}</small></a>`).join('');
+}
+function diputadosHTML() {
+  const bl = [...new Set(IDX.diputados.map(d => d.bloque))].sort((a,b) => a.localeCompare(b, 'es'));
+  return `<div class="card"><div class="row two">
+    <div><label for="dq">Buscar diputado</label><input id="dq" type="search" value="${esc(st.dq)}" placeholder="Nombre o apellido"></div>
+    <div><label for="dbloque">Bloque</label><select id="dbloque"><option value="">Todos</option>${bl.map(b => `<option ${st.dbloque === b ? 'selected' : ''}>${esc(b)}</option>`).join('')}</select></div></div></div>
+    <div id="dlista">${listaDiputados()}</div>`;
+}
+function tablaFicha(h) {
+  const L = IDX.votaciones.filter(v => h[v.id] && (st.fclase === 'todas' || v.clase === st.fclase));
+  if (!L.length) return '<p class="muted">No hay votaciones de este tipo registradas.</p>';
+  return `<div class="tscroll"><table><thead><tr><th>Fecha</th><th>Votación</th><th>Voto</th></tr></thead><tbody>${L.slice(0, 200).map(v => `<tr><td>${fecha(v.fecha)}</td><td><a href="#/votacion/${esc(v.id)}">${esc(bonito(v.pregunta).slice(0, 140))}</a></td><td><span class="chip"><i class="sw bg${h[v.id]}"></i>${CODIGOS[h[v.id]]}</span></td></tr>`).join('')}</tbody></table></div>${L.length > 200 ? '<p class="muted">Se muestran las 200 más recientes.</p>' : ''}`;
+}
+async function fichaHTML(clave) {
+  const d = DIP[clave];
+  if (!d) return '<div class="card"><p>No encontramos a ese diputado.</p><p><a href="#/diputados">Volver a diputados</a></p></div>';
+  const h = await pedir(`datos/sitio/diputados/${clave}.json`);
+  ficha.h = h;
+  const t = d.totales;
+  const chips = Object.keys(CLASES).map(k => `<button class="chip" data-fclase="${k}" aria-pressed="${st.fclase === k}">${CLASES[k]}</button>`).join('');
+  return `<p><a href="#/diputados">Volver a diputados</a></p>
+  <div class="card"><h2>${esc(d.nombre)}</h2>
+    <div class="vmeta"><span>${esc(d.bloque)}</span>${d.distrito ? '<span>Distrito: ' + esc(d.distrito) + '</span>' : ''}${d.perfil_url ? '<a href="' + esc(d.perfil_url) + '" target="_blank" rel="noopener">Perfil oficial en el Congreso</a>' : ''}</div>
+    ${d.bloque === 'Sin dato de bloque' ? '<div class="note">Este nombre aparece en las votaciones pero no en la lista actual de diputados, por lo que no tenemos su bloque.</div>' : ''}
+    <div class="stats">
+      <div class="stat"><b>${pct(t.F + t.C, d.n)}</b><span>Votó (a favor o en contra)</span></div>
+      <div class="stat"><b>${t.F}</b><span>A favor</span></div>
+      <div class="stat"><b>${t.C}</b><span>En contra</span></div>
+      <div class="stat"><b>${t.X}</b><span>Ausente</span></div>
+      <div class="stat"><b>${t.L}</b><span>Licencia o excusa</span></div>
+    </div>
+    <p class="muted" style="font-size:.85rem">Sobre ${d.n} votaciones registradas de ${fecha(IDX.cobertura.desde)} a ${fecha(IDX.cobertura.hasta)}.</p></div>
+  <div class="card"><h3>Votaciones</h3><div class="chips" style="margin-bottom:8px">${chips}</div><div id="ftabla">${tablaFicha(h)}</div></div>`;
+}
+const ficha = {h: null};
+
+async function bibliotecaHTML() {
+  let N = [];
+  try { N = await pedir('datos/noticias.json'); } catch (e) { N = []; }
+  const q = st.nq.trim().toLowerCase();
+  const L = N.filter(n => (!st.ndip || (n.diputados || []).includes(st.ndip)) && (!q || (n.titular || '').toLowerCase().includes(q)));
+  const cuerpo = !N.length
+    ? '<p class="muted">Todavía no hay notas registradas. Cada nota guardará su enlace original y una copia archivada, para que siga disponible si el medio la borra.</p>'
+    : (L.length ? L.map(n => `<article class="news"><div class="vmeta"><span>${esc(n.fecha ? fecha(n.fecha) : '')}</span><span>${esc(n.medio)}</span></div>
+        <h3><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titular)}</a></h3>
+        ${n.archivo_url ? '<a href="' + esc(n.archivo_url) + '" target="_blank" rel="noopener">Copia archivada</a>' : ''}
+        <div class="chips" style="margin-top:6px">${(n.diputados || []).map(c => DIP[c] ? `<a class="chip" href="#/diputado/${esc(c)}">${esc(DIP[c].nombre)}</a>` : '').join('')}</div></article>`).join('') : '<p class="muted">No hay notas con esos filtros.</p>');
+  return `<div class="card"><h2>Biblioteca de noticias</h2>${N.length ? `<div class="row two"><div><label for="nq">Buscar en titulares</label><input id="nq" type="search" value="${esc(st.nq)}"></div></div>` : ''}${cuerpo}</div>`;
+}
+
+function acercaHTML() {
+  const c = IDX.cobertura, prob = IDX.votaciones.filter(v => v.problemas && v.problemas.length).length;
+  return `<div class="card"><h2>Acerca de los datos</h2>
+    <p>Este sitio registra hechos verificables: cómo votó cada diputado, con enlace al registro oficial. No contiene opiniones ni calificaciones.</p>
+    <div class="stats"><div class="stat"><b>${c.votaciones}</b><span>Votaciones registradas</span></div><div class="stat"><b>${IDX.diputados.length}</b><span>Diputados en el registro</span></div></div>
+    <p>Cobertura: del ${fecha(c.desde)} al ${fecha(c.hasta)}. Datos actualizados el ${fecha(IDX.generado_en)}.</p>
+    <h3>Fuentes</h3>
+    <ul>
+      <li><a href="https://www.congreso.gob.gt/seccion_informacion_legislativa/votaciones_pleno" target="_blank" rel="noopener">Votaciones del Pleno, Congreso de la República</a></li>
+      <li><a href="https://www.congreso.gob.gt/buscador_bloques" target="_blank" rel="noopener">Listado de bloques</a> y <a href="https://www.congreso.gob.gt/diputados_distrito" target="_blank" rel="noopener">diputados por distrito</a></li>
+    </ul>
+    <h3>Limitaciones</h3>
+    <ul>
+      <li>Los votos son los que publica el Congreso. Si el registro oficial tiene errores, aquí se repiten.</li>
+      <li>El bloque de cada diputado es el que figura hoy en el sitio del Congreso. "Independiente" es la etiqueta oficial.</li>
+      <li>Los votos se unen con la lista de diputados por el nombre escrito. ${IDX.sin_dato_de_bloque.length ? `Hay ${IDX.sin_dato_de_bloque.length} nombres en las votaciones que no aparecen en la lista actual (cambios de integración del Congreso); se muestran como "Sin dato de bloque".` : 'Todos los nombres coincidieron.'}</li>
+      <li>${prob ? `${prob} votaciones tienen un aviso porque el registro oficial no trae exactamente 160 diputados.` : 'Todas las votaciones traen 160 diputados.'}</li>
+      <li>"Votó" significa que aparece a favor o en contra. Ausencia y licencia o excusa se cuentan aparte.</li>
+    </ul></div>`;
+}
+
+/* ---------- enrutador ---------- */
+async function ruta() {
+  const partes = (location.hash || '#/votaciones').replace(/^#\/?/, '').split('/');
+  const vista = partes[0] || 'votaciones', arg = decodeURIComponent(partes.slice(1).join('/'));
+  const activo = {votacion:'votaciones', diputado:'diputados'}[vista] || vista;
+  document.querySelectorAll('#nav a').forEach(a => a.dataset.v === activo ? a.setAttribute('aria-current', 'page') : a.removeAttribute('aria-current'));
+  st.sel = null; st.hl = null;
+  let html;
+  try {
+    if (vista === 'votacion') html = await votacionHTML(arg);
+    else if (vista === 'diputado') html = await fichaHTML(arg);
+    else if (vista === 'diputados') html = diputadosHTML();
+    else if (vista === 'biblioteca') html = await bibliotecaHTML();
+    else if (vista === 'acerca') html = acercaHTML();
+    else html = votacionesHTML();
+  } catch (e) {
+    html = `<div class="card"><p>No se pudo cargar esta sección. Intenta de nuevo en unos minutos.</p><p class="muted">${esc(e.message)}</p></div>`;
+  }
+  $('#app').innerHTML = html;
+  window.scrollTo(0, 0);
+}
+
+document.addEventListener('click', async e => {
+  const t = e.target.closest('[data-clase],[data-fclase],[data-act],[data-bloque],.dot');
+  if (!t) return;
+  if (t.dataset.clase) { st.clase = t.dataset.clase; st.n = 30; $('#app').innerHTML = votacionesHTML(); return; }
+  if (t.dataset.act === 'mas') { st.n += 30; $('#vlista').innerHTML = listaVotaciones(); return; }
+  if (t.dataset.fclase) { st.fclase = t.dataset.fclase; document.querySelectorAll('[data-fclase]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.fclase === st.fclase))); $('#ftabla').innerHTML = tablaFicha(ficha.h); return; }
+  const arg = decodeURIComponent(location.hash.split('/').slice(2).join('/'));
+  if (t.classList.contains('dot')) {
+    const mapa = await pedir(`datos/sitio/votos/${arg}.json`);
+    document.querySelectorAll('.dot').forEach(c => c.classList.toggle('sel', c === t));
+    $('#selpanel').innerHTML = panelSel(t.dataset.c, mapa); return;
+  }
+  if (t.dataset.bloque) {
+    const b = t.dataset.bloque, quitar = st.hl === b; st.hl = quitar ? null : b;
+    document.querySelectorAll('[data-bloque]').forEach(x => x.setAttribute('aria-pressed', String(!quitar && x.dataset.bloque === b)));
+    document.querySelectorAll('.dot').forEach(c => { const d = DIP[c.dataset.c]; c.classList.toggle('dim', !quitar && (d ? d.bloque : 'Sin dato de bloque') !== b); });
+  }
+});
+document.addEventListener('input', e => {
+  if (e.target.id === 'q') { st.q = e.target.value; st.n = 30; $('#vlista').innerHTML = listaVotaciones(); }
+  if (e.target.id === 'dq') { st.dq = e.target.value; $('#dlista').innerHTML = listaDiputados(); }
+  if (e.target.id === 'nq') { st.nq = e.target.value; ruta(); }
+});
+document.addEventListener('change', e => {
+  if (e.target.id === 'dbloque') { st.dbloque = e.target.value; $('#dlista').innerHTML = listaDiputados(); }
+});
+window.addEventListener('hashchange', ruta);
+
+(async function iniciar() {
+  try {
+    IDX = await pedir('datos/sitio/indice.json');
+  } catch (e) {
+    $('#app').innerHTML = '<div class="card"><p>Todavía no hay datos publicados.</p><p class="muted">' + esc(e.message) + '</p></div>'; return;
+  }
+  IDX.diputados.forEach(d => DIP[d.clave] = d);
+  IDX.votaciones.forEach(v => VOT[v.id] = v);
+  $('#pie').textContent = 'Datos del Congreso de la República de Guatemala. Última actualización: ' + fecha(IDX.generado_en) + '.';
+  ruta();
+})();
+</script>
+</body>
+</html>

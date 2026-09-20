@@ -251,7 +251,7 @@ def _guardar(ruta, obj):
     open(ruta, "w", encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, indent=2))
 
 
-def actualizar(url_lista: str, desde: str, carpeta: str, maximo: int, dias_recheck: int = 2):
+def actualizar(url_lista: str, desde: str, carpeta: str, maximo: int, dias_recheck: int = 2, presupuesto_min: float = 0):
     """Descubre sesiones nuevas y guarda sus votaciones. Es seguro repetirlo: no vuelve a pedir lo ya guardado."""
     import os
     os.makedirs(os.path.join(carpeta, "sesiones"), exist_ok=True)
@@ -261,7 +261,12 @@ def actualizar(url_lista: str, desde: str, carpeta: str, maximo: int, dias_reche
     print(f"{len(sesiones)} sesiones desde {desde} (sin las de 'Prueba Sistema')")
     ahora = datetime.now()
     pedidas = 0
+    inicio = time.monotonic()
+    agotado = lambda: presupuesto_min and (time.monotonic() - inicio) > presupuesto_min * 60
     for ses in sesiones:  # de la más nueva a la más vieja
+        if agotado():
+            print(f"Se agotó el tiempo asignado ({presupuesto_min} min). Lo guardado se conserva; el resto sigue en la próxima corrida.")
+            break
         ruta_ses = os.path.join(carpeta, "sesiones", f"{ses['evento_id']}.json")
         reciente = (ahora - datetime.fromisoformat(ses["fecha"])).days <= dias_recheck
         if os.path.exists(ruta_ses) and not reciente:
@@ -275,10 +280,14 @@ def actualizar(url_lista: str, desde: str, carpeta: str, maximo: int, dias_reche
         except Exception as e:
             print(f"  ERROR en la sesión {ses['numero']} ({ses['evento_id']}): {e}")
             continue
+        incompleta = False
         for v in lst["votaciones"]:
             ruta = os.path.join(carpeta, "votaciones", f"{v['evento_id']}-{v['votacion_id']}.json")
             if os.path.exists(ruta):
                 continue
+            if agotado():
+                incompleta = True
+                break
             try:
                 reg = _armar_registro(descargar(v["detalle_url"]), v["detalle_url"])
             except Exception as e:
@@ -288,6 +297,9 @@ def actualizar(url_lista: str, desde: str, carpeta: str, maximo: int, dias_reche
                        tipo_sesion=ses["tipo"], pdf_url=v["pdf_url"])
             _guardar(ruta, reg)
             print(f"  votación {v['votacion_id']} (sesión {ses['numero']}, {v['pregunta'][:40]}): {reg['conteo']} problemas: {reg['problemas'] or 'ninguno'}")
+        if incompleta:
+            print(f"Sesión {ses['numero']} quedó a medias; se completa en la próxima corrida.")
+            break
         _guardar(ruta_ses, {**ses, "listado": lst, "recolectado_en": datetime.now(timezone.utc).isoformat(timespec="seconds")})
 
 
@@ -339,43 +351,120 @@ def parsear_diputados(datos: list) -> list:
 
 
 def descargar_diputados(carpeta: str):
+    """Guarda la lista de diputados. Es ACUMULATIVA: quien deja de aparecer queda como inactivo,
+    para no perder su historial de votos (renuncias, suplentes, cambios de bloque)."""
     import os
     os.makedirs(carpeta, exist_ok=True)
-    dips = parsear_diputados(post_json(URL_DIPUTADOS))
-    print(f"{len(dips)} diputados recibidos (se esperan 160)")
-    if len(dips) != 160:
-        print("  AVISO: el listado por defecto puede traer solo un distrito. Revisa antes de usarlo.")
-    _guardar(os.path.join(carpeta, "diputados.json"), dips)
+    ruta = os.path.join(carpeta, "diputados.json")
+    previos = {}
+    if os.path.exists(ruta):
+        previos = {d["clave"]: d for d in json.load(open(ruta, encoding="utf-8"))}
+    actuales = parsear_diputados(post_json(URL_DIPUTADOS))
+    print(f"{len(actuales)} diputados recibidos (se esperan 160)")
+    hoy = datetime.now(timezone.utc).date().isoformat()
+    vistos = set()
+    for d in actuales:
+        vistos.add(d["clave"])
+        d["activo"], d["visto"] = True, hoy
+        previos[d["clave"]] = {**previos.get(d["clave"], {}), **d}
+    if len(actuales) >= 150:
+        for k, d in previos.items():
+            if k not in vistos:
+                d["activo"] = False
+    else:
+        print("  AVISO: llegaron muy pocos diputados; no se marca a nadie como inactivo.")
+    _guardar(ruta, sorted(previos.values(), key=lambda d: d["nombre"]))
     bloques = post_json(URL_BLOQUES, {"target": ""})
     _guardar(os.path.join(carpeta, "bloques.json"), bloques)
     print(f"{len(bloques) if isinstance(bloques, list) else '?'} bloques guardados")
 
 
+def clasificar(pregunta: str) -> str:
+    p = pregunta.upper()
+    if re.search(r"TERCER DEBATE|[ÚU]NICO DEBATE", p):
+        return "debate_final"
+    if "PROYECTO" in p and re.search(r"ART[ÍI]CULO|ENMIENDA|PRE[ÁA]MBULO|REDACCI[ÓO]N FINAL|SEGUNDO DEBATE|PRIMER DEBATE", p):
+        return "articulado"
+    if re.search(r"ORDEN DEL D[ÍI]A|ACTAS?\b|MOCI[ÓO]N|AGENDA", p):
+        return "procedimiento"
+    return "otra"
+
+
+def iniciativas_de(pregunta: str) -> list:
+    """Números de iniciativa mencionados en el texto (tolera erratas del original, como 'INICITIVA')."""
+    return sorted(set(re.findall(r"INICI\w*\s+(?:DE\s+LEY\s+)?(?:N[Oº°]\.?\s*)?(\d{3,5})", pregunta.upper())))
+
+
 def consolidar(carpeta: str):
-    """Une votaciones + bancadas en un solo archivo (datos/sitio.json) para alimentar la página."""
+    """Genera los archivos que lee la página, en datos/sitio/:
+         indice.json            diputados (con totales), bloques y lista de votaciones
+         votos/<id>.json        voto de cada diputado en esa votación (se pide al abrirla)
+         diputados/<clave>.json historial de votos de cada diputado (se pide al abrir su ficha)
+    """
     import glob
     import os
     dips = json.load(open(os.path.join(carpeta, "diputados.json"), encoding="utf-8"))
     por_clave = {d["clave"]: d for d in dips}
-    votaciones, votos, sin_bloque = [], {}, set()
+    ruta_alias = os.path.join(carpeta, "alias.json")  # opcional: {"clave-en-votos": "clave-en-lista"}
+    alias = json.load(open(ruta_alias, encoding="utf-8")) if os.path.exists(ruta_alias) else {}
+
+    raiz = os.path.join(carpeta, "sitio")
+    for sub in ("votos", "diputados"):
+        os.makedirs(os.path.join(raiz, sub), exist_ok=True)
+
+    votaciones, votos, historial, desconocidos = [], {}, {}, {}
     for ruta in glob.glob(os.path.join(carpeta, "votaciones", "*.json")):
         v = json.load(open(ruta, encoding="utf-8"))
         vid = f"{v['evento_id']}-{v['votacion_id']}"
-        votaciones.append({"id": vid, "fecha": v["fecha"], "sesion": v["sesion"], "tipo_sesion": v.get("tipo_sesion"),
-                           "pregunta": v["pregunta"], "conteo": v["conteo"], "fuente_url": v["fuente_url"],
-                           "pdf_url": v.get("pdf_url"), "problemas": v["problemas"]})
+        cont = {"F": 0, "C": 0, "X": 0, "L": 0}
         votos[vid] = {}
         for d in v["diputados"]:
-            votos[vid][d["clave"]] = CODIGO_VOTO[d["voto"]]
-            if d["clave"] not in por_clave:
-                sin_bloque.add(d["nombre"])
+            clave = alias.get(d["clave"], d["clave"])
+            if clave not in por_clave:
+                desconocidos[clave] = d["nombre"]
+                por_clave[clave] = {"clave": clave, "nombre": d["nombre"], "bloque": "Sin dato de bloque",
+                                    "distrito": "", "activo": False, "id_diputado": None, "perfil_url": None}
+            codigo = CODIGO_VOTO[d["voto"]]
+            votos[vid][clave] = codigo
+            historial.setdefault(clave, {})[vid] = codigo
+            cont[codigo] += 1
+        votaciones.append({"id": vid, "fecha": v["fecha"], "sesion": v["sesion"], "tipo_sesion": v.get("tipo_sesion"),
+                           "pregunta": v["pregunta"], "clase": clasificar(v["pregunta"]),
+                           "iniciativas": iniciativas_de(v["pregunta"]), "conteo": cont,
+                           "fuente_url": v["fuente_url"], "pdf_url": v.get("pdf_url"), "problemas": v["problemas"]})
     votaciones.sort(key=lambda x: x["fecha"], reverse=True)
-    salida = {"generado_en": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-              "diputados": dips, "votaciones": votaciones, "votos": votos, "sin_bloque": sorted(sin_bloque)}
-    _guardar(os.path.join(carpeta, "sitio.json"), salida)
-    print(f"{len(votaciones)} votaciones, {len(dips)} diputados. Sin bloque asignado: {len(sin_bloque)}")
-    for n in sorted(sin_bloque)[:20]:
-        print("  no coincide:", n)
+
+    lista = []
+    for clave, d in sorted(por_clave.items(), key=lambda kv: kv[1]["nombre"]):
+        h = historial.get(clave, {})
+        tot = {"F": 0, "C": 0, "X": 0, "L": 0}
+        for c in h.values():
+            tot[c] += 1
+        lista.append({**{k: d.get(k) for k in ("clave", "nombre", "bloque", "distrito", "id_diputado", "perfil_url")},
+                      "activo": d.get("activo", True),
+                      "totales": tot, "n": len(h)})
+        _escribir(os.path.join(raiz, "diputados", f"{clave}.json"), h)
+    for vid, m in votos.items():
+        _escribir(os.path.join(raiz, "votos", f"{vid}.json"), m)
+
+    bloques = {}
+    for d in lista:
+        if d["activo"] or d["n"]:
+            bloques[d["bloque"]] = bloques.get(d["bloque"], 0) + 1
+    fechas = [x["fecha"] for x in votaciones]
+    indice = {"generado_en": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+              "cobertura": {"desde": min(fechas) if fechas else None, "hasta": max(fechas) if fechas else None,
+                            "votaciones": len(votaciones)},
+              "diputados": lista, "votaciones": votaciones,
+              "sin_dato_de_bloque": sorted(desconocidos.values())}
+    _escribir(os.path.join(raiz, "indice.json"), indice)
+    print(f"{len(votaciones)} votaciones, {len(lista)} diputados. Sin dato de bloque: {len(desconocidos)}")
+    for n in sorted(desconocidos.values())[:20]:
+        print("  no coincide con la lista de diputados:", n)
+
+
+def _escribir(ruta, obj):
+    open(ruta, "w", encoding="utf-8").write(json.dumps(obj, ensure_ascii=False, sort_keys=True, separators=(",", ":")))
 
 
 def main():
@@ -386,8 +475,9 @@ def main():
     ap.add_argument("--sesiones", help="HTML guardado de la lista de todas las sesiones (votaciones_pleno)")
     ap.add_argument("--actualizar", help="URL de la lista de sesiones: descarga lo nuevo")
     ap.add_argument("--diputados", action="store_true", help="baja la lista de diputados con bloque y distrito")
-    ap.add_argument("--consolidar", action="store_true", help="une votaciones y bancadas en datos/sitio.json")
+    ap.add_argument("--consolidar", action="store_true", help="une votaciones y bloques en datos/sitio/ (lo que lee la página)")
     ap.add_argument("--desde", default="2024-01-14", help="fecha mínima AAAA-MM-DD (por defecto, inicio de la legislatura actual)")
+    ap.add_argument("--presupuesto", type=float, default=0, help="minutos máximos de trabajo; al agotarse guarda lo hecho y termina")
     ap.add_argument("--max", type=int, default=25, help="máximo de sesiones a consultar por corrida")
     ap.add_argument("-d", "--carpeta", default="datos", help="carpeta de salida")
     ap.add_argument("--fuente", help="URL de origen (si usas archivo)")
@@ -408,7 +498,7 @@ def main():
         print(json.dumps(parsear_listado(open(a.listado, encoding="utf-8", errors="replace").read()), ensure_ascii=False, indent=2))
         return
     if a.actualizar:
-        actualizar(a.actualizar, a.desde, a.carpeta, a.max)
+        actualizar(a.actualizar, a.desde, a.carpeta, a.max, presupuesto_min=a.presupuesto)
         return
 
     if a.url:
