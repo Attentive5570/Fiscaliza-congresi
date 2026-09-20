@@ -2,7 +2,9 @@ name: Actualizar votaciones
 
 on:
   schedule:
+    # Martes y jueves (días de sesión), cada hora de 7:00 a 17:00 hora de Guatemala (UTC-6)
     - cron: "0 13-23 * * 2,4"
+    # Una vez al día a las 00:00 hora de Guatemala: también refresca la lista de diputados y bloques
     - cron: "0 6 * * *"
   workflow_dispatch:
     inputs:
@@ -12,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  pages: write
 
 concurrency:
   group: actualizar-votaciones
@@ -20,7 +23,7 @@ concurrency:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
 
@@ -36,17 +39,21 @@ jobs:
         run: python recolector.py --diputados -d datos
 
       - name: Votaciones nuevas
+        timeout-minutes: 25
         run: |
           python recolector.py \
             --actualizar https://www.congreso.gob.gt/seccion_informacion_legislativa/votaciones_pleno \
             --desde 2024-01-14 \
             --max "${{ github.event.inputs.max || '25' }}" \
+            --presupuesto 18 \
             -d datos
 
       - name: Unir votos y bancadas
+        if: always()
         run: python recolector.py --consolidar -d datos
 
       - name: Guardar cambios
+        if: always()
         run: |
           git config user.name "recolector-bot"
           git config user.email "recolector-bot@users.noreply.github.com"
@@ -57,3 +64,9 @@ jobs:
             git commit -m "Datos actualizados $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
+
+      - name: Pedir que se republique la página (si Pages está activado)
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages no está activado o ya se republicó."
