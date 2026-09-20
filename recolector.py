@@ -12,6 +12,7 @@ Uso:
 
   # 1b) Bancadas: baja la lista de diputados con su bloque y distrito, y arma el archivo del sitio
   python recolector.py --diputados -d datos/
+  python recolector.py --iniciativas -d datos/     # título, texto oficial, ponentes y avance de cada iniciativa
   python recolector.py --consolidar -d datos/
 
   # 2) Pruebas con páginas guardadas (sin internet)
@@ -350,6 +351,137 @@ def parsear_diputados(datos: list) -> list:
     return salida
 
 
+MESES = {"enero": 1, "febrero": 2, "marzo": 3, "abril": 4, "mayo": 5, "junio": 6, "julio": 7,
+         "agosto": 8, "septiembre": 9, "setiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12}
+URL_INICIATIVAS = "https://www.congreso.gob.gt/seccion_informacion_legislativa/iniciativas"
+
+
+def _fecha_larga(texto: str):
+    """'Martes, 08 de septiembre de 2026' -> '2026-09-08'"""
+    m = re.search(r"(\d{1,2})\s+de\s+(\w+)\s+de\s+(\d{4})", texto or "")
+    if not m or m.group(2).lower() not in MESES:
+        return None
+    return f"{int(m.group(3)):04d}-{MESES[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
+
+
+def parsear_lista_iniciativas(html: str) -> list:
+    """Página 'Iniciativas': una tarjeta por iniciativa con número, fecha en que la conoció el Pleno,
+    resumen oficial, enlace al detalle y enlace al PDF (el PDF solo se enlaza; el robots.txt pide no descargarlo)."""
+    sopa = BeautifulSoup(html, "html.parser")
+    salida = []
+    for tarjeta in sopa.select("div.card"):
+        cab = tarjeta.select_one(":scope > .card-header")
+        cuerpo = tarjeta.select_one(":scope > .card-body")
+        if not cab or not cuerpo:
+            continue
+        m = re.search(r"Iniciativa:\s*(\d+)", cab.get_text(" ", strip=True))
+        if not m:
+            continue
+        textos = [_limpiar(p.get_text()) for p in cuerpo.select("p.card-text")]
+        enlaces = [a.get("href") for a in cuerpo.select("a") if a.get("href")]
+        detalle = next((e for e in enlaces if "detalle_pdf/iniciativas/" in e), None)
+        pdf = next((e for e in enlaces if e.lower().endswith(".pdf")), None)
+        salida.append({
+            "numero": m.group(1),
+            "fecha_pleno": _fecha_larga(textos[0]) if textos else None,
+            "texto_oficial": textos[1] if len(textos) > 1 else "",
+            "detalle_url": detalle,
+            "id_interno": int(re.search(r"/(\d+)$", detalle).group(1)) if detalle else None,
+            "pdf_url": pdf,
+        })
+    return salida
+
+
+def titulo_corto(texto_oficial: str) -> str:
+    """'Iniciativa que dispone aprobar Ley de X.' -> 'Ley de X'"""
+    t = _limpiar(texto_oficial).rstrip(". ")
+    t = re.sub(r"^Iniciativa\s+(?:de ley\s+)?que\s+dispone\s+(?:aprobar\s+)?", "", t, flags=re.I)
+    return t[:1].upper() + t[1:] if t else texto_oficial
+
+
+def parsear_detalle_iniciativa(html: str) -> dict:
+    """Ficha de una iniciativa: número, texto oficial, institución, diputados ponentes, fecha y pasos de avance."""
+    sopa = BeautifulSoup(html, "html.parser")
+    for x in sopa(["script", "style", "noscript"]):
+        x.decompose()
+    texto = re.sub(r"[ \t\r\xa0]+", " ", sopa.get_text("\n"))
+    texto = re.sub(r"\n\s*\n+", "\n", texto)
+
+    def campo(patron):
+        m = re.search(patron, texto, re.S)
+        return _limpiar(m.group(1)) if m else None
+
+    ponentes = re.findall(r"^\s*\d+\.-\s*(.+?)\s*$", texto, re.M)
+    pasos = []
+    for tabla in sopa.find_all("table"):
+        encab = [_limpiar(th.get_text()) for th in tabla.find_all("th")]
+        if "Paso" in encab and "Estado" in encab:
+            for fila in tabla.find_all("tr"):
+                celdas = [_limpiar(c.get_text()) for c in fila.find_all("td")]
+                if len(celdas) >= 3:
+                    f = re.match(r"(\d{2})-(\d{2})-(\d{4})", celdas[1])
+                    pasos.append({"paso": celdas[0], "fecha": f"{f.group(3)}-{f.group(2)}-{f.group(1)}" if f else celdas[1],
+                                  "estado": celdas[2]})
+            break
+    return {
+        "numero": campo(r"N[uú]mero:\s*(\d+)"),
+        "texto_oficial": campo(r"Detalle:\s*(.+?)\s*Instituci[oó]n Ponente:"),
+        "institucion": campo(r"Instituci[oó]n Ponente:\s*(.+?)\s*Diputados\s+ponentes:"),
+        "ponentes": ponentes,
+        "fecha_pleno": _fecha_larga(campo(r"Fecha:\s*(.+?)\s*descargar") or ""),
+        "pasos": pasos,
+    }
+
+
+def _citadas(carpeta: str) -> set:
+    """Números de iniciativa mencionados en las votaciones ya guardadas."""
+    import glob
+    import os
+    citadas = set()
+    for ruta in glob.glob(os.path.join(carpeta, "votaciones", "*.json")):
+        citadas.update(iniciativas_de(json.load(open(ruta, encoding="utf-8"))["pregunta"]))
+    return citadas
+
+
+def actualizar_iniciativas(carpeta: str, max_detalles: int = 30, dias_refresco: int = 3):
+    """1) Baja la lista oficial de iniciativas (una sola página). 2) Para las iniciativas que aparecen en las
+    votaciones, baja su ficha (diputados ponentes y pasos de avance). Repetirlo es seguro."""
+    import os
+    os.makedirs(os.path.join(carpeta, "iniciativas"), exist_ok=True)
+    lista = parsear_lista_iniciativas(descargar(URL_INICIATIVAS))
+    print(f"{len(lista)} iniciativas en la lista oficial")
+    if len(lista) < 100:
+        print("  AVISO: la lista llegó demasiado corta; el formato pudo cambiar. No se guarda nada.")
+        return
+    _guardar(os.path.join(carpeta, "iniciativas_lista.json"), sorted(lista, key=lambda x: int(x["numero"])))
+    por_num = {x["numero"]: x for x in lista}
+    citadas = _citadas(carpeta)
+    fuera = sorted(n for n in citadas if n not in por_num)
+    if fuera:
+        print(f"  {len(fuera)} iniciativas citadas en votaciones no están en la lista oficial (son más antiguas): {', '.join(fuera[:15])}")
+    pedidos = 0
+    for n in sorted(citadas & set(por_num), key=int, reverse=True):
+        ruta = os.path.join(carpeta, "iniciativas", f"{n}.json")
+        if os.path.exists(ruta):
+            previo = json.load(open(ruta, encoding="utf-8"))
+            edad = datetime.now(timezone.utc) - datetime.fromisoformat(previo["recolectado_en"])
+            if edad.days < dias_refresco:
+                continue
+        if pedidos >= max_detalles:
+            print(f"Límite de {max_detalles} fichas por corrida; el resto queda para la próxima.")
+            break
+        pedidos += 1
+        try:
+            det = parsear_detalle_iniciativa(descargar(por_num[n]["detalle_url"]))
+        except Exception as e:
+            print(f"  ERROR en la ficha de la iniciativa {n}: {e}")
+            continue
+        det.update(numero=n, fuente_url=por_num[n]["detalle_url"],
+                   recolectado_en=datetime.now(timezone.utc).isoformat(timespec="seconds"))
+        _guardar(ruta, det)
+        print(f"  ficha {n}: {len(det['ponentes'])} ponentes, {len(det['pasos'])} pasos")
+
+
 def descargar_diputados(carpeta: str):
     """Guarda la lista de diputados. Es ACUMULATIVA: quien deja de aparecer queda como inactivo,
     para no perder su historial de votos (renuncias, suplentes, cambios de bloque)."""
@@ -447,6 +579,35 @@ def consolidar(carpeta: str):
     for vid, m in votos.items():
         _escribir(os.path.join(raiz, "votos", f"{vid}.json"), m)
 
+    # --- iniciativas (título, texto oficial, ponentes, pasos) ---
+    def _fichas():
+        ruta_l = os.path.join(carpeta, "iniciativas_lista.json")
+        por_num = {x["numero"]: x for x in json.load(open(ruta_l, encoding="utf-8"))} if os.path.exists(ruta_l) else {}
+        por_tokens = {tuple(sorted(clave_nombre(d["nombre"]).split("-"))): c for c, d in por_clave.items()}
+        manual = {}
+        ruta_m = os.path.join(carpeta, "iniciativas_manual.json")  # correcciones o resúmenes editoriales, a mano
+        if os.path.exists(ruta_m):
+            manual = json.load(open(ruta_m, encoding="utf-8"))
+        salida = {}
+        for n in sorted({n for v in votaciones for n in v["iniciativas"]}):
+            base = por_num.get(n)
+            ruta_d = os.path.join(carpeta, "iniciativas", f"{n}.json")
+            det = json.load(open(ruta_d, encoding="utf-8")) if os.path.exists(ruta_d) else {}
+            if not base and not det and n not in manual:
+                continue
+            texto = det.get("texto_oficial") or (base or {}).get("texto_oficial") or ""
+            ficha = {"titulo": titulo_corto(texto) if texto else "", "texto_oficial": texto,
+                     "fecha_pleno": det.get("fecha_pleno") or (base or {}).get("fecha_pleno"),
+                     "url": (base or {}).get("detalle_url"), "pdf": (base or {}).get("pdf_url"),
+                     "institucion": det.get("institucion"), "pasos": det.get("pasos", []),
+                     "ponentes": [{"nombre": nom, "clave": por_tokens.get(tuple(sorted(clave_nombre(nom).split("-"))))}
+                                  for nom in det.get("ponentes", [])]}
+            ficha.update(manual.get(n, {}))
+            salida[n] = ficha
+        return salida
+    fichas = _fichas()
+    _escribir(os.path.join(raiz, "iniciativas.json"), fichas)
+
     bloques = {}
     for d in lista:
         if d["activo"] or d["n"]:
@@ -475,6 +636,7 @@ def main():
     ap.add_argument("--sesiones", help="HTML guardado de la lista de todas las sesiones (votaciones_pleno)")
     ap.add_argument("--actualizar", help="URL de la lista de sesiones: descarga lo nuevo")
     ap.add_argument("--diputados", action="store_true", help="baja la lista de diputados con bloque y distrito")
+    ap.add_argument("--iniciativas", action="store_true", help="baja la lista oficial de iniciativas y la ficha de las citadas en votaciones")
     ap.add_argument("--consolidar", action="store_true", help="une votaciones y bloques en datos/sitio/ (lo que lee la página)")
     ap.add_argument("--desde", default="2024-01-14", help="fecha mínima AAAA-MM-DD (por defecto, inicio de la legislatura actual)")
     ap.add_argument("--presupuesto", type=float, default=0, help="minutos máximos de trabajo; al agotarse guarda lo hecho y termina")
@@ -486,6 +648,9 @@ def main():
 
     if a.diputados:
         descargar_diputados(a.carpeta)
+        return
+    if a.iniciativas:
+        actualizar_iniciativas(a.carpeta)
         return
     if a.consolidar:
         consolidar(a.carpeta)

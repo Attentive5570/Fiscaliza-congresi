@@ -54,7 +54,10 @@ button.chip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink
 .vtitle{font-weight:600;margin:3px 0 6px}
 .bar{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--soft)}
 .bar span{display:block;height:100%}
-.ini{font-size:.9rem;color:var(--muted);margin:-2px 0 6px}
+.inicard p{margin:6px 0}
+.note hr{border:0;border-top:1px solid var(--line);margin:12px 0}
+.ini{font-size:.9rem;color:var(--muted);margin:0 0 6px}
+.etapa{font-size:.9rem;color:var(--muted);margin:-2px 0 4px}
 .vnums{font-size:.85rem;color:var(--muted);margin-top:5px}
 .cnts{display:flex;flex-wrap:wrap;gap:6px 20px;margin:10px 0}
 .cnt{display:flex;align-items:baseline;gap:6px}
@@ -110,7 +113,7 @@ const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp
 const CODIGOS = {F:'A favor', C:'En contra', X:'Ausente', L:'Licencia o excusa'};
 const CLASES = {debate_final:'Leyes (debate final)', articulado:'Artículos y enmiendas', procedimiento:'Trámite', otra:'Otras', todas:'Todas'};
 const fecha = iso => { const d = iso.slice(0,10).split('-'); return d[2] + '/' + d[1] + '/' + d[0]; };
-const bonito = t => { const s = String(t).toLowerCase(); return s.charAt(0).toUpperCase() + s.slice(1); };
+const bonito = t => { const s = String(t).toLowerCase().replace(/\b(cap[ií]tulo|t[ií]tulo|secci[oó]n) ([ivxlc]+)\b/g, (m, a, r) => a + ' ' + r.toUpperCase()); return s.charAt(0).toUpperCase() + s.slice(1); };
 const pct = (a, b) => b ? Math.round(a / b * 100) + '%' : '-';
 const CACHE = {};
 async function pedir(ruta) {
@@ -123,7 +126,35 @@ async function pedir(ruta) {
 /* ---------- estado ---------- */
 let IDX = null, INI = {}; const DIP = {}, VOT = {};
 const tituloIni = n => (INI[n] && INI[n].titulo) ? INI[n].titulo : '';
-const etiquetaIni = ns => ns.map(n => 'Iniciativa ' + n + (tituloIni(n) ? ': ' + tituloIni(n) : '')).join(' | ');
+const textoIni = n => (INI[n] && (INI[n].descripcion || INI[n].texto_oficial)) || '';
+/* Línea breve para la lista: cuándo la conoció el Pleno y cuántos diputados la presentaron. */
+const descIni = n => { const i = INI[n]; if (!i) return ''; const p = [];
+  if (i.fecha_pleno) p.push('Conoció el Pleno el ' + fecha(i.fecha_pleno));
+  if (i.ponentes && i.ponentes.length) p.push('presentada por ' + i.ponentes.length + (i.ponentes.length === 1 ? ' diputado' : ' diputados'));
+  return p.length ? p[0].charAt(0).toUpperCase() + p.join(', ').slice(1) : ''; };
+const fmtIso = t => /^\d{4}-\d{2}-\d{2}/.test(t) ? fecha(t) : t;
+/* Ficha de una iniciativa dentro del detalle de una votación. */
+function fichaIni(n) {
+  const i = INI[n];
+  if (!i) return '<b>Iniciativa ' + esc(n) + '</b> <span class="muted">(sin ficha todavía)</span>';
+  const pon = (i.ponentes || []).map(x => x.clave && DIP[x.clave] ? `<a class="chip" href="#/diputado/${esc(x.clave)}">${esc(DIP[x.clave].nombre)}</a>` : `<span class="chip">${esc(x.nombre)}</span>`).join('');
+  const pasos = (i.pasos || []).map(x => esc(x.paso) + ' (' + esc(fmtIso(x.fecha)) + ')').join(' → ');
+  return `<div class="inicard"><b>Iniciativa ${esc(n)}</b>${i.titulo ? ': ' + esc(i.titulo) : ' <span class="muted">(título aún no registrado)</span>'}
+    ${i.texto_oficial ? '<p class="muted">Texto oficial: ' + esc(i.texto_oficial) + '</p>' : ''}
+    ${i.fecha_pleno ? '<p><b>Conoció el Pleno:</b> ' + fecha(i.fecha_pleno) + '</p>' : ''}
+    ${pon ? '<p><b>Presentada por:</b></p><div class="chips">' + pon + '</div>' : ''}
+    ${pasos ? '<p><b>Avance:</b> ' + pasos + '</p>' : ''}
+    <p>${i.url ? '<a href="' + esc(i.url) + '" target="_blank" rel="noopener">Ver la iniciativa en el Congreso</a>' : ''}${i.pdf ? ' · <a href="' + esc(i.pdf) + '" target="_blank" rel="noopener">Texto (PDF)</a>' : ''}</p></div>`;
+}
+const recorte = (t, n) => t.length > n ? t.slice(0, n).replace(/\s+\S*$/, '') + '…' : t;
+/* "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE..." -> "Aprobación del artículo 2" */
+const etapa = p => { const m = String(p).match(/^(.*?)\s+(?:DEL|AL|EN EL)\s+PROYECTO\b/i); return bonito(m ? m[1] : p); };
+/* Encabezado de una votación: si trata una iniciativa, se muestra ella (y su título si se conoce) y aparte la etapa que se votó. */
+function encabezado(v) {
+  if (!v.iniciativas.length) return {titulo: bonito(v.pregunta), etapa: '', desc: ''};
+  return {titulo: v.iniciativas.map(n => 'Iniciativa ' + n + (tituloIni(n) ? ': ' + tituloIni(n) : '')).join(' | '),
+          etapa: etapa(v.pregunta), desc: v.iniciativas.map(descIni).filter(Boolean).join(' ')};
+}
 const st = {clase:'debate_final', q:'', n:30, dq:'', dbloque:'', fclase:'debate_final', hl:null, sel:null, nq:'', ndip:''};
 
 /* ---------- hemiciclo ---------- */
@@ -155,21 +186,22 @@ function barra(c) {
 function listaVotaciones() {
   const q = st.q.trim().toLowerCase();
   const L = IDX.votaciones.filter(v => (st.clase === 'todas' || v.clase === st.clase) &&
-    (!q || v.pregunta.toLowerCase().includes(q) || v.iniciativas.some(n => n.includes(q) || tituloIni(n).toLowerCase().includes(q))));
+    (!q || v.pregunta.toLowerCase().includes(q) || v.iniciativas.some(n => n.includes(q) || tituloIni(n).toLowerCase().includes(q) || textoIni(n).toLowerCase().includes(q))));
   if (!L.length) return '<p class="muted">No hay votaciones con esos filtros.</p>';
-  const items = L.slice(0, st.n).map(v => `<a class="vitem" href="#/votacion/${esc(v.id)}">
-      <div class="vmeta"><span>${fecha(v.fecha)}</span><span>Sesión ${esc(v.sesion)}</span>${v.iniciativas.length ? '<span>Iniciativa ' + esc(v.iniciativas.join(', ')) + '</span>' : ''}</div>
-      <div class="vtitle">${esc(bonito(v.pregunta))}</div>
-      ${v.iniciativas.some(tituloIni) ? '<div class="ini">' + esc(v.iniciativas.filter(tituloIni).map(tituloIni).join(' | ')) + '</div>' : ''}
+  const items = L.slice(0, st.n).map(v => { const h = encabezado(v); return `<a class="vitem" href="#/votacion/${esc(v.id)}">
+      <div class="vmeta"><span>${fecha(v.fecha)}</span><span>Sesión ${esc(v.sesion)}</span></div>
+      <div class="vtitle">${esc(h.titulo)}</div>
+      ${h.etapa ? '<div class="etapa">Se votó: ' + esc(h.etapa) + '</div>' : ''}
+      ${h.desc ? '<div class="ini">' + esc(recorte(h.desc, 170)) + '</div>' : ''}
       <div class="bar" aria-hidden="true">${barra(v.conteo)}</div>
-      <div class="vnums">${v.conteo.F} a favor, ${v.conteo.C} en contra, ${v.conteo.X} ausentes, ${v.conteo.L} con licencia</div></a>`).join('');
+      <div class="vnums">${v.conteo.F} a favor, ${v.conteo.C} en contra, ${v.conteo.X} ausentes, ${v.conteo.L} con licencia</div></a>`; }).join('');
   const mas = L.length > st.n ? `<p><button class="btn" data-act="mas">Ver más (${L.length - st.n} restantes)</button></p>` : '';
   return `<p class="muted">${L.length} votaciones</p>` + items + mas;
 }
 function votacionesHTML() {
   const chips = Object.keys(CLASES).map(k => `<button class="chip" data-clase="${k}" aria-pressed="${st.clase === k}">${CLASES[k]}</button>`).join('');
   return `<div class="card"><div class="row two">
-      <div><label for="q">Buscar por texto, número o título de iniciativa</label><input id="q" type="search" value="${esc(st.q)}" placeholder="Por ejemplo: 6844"></div></div>
+      <div><label for="q">Buscar por tema, número o título de iniciativa</label><input id="q" type="search" value="${esc(st.q)}" placeholder="Por ejemplo: 6844"></div></div>
       <div class="chips" style="margin-top:10px">${chips}</div></div>
     <div id="vlista">${listaVotaciones()}</div>`;
 }
@@ -192,9 +224,10 @@ async function votacionHTML(id) {
   const aviso = v.problemas && v.problemas.length ? `<div class="note">Aviso: ${esc(v.problemas.join(' '))}</div>` : '';
   return `<p><a href="#/votaciones">Volver a las votaciones</a></p>
   <div class="card">
-    <h2>${esc(bonito(v.pregunta))}</h2>
-    <div class="vmeta"><span>${fecha(v.fecha)}</span><span>Sesión ${esc(v.sesion)}${v.tipo_sesion ? ' (' + esc(v.tipo_sesion.toLowerCase()) + ')' : ''}</span><span>${esc(CLASES[v.clase])}</span>${v.iniciativas.length ? '<span>Iniciativa ' + esc(v.iniciativas.join(', ')) + '</span>' : ''}</div>
-    ${v.iniciativas.length ? '<div class="note">' + v.iniciativas.map(n => '<b>Iniciativa ' + esc(n) + '</b>' + (tituloIni(n) ? ': ' + esc(tituloIni(n)) : ' <span class="muted">(título aún no registrado)</span>') + (INI[n] && INI[n].url ? ' <a href="' + esc(INI[n].url) + '" target="_blank" rel="noopener">Ver en el Congreso</a>' : '')).join('<br>') + '</div>' : ''}
+    <h2>${esc(encabezado(v).titulo)}</h2>
+    ${encabezado(v).etapa ? '<p class="etapa" style="margin:0 0 6px">Se votó: ' + esc(encabezado(v).etapa) + '</p>' : ''}
+    <div class="vmeta"><span>${fecha(v.fecha)}</span><span>Sesión ${esc(v.sesion)}${v.tipo_sesion ? ' (' + esc(v.tipo_sesion.toLowerCase()) + ')' : ''}</span><span>${esc(CLASES[v.clase])}</span></div>
+    ${v.iniciativas.length ? '<div class="note">' + v.iniciativas.map(fichaIni).join('<hr>') + '</div>' : ''}
     ${aviso}
     <div class="cnts">${['F','C','L','X'].map(k => `<div class="cnt"><span class="sw bg${k}"></span><b>${c[k]}</b><span>${CODIGOS[k]}</span></div>`).join('')}</div>
     <svg class="hemi" viewBox="0 0 700 360" role="img" aria-label="Hemiciclo con cada diputado coloreado por su voto">${puntos}</svg>
@@ -225,7 +258,7 @@ function diputadosHTML() {
 function tablaFicha(h) {
   const L = IDX.votaciones.filter(v => h[v.id] && (st.fclase === 'todas' || v.clase === st.fclase));
   if (!L.length) return '<p class="muted">No hay votaciones de este tipo registradas.</p>';
-  return `<div class="tscroll"><table><thead><tr><th>Fecha</th><th>Votación</th><th>Voto</th></tr></thead><tbody>${L.slice(0, 200).map(v => `<tr><td>${fecha(v.fecha)}</td><td><a href="#/votacion/${esc(v.id)}">${esc(bonito(v.pregunta).slice(0, 140))}</a></td><td><span class="chip"><i class="sw bg${h[v.id]}"></i>${CODIGOS[h[v.id]]}</span></td></tr>`).join('')}</tbody></table></div>${L.length > 200 ? '<p class="muted">Se muestran las 200 más recientes.</p>' : ''}`;
+  return `<div class="tscroll"><table><thead><tr><th>Fecha</th><th>Votación</th><th>Voto</th></tr></thead><tbody>${L.slice(0, 200).map(v => `<tr><td>${fecha(v.fecha)}</td><td><a href="#/votacion/${esc(v.id)}">${esc((() => { const e = encabezado(v); return recorte(e.titulo + (e.etapa ? ' - ' + e.etapa : ''), 160); })())}</a></td><td><span class="chip"><i class="sw bg${h[v.id]}"></i>${CODIGOS[h[v.id]]}</span></td></tr>`).join('')}</tbody></table></div>${L.length > 200 ? '<p class="muted">Se muestran las 200 más recientes.</p>' : ''}`;
 }
 async function fichaHTML(clave) {
   const d = DIP[clave];
@@ -341,7 +374,7 @@ window.addEventListener('hashchange', ruta);
   } catch (e) {
     $('#app').innerHTML = '<div class="card"><p>Todavía no hay datos publicados.</p><p class="muted">' + esc(e.message) + '</p></div>'; return;
   }
-  try { INI = await pedir('datos/iniciativas.json'); } catch (e) { INI = {}; }
+  try { INI = await pedir('datos/sitio/iniciativas.json'); } catch (e) { INI = {}; }
   IDX.diputados.forEach(d => DIP[d.clave] = d);
   IDX.votaciones.forEach(v => VOT[v.id] = v);
   $('#pie').textContent = 'Datos del Congreso de la República de Guatemala. Última actualización: ' + fecha(IDX.generado_en) + '.';
