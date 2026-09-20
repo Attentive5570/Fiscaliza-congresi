@@ -1,0 +1,358 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "15",
+  "fecha": "2026-03-10T12:50:49",
+  "evento_id": 41340,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41340",
+  "listado": {
+    "sesion": 15,
+    "fase": 1,
+    "fecha": "2026-03-10T12:50:49",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-03-10T14:44:03",
+        "votacion_id": 50566,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50566/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50566/41340"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2026-03-10T14:45:29",
+        "votacion_id": 50568,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50568/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50568/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ESMERALDA JUDITH OROZCO NAVARRO COMO MAGISTRADA TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 3,
+        "fecha": "2026-03-10T19:30:17",
+        "votacion_id": 50570,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50570/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50570/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE GIOVANNI FRANCISCO SOTO SANTOS COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 4,
+        "fecha": "2026-03-10T19:32:20",
+        "votacion_id": 50571,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50571/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50571/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JUAN JOSÉ BOLAÑOS MEJÍA COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 5,
+        "fecha": "2026-03-10T19:34:19",
+        "votacion_id": 50572,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50572/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50572/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE WILBER ESTUARDO CASTELLANOS VENEGAS COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 6,
+        "fecha": "2026-03-10T19:36:07",
+        "votacion_id": 50573,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50573/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50573/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MARIO ALEXANDER VELÁSQUEZ PÉREZ COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 7,
+        "fecha": "2026-03-10T19:38:07",
+        "votacion_id": 50574,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50574/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50574/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LESTHER CASTELLANOS RODAS COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 8,
+        "fecha": "2026-03-10T19:40:04",
+        "votacion_id": 50575,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50575/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50575/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JOSÉ ALBERTO GODÍNEZ RODRÍGUEZ COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 9,
+        "fecha": "2026-03-10T19:42:00",
+        "votacion_id": 50576,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50576/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50576/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JOSÉ LUIS DE JESÚS SAMAYOA PALACIOS COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 10,
+        "fecha": "2026-03-10T19:43:52",
+        "votacion_id": 50577,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50577/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50577/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ROBERTO ESTUARDO MORALES GÓMEZ COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 11,
+        "fecha": "2026-03-10T19:45:45",
+        "votacion_id": 50578,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50578/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50578/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE RAFAEL MORALES SOLARES COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 12,
+        "fecha": "2026-03-10T19:47:40",
+        "votacion_id": 50579,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50579/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50579/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ROSA MARIELLA JOSABETH RIVERA ACEVEDO COMO MAGISTRADA TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 13,
+        "fecha": "2026-03-10T19:49:37",
+        "votacion_id": 50580,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50580/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50580/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EVA MARINA RECINOS VÁSQUEZ COMO MAGISTRADA TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 14,
+        "fecha": "2026-03-10T19:51:46",
+        "votacion_id": 50581,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50581/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50581/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JOAQUÍN RODRIGO FLORES GUZMAN COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 15,
+        "fecha": "2026-03-10T19:53:44",
+        "votacion_id": 50582,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50582/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50582/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE SELVIN GUADALUPE GUEVARA FARFÁN COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 16,
+        "fecha": "2026-03-10T19:55:36",
+        "votacion_id": 50583,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50583/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50583/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE FRANCISCO JAVIER PUAC CHOZ COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 17,
+        "fecha": "2026-03-10T19:57:26",
+        "votacion_id": 50584,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50584/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50584/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE KARIN VIRGINIA ROMERO FIGUEROA COMO MAGISTRADA TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 18,
+        "fecha": "2026-03-10T19:59:23",
+        "votacion_id": 50585,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50585/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50585/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE QUELVIN OTONIEL JIMÉNEZ VILLALTA COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 19,
+        "fecha": "2026-03-10T20:01:15",
+        "votacion_id": 50586,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50586/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50586/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE SERGIO AMADEO PINEDA CASTAÑEDA COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 20,
+        "fecha": "2026-03-10T20:03:11",
+        "votacion_id": 50587,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50587/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50587/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JULIO CESÁR RECINOS FABIAN COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 21,
+        "fecha": "2026-03-10T20:05:04",
+        "votacion_id": 50588,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50588/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50588/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ALFREDO SKINNER-KLÉE ARENALES COMO MAGISTRADO TITULAR DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 22,
+        "fecha": "2026-03-10T20:06:57",
+        "votacion_id": 50589,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50589/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50589/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ESMERALDA JUDITH OROZCO NAVARRO COMO MAGISTRADA SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 23,
+        "fecha": "2026-03-10T20:14:17",
+        "votacion_id": 50591,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50591/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50591/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE GIOVANNI FRANCISCO SOTO SANTOS COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 24,
+        "fecha": "2026-03-10T20:16:09",
+        "votacion_id": 50592,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50592/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50592/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JUAN JOSÉ BOLAÑOS MEJÍA COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 25,
+        "fecha": "2026-03-10T20:18:04",
+        "votacion_id": 50593,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50593/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50593/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE WILBER ESTUARDO CASTELLANOS VENEGAS COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PERÍODO 2026-2032",
+        "numero_pregunta": 26,
+        "fecha": "2026-03-10T20:20:23",
+        "votacion_id": 50614,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50614/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50614/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LESTHER CASTELLANOS RODAS COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 27,
+        "fecha": "2026-03-10T20:22:22",
+        "votacion_id": 50596,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50596/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50596/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JOSÉ ALBERTO GODÍNEZ RODRÍGUEZ COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 28,
+        "fecha": "2026-03-10T20:24:27",
+        "votacion_id": 50597,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50597/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50597/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JOSÉ LUIS DE JESÚS SAMAYOA PALACIOS COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 29,
+        "fecha": "2026-03-10T20:26:24",
+        "votacion_id": 50598,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50598/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50598/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE RAFAEL MORALES SOLARES COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 30,
+        "fecha": "2026-03-10T20:28:33",
+        "votacion_id": 50600,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50600/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50600/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EVA MARINA RECINOS VÁSQUEZ COMO MAGISTRADA SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 31,
+        "fecha": "2026-03-10T20:30:28",
+        "votacion_id": 50602,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50602/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50602/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JOAQUÍN RODRIGO FLORES GUZMAN COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 32,
+        "fecha": "2026-03-10T20:32:24",
+        "votacion_id": 50603,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50603/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50603/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE SELVIN GUADALUPE GUEVARA FARFÁN COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 33,
+        "fecha": "2026-03-10T20:34:20",
+        "votacion_id": 50604,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50604/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50604/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE FRANCISCO JAVIER PUAC CHOZ COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 34,
+        "fecha": "2026-03-10T20:36:17",
+        "votacion_id": 50605,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50605/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50605/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE SERGIO AMADEO PINEDA CASTAÑEDA COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 35,
+        "fecha": "2026-03-10T20:38:20",
+        "votacion_id": 50608,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50608/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50608/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JULIO CESÁR RECINOS FABIAN COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 36,
+        "fecha": "2026-03-10T20:40:15",
+        "votacion_id": 50609,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50609/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50609/41340"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ALFREDO SKINNER-KLÉE ARENALES COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL PARA EL PERÍODO 2026-2032",
+        "numero_pregunta": 37,
+        "fecha": "2026-03-10T20:42:14",
+        "votacion_id": 50610,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50610/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50610/41340"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (MAGISTRADOS TITULARES Y SUPLENTES DEL TSE PERIODO 2026-2032)",
+        "numero_pregunta": 38,
+        "fecha": "2026-03-10T20:53:26",
+        "votacion_id": 50613,
+        "evento_id": 41340,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50613/41340",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50613/41340"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T00:55:24+00:00"
+}

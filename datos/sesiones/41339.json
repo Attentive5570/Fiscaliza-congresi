@@ -1,0 +1,808 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "14",
+  "fecha": "2026-03-05T09:02:54",
+  "evento_id": 41339,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41339",
+  "listado": {
+    "sesion": 14,
+    "fase": 1,
+    "fecha": "2026-03-05T09:02:54",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN PARA LIMITAR EL TIEMPO DEL USO DE LA PALABRA",
+        "numero_pregunta": 1,
+        "fecha": "2026-03-05T15:00:11",
+        "votacion_id": 50558,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50558/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50558/41339"
+      },
+      {
+        "pregunta": "APROBACIÓN PARA LIMITAR EL TIEMPO DEL USO DE LA PALABRA",
+        "numero_pregunta": 2,
+        "fecha": "2026-03-05T18:41:27",
+        "votacion_id": 50559,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50559/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50559/41339"
+      },
+      {
+        "pregunta": "APROBACIÓN PARA LIMITAR EL TIEMPO DEL USO DE LA PALABRA",
+        "numero_pregunta": 3,
+        "fecha": "2026-03-05T20:55:19",
+        "votacion_id": 50562,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50562/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50562/41339"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 4,
+        "fecha": "2026-03-05T22:51:32",
+        "votacion_id": 50474,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50474/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50474/41339"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 5,
+        "fecha": "2026-03-05T23:16:19",
+        "votacion_id": 50555,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50555/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50555/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE SORIA TOLEDO CASTAÑEDA COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 6,
+        "fecha": "2026-03-05T23:36:49",
+        "votacion_id": 50475,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50475/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50475/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LESTER JOSUÉ ESCOBAR MUÑOZ COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 7,
+        "fecha": "2026-03-05T23:39:14",
+        "votacion_id": 50476,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50476/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50476/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ADRIÁN ROLANDO RODRÍGUEZ ARANA COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 8,
+        "fecha": "2026-03-05T23:41:37",
+        "votacion_id": 50477,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50477/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50477/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE RONY WALDEMAR FUENTES FUENTES COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 9,
+        "fecha": "2026-03-05T23:44:01",
+        "votacion_id": 50478,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50478/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50478/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE HELIOS ROMEO GÓMEZ BAL COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 10,
+        "fecha": "2026-03-05T23:46:38",
+        "votacion_id": 50479,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50479/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50479/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MANUEL DE JESÚS MEJICANOS JIMÉNEZ COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 11,
+        "fecha": "2026-03-05T23:49:03",
+        "votacion_id": 50480,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50480/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50480/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CLAUDIA ELIZABETH PANIAGUA PEREZ COMO MAGISTRADA TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 12,
+        "fecha": "2026-03-05T23:51:32",
+        "votacion_id": 50481,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50481/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50481/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JULIO ALFONSO AGUSTÍN DEL VALLE COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 13,
+        "fecha": "2026-03-05T23:53:57",
+        "votacion_id": 50482,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50482/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50482/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE HELEN JOHANA ZEPEDA AGUILAR COMO MAGISTRADA TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 14,
+        "fecha": "2026-03-05T23:56:29",
+        "votacion_id": 50483,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50483/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50483/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS EDUARDO LÓPEZ RAMOS COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 15,
+        "fecha": "2026-03-05T23:58:49",
+        "votacion_id": 50484,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50484/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50484/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ROBERTO MOLINA BARRETO COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 16,
+        "fecha": "2026-03-06T00:01:14",
+        "votacion_id": 50485,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50485/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50485/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS ALFONSO ROSALES MARROQUÍN COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 17,
+        "fecha": "2026-03-06T00:03:53",
+        "votacion_id": 50486,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50486/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50486/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE DAVID ALBERTO JUARÉZ ALDANA COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 18,
+        "fecha": "2026-03-06T00:06:19",
+        "votacion_id": 50487,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50487/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50487/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE WILBER GERARDO ENRÍQUEZ JOCOL COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 19,
+        "fecha": "2026-03-06T00:08:57",
+        "votacion_id": 50488,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50488/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50488/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ANIBAL CHILEL CHÁVEZ COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 20,
+        "fecha": "2026-03-06T00:11:25",
+        "votacion_id": 50489,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50489/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50489/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ELBA LORENA FLORES ALVARADO COMO MAGISTRADA TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 21,
+        "fecha": "2026-03-06T00:14:14",
+        "votacion_id": 50490,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50490/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50490/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MANUEL REGINALDO DUARTE BARRERA COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 22,
+        "fecha": "2026-03-06T00:16:57",
+        "votacion_id": 50491,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50491/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50491/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS ARTURO QUIÑONEZ GIL COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 23,
+        "fecha": "2026-03-06T00:19:32",
+        "votacion_id": 50492,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50492/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50492/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS ALEXIS CALDERÓN MALDONADO COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 24,
+        "fecha": "2026-03-06T00:21:55",
+        "votacion_id": 50493,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50493/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50493/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE HORACIO ENRÍQUEZ SÁNCHEZ COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 25,
+        "fecha": "2026-03-06T00:24:23",
+        "votacion_id": 50494,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50494/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50494/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JULIO FERNANDO MELGAR PEÑA COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 26,
+        "fecha": "2026-03-06T00:26:52",
+        "votacion_id": 50495,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50495/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50495/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE RONY EULALIO LÓPEZ CONTRERAS COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 27,
+        "fecha": "2026-03-06T00:29:30",
+        "votacion_id": 50496,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50496/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50496/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EVELYN YOLANDA RODRÍGUEZ POZUELOS COMO MAGISTRADA TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 28,
+        "fecha": "2026-03-06T00:31:56",
+        "votacion_id": 50497,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50497/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50497/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CARLOS ENRIQUE BARRIOS CIFUENTES COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 29,
+        "fecha": "2026-03-06T00:34:20",
+        "votacion_id": 50498,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50498/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50498/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ROBERTO MANUEL ANGEL FLORES RIVERA COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 30,
+        "fecha": "2026-03-06T00:36:57",
+        "votacion_id": 50499,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50499/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50499/41339"
+      },
+      {
+        "pregunta": "ELECCION DE ESTUARDO MORATAYA LÉMUS COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 31,
+        "fecha": "2026-03-06T00:39:28",
+        "votacion_id": 50500,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50500/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50500/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE NOÉ ADALBERTO VENTURA LOYO COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 32,
+        "fecha": "2026-03-06T00:42:00",
+        "votacion_id": 50501,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50501/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50501/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ARKEL BENÍTEZ MENDIZÁBAL COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 33,
+        "fecha": "2026-03-06T00:44:30",
+        "votacion_id": 50502,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50502/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50502/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE DASMA JANINA GUILLÉN FLORES COMO MAGISTRADA TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 34,
+        "fecha": "2026-03-06T00:46:52",
+        "votacion_id": 50503,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50503/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50503/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JUAN LUIS AGUILAR SALGUERO COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 35,
+        "fecha": "2026-03-06T00:49:16",
+        "votacion_id": 50504,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50504/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50504/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ANA ISABEL ANTILLON COMO MAGISTRADA TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 36,
+        "fecha": "2026-03-06T00:51:43",
+        "votacion_id": 50505,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50505/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50505/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ALEJANDRO ARÉVALO COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 37,
+        "fecha": "2026-03-06T00:54:21",
+        "votacion_id": 50506,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50506/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50506/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE HUGO ESTUARDO ROSALES LÓPEZ COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 38,
+        "fecha": "2026-03-06T00:56:47",
+        "votacion_id": 50507,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50507/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50507/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE FLOR DE MARÍA GALVEZ BARRIOS COMO MAGISTRADA TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 39,
+        "fecha": "2026-03-06T00:59:12",
+        "votacion_id": 50508,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50508/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50508/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE PAOLO RUBÉN SIMILOX VALIENTE COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 40,
+        "fecha": "2026-03-06T01:01:46",
+        "votacion_id": 50509,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50509/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50509/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE WALTER PAULINO JIMÉNEZ TEXAJ COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 41,
+        "fecha": "2026-03-06T01:04:13",
+        "votacion_id": 50510,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50510/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50510/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE DAVID ESTEBAN PINEDA BARRIOS COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 42,
+        "fecha": "2026-03-06T01:06:44",
+        "votacion_id": 50511,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50511/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50511/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CLAUDIA CÁCERES ARRIAZA COMO MAGISTRADA TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 43,
+        "fecha": "2026-03-06T01:09:10",
+        "votacion_id": 50512,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50512/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50512/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MELVIN GIOVANNI PORTILLO AREVALO COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 44,
+        "fecha": "2026-03-06T01:11:41",
+        "votacion_id": 50513,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50513/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50513/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE RENÉ GUILLERMO GIRÓN PALACIOS COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 45,
+        "fecha": "2026-03-06T01:14:10",
+        "votacion_id": 50514,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50514/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50514/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CARLOS HERRERA TORRES COMO MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 46,
+        "fecha": "2026-03-06T01:16:34",
+        "votacion_id": 50515,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50515/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50515/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JARY LETICIA MÉNDEZ MADDALENO COMO MAGISTRADA TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 47,
+        "fecha": "2026-03-06T01:19:01",
+        "votacion_id": 50516,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50516/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50516/41339"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (MAGISTRADO TITULAR DE LA CORTE DE CONSTITUCIONALIDAD PERÍODO 2026-2031)",
+        "numero_pregunta": 48,
+        "fecha": "2026-03-06T02:07:48",
+        "votacion_id": 50469,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50469/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50469/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LESTER JOSUÉ ESCOBAR MUÑOZ COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 49,
+        "fecha": "2026-03-06T02:10:07",
+        "votacion_id": 50517,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50517/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50517/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ADRIÁN ROLANDO RODRÍGUEZ ARANA COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 50,
+        "fecha": "2026-03-06T02:12:26",
+        "votacion_id": 50518,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50518/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50518/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE RONY WALDEMAR FUENTES FUENTES COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 51,
+        "fecha": "2026-03-06T02:14:44",
+        "votacion_id": 50519,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50519/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50519/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE HELIOS ROMEO GÓMEZ BAL COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 52,
+        "fecha": "2026-03-06T02:17:20",
+        "votacion_id": 50520,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50520/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50520/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MANUEL DE JESÚS MEJICANOS JIMÉNEZ COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 53,
+        "fecha": "2026-03-06T02:19:36",
+        "votacion_id": 50521,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50521/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50521/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CLAUDIA ELIZABETH PANIAGUA PEREZ COMO MAGISTRADA SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 54,
+        "fecha": "2026-03-06T02:21:51",
+        "votacion_id": 50522,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50522/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50522/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JULIO ALFONSO AGUSTÍN DEL VALLE COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 55,
+        "fecha": "2026-03-06T02:24:08",
+        "votacion_id": 50523,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50523/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50523/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE KARINA BEATRIZ GONZALEZ ESCOBAR COMO MAGISTRADA SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 56,
+        "fecha": "2026-03-06T02:26:27",
+        "votacion_id": 50524,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50524/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50524/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE HELEN JOHANA ZEPEDA AGUILAR COMO MAGISTRADA SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 57,
+        "fecha": "2026-03-06T02:28:45",
+        "votacion_id": 50525,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50525/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50525/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS EDUARDO LÓPEZ RAMOS COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 58,
+        "fecha": "2026-03-06T02:31:02",
+        "votacion_id": 50526,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50526/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50526/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS ALFONSO ROSALES MARROQUÍN COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 59,
+        "fecha": "2026-03-06T02:33:14",
+        "votacion_id": 50527,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50527/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50527/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE DAVID ALBERTO JUARÉZ ALDANA COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 60,
+        "fecha": "2026-03-06T02:35:31",
+        "votacion_id": 50528,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50528/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50528/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ANIBAL CHILEL CHÁVEZ COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 61,
+        "fecha": "2026-03-06T02:37:38",
+        "votacion_id": 50529,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50529/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50529/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ELBA LORENA FLORES ALVARADO COMO MAGISTRADA SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 62,
+        "fecha": "2026-03-06T02:39:51",
+        "votacion_id": 50530,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50530/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50530/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MANUEL REGINALDO DUARTE BARRERA COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 63,
+        "fecha": "2026-03-06T02:42:08",
+        "votacion_id": 50531,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50531/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50531/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS ARTURO QUIÑONEZ GIL COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 64,
+        "fecha": "2026-03-06T02:44:16",
+        "votacion_id": 50532,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50532/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50532/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS ALEXIS CALDERÓN MALDONADO COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 65,
+        "fecha": "2026-03-06T02:46:34",
+        "votacion_id": 50533,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50533/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50533/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JULIO FERNANDO MELGAR PEÑA COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 66,
+        "fecha": "2026-03-06T02:48:50",
+        "votacion_id": 50535,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50535/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50535/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EVELYN YOLANDA RODRÍGUEZ POZUELOS COMO MAGISTRADA SUPLENT DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 67,
+        "fecha": "2026-03-06T02:51:07",
+        "votacion_id": 50536,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50536/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50536/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CARLOS ENRIQUE BARRIOS CIFUENTES COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 68,
+        "fecha": "2026-03-06T02:53:17",
+        "votacion_id": 50537,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50537/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50537/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ROBERTO MANUEL ANGEL FLORES RIVERA COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 69,
+        "fecha": "2026-03-06T02:55:35",
+        "votacion_id": 50538,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50538/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50538/41339"
+      },
+      {
+        "pregunta": "ELECCION DE ESTUARDO MORATAYA LÉMUS COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 70,
+        "fecha": "2026-03-06T02:57:47",
+        "votacion_id": 50539,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50539/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50539/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE NOÉ ADALBERTO VENTURA LOYO COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 71,
+        "fecha": "2026-03-06T03:00:05",
+        "votacion_id": 50540,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50540/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50540/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ARKEL BENÍTEZ MEDIZÁBAL COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 72,
+        "fecha": "2026-03-06T03:02:22",
+        "votacion_id": 50541,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50541/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50541/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE DASMA JANINA GUILLÉN FLORES COMO MAGISTRADA SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 73,
+        "fecha": "2026-03-06T03:04:36",
+        "votacion_id": 50542,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50542/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50542/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JUAN LUIS AGUILAR SALGUERO COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 74,
+        "fecha": "2026-03-06T03:06:55",
+        "votacion_id": 50543,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50543/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50543/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MILTON ROBERTO ESTUARDO RIVEIRO GONZALEZ COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 75,
+        "fecha": "2026-03-06T03:09:11",
+        "votacion_id": 50544,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50544/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50544/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ANA ISABEL ANTILLON COMO MAGISTRADA SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 76,
+        "fecha": "2026-03-06T03:11:24",
+        "votacion_id": 50545,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50545/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50545/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ALEJANDRO ARÉVALO COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 77,
+        "fecha": "2026-03-06T03:13:49",
+        "votacion_id": 50546,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50546/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50546/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE HUGO ESTUARDO ROSALES LÓPEZ COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 78,
+        "fecha": "2026-03-06T03:16:09",
+        "votacion_id": 50547,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50547/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50547/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EDWIN DANILO VELÁSQUEZ ORÓZCO COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 79,
+        "fecha": "2026-03-06T03:18:39",
+        "votacion_id": 50548,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50548/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50548/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE PAOLO RUBÉN SIMILOX VALIENTE COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 80,
+        "fecha": "2026-03-06T03:20:36",
+        "votacion_id": 50549,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50549/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50549/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE WALTER PAULINO JIMÉNEZ TEXAJ COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 81,
+        "fecha": "2026-03-06T03:22:58",
+        "votacion_id": 50550,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50550/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50550/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE DAVID ESTEBAN PINEDA BARRIOS COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 82,
+        "fecha": "2026-03-06T03:25:18",
+        "votacion_id": 50551,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50551/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50551/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CLAUDIA CÁCERES ARRIAZA COMO MAGISTRADA SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 83,
+        "fecha": "2026-03-06T03:27:34",
+        "votacion_id": 50552,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50552/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50552/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MELVIN GIOVANNI PORTILLO AREVALO COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 84,
+        "fecha": "2026-03-06T03:29:46",
+        "votacion_id": 50553,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50553/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50553/41339"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CARLOS HERRERA TORRES COMO MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PARA EL PERÍODO 2026-2031",
+        "numero_pregunta": 85,
+        "fecha": "2026-03-06T03:32:06",
+        "votacion_id": 50554,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50554/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50554/41339"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD PERÍODO 2026-2031)",
+        "numero_pregunta": 86,
+        "fecha": "2026-03-06T03:37:32",
+        "votacion_id": 50470,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50470/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50470/41339"
+      },
+      {
+        "pregunta": "CONSULTA AL PLENO SOBRE EL RETIRO DE LA MOCIÓN",
+        "numero_pregunta": 87,
+        "fecha": "2026-03-06T04:23:26",
+        "votacion_id": 50565,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50565/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50565/41339"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE RODRÍGUEZ)",
+        "numero_pregunta": 88,
+        "fecha": "2026-03-06T04:24:34",
+        "votacion_id": 50564,
+        "evento_id": 41339,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50564/41339",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50564/41339"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T01:02:02+00:00"
+}

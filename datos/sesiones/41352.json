@@ -1,0 +1,34 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "24",
+  "fecha": "2026-04-16T08:54:52",
+  "evento_id": 41352,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41352",
+  "listado": {
+    "sesion": 24,
+    "fase": 1,
+    "fecha": "2026-04-16T08:54:52",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-04-16T10:13:56",
+        "votacion_id": 50805,
+        "evento_id": 41352,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50805/41352",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50805/41352"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2026-04-16T10:16:33",
+        "votacion_id": 50806,
+        "evento_id": 41352,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50806/41352",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50806/41352"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T00:45:02+00:00"
+}

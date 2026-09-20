@@ -1,0 +1,241 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "17",
+  "fecha": "2026-03-17T01:00:37",
+  "evento_id": 41344,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41344",
+  "listado": {
+    "sesion": 17,
+    "fase": 1,
+    "fecha": "2026-03-17T01:00:37",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-03-17T14:49:26",
+        "votacion_id": 50620,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50620/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50620/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2026-03-17T14:50:32",
+        "votacion_id": 50622,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50622/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50622/41344"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DE RENUNCIAS (MAGISTRADO TITULAR DE LA CORTE DE APELACIONES Y OTROS TRIBUNALES COLEGIADOS DE IGUAL CATEGORÍA)",
+        "numero_pregunta": 3,
+        "fecha": "2026-03-17T15:27:37",
+        "votacion_id": 50624,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50624/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50624/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA URGENCIA NACIONAL 6731",
+        "numero_pregunta": 4,
+        "fecha": "2026-03-17T15:48:34",
+        "votacion_id": 50625,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50625/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50625/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6731",
+        "numero_pregunta": 5,
+        "fecha": "2026-03-17T15:50:20",
+        "votacion_id": 50630,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50630/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50630/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6731",
+        "numero_pregunta": 6,
+        "fecha": "2026-03-17T15:53:16",
+        "votacion_id": 50631,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50631/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50631/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6731",
+        "numero_pregunta": 7,
+        "fecha": "2026-03-17T15:54:53",
+        "votacion_id": 50632,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50632/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50632/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6731",
+        "numero_pregunta": 8,
+        "fecha": "2026-03-17T15:58:15",
+        "votacion_id": 50633,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50633/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50633/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6731",
+        "numero_pregunta": 9,
+        "fecha": "2026-03-17T16:02:54",
+        "votacion_id": 50634,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50634/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50634/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (MAGISTRADOS TITULARES Y SUPLENTES DE LA CORTE DE CONSTITUCIONALIDAD 2026-2031)",
+        "numero_pregunta": 10,
+        "fecha": "2026-03-17T16:08:10",
+        "votacion_id": 50626,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50626/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50626/41344"
+      },
+      {
+        "pregunta": "ELECCIÓN DE HELLEN MAGALY ALEXÁNDRA AJCIP CANEL COMO INTEGRANTE DE LA COMISIÓN DE DERECHOS HUMANOS",
+        "numero_pregunta": 11,
+        "fecha": "2026-03-17T16:11:20",
+        "votacion_id": 50635,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50635/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50635/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (COMISIÓN DE DERECHOS HUMANOS)",
+        "numero_pregunta": 12,
+        "fecha": "2026-03-17T16:15:02",
+        "votacion_id": 50636,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50636/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50636/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 13,
+        "fecha": "2026-03-17T16:16:50",
+        "votacion_id": 50637,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50637/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50637/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 14,
+        "fecha": "2026-03-17T16:18:48",
+        "votacion_id": 50638,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50638/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50638/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 15,
+        "fecha": "2026-03-17T16:23:02",
+        "votacion_id": 50639,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50639/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50639/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 16,
+        "fecha": "2026-03-17T16:25:06",
+        "votacion_id": 50640,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50640/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50640/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 17,
+        "fecha": "2026-03-17T16:28:01",
+        "votacion_id": 50642,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50642/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50642/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 18,
+        "fecha": "2026-03-17T16:30:20",
+        "votacion_id": 50643,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50643/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50643/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 19,
+        "fecha": "2026-03-17T16:32:09",
+        "votacion_id": 50644,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50644/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50644/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 20,
+        "fecha": "2026-03-17T16:35:37",
+        "votacion_id": 50646,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50646/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50646/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ANTES DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 21,
+        "fecha": "2026-03-17T16:38:14",
+        "votacion_id": 50647,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50647/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50647/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 22,
+        "fecha": "2026-03-17T16:40:22",
+        "votacion_id": 50648,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50648/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50648/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 23,
+        "fecha": "2026-03-17T16:41:35",
+        "votacion_id": 50649,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50649/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50649/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 24,
+        "fecha": "2026-03-17T16:43:48",
+        "votacion_id": 50651,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50651/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50651/41344"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6564",
+        "numero_pregunta": 25,
+        "fecha": "2026-03-17T16:49:42",
+        "votacion_id": 50652,
+        "evento_id": 41344,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50652/41344",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50652/41344"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T00:52:27+00:00"
+}

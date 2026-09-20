@@ -1,0 +1,430 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "23",
+  "fecha": "2026-04-14T12:44:24",
+  "evento_id": 41351,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41351",
+  "listado": {
+    "sesion": 23,
+    "fase": 1,
+    "fecha": "2026-04-14T12:44:24",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-04-14T14:50:31",
+        "votacion_id": 50739,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50739/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50739/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2026-04-14T14:53:09",
+        "votacion_id": 50740,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50740/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50740/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6593",
+        "numero_pregunta": 3,
+        "fecha": "2026-04-14T16:03:38",
+        "votacion_id": 50741,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50741/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50741/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA RETORNO A COMISIÓN (6347)",
+        "numero_pregunta": 4,
+        "fecha": "2026-04-14T16:50:48",
+        "votacion_id": 50746,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50746/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50746/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL ( REPRESENTANTE CHOCOOJ)",
+        "numero_pregunta": 5,
+        "fecha": "2026-04-14T16:54:58",
+        "votacion_id": 50749,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50749/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50749/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (6616)",
+        "numero_pregunta": 6,
+        "fecha": "2026-04-14T17:03:04",
+        "votacion_id": 50745,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50745/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50745/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6616",
+        "numero_pregunta": 7,
+        "fecha": "2026-04-14T17:49:07",
+        "votacion_id": 50747,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50747/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50747/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 8,
+        "fecha": "2026-04-14T18:07:59",
+        "votacion_id": 50751,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50751/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50751/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 9,
+        "fecha": "2026-04-14T18:12:49",
+        "votacion_id": 50764,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50764/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50764/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 10,
+        "fecha": "2026-04-14T18:14:55",
+        "votacion_id": 50765,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50765/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50765/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 11,
+        "fecha": "2026-04-14T18:16:56",
+        "votacion_id": 50766,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50766/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50766/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 12,
+        "fecha": "2026-04-14T18:19:30",
+        "votacion_id": 50771,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50771/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50771/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 13,
+        "fecha": "2026-04-14T18:22:43",
+        "votacion_id": 50773,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50773/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50773/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 14,
+        "fecha": "2026-04-14T18:23:58",
+        "votacion_id": 50775,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50775/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50775/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 15,
+        "fecha": "2026-04-14T18:26:26",
+        "votacion_id": 50776,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50776/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50776/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 16,
+        "fecha": "2026-04-14T18:28:48",
+        "votacion_id": 50777,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50777/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50777/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 17,
+        "fecha": "2026-04-14T18:31:52",
+        "votacion_id": 50780,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50780/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50780/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 18,
+        "fecha": "2026-04-14T18:32:50",
+        "votacion_id": 50781,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50781/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50781/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 19,
+        "fecha": "2026-04-14T18:34:26",
+        "votacion_id": 50759,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50759/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50759/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 20,
+        "fecha": "2026-04-14T18:36:48",
+        "votacion_id": 50778,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50778/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50778/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 9 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 21,
+        "fecha": "2026-04-14T18:37:51",
+        "votacion_id": 50779,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50779/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50779/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ANTES DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 22,
+        "fecha": "2026-04-14T18:42:31",
+        "votacion_id": 50783,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50783/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50783/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 23,
+        "fecha": "2026-04-14T18:43:45",
+        "votacion_id": 50761,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50761/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50761/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 24,
+        "fecha": "2026-04-14T18:47:41",
+        "votacion_id": 50782,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50782/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50782/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 25,
+        "fecha": "2026-04-14T18:48:34",
+        "votacion_id": 50762,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50762/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50762/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6355-6430",
+        "numero_pregunta": 26,
+        "fecha": "2026-04-14T18:56:19",
+        "votacion_id": 50763,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50763/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50763/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA Y ENTRAR A CONOCER LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 27,
+        "fecha": "2026-04-14T19:22:43",
+        "votacion_id": 50750,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50750/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50750/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (URGENCIA NACIONAL 6756)",
+        "numero_pregunta": 28,
+        "fecha": "2026-04-14T19:29:58",
+        "votacion_id": 50769,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50769/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50769/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 29,
+        "fecha": "2026-04-14T19:31:48",
+        "votacion_id": 50784,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50784/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50784/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 30,
+        "fecha": "2026-04-14T19:33:56",
+        "votacion_id": 50785,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50785/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50785/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 31,
+        "fecha": "2026-04-14T19:35:30",
+        "votacion_id": 50786,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50786/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50786/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 32,
+        "fecha": "2026-04-14T19:38:30",
+        "votacion_id": 50787,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50787/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50787/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 33,
+        "fecha": "2026-04-14T19:40:34",
+        "votacion_id": 50788,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50788/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50788/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 34,
+        "fecha": "2026-04-14T19:45:26",
+        "votacion_id": 50789,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50789/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50789/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 35,
+        "fecha": "2026-04-14T19:46:53",
+        "votacion_id": 50790,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50790/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50790/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 36,
+        "fecha": "2026-04-14T19:48:42",
+        "votacion_id": 50791,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50791/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50791/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 37,
+        "fecha": "2026-04-14T19:52:19",
+        "votacion_id": 50792,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50792/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50792/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 38,
+        "fecha": "2026-04-14T19:58:44",
+        "votacion_id": 50801,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50801/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50801/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 39,
+        "fecha": "2026-04-14T20:01:14",
+        "votacion_id": 50793,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50793/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50793/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 40,
+        "fecha": "2026-04-14T20:05:04",
+        "votacion_id": 50794,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50794/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50794/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 41,
+        "fecha": "2026-04-14T20:13:08",
+        "votacion_id": 50804,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50804/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50804/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 42,
+        "fecha": "2026-04-14T20:16:50",
+        "votacion_id": 50795,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50795/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50795/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 43,
+        "fecha": "2026-04-14T20:19:15",
+        "votacion_id": 50799,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50799/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50799/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 12 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 44,
+        "fecha": "2026-04-14T20:20:35",
+        "votacion_id": 50800,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50800/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50800/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 45,
+        "fecha": "2026-04-14T20:23:38",
+        "votacion_id": 50797,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50797/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50797/41351"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6756",
+        "numero_pregunta": 46,
+        "fecha": "2026-04-14T20:36:26",
+        "votacion_id": 50798,
+        "evento_id": 41351,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50798/41351",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50798/41351"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T00:48:30+00:00"
+}

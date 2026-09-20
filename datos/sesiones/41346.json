@@ -1,0 +1,15 @@
+{
+  "tipo": "Solemne",
+  "numero": "2",
+  "fecha": "2026-03-24T11:59:03",
+  "evento_id": 41346,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41346",
+  "listado": {
+    "sesion": 2,
+    "fase": 1,
+    "fecha": "2026-03-24T11:59:03",
+    "tipo": "Solemne",
+    "votaciones": []
+  },
+  "recolectado_en": "2026-09-20T00:50:20+00:00"
+}

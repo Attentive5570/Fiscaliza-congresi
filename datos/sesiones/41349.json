@@ -1,0 +1,151 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "21",
+  "fecha": "2026-04-07T12:59:36",
+  "evento_id": 41349,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41349",
+  "listado": {
+    "sesion": 21,
+    "fase": 1,
+    "fecha": "2026-04-07T12:59:36",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-04-07T14:50:21",
+        "votacion_id": 50691,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50691/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50691/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2026-04-07T14:51:57",
+        "votacion_id": 50693,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50693/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50693/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (6747)",
+        "numero_pregunta": 3,
+        "fecha": "2026-04-07T16:05:33",
+        "votacion_id": 50697,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50697/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50697/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6527-6541",
+        "numero_pregunta": 4,
+        "fecha": "2026-04-07T16:13:28",
+        "votacion_id": 50695,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50695/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50695/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO CONDECORACIÓN DENOMINADA \"SOBERANO CONGRESO NACIONAL\" (LESTER NORMANDY MARTÍNEZ TUT)",
+        "numero_pregunta": 5,
+        "fecha": "2026-04-07T16:53:48",
+        "votacion_id": 50696,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50696/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50696/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO CONDECORACIÓN DENOMINADA \"SOBERANO CONGRESO NACIONAL\" (JOSHUA KEVIN ANTÓN)",
+        "numero_pregunta": 6,
+        "fecha": "2026-04-07T16:59:34",
+        "votacion_id": 50704,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50704/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50704/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (CREAR COMISIÓN)",
+        "numero_pregunta": 7,
+        "fecha": "2026-04-07T17:20:23",
+        "votacion_id": 50729,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50729/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50729/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (6729)",
+        "numero_pregunta": 8,
+        "fecha": "2026-04-07T17:26:03",
+        "votacion_id": 50699,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50699/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50699/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (6741)",
+        "numero_pregunta": 9,
+        "fecha": "2026-04-07T17:31:15",
+        "votacion_id": 50727,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50727/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50727/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (6749)",
+        "numero_pregunta": 10,
+        "fecha": "2026-04-07T17:36:47",
+        "votacion_id": 50731,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50731/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50731/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (6742)",
+        "numero_pregunta": 11,
+        "fecha": "2026-04-07T19:10:22",
+        "votacion_id": 50702,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50702/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50702/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (URGENCIA NACIONAL 6742)",
+        "numero_pregunta": 12,
+        "fecha": "2026-04-07T19:20:09",
+        "votacion_id": 50701,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50701/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50701/41349"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DEL DICTAMEN DE LA COMISIÓN DE ECONOMÍA Y COMERCIO EXTERIOR (6705-6707)",
+        "numero_pregunta": 13,
+        "fecha": "2026-04-07T21:53:09",
+        "votacion_id": 50733,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50733/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50733/41349"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DEL DICTAMEN DE LA COMISIÓN DE FINANZAS PÚBLICAS Y MONEDA (6705-6707)",
+        "numero_pregunta": 14,
+        "fecha": "2026-04-07T21:54:58",
+        "votacion_id": 50135,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50135/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50135/41349"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (6750)",
+        "numero_pregunta": 15,
+        "fecha": "2026-04-07T22:42:06",
+        "votacion_id": 50734,
+        "evento_id": 41349,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50734/41349",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50734/41349"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T00:49:49+00:00"
+}
