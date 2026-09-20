@@ -1,0 +1,232 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "8",
+  "fecha": "2026-02-10T12:59:08",
+  "evento_id": 41332,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41332",
+  "listado": {
+    "sesion": 8,
+    "fase": 1,
+    "fecha": "2026-02-10T12:59:08",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-02-10T14:54:54",
+        "votacion_id": 50270,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50270/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50270/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2026-02-10T14:58:42",
+        "votacion_id": 50272,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50272/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50272/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA Y SE ENTRE A CONOCER EN ESTE MOMENTO DE URGENCIA NACIONAL LA INICIATIVA CON REGISTRO 6697",
+        "numero_pregunta": 3,
+        "fecha": "2026-02-10T15:57:46",
+        "votacion_id": 50281,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50281/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50281/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6697",
+        "numero_pregunta": 4,
+        "fecha": "2026-02-10T16:01:17",
+        "votacion_id": 50282,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50282/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50282/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6697",
+        "numero_pregunta": 5,
+        "fecha": "2026-02-10T16:05:34",
+        "votacion_id": 50289,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50289/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50289/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6697",
+        "numero_pregunta": 6,
+        "fecha": "2026-02-10T16:06:58",
+        "votacion_id": 50290,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50290/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50290/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6697",
+        "numero_pregunta": 7,
+        "fecha": "2026-02-10T16:09:39",
+        "votacion_id": 50287,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50287/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50287/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6697",
+        "numero_pregunta": 8,
+        "fecha": "2026-02-10T16:11:23",
+        "votacion_id": 50288,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50288/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50288/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6697",
+        "numero_pregunta": 9,
+        "fecha": "2026-02-10T16:14:46",
+        "votacion_id": 50285,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50285/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50285/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6697",
+        "numero_pregunta": 10,
+        "fecha": "2026-02-10T16:18:41",
+        "votacion_id": 50286,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50286/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50286/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 11,
+        "fecha": "2026-02-10T16:53:03",
+        "votacion_id": 50280,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50280/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50280/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE APRUEBA LA DISTRIBUCIÓN DE LAS PRESIDENCIAS DE COMISIONES ORDINARIAS DE TRABAJO",
+        "numero_pregunta": 12,
+        "fecha": "2026-02-10T16:59:27",
+        "votacion_id": 50274,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50274/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50274/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE RETORNO A COMISIÓN",
+        "numero_pregunta": 13,
+        "fecha": "2026-02-10T17:26:24",
+        "votacion_id": 50300,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50300/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50300/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE ALVAREZ)",
+        "numero_pregunta": 14,
+        "fecha": "2026-02-10T17:31:43",
+        "votacion_id": 50301,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50301/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50301/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6376",
+        "numero_pregunta": 15,
+        "fecha": "2026-02-10T17:34:12",
+        "votacion_id": 50302,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50302/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50302/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6376",
+        "numero_pregunta": 16,
+        "fecha": "2026-02-10T17:37:20",
+        "votacion_id": 50303,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50303/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50303/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6376",
+        "numero_pregunta": 17,
+        "fecha": "2026-02-10T17:42:26",
+        "votacion_id": 50305,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50305/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50305/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6376",
+        "numero_pregunta": 18,
+        "fecha": "2026-02-10T17:44:12",
+        "votacion_id": 50310,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50310/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50310/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO A CONTINUACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6376",
+        "numero_pregunta": 19,
+        "fecha": "2026-02-10T17:47:46",
+        "votacion_id": 50307,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50307/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50307/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO PARA QUEDE INSERTO DESPUÉS DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6376",
+        "numero_pregunta": 20,
+        "fecha": "2026-02-10T17:50:14",
+        "votacion_id": 50309,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50309/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50309/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ANTES DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6376",
+        "numero_pregunta": 21,
+        "fecha": "2026-02-10T17:52:39",
+        "votacion_id": 50304,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50304/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50304/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6376",
+        "numero_pregunta": 22,
+        "fecha": "2026-02-10T17:54:08",
+        "votacion_id": 50311,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50311/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50311/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6376",
+        "numero_pregunta": 23,
+        "fecha": "2026-02-10T17:57:27",
+        "votacion_id": 50312,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50312/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50312/41332"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6376",
+        "numero_pregunta": 24,
+        "fecha": "2026-02-10T18:03:35",
+        "votacion_id": 50313,
+        "evento_id": 41332,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50313/41332",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50313/41332"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T06:13:34+00:00"
+}

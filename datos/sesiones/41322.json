@@ -1,0 +1,52 @@
+{
+  "tipo": "Extraordinaria",
+  "numero": "14",
+  "fecha": "2026-01-13T12:54:32",
+  "evento_id": 41322,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41322",
+  "listado": {
+    "sesion": 14,
+    "fase": 1,
+    "fecha": "2026-01-13T12:54:32",
+    "tipo": "Extraordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-01-13T14:55:06",
+        "votacion_id": 50131,
+        "evento_id": 41322,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50131/41322",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50131/41322"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-01-13T14:56:18",
+        "votacion_id": 50132,
+        "evento_id": 41322,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50132/41322",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50132/41322"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2026-01-13T15:03:00",
+        "votacion_id": 50128,
+        "evento_id": 41322,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50128/41322",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50128/41322"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (COMISIÓN DE POSTULACIÓN ELECCIÓN DE FISCAL GENERAL Y JEFE DEL MINISTERIO PÚBLICO)",
+        "numero_pregunta": 4,
+        "fecha": "2026-01-13T15:17:30",
+        "votacion_id": 50129,
+        "evento_id": 41322,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50129/41322",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50129/41322"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T06:20:22+00:00"
+}

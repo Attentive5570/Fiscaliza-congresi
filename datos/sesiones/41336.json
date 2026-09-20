@@ -1,0 +1,223 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "12",
+  "fecha": "2026-02-24T12:51:15",
+  "evento_id": 41336,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41336",
+  "listado": {
+    "sesion": 12,
+    "fase": 1,
+    "fecha": "2026-02-24T12:51:15",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-02-24T14:37:07",
+        "votacion_id": 50350,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50350/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50350/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2026-02-24T14:38:44",
+        "votacion_id": 50352,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50352/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50352/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6594",
+        "numero_pregunta": 3,
+        "fecha": "2026-02-24T15:52:58",
+        "votacion_id": 50354,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50354/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50354/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONSTA DEL CAPÍTULO ÚNICO Y LOS ARTÍCULOS 1 AL 3 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6594",
+        "numero_pregunta": 4,
+        "fecha": "2026-02-24T15:57:37",
+        "votacion_id": 50355,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50355/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50355/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONSTA DE LOS CAPÍTULOS I AL VII Y LOS ARTÍCULOS DEL 4 AL 32 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6594",
+        "numero_pregunta": 5,
+        "fecha": "2026-02-24T16:14:57",
+        "votacion_id": 50356,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50356/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50356/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONSTA DE LOS ARTÍCULOS DEL 33 AL 46 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6594",
+        "numero_pregunta": 6,
+        "fecha": "2026-02-24T16:21:30",
+        "votacion_id": 50357,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50357/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50357/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO IV QUE CONSTA DE LOS ARTÍCULOS 47 Y 48 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6594",
+        "numero_pregunta": 7,
+        "fecha": "2026-02-24T16:23:48",
+        "votacion_id": 50358,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50358/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50358/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO V QUE CONSTA DE LOS ARTÍCULOS DEL 49 AL 55 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6594",
+        "numero_pregunta": 8,
+        "fecha": "2026-02-24T16:27:26",
+        "votacion_id": 50359,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50359/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50359/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO VI QUE CONSTA DE LOS ARTÍCULOS DEL 56 AL 66 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6594",
+        "numero_pregunta": 9,
+        "fecha": "2026-02-24T16:32:20",
+        "votacion_id": 50360,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50360/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50360/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6594",
+        "numero_pregunta": 10,
+        "fecha": "2026-02-24T16:34:57",
+        "votacion_id": 50361,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50361/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50361/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6594",
+        "numero_pregunta": 11,
+        "fecha": "2026-02-24T17:03:31",
+        "votacion_id": 50362,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50362/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50362/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 12,
+        "fecha": "2026-02-24T17:05:48",
+        "votacion_id": 50363,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50363/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50363/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 13,
+        "fecha": "2026-02-24T17:10:19",
+        "votacion_id": 50365,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50365/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50365/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 14,
+        "fecha": "2026-02-24T17:11:35",
+        "votacion_id": 50366,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50366/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50366/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 15,
+        "fecha": "2026-02-24T17:14:57",
+        "votacion_id": 50368,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50368/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50368/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 16,
+        "fecha": "2026-02-24T17:17:20",
+        "votacion_id": 50369,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50369/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50369/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 17,
+        "fecha": "2026-02-24T17:19:38",
+        "votacion_id": 50370,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50370/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50370/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 18,
+        "fecha": "2026-02-24T17:27:01",
+        "votacion_id": 50372,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50372/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50372/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 19,
+        "fecha": "2026-02-24T17:29:30",
+        "votacion_id": 50373,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50373/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50373/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 20,
+        "fecha": "2026-02-24T17:32:47",
+        "votacion_id": 50374,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50374/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50374/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 21,
+        "fecha": "2026-02-24T17:36:17",
+        "votacion_id": 50375,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50375/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50375/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN (6337)",
+        "numero_pregunta": 22,
+        "fecha": "2026-02-24T17:44:00",
+        "votacion_id": 50379,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50379/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50379/41336"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6337",
+        "numero_pregunta": 23,
+        "fecha": "2026-02-24T17:46:40",
+        "votacion_id": 50376,
+        "evento_id": 41336,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50376/41336",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50376/41336"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T06:10:38+00:00"
+}

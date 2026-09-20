@@ -1,0 +1,25 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "9",
+  "fecha": "2026-02-12T10:46:20",
+  "evento_id": 41333,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41333",
+  "listado": {
+    "sesion": 9,
+    "fase": 1,
+    "fecha": "2026-02-12T10:46:20",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-02-12T10:26:58",
+        "votacion_id": 50314,
+        "evento_id": 41333,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50314/41333",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50314/41333"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T06:11:48+00:00"
+}

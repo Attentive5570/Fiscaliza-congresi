@@ -1,0 +1,178 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "1",
+  "fecha": "2026-01-19T12:52:53",
+  "evento_id": 41324,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41324",
+  "listado": {
+    "sesion": 1,
+    "fase": 1,
+    "fecha": "2026-01-19T12:52:53",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-01-19T14:49:24",
+        "votacion_id": 50147,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50147/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50147/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-01-19T14:50:48",
+        "votacion_id": 50148,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50148/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50148/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 3,
+        "fecha": "2026-01-19T14:52:34",
+        "votacion_id": 50140,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50140/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50140/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA DE JEFES DE BLOQUES QUE DISPONE APROBAR LOS DÍAS Y HORAS PARA LA CELEBRACIÓN DE SESIONES PLENARIAS DURANTE EL PERÍODO LEGISLATIVO 2026-2027",
+        "numero_pregunta": 4,
+        "fecha": "2026-01-19T15:03:09",
+        "votacion_id": 50141,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50141/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50141/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PÉREZ)",
+        "numero_pregunta": 5,
+        "fecha": "2026-01-19T16:33:15",
+        "votacion_id": 50149,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50149/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50149/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 6,
+        "fecha": "2026-01-19T16:36:18",
+        "votacion_id": 50151,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50151/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50151/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (AGENTES POLICÍA NACIONAL CIVIL)",
+        "numero_pregunta": 7,
+        "fecha": "2026-01-19T16:42:25",
+        "votacion_id": 50150,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50150/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50150/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PROYECTO DE ACUERDO QUE CONVOCA A LOS PROFESIONALES DEL DERECHO (MAGISTRADO TITULAR Y MAGISTRADO SUPLENTE DE LA CORTE DE CONSTITUCIONALIDAD)",
+        "numero_pregunta": 8,
+        "fecha": "2026-01-19T17:01:30",
+        "votacion_id": 50142,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50142/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50142/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (RATIFICAR EN UN SOLO ACTO Y CON MAYORÍA ABSOLUTA EL DECRETO GUBERNATIVO 1-2026)",
+        "numero_pregunta": 9,
+        "fecha": "2026-01-19T17:17:16",
+        "votacion_id": 50146,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50146/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50146/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO, AL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO NÚMERO 1-2026 PARA QUE SE ADICIONE DESPUÉS DEL ARTÍCULO 1",
+        "numero_pregunta": 10,
+        "fecha": "2026-01-19T19:06:04",
+        "votacion_id": 50160,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50160/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50160/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO, AL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO NÚMERO 1-2026 PARA QUE SE ADICIONE DESPUÉS DEL ARTÍCULO 1",
+        "numero_pregunta": 11,
+        "fecha": "2026-01-19T19:07:19",
+        "votacion_id": 50159,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50159/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50159/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 4, AL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO NÚMERO 1-2026",
+        "numero_pregunta": 12,
+        "fecha": "2026-01-19T19:08:18",
+        "votacion_id": 50156,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50156/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50156/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO, AL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO NÚMERO 1-2026 PARA QUE SE ADICIONE DESPUÉS DEL ARTÍCULO 1",
+        "numero_pregunta": 13,
+        "fecha": "2026-01-19T19:09:31",
+        "votacion_id": 50152,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50152/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50152/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO, AL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO NÚMERO 1-2026 PARA QUE SE ADICIONE DESPUÉS DEL ARTÍCULO 1",
+        "numero_pregunta": 14,
+        "fecha": "2026-01-19T19:11:25",
+        "votacion_id": 50153,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50153/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50153/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO, AL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO NÚMERO 1-2026 PARA QUE SE ADICIONE DESPUÉS DEL ARTÍCULO 1",
+        "numero_pregunta": 15,
+        "fecha": "2026-01-19T19:13:02",
+        "votacion_id": 50155,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50155/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50155/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO, AL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO NÚMERO 1-2026 PARA QUE SE ADICIONE DESPUÉS DEL ARTÍCULO 1",
+        "numero_pregunta": 16,
+        "fecha": "2026-01-19T19:14:45",
+        "votacion_id": 50158,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50158/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50158/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO, AL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO NÚMERO 1-2026 PARA QUE SE ADICIONE DESPUÉS DEL ARTÍCULO 1",
+        "numero_pregunta": 17,
+        "fecha": "2026-01-19T19:16:06",
+        "votacion_id": 50157,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50157/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50157/41324"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO 1-2026 CON LAS ENMIENDAS INCORPORADAS",
+        "numero_pregunta": 18,
+        "fecha": "2026-01-19T19:18:01",
+        "votacion_id": 50154,
+        "evento_id": 41324,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50154/41324",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50154/41324"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T06:19:53+00:00"
+}

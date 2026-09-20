@@ -1,0 +1,115 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "10",
+  "fecha": "2026-02-17T12:51:30",
+  "evento_id": 41334,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41334",
+  "listado": {
+    "sesion": 10,
+    "fase": 1,
+    "fecha": "2026-02-17T12:51:30",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-02-17T14:49:59",
+        "votacion_id": 50320,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50320/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50320/41334"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-02-17T14:52:12",
+        "votacion_id": 50321,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50321/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50321/41334"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 3,
+        "fecha": "2026-02-17T14:54:43",
+        "votacion_id": 50319,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50319/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50319/41334"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA LA ELECCIÓN DE INTEGRANTES DE LA COMISIÓN DE DERECHOS HUMANOS DEL CONGRESO DE LA REPÚBLICA",
+        "numero_pregunta": 4,
+        "fecha": "2026-02-17T15:57:17",
+        "votacion_id": 50276,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50276/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50276/41334"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE DECLARA ELECTOS A LOS INTEGRANTES DE LA COMISIÓN DE DERECHOS HUMANOS DEL CONGRESO DE LA REPÚBLICA",
+        "numero_pregunta": 5,
+        "fecha": "2026-02-17T16:06:41",
+        "votacion_id": 50277,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50277/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50277/41334"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA PROYECTO DE PUNTO RESOLUTIVO (REPRESENTANTE GUTIERREZ)",
+        "numero_pregunta": 6,
+        "fecha": "2026-02-17T17:09:02",
+        "votacion_id": 50331,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50331/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50331/41334"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE FLORES)",
+        "numero_pregunta": 7,
+        "fecha": "2026-02-17T17:12:21",
+        "votacion_id": 50332,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50332/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50332/41334"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE FLORES)",
+        "numero_pregunta": 8,
+        "fecha": "2026-02-17T17:16:42",
+        "votacion_id": 50334,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50334/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50334/41334"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 9,
+        "fecha": "2026-02-17T17:17:56",
+        "votacion_id": 50338,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50338/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50338/41334"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DEL DICTAMEN DE LA COMISIÓN DE COMUNICACIONES, TRANSPORTE Y OBRAS PÚBLICAS (6527-6541)",
+        "numero_pregunta": 10,
+        "fecha": "2026-02-17T18:50:37",
+        "votacion_id": 50345,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50345/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50345/41334"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DEL DICTAMEN DE LA COMISIÓN DE ECONOMÍA Y COMERCIO EXTERIOR (6527-6541)",
+        "numero_pregunta": 11,
+        "fecha": "2026-02-17T18:51:51",
+        "votacion_id": 50346,
+        "evento_id": 41334,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50346/41334",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50346/41334"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T06:11:40+00:00"
+}

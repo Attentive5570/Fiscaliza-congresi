@@ -1,0 +1,268 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "4",
+  "fecha": "2026-01-27T01:02:00",
+  "evento_id": 41328,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41328",
+  "listado": {
+    "sesion": 4,
+    "fase": 1,
+    "fecha": "2026-01-27T01:02:00",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-01-27T14:55:11",
+        "votacion_id": 50184,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50184/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50184/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2026-01-27T14:58:00",
+        "votacion_id": 50186,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50186/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50186/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA URGENCIA NACIONAL 6702",
+        "numero_pregunta": 3,
+        "fecha": "2026-01-27T16:18:52",
+        "votacion_id": 50190,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50190/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50190/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 4,
+        "fecha": "2026-01-27T16:21:20",
+        "votacion_id": 50191,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50191/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50191/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 5,
+        "fecha": "2026-01-27T16:28:11",
+        "votacion_id": 50200,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50200/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50200/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 6,
+        "fecha": "2026-01-27T16:30:24",
+        "votacion_id": 50201,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50201/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50201/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 7,
+        "fecha": "2026-01-27T16:32:31",
+        "votacion_id": 50193,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50193/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50193/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 8,
+        "fecha": "2026-01-27T16:37:33",
+        "votacion_id": 50194,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50194/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50194/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 9,
+        "fecha": "2026-01-27T16:39:22",
+        "votacion_id": 50195,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50195/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50195/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 10,
+        "fecha": "2026-01-27T16:41:53",
+        "votacion_id": 50196,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50196/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50196/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 11,
+        "fecha": "2026-01-27T16:43:19",
+        "votacion_id": 50197,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50197/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50197/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 12,
+        "fecha": "2026-01-27T16:47:01",
+        "votacion_id": 50202,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50202/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50202/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 13,
+        "fecha": "2026-01-27T16:48:13",
+        "votacion_id": 50203,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50203/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50203/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6702",
+        "numero_pregunta": 14,
+        "fecha": "2026-01-27T17:00:06",
+        "votacion_id": 50199,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50199/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50199/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA URGENCIA NACIONAL 6701",
+        "numero_pregunta": 15,
+        "fecha": "2026-01-27T18:27:42",
+        "votacion_id": 50204,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50204/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50204/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 16,
+        "fecha": "2026-01-27T18:29:25",
+        "votacion_id": 50205,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50205/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50205/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 28 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 17,
+        "fecha": "2026-01-27T20:29:10",
+        "votacion_id": 50206,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50206/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50206/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 28 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 18,
+        "fecha": "2026-01-27T20:30:19",
+        "votacion_id": 50213,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50213/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50213/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONSTA DE LOS ARTÍCULOS DEL 1 AL 28 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 19,
+        "fecha": "2026-01-27T20:31:16",
+        "votacion_id": 50214,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50214/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50214/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL AL ARTÍCULO 33 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 20,
+        "fecha": "2026-01-27T21:50:36",
+        "votacion_id": 50212,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50212/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50212/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL AL ARTÍCULO 35 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 21,
+        "fecha": "2026-01-27T21:51:32",
+        "votacion_id": 50215,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50215/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50215/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 63 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 22,
+        "fecha": "2026-01-27T21:52:37",
+        "votacion_id": 50208,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50208/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50208/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONSTA DE LOS ARTÍCULOS DEL 29 AL 63 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 23,
+        "fecha": "2026-01-27T21:54:11",
+        "votacion_id": 50209,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50209/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50209/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 24,
+        "fecha": "2026-01-27T21:58:07",
+        "votacion_id": 50210,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50210/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50210/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN DE 6701 (REPRESENTANTE MORATAYA)",
+        "numero_pregunta": 25,
+        "fecha": "2026-01-28T00:25:46",
+        "votacion_id": 50218,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50218/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50218/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN DE 6701 (REPRESENTANTE ESTRADA)",
+        "numero_pregunta": 26,
+        "fecha": "2026-01-28T00:29:36",
+        "votacion_id": 50219,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50219/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50219/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL FONDO DE REVISIÓN DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 27,
+        "fecha": "2026-01-28T00:32:50",
+        "votacion_id": 50221,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50221/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50221/41328"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL CON EL FONDO DE REVISIÓN INCLUIDO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6701",
+        "numero_pregunta": 28,
+        "fecha": "2026-01-28T00:35:01",
+        "votacion_id": 50220,
+        "evento_id": 41328,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50220/41328",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50220/41328"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T06:18:06+00:00"
+}

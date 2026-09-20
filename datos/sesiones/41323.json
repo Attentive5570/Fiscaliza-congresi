@@ -1,0 +1,25 @@
+{
+  "tipo": "Solemne",
+  "numero": "1",
+  "fecha": "2026-01-14T08:57:08",
+  "evento_id": 41323,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41323",
+  "listado": {
+    "sesion": 1,
+    "fase": 1,
+    "fecha": "2026-01-14T08:57:08",
+    "tipo": "Solemne",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE DECLARA CLAUSURADA LA SEGUNDA FASE DEL PERIODO ANUAL DE SESIONES DEL PERIODO LEGISLATIVO 2025-2026 Y DECLARA INAUGURADO EL PERIODO LEGISLATIVO 2026-2027",
+        "numero_pregunta": 1,
+        "fecha": "2026-01-14T11:55:09",
+        "votacion_id": 50136,
+        "evento_id": 41323,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50136/41323",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50136/41323"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T06:20:01+00:00"
+}

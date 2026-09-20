@@ -1,0 +1,286 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "6",
+  "fecha": "2026-02-03T12:50:35",
+  "evento_id": 41330,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41330",
+  "listado": {
+    "sesion": 6,
+    "fase": 1,
+    "fecha": "2026-02-03T12:50:35",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE PALALA)",
+        "numero_pregunta": 1,
+        "fecha": "2026-02-03T15:11:06",
+        "votacion_id": 50232,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50232/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50232/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 2,
+        "fecha": "2026-02-03T15:13:30",
+        "votacion_id": 50228,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50228/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50228/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2026-02-03T15:15:29",
+        "votacion_id": 50227,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50227/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50227/41330"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DEL DICTAMEN DE LA COMISIÓN DE EDUCACIÓN, CIENCIA Y TECNOLOGÍA",
+        "numero_pregunta": 4,
+        "fecha": "2026-02-03T15:56:08",
+        "votacion_id": 50234,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50234/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50234/41330"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DEL DICTAMEN DE LA COMISIÓN DE CULTURA",
+        "numero_pregunta": 5,
+        "fecha": "2026-02-03T15:57:21",
+        "votacion_id": 50235,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50235/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50235/41330"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DEL DICTAMEN DE LA COMISIÓN DE LA DEFENSA NACIONAL",
+        "numero_pregunta": 6,
+        "fecha": "2026-02-03T17:09:11",
+        "votacion_id": 50236,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50236/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50236/41330"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DEL DICTAMEN DE LA COMISIÓN DE FINANZAS PÚBLICAS Y MONEDA",
+        "numero_pregunta": 7,
+        "fecha": "2026-02-03T17:10:46",
+        "votacion_id": 50237,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50237/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50237/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONTIENE LOS ARTÍCULOS DEL 1 AL 2 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 8,
+        "fecha": "2026-02-03T17:37:08",
+        "votacion_id": 50238,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50238/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50238/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 9,
+        "fecha": "2026-02-03T18:01:13",
+        "votacion_id": 50239,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50239/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50239/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 10,
+        "fecha": "2026-02-03T18:02:45",
+        "votacion_id": 50240,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50240/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50240/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 11,
+        "fecha": "2026-02-03T18:04:04",
+        "votacion_id": 50241,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50241/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50241/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 12,
+        "fecha": "2026-02-03T18:05:17",
+        "votacion_id": 50242,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50242/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50242/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 15 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 13,
+        "fecha": "2026-02-03T18:06:33",
+        "votacion_id": 50243,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50243/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50243/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 21 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 14,
+        "fecha": "2026-02-03T18:07:59",
+        "votacion_id": 50244,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50244/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50244/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 22 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 15,
+        "fecha": "2026-02-03T18:09:03",
+        "votacion_id": 50245,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50245/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50245/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II QUE CONTIENE LOS ARTÍCULOS DEL 3 AL 25 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 16,
+        "fecha": "2026-02-03T18:10:10",
+        "votacion_id": 50247,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50247/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50247/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 32 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 17,
+        "fecha": "2026-02-03T18:18:35",
+        "votacion_id": 50248,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50248/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50248/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO III QUE CONTIENE LOS ARTÍCULOS DEL 26 AL 37 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 18,
+        "fecha": "2026-02-03T18:19:58",
+        "votacion_id": 50250,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50250/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50250/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 38 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 19,
+        "fecha": "2026-02-03T18:24:27",
+        "votacion_id": 50251,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50251/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50251/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO IV QUE CONTIENE LOS ARTÍCULOS DEL 38 AL 40 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 20,
+        "fecha": "2026-02-03T18:25:57",
+        "votacion_id": 50253,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50253/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50253/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 41 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 21,
+        "fecha": "2026-02-03T18:28:40",
+        "votacion_id": 50254,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50254/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50254/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO V QUE CONTIENE EL ARTÍCULO 41 ÚNICAMENTE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 22,
+        "fecha": "2026-02-03T18:29:52",
+        "votacion_id": 50256,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50256/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50256/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO VI QUE CONTIENE EL ARTÍCULO 42 ÚNICAMENTE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 23,
+        "fecha": "2026-02-03T18:31:59",
+        "votacion_id": 50257,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50257/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50257/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INSERTADO ENTRE EL ARTÍCULO 47 Y EL ARTÍCULO 48 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 24,
+        "fecha": "2026-02-03T18:37:39",
+        "votacion_id": 50258,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50258/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50258/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO VII QUE CONTIENE LOS ARTÍCULOS DEL 43 AL 50 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 25,
+        "fecha": "2026-02-03T18:39:11",
+        "votacion_id": 50260,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50260/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50260/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 26,
+        "fecha": "2026-02-03T18:43:27",
+        "votacion_id": 50263,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50263/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50263/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 27,
+        "fecha": "2026-02-03T18:44:43",
+        "votacion_id": 50262,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50262/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50262/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN (5770)",
+        "numero_pregunta": 28,
+        "fecha": "2026-02-03T19:09:43",
+        "votacion_id": 50265,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50265/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50265/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL FONDO DE REVISIÓN DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 29,
+        "fecha": "2026-02-03T19:24:54",
+        "votacion_id": 50266,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50266/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50266/41330"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL CON EL FONDO DE REVISIÓN INCLUIDO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 30,
+        "fecha": "2026-02-03T19:26:13",
+        "votacion_id": 50267,
+        "evento_id": 41330,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/50267/41330",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/50267/41330"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-20T06:15:53+00:00"
+}
