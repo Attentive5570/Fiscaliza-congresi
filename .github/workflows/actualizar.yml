@@ -48,6 +48,12 @@ jobs:
             --presupuesto 18 \
             -d datos
 
+      - name: Iniciativas (título, ponentes y avance)
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 6 * * *'
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python recolector.py --iniciativas -d datos
+
       - name: Unir votos y bancadas
         if: always()
         run: python recolector.py --consolidar -d datos
