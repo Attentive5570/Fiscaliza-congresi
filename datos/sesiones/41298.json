@@ -1,0 +1,133 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "33",
+  "fecha": "2025-09-23T12:48:21",
+  "evento_id": 41298,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41298",
+  "listado": {
+    "sesion": 33,
+    "fase": 1,
+    "fecha": "2025-09-23T12:48:21",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-09-23T14:47:23",
+        "votacion_id": 49537,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49537/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49537/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2025-09-23T14:48:47",
+        "votacion_id": 49539,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49539/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49539/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5808",
+        "numero_pregunta": 3,
+        "fecha": "2025-09-23T16:32:09",
+        "votacion_id": 49543,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49543/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49543/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 4,
+        "fecha": "2025-09-23T16:34:36",
+        "votacion_id": 49552,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49552/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49552/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6605",
+        "numero_pregunta": 5,
+        "fecha": "2025-09-23T16:38:28",
+        "votacion_id": 49554,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49554/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49554/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6605",
+        "numero_pregunta": 6,
+        "fecha": "2025-09-23T16:40:06",
+        "votacion_id": 49555,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49555/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49555/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6605",
+        "numero_pregunta": 7,
+        "fecha": "2025-09-23T16:41:46",
+        "votacion_id": 49556,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49556/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49556/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6605",
+        "numero_pregunta": 8,
+        "fecha": "2025-09-23T16:43:40",
+        "votacion_id": 49560,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49560/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49560/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 8 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6605",
+        "numero_pregunta": 9,
+        "fecha": "2025-09-23T16:45:14",
+        "votacion_id": 49561,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49561/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49561/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6605",
+        "numero_pregunta": 10,
+        "fecha": "2025-09-23T16:47:37",
+        "votacion_id": 49558,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49558/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49558/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6605",
+        "numero_pregunta": 11,
+        "fecha": "2025-09-23T16:52:27",
+        "votacion_id": 49559,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49559/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49559/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE DE LEÓN)",
+        "numero_pregunta": 12,
+        "fecha": "2025-09-23T16:58:13",
+        "votacion_id": 49541,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49541/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49541/41298"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO (MARAS Y PANDILLAS)",
+        "numero_pregunta": 13,
+        "fecha": "2025-09-23T17:26:24",
+        "votacion_id": 49562,
+        "evento_id": 41298,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49562/41298",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49562/41298"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-21T06:14:00+00:00"
+}

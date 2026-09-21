@@ -1,0 +1,51 @@
+{
+  "numero": "6416",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 51-2022 del Congreso de la República, Ley Temporal de Desarrollo Integral. Reforma art. 1. Objeto, adiciona al art. 2. La literal g), adiciona al art. 3. La literal e) y reforma el art. 7. Desembolso y Temporalidad.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Byron Leonidas Tejeda Marroquín",
+    "Luis Fernando Aguirre Estrada",
+    "Sergio Leonel Celis Navas",
+    "Alberto Eduardo De León Benítez",
+    "Guillermo Antonio Ralda Conde",
+    "Julio César López Escobar",
+    "Carlos Enrique López Maldonado",
+    "Manuel De Jesús Archila Cordón",
+    "Mario Velásquez Pérez",
+    "Pablo Leonel Cifuentes Ovalle",
+    "Rolando Guzmán Figueroa",
+    "Jairo Danilo Orellana Sandoval",
+    "Bequer Neftali Chocooj De La Cruz",
+    "Kevyn Luis Carlo Escobar Castillo"
+  ],
+  "fecha_pleno": "2024-07-02",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-07-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-02-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-06-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2026-04-14",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6202",
+  "recolectado_en": "2026-09-21T06:24:25+00:00"
+}

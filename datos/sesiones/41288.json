@@ -1,0 +1,61 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "25",
+  "fecha": "2025-08-19T12:54:25",
+  "evento_id": 41288,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41288",
+  "listado": {
+    "sesion": 25,
+    "fase": 1,
+    "fecha": "2025-08-19T12:54:25",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-08-19T14:41:03",
+        "votacion_id": 49450,
+        "evento_id": 41288,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49450/41288",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49450/41288"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-08-19T14:42:47",
+        "votacion_id": 49452,
+        "evento_id": 41288,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49452/41288",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49452/41288"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (OPINIÓN CONSULTIVA C.C.)",
+        "numero_pregunta": 3,
+        "fecha": "2025-08-19T16:21:28",
+        "votacion_id": 49458,
+        "evento_id": 41288,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49458/41288",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49458/41288"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE EDÍN DE JESÚS)",
+        "numero_pregunta": 4,
+        "fecha": "2025-08-19T17:14:19",
+        "votacion_id": 49454,
+        "evento_id": 41288,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49454/41288",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49454/41288"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE EDÍN DE JESÚS)",
+        "numero_pregunta": 5,
+        "fecha": "2025-08-19T17:18:39",
+        "votacion_id": 49461,
+        "evento_id": 41288,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49461/41288",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49461/41288"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-21T06:18:04+00:00"
+}

@@ -1,0 +1,511 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "23",
+  "fecha": "2025-08-12T12:50:20",
+  "evento_id": 41286,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41286",
+  "listado": {
+    "sesion": 23,
+    "fase": 1,
+    "fecha": "2025-08-12T12:50:20",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE CUÁ)",
+        "numero_pregunta": 1,
+        "fecha": "2025-08-12T15:59:02",
+        "votacion_id": 49386,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49386/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49386/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE CUÁ)",
+        "numero_pregunta": 2,
+        "fecha": "2025-08-12T16:09:09",
+        "votacion_id": 49396,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49396/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49396/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE MALDONADO)",
+        "numero_pregunta": 3,
+        "fecha": "2025-08-12T16:50:49",
+        "votacion_id": 49387,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49387/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49387/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE MOTTA)",
+        "numero_pregunta": 4,
+        "fecha": "2025-08-12T16:52:57",
+        "votacion_id": 49390,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49390/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49390/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE MOTTA)",
+        "numero_pregunta": 5,
+        "fecha": "2025-08-12T16:56:29",
+        "votacion_id": 49398,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49398/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49398/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE FLORES)",
+        "numero_pregunta": 6,
+        "fecha": "2025-08-12T16:59:20",
+        "votacion_id": 49391,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49391/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49391/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE RAMÍREZ)",
+        "numero_pregunta": 7,
+        "fecha": "2025-08-12T17:06:53",
+        "votacion_id": 49393,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49393/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49393/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE VENTURA)",
+        "numero_pregunta": 8,
+        "fecha": "2025-08-12T17:08:30",
+        "votacion_id": 49394,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49394/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49394/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE JAVIER)",
+        "numero_pregunta": 9,
+        "fecha": "2025-08-12T17:10:10",
+        "votacion_id": 49399,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49399/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49399/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LAS PROPUESTAS INCORPORADAS",
+        "numero_pregunta": 10,
+        "fecha": "2025-08-12T17:21:53",
+        "votacion_id": 49397,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49397/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49397/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL (REPRESENTANTE ILLESCAS)",
+        "numero_pregunta": 11,
+        "fecha": "2025-08-12T17:24:54",
+        "votacion_id": 49400,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49400/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49400/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL (REPRESENTANTE ILLESCAS)",
+        "numero_pregunta": 12,
+        "fecha": "2025-08-12T17:40:39",
+        "votacion_id": 49401,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49401/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49401/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE ROJAS)",
+        "numero_pregunta": 13,
+        "fecha": "2025-08-12T17:55:25",
+        "votacion_id": 49413,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49413/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49413/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA DISPENSA DE DICTÁMEN Y URGENCIA NACIONAL 6607",
+        "numero_pregunta": 14,
+        "fecha": "2025-08-12T18:15:24",
+        "votacion_id": 49415,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49415/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49415/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6607",
+        "numero_pregunta": 15,
+        "fecha": "2025-08-12T18:17:22",
+        "votacion_id": 49416,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49416/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49416/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6607",
+        "numero_pregunta": 16,
+        "fecha": "2025-08-12T18:33:36",
+        "votacion_id": 49418,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49418/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49418/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONTIENE LOS CAPÍTULOS I Y II Y LOS ARTÍCULOS DEL 1 AL 4 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6607",
+        "numero_pregunta": 17,
+        "fecha": "2025-08-12T18:35:42",
+        "votacion_id": 49417,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49417/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49417/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6607",
+        "numero_pregunta": 18,
+        "fecha": "2025-08-12T18:39:37",
+        "votacion_id": 49419,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49419/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49419/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6607",
+        "numero_pregunta": 19,
+        "fecha": "2025-08-12T18:43:58",
+        "votacion_id": 49420,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49420/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49420/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE RODRÍGUEZ)",
+        "numero_pregunta": 20,
+        "fecha": "2025-08-12T18:50:04",
+        "votacion_id": 49421,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49421/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49421/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA DISPENSAR DE DICTAMEN Y DECLARAR DE URGENCIA NACIONAL LA INICIATIVA DE LEY 6511",
+        "numero_pregunta": 21,
+        "fecha": "2025-08-12T18:52:22",
+        "votacion_id": 49395,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49395/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49395/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6511",
+        "numero_pregunta": 22,
+        "fecha": "2025-08-12T18:53:56",
+        "votacion_id": 49402,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49402/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49402/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6511",
+        "numero_pregunta": 23,
+        "fecha": "2025-08-12T18:55:43",
+        "votacion_id": 49403,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49403/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49403/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6511",
+        "numero_pregunta": 24,
+        "fecha": "2025-08-12T18:56:47",
+        "votacion_id": 49404,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49404/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49404/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6511",
+        "numero_pregunta": 25,
+        "fecha": "2025-08-12T18:58:06",
+        "votacion_id": 49405,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49405/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49405/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6511",
+        "numero_pregunta": 26,
+        "fecha": "2025-08-12T18:59:37",
+        "votacion_id": 49406,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49406/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49406/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6511",
+        "numero_pregunta": 27,
+        "fecha": "2025-08-12T19:00:44",
+        "votacion_id": 49407,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49407/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49407/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6511",
+        "numero_pregunta": 28,
+        "fecha": "2025-08-12T19:02:22",
+        "votacion_id": 49408,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49408/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49408/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6511",
+        "numero_pregunta": 29,
+        "fecha": "2025-08-12T19:04:12",
+        "votacion_id": 49409,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49409/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49409/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6511",
+        "numero_pregunta": 30,
+        "fecha": "2025-08-12T19:05:41",
+        "votacion_id": 49410,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49410/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49410/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6511",
+        "numero_pregunta": 31,
+        "fecha": "2025-08-12T19:07:52",
+        "votacion_id": 49411,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49411/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49411/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6511",
+        "numero_pregunta": 32,
+        "fecha": "2025-08-12T19:11:58",
+        "votacion_id": 49412,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49412/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49412/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE BLANCO)",
+        "numero_pregunta": 33,
+        "fecha": "2025-08-12T19:55:16",
+        "votacion_id": 49414,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49414/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49414/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE CASTILLO)",
+        "numero_pregunta": 34,
+        "fecha": "2025-08-12T19:57:28",
+        "votacion_id": 49438,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49438/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49438/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 35,
+        "fecha": "2025-08-12T20:00:04",
+        "votacion_id": 49439,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49439/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49439/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA DISPENSAR DE DICTAMEN Y DECLARAR DE URGENCIA NACIONAL LA INICIATIVA DE LEY 6605",
+        "numero_pregunta": 36,
+        "fecha": "2025-08-12T20:12:19",
+        "votacion_id": 49392,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49392/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49392/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6605",
+        "numero_pregunta": 37,
+        "fecha": "2025-08-12T20:13:59",
+        "votacion_id": 49422,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49422/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49422/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6605",
+        "numero_pregunta": 38,
+        "fecha": "2025-08-12T20:16:08",
+        "votacion_id": 49423,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49423/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49423/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ANTES DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6605",
+        "numero_pregunta": 39,
+        "fecha": "2025-08-12T20:18:19",
+        "votacion_id": 49435,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49435/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49435/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6605",
+        "numero_pregunta": 40,
+        "fecha": "2025-08-12T20:20:46",
+        "votacion_id": 49434,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49434/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49434/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6605",
+        "numero_pregunta": 41,
+        "fecha": "2025-08-12T20:22:36",
+        "votacion_id": 49424,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49424/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49424/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6605",
+        "numero_pregunta": 42,
+        "fecha": "2025-08-12T20:28:48",
+        "votacion_id": 49440,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49440/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49440/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6605",
+        "numero_pregunta": 43,
+        "fecha": "2025-08-12T20:30:06",
+        "votacion_id": 49425,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49425/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49425/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6605",
+        "numero_pregunta": 44,
+        "fecha": "2025-08-12T21:00:06",
+        "votacion_id": 49426,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49426/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49426/41286"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JORGE ALBERTO SANTIAGO CHEN SAM COMO DIRECTOR TITULAR DE LA SUPERINTENDENCIA DE COMPETENCIA",
+        "numero_pregunta": 45,
+        "fecha": "2025-08-12T21:21:01",
+        "votacion_id": 49374,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49374/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49374/41286"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JUAN CARLOS RODIL QUINTANA COMO DIRECTOR TITULAR DE LA SUPERINTENDENCIA DE COMPETENCIA",
+        "numero_pregunta": 46,
+        "fecha": "2025-08-12T21:22:52",
+        "votacion_id": 49375,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49375/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49375/41286"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JORGE MARIO GONZÁLEZ PAZ COMO DIRECTOR TITULAR DE LA SUPERINTENDENCIA DE COMPETENCIA",
+        "numero_pregunta": 47,
+        "fecha": "2025-08-12T21:24:15",
+        "votacion_id": 49376,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49376/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49376/41286"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JOSÉ RAMIRO MARTÍNEZ VILLATORO COMO DIRECTOR TITULAR DE LA SUPERINTENDENCIA DE COMPETENCIA",
+        "numero_pregunta": 48,
+        "fecha": "2025-08-12T21:25:29",
+        "votacion_id": 49377,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49377/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49377/41286"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EDGAR ROLANDO YAX TEZO COMO DIRECTOR TITULAR DE LA SUPERINTENDENCIA DE COMPETENCIA",
+        "numero_pregunta": 49,
+        "fecha": "2025-08-12T21:26:45",
+        "votacion_id": 49378,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49378/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49378/41286"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JORGE ALBERTO SANTIAGO CHEN SAM COMO DIRECTOR SUPLENTE DE LA SUPERINTENDENCIA DE COMPETENCIA",
+        "numero_pregunta": 50,
+        "fecha": "2025-08-12T21:29:07",
+        "votacion_id": 49380,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49380/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49380/41286"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JUAN CARLOS RODIL QUINTANA COMO DIRECTOR SUPLENTE DE LA SUPERINTENDENCIA DE COMPETENCIA",
+        "numero_pregunta": 51,
+        "fecha": "2025-08-12T21:30:31",
+        "votacion_id": 49381,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49381/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49381/41286"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JOSÉ RAMIRO MARTÍNEZ VILLATORO COMO DIRECTOR SUPLENTE DE LA SUPERINTENDENCIA DE COMPETENCIA",
+        "numero_pregunta": 52,
+        "fecha": "2025-08-12T21:32:11",
+        "votacion_id": 49383,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49383/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49383/41286"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EDGAR ROLANDO YAX TEZO COMO DIRECTOR SUPLENTE DE LA SUPERINTENDENCIA DE COMPETENCIA",
+        "numero_pregunta": 53,
+        "fecha": "2025-08-12T21:33:34",
+        "votacion_id": 49384,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49384/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49384/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (ELECCIÓN DEL DIRECTOR TITULAR Y SUPLENTE DE LA SUPERINTENDENCIA DE COMPETENCIA)",
+        "numero_pregunta": 54,
+        "fecha": "2025-08-12T21:39:56",
+        "votacion_id": 49443,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49443/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49443/41286"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE MALDONADO)",
+        "numero_pregunta": 55,
+        "fecha": "2025-08-12T21:44:27",
+        "votacion_id": 49446,
+        "evento_id": 41286,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49446/41286",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49446/41286"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-21T06:22:18+00:00"
+}

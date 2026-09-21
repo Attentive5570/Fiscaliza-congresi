@@ -1,0 +1,76 @@
+{
+  "numero": "6323",
+  "texto_oficial": "Iniciativa que dispone aprobar Acuerdo entre el Gobierno de la República de Guatemala y el Gobierno de los Emiratos Árabes Unidos para Servicios Aéreos entre y más allá de sus Respectivos Territorios.",
+  "institucion": "Organismo Ejecutivo",
+  "ponentes": [],
+  "fecha_pleno": "2023-12-13",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2023-12-13",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-12-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-09-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-30",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-12-01",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-12-01",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-12-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-12-11",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6154",
+  "recolectado_en": "2026-09-21T06:24:46+00:00"
+}

@@ -1,0 +1,115 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "27",
+  "fecha": "2025-08-26T12:55:16",
+  "evento_id": 41290,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41290",
+  "listado": {
+    "sesion": 27,
+    "fase": 1,
+    "fecha": "2025-08-26T12:55:16",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-08-26T14:47:57",
+        "votacion_id": 49467,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49467/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49467/41290"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-08-26T14:49:17",
+        "votacion_id": 49469,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49469/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49469/41290"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE MORATAYA)",
+        "numero_pregunta": 3,
+        "fecha": "2025-08-26T15:38:57",
+        "votacion_id": 49476,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49476/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49476/41290"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE SANABRIA)",
+        "numero_pregunta": 4,
+        "fecha": "2025-08-26T15:43:18",
+        "votacion_id": 49477,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49477/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49477/41290"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE SANABRIA)",
+        "numero_pregunta": 5,
+        "fecha": "2025-08-26T15:48:01",
+        "votacion_id": 49479,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49479/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49479/41290"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE MORATAYA)",
+        "numero_pregunta": 6,
+        "fecha": "2025-08-26T15:53:02",
+        "votacion_id": 49480,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49480/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49480/41290"
+      },
+      {
+        "pregunta": "CONSULTA AL PLENO SOBRE LIMITAR EL TIEMPO DEL USO DE LA PALABRA",
+        "numero_pregunta": 7,
+        "fecha": "2025-08-26T16:56:19",
+        "votacion_id": 49482,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49482/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49482/41290"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE MEJÍA)",
+        "numero_pregunta": 8,
+        "fecha": "2025-08-26T17:17:54",
+        "votacion_id": 49481,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49481/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49481/41290"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE GUTIERREZ)",
+        "numero_pregunta": 9,
+        "fecha": "2025-08-26T17:27:17",
+        "votacion_id": 49483,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49483/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49483/41290"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE GUTIERREZ)",
+        "numero_pregunta": 10,
+        "fecha": "2025-08-26T17:33:15",
+        "votacion_id": 49485,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49485/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49485/41290"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE MALDONADO)",
+        "numero_pregunta": 11,
+        "fecha": "2025-08-26T18:01:41",
+        "votacion_id": 49486,
+        "evento_id": 41290,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49486/41290",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49486/41290"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-21T06:17:26+00:00"
+}

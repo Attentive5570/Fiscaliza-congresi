@@ -1,0 +1,38 @@
+{
+  "numero": "6452",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas al Código de Trabajo, Decreto Número 1441. Reforma art. 96.Salario Inembargable y adiciona el art. 97.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Juan Carlos Rivera Estevez"
+  ],
+  "fecha_pleno": "2024-09-12",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-09-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-09-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-01-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-08-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-02",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6170",
+  "recolectado_en": "2026-09-21T06:24:22+00:00"
+}

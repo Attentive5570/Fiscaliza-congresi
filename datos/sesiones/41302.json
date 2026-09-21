@@ -1,0 +1,61 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "37",
+  "fecha": "2025-10-07T12:48:04",
+  "evento_id": 41302,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41302",
+  "listado": {
+    "sesion": 37,
+    "fase": 1,
+    "fecha": "2025-10-07T12:48:04",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE BARRERA)",
+        "numero_pregunta": 1,
+        "fecha": "2025-10-07T14:35:33",
+        "votacion_id": 49604,
+        "evento_id": 41302,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49604/41302",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49604/41302"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 2,
+        "fecha": "2025-10-07T14:37:17",
+        "votacion_id": 49602,
+        "evento_id": 41302,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49602/41302",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49602/41302"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2025-10-07T14:39:12",
+        "votacion_id": 49603,
+        "evento_id": 41302,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49603/41302",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49603/41302"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL (REPRESENTANTE ARZÚ)",
+        "numero_pregunta": 4,
+        "fecha": "2025-10-07T17:36:54",
+        "votacion_id": 49608,
+        "evento_id": 41302,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49608/41302",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49608/41302"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (DECRETO NÚMERO 7-2025)",
+        "numero_pregunta": 5,
+        "fecha": "2025-10-07T18:02:36",
+        "votacion_id": 49609,
+        "evento_id": 41302,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49609/41302",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49609/41302"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-21T06:11:24+00:00"
+}

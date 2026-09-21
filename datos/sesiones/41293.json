@@ -1,0 +1,187 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "29",
+  "fecha": "2025-09-02T12:57:24",
+  "evento_id": 41293,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41293",
+  "listado": {
+    "sesion": 29,
+    "fase": 1,
+    "fecha": "2025-09-02T12:57:24",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-09-02T15:00:51",
+        "votacion_id": 49493,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49493/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49493/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-09-02T15:02:01",
+        "votacion_id": 49495,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49495/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49495/41293"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DEL DICTAMEN EMITIDO POR LA COMISIÓN DE LEGISLACIÓN Y PUNTOS CONSTITUCIONALES",
+        "numero_pregunta": 3,
+        "fecha": "2025-09-02T15:39:27",
+        "votacion_id": 49456,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49456/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49456/41293"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DEL DICTAMEN EMITIDO POR LA COMISIÓN DE EDUCACIÓN, CIENCIA Y TECNOLOGÍA",
+        "numero_pregunta": 4,
+        "fecha": "2025-09-02T15:43:25",
+        "votacion_id": 49457,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49457/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49457/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (6608)",
+        "numero_pregunta": 5,
+        "fecha": "2025-09-02T16:14:13",
+        "votacion_id": 49503,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49503/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49503/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (URGENCIA NACIONAL 6608)",
+        "numero_pregunta": 6,
+        "fecha": "2025-09-02T16:17:30",
+        "votacion_id": 49504,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49504/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49504/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (PRIMER DEBATE INICIATIVA 6416)",
+        "numero_pregunta": 7,
+        "fecha": "2025-09-02T16:21:27",
+        "votacion_id": 49497,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49497/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49497/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5508",
+        "numero_pregunta": 8,
+        "fecha": "2025-09-02T16:23:16",
+        "votacion_id": 49500,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49500/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49500/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6433",
+        "numero_pregunta": 9,
+        "fecha": "2025-09-02T16:34:10",
+        "votacion_id": 49501,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49501/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49501/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (ENTRAR A CONOCER DISPENSA DE DICTAMEN Y DECLARATORIA DE URGENCIA NACIONAL 6608)",
+        "numero_pregunta": 10,
+        "fecha": "2025-09-02T16:40:40",
+        "votacion_id": 49506,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49506/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49506/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (DISPENSA DE DICTAMEN Y URGENCIA NACIONAL 6608)",
+        "numero_pregunta": 11,
+        "fecha": "2025-09-02T16:44:13",
+        "votacion_id": 49507,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49507/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49507/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6608",
+        "numero_pregunta": 12,
+        "fecha": "2025-09-02T16:47:11",
+        "votacion_id": 49508,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49508/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49508/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6608",
+        "numero_pregunta": 13,
+        "fecha": "2025-09-02T16:49:29",
+        "votacion_id": 49509,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49509/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49509/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6608",
+        "numero_pregunta": 14,
+        "fecha": "2025-09-02T16:54:58",
+        "votacion_id": 49510,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49510/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49510/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6608",
+        "numero_pregunta": 15,
+        "fecha": "2025-09-02T16:58:25",
+        "votacion_id": 49511,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49511/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49511/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6608",
+        "numero_pregunta": 16,
+        "fecha": "2025-09-02T17:01:30",
+        "votacion_id": 49512,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49512/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49512/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6608",
+        "numero_pregunta": 17,
+        "fecha": "2025-09-02T17:03:02",
+        "votacion_id": 49513,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49513/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49513/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6608",
+        "numero_pregunta": 18,
+        "fecha": "2025-09-02T17:06:17",
+        "votacion_id": 49514,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49514/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49514/41293"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA 6608",
+        "numero_pregunta": 19,
+        "fecha": "2025-09-02T17:13:37",
+        "votacion_id": 49515,
+        "evento_id": 41293,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49515/41293",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49515/41293"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-21T06:16:20+00:00"
+}

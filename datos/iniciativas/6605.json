@@ -1,0 +1,75 @@
+{
+  "numero": "6605",
+  "texto_oficial": "Iniciativa que dispone aprobar reforma a la Ley de Competencia, Decreto Número 32-2024 del Congreso de la República. Reforma último párrafo del art. 30, art. 43. Presidencia, art. 47. Primer Párrafo, art. 97. Cuarto Párrafo, art. 32. Literal a), art. 117. Reglamento.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Faver Emilio Salazar Cordero",
+    "Mynor Alfonso De La Rosa Palacios",
+    "Gerson Geovanny Barragán Morales",
+    "Karina Alexandra Paz Rosales",
+    "Edin Alexander De Jesús Mejía",
+    "Jorge Estuardo Ayala Marroquin",
+    "Boris Roberto España Cáceres",
+    "Ronald Yomelfy Portillo Cordón",
+    "Mario Ernesto Gálvez Muñóz",
+    "Elmer Josué Palencia Reyes",
+    "León Felipe Barrera Villanueva",
+    "Mirna Victoria Godoy Palala",
+    "José Carlos Sanabria Arias"
+  ],
+  "fecha_pleno": "2025-08-12",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-08-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-08-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-08-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-09-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-09-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-09-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-09-30",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-10-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-10-08",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-10-09",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6262",
+  "recolectado_en": "2026-09-21T06:24:15+00:00"
+}

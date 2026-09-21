@@ -1,0 +1,61 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "21",
+  "fecha": "2025-08-05T12:55:39",
+  "evento_id": 41284,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41284",
+  "listado": {
+    "sesion": 21,
+    "fase": 1,
+    "fecha": "2025-08-05T12:55:39",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-08-05T14:56:13",
+        "votacion_id": 49363,
+        "evento_id": 41284,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49363/41284",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49363/41284"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE TEJEDA)",
+        "numero_pregunta": 2,
+        "fecha": "2025-08-05T15:04:30",
+        "votacion_id": 49365,
+        "evento_id": 41284,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49365/41284",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49365/41284"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE FLORES)",
+        "numero_pregunta": 3,
+        "fecha": "2025-08-05T15:06:21",
+        "votacion_id": 49366,
+        "evento_id": 41284,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49366/41284",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49366/41284"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 4,
+        "fecha": "2025-08-05T15:07:40",
+        "votacion_id": 49360,
+        "evento_id": 41284,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49360/41284",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49360/41284"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 5,
+        "fecha": "2025-08-05T15:09:41",
+        "votacion_id": 49361,
+        "evento_id": 41284,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49361/41284",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49361/41284"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-21T06:22:54+00:00"
+}

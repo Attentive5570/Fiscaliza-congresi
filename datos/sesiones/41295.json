@@ -1,0 +1,52 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "31",
+  "fecha": "2025-09-09T12:46:31",
+  "evento_id": 41295,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41295",
+  "listado": {
+    "sesion": 31,
+    "fase": 1,
+    "fecha": "2025-09-09T12:46:31",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-09-09T14:42:30",
+        "votacion_id": 49527,
+        "evento_id": 41295,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49527/41295",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49527/41295"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-09-09T14:45:21",
+        "votacion_id": 49528,
+        "evento_id": 41295,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49528/41295",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49528/41295"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DE LAS OBJECIONES Y OBSERVACIONES PRESENTADAS EN CONTRA DEL DECRETO NÚMERO 7-2025",
+        "numero_pregunta": 3,
+        "fecha": "2025-09-09T15:29:04",
+        "votacion_id": 49529,
+        "evento_id": 41295,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49529/41295",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49529/41295"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 4,
+        "fecha": "2025-09-09T16:39:17",
+        "votacion_id": 49530,
+        "evento_id": 41295,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49530/41295",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49530/41295"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-21T06:14:42+00:00"
+}

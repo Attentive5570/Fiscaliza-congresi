@@ -1,0 +1,43 @@
+{
+  "numero": "6412",
+  "texto_oficial": "Iniciativa que dispone aprobar reforma al Decreto Número 1441 del Congreso de la República, Código de Trabajo. Adiciona la literal O) Proveer el número suficiente de asientos o sillas, al art. 61, adiciona la literal l) Obligar a los trabajadores a permanecer de pie durante la totalidad de la jornada, al art. 62.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Byron Bladimiro Rodríguez Palacios"
+  ],
+  "fecha_pleno": "2024-06-25",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-06-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-09-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-01-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-08-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2025-09-30",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6166",
+  "recolectado_en": "2026-09-21T06:24:28+00:00"
+}

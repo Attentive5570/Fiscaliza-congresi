@@ -1,0 +1,25 @@
+{
+  "tipo": "Extraordinaria",
+  "numero": "9",
+  "fecha": "2025-07-08T11:59:01",
+  "evento_id": 41281,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41281",
+  "listado": {
+    "sesion": 9,
+    "fase": 1,
+    "fecha": "2025-07-08T11:59:01",
+    "tipo": "Extraordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-07-08T12:09:59",
+        "votacion_id": 49342,
+        "evento_id": 41281,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49342/41281",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49342/41281"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-21T06:23:32+00:00"
+}

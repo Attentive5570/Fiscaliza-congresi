@@ -1,0 +1,89 @@
+{
+  "numero": "6394",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley de Portabilidad Numérica en Servicios de Telefonía Móvil.",
+  "institucion": "N/A",
+  "ponentes": [
+    "León Felipe Barrera Villanueva",
+    "Marleni Lineth Matías Santiago",
+    "Luis Javier López Bolaños",
+    "Ervin Adim Maldonado Molina",
+    "Marco Aurelio Mejía Alfaro",
+    "José Inés Castillo Martínez",
+    "Julio Daniel Marroquín Ordoñez",
+    "Manrique Obel Gálvez De León",
+    "Darwin Alberto Lucas Paz",
+    "Mynor Francisco Rivera Salazar",
+    "Darwin Edgardo Ramírez Cameros",
+    "Francisco Vitelio Lam Ruano"
+  ],
+  "fecha_pleno": "2024-05-14",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-05-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-08-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-11-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-11-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-11-28",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6149",
+  "recolectado_en": "2026-09-21T06:24:32+00:00"
+}

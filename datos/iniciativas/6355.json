@@ -1,0 +1,58 @@
+{
+  "numero": "6355",
+  "texto_oficial": "Iniciativa que dispone aprobar reforma al Decreto Número 17-73 del Congreso de la República, Código Penal. Reforma el segundo párrafo del artículo 173. Siempre se comete este delito cuando la víctima sea una persona menos de dieciocho años de edad.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Mercedes Cristabel Guardado Linares De Nájera",
+    "Marleni Lineth Matías Santiago",
+    "Gerardín Ariel Díaz Mazariegos",
+    "Faver Emilio Salazar Cordero",
+    "Ana Lucrecia Marroquín Godoy De Palomo",
+    "Jorge Estuardo Ayala Marroquin"
+  ],
+  "fecha_pleno": "2024-03-12",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-03-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-09-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-07-31",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-08-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-04-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-04-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-04-14",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6163",
+  "recolectado_en": "2026-09-21T06:24:39+00:00"
+}

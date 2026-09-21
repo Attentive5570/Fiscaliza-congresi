@@ -1,0 +1,15 @@
+{
+  "tipo": "Solemne",
+  "numero": "2",
+  "fecha": "2025-09-11T08:17:52",
+  "evento_id": 41296,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41296",
+  "listado": {
+    "sesion": 2,
+    "fase": 1,
+    "fecha": "2025-09-11T08:17:52",
+    "tipo": "Solemne",
+    "votaciones": []
+  },
+  "recolectado_en": "2026-09-21T06:14:21+00:00"
+}

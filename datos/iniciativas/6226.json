@@ -1,0 +1,38 @@
+{
+  "numero": "6226",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley del Instituto Técnico Industrial Georg Kerschensteiner.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Rudy Berner Pereira Delgado"
+  ],
+  "fecha_pleno": "2023-03-23",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2023-03-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2023-09-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-06-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-09-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-30",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6009",
+  "recolectado_en": "2026-09-21T06:24:49+00:00"
+}

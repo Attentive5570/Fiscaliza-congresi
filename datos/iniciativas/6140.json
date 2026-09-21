@@ -1,0 +1,43 @@
+{
+  "numero": "6140",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas a la Ley de Protección Animal, Decreto Número 5-2017, que amplía la competencia de la Unidad de Bienestar Animal alusivo a la realización masiva de Jornadas de Esterilización y Castración.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Cristian Rodolfo Alvarez Y Alvarez"
+  ],
+  "fecha_pleno": "2022-09-13",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2022-09-13",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-03-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-09-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-09-30",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6076",
+  "recolectado_en": "2026-09-21T06:24:56+00:00"
+}

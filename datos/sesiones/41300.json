@@ -1,0 +1,160 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "35",
+  "fecha": "2025-09-30T12:50:22",
+  "evento_id": 41300,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41300",
+  "listado": {
+    "sesion": 35,
+    "fase": 1,
+    "fecha": "2025-09-30T12:50:22",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE CRÚZ)",
+        "numero_pregunta": 1,
+        "fecha": "2025-09-30T15:02:17",
+        "votacion_id": 49572,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49572/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49572/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE FIÓN)",
+        "numero_pregunta": 2,
+        "fecha": "2025-09-30T15:19:50",
+        "votacion_id": 49573,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49573/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49573/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 3,
+        "fecha": "2025-09-30T15:21:27",
+        "votacion_id": 49566,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49566/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49566/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 4,
+        "fecha": "2025-09-30T15:22:59",
+        "votacion_id": 49567,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49567/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49567/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE CASTILLO)",
+        "numero_pregunta": 5,
+        "fecha": "2025-09-30T15:25:04",
+        "votacion_id": 49574,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49574/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49574/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6412",
+        "numero_pregunta": 6,
+        "fecha": "2025-09-30T15:59:08",
+        "votacion_id": 49575,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49575/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49575/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA RETORNO A COMISÍON 6452 (REPRESENTANTE ESTRADA)",
+        "numero_pregunta": 7,
+        "fecha": "2025-09-30T16:31:31",
+        "votacion_id": 49588,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49588/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49588/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6452",
+        "numero_pregunta": 8,
+        "fecha": "2025-09-30T16:33:14",
+        "votacion_id": 49576,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49576/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49576/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE DE JESÚS)",
+        "numero_pregunta": 9,
+        "fecha": "2025-09-30T16:38:48",
+        "votacion_id": 49580,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49580/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49580/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5698",
+        "numero_pregunta": 10,
+        "fecha": "2025-09-30T17:32:54",
+        "votacion_id": 49595,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49595/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49595/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5698",
+        "numero_pregunta": 11,
+        "fecha": "2025-09-30T17:35:35",
+        "votacion_id": 49596,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49596/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49596/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5698",
+        "numero_pregunta": 12,
+        "fecha": "2025-09-30T17:38:24",
+        "votacion_id": 49590,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49590/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49590/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5698",
+        "numero_pregunta": 13,
+        "fecha": "2025-09-30T17:40:27",
+        "votacion_id": 49591,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49591/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49591/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5698",
+        "numero_pregunta": 14,
+        "fecha": "2025-09-30T17:41:48",
+        "votacion_id": 49592,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49592/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49592/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5698",
+        "numero_pregunta": 15,
+        "fecha": "2025-09-30T17:44:16",
+        "votacion_id": 49593,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49593/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49593/41300"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5698",
+        "numero_pregunta": 16,
+        "fecha": "2025-09-30T17:50:58",
+        "votacion_id": 49594,
+        "evento_id": 41300,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49594/41300",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49594/41300"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-21T06:12:48+00:00"
+}

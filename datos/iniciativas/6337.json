@@ -1,0 +1,87 @@
+{
+  "numero": "6337",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley de Lactancia Materna.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Hellen Magaly Alexándra Ajcip Canel",
+    "Thelma Elizabeth Ramirez Retana",
+    "Sofía Jeanetth Hernández Herrera",
+    "Darwin Edgardo Ramírez Cameros",
+    "Lucrecia Carola Samayoa Reyes",
+    "Juan Ramon Rivas García",
+    "Marleni Lineth Matías Santiago",
+    "Darwin Alberto Lucas Paz",
+    "Rodrigo Antonio Pellecer Rodriguez",
+    "Nery René Mazariegos López",
+    "Lourdes Teresita De León Torres",
+    "Dámaris Carolina Cerna Acevedo",
+    "Elmer Josué Palencia Reyes",
+    "Karla Betzaida Cardona Arreaga",
+    "Andrea Beatríz Villagrán Antón De Pantoja",
+    "Andrea María Reyes Zeceña",
+    "Mercedes Del Rosario Monzón Escobedo",
+    "Greicy Domenica De León De León",
+    "Sergio David Arana Roca",
+    "Sandra Erica Jovel Polanco",
+    "Sherol Ivanisse Arévalo Avila",
+    "Mercedes Cristabel Guardado Linares De Nájera",
+    "Cristian Rodolfo Alvarez Y Alvarez",
+    "Sabino Sebastián Velásquez Bámaca",
+    "Allan Estuardo Rodríguez Reyes",
+    "Gladis Carolina Cifuentes Barragán",
+    "Ricardo Leonel Martínez Alarcón",
+    "Jorge Estuardo Ayala Marroquin",
+    "Laura Fabiola Marroquín Cordón",
+    "Faver Emilio Salazar Cordero",
+    "Sandra Carolina Orellana Cruz",
+    "Brenda Marleny Mejía López",
+    "Ana Patricia Orantes Thomas",
+    "José Alberto Chic Cardona",
+    "Mirna Victoria Godoy Palala",
+    "Ivanna María Luján Padilla",
+    "Alma Luz Guerrero De La Cruz",
+    "Karina Alexandra Paz Rosales",
+    "Sandra Yanet Milian Gomez",
+    "Olga Isabel Villalta Pereira"
+  ],
+  "fecha_pleno": "2024-02-14",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-02-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-04-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-10-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-08-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-02-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-02-24",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6106",
+  "recolectado_en": "2026-09-21T06:24:42+00:00"
+}

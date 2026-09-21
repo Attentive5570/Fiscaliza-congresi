@@ -1,0 +1,88 @@
+{
+  "numero": "6138",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley del Día de la Dignificación de las Mujeres Indígenas.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Sonia Marina Gutierrez Raguay",
+    "Petrona Mejía Chutá De Lara",
+    "Ligia Iveth Hernández Gómez",
+    "Vicenta Jerónimo Jiménez",
+    "Adán Pérez Y Pérez",
+    "Walter Rolando Félix López",
+    "Edgar Stuardo Batres Vides",
+    "Pedro Saloj Quisquiná",
+    "Andrea Beatríz Villagrán Antón De Pantoja",
+    "Alfredo Adolfo Caniz Ajpacajá",
+    "Osmundo René Ponce Serrano"
+  ],
+  "fecha_pleno": "2022-09-07",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2022-09-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2023-09-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2023-11-08",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-12-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-12-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-12-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-12-13",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6010",
+  "recolectado_en": "2026-09-21T06:25:00+00:00"
+}
