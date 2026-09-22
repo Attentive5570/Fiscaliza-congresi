@@ -1,0 +1,277 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "41",
+  "fecha": "2024-10-15T01:01:39",
+  "evento_id": 41232,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41232",
+  "listado": {
+    "sesion": 41,
+    "fase": 1,
+    "fecha": "2024-10-15T01:01:39",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 1,
+        "fecha": "2024-10-15T16:21:31",
+        "votacion_id": 48567,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48567/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48567/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE AJCIP)",
+        "numero_pregunta": 2,
+        "fecha": "2024-10-15T16:23:37",
+        "votacion_id": 48569,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48569/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48569/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE FLORES)",
+        "numero_pregunta": 3,
+        "fecha": "2024-10-15T16:25:34",
+        "votacion_id": 48570,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48570/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48570/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 4,
+        "fecha": "2024-10-15T16:27:39",
+        "votacion_id": 48568,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48568/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48568/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 5,
+        "fecha": "2024-10-15T16:29:18",
+        "votacion_id": 48562,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48562/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48562/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO",
+        "numero_pregunta": 6,
+        "fecha": "2024-10-15T16:51:44",
+        "votacion_id": 48571,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48571/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48571/41232"
+      },
+      {
+        "pregunta": "ELECCIÓN DEL SEÑOR DIPUTADO CARLOS ROBERTO CALDERÓN GÁLVEZ COMO REPRESENTANTE DEL HONORABLE CONGRESO PARA INTEGRAR EL CONSEJO NACIONAL DE ATENCIÓN AL MIGRANTE DE GUATEMALA",
+        "numero_pregunta": 7,
+        "fecha": "2024-10-15T17:14:29",
+        "votacion_id": 48563,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48563/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48563/41232"
+      },
+      {
+        "pregunta": "ELECCIÓN DEL SEÑOR DIPUTADO GUSTAVO ADOLFO CRÚZ MONTOYA COMO REPRESENTANTE DEL HONORABLE CONGRESO PARA INTEGRAR EL CONSEJO NACIONAL DE ATENCIÓN AL MIGRANTE DE GUATEMALA",
+        "numero_pregunta": 8,
+        "fecha": "2024-10-15T17:16:37",
+        "votacion_id": 48564,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48564/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48564/41232"
+      },
+      {
+        "pregunta": "ELECCIÓN DEL SEÑOR DIPUTADO JUAN IGNACIO QUIJADA HEREDIA COMO REPRESENTANTE DEL HONORABLE CONGRESO PARA INTEGRAR EL CONSEJO NACIONAL DE ATENCIÓN AL MIGRANTE DE GUATEMALA",
+        "numero_pregunta": 9,
+        "fecha": "2024-10-15T17:18:09",
+        "votacion_id": 48565,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48565/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48565/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (ELECCIÓN DEL INTEGRANTE DEL CONGRESO DE LA REPÚBLICA ANTE EL CONSEJO NACIONAL DE ATENCIÓN AL MIGRANTE DE GUATEMALA -CONAMIGUA-)",
+        "numero_pregunta": 10,
+        "fecha": "2024-10-15T17:22:25",
+        "votacion_id": 48566,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48566/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48566/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6404",
+        "numero_pregunta": 11,
+        "fecha": "2024-10-15T17:44:17",
+        "votacion_id": 48572,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48572/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48572/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6015",
+        "numero_pregunta": 12,
+        "fecha": "2024-10-15T17:46:04",
+        "votacion_id": 48573,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48573/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48573/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 13,
+        "fecha": "2024-10-15T17:47:53",
+        "votacion_id": 48574,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48574/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48574/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6190",
+        "numero_pregunta": 14,
+        "fecha": "2024-10-15T18:02:38",
+        "votacion_id": 48575,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48575/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48575/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONSTA DE LOS ARTÍCULOS DEL 1 AL 2 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6190",
+        "numero_pregunta": 15,
+        "fecha": "2024-10-15T18:06:50",
+        "votacion_id": 48576,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48576/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48576/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6190",
+        "numero_pregunta": 16,
+        "fecha": "2024-10-15T18:11:54",
+        "votacion_id": 48578,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48578/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48578/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6190",
+        "numero_pregunta": 17,
+        "fecha": "2024-10-15T18:22:03",
+        "votacion_id": 48584,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48584/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48584/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II QUE CONSTA DE LOS ARTÍCULOS DEL 3 AL 5 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6190",
+        "numero_pregunta": 18,
+        "fecha": "2024-10-15T18:23:28",
+        "votacion_id": 48579,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48579/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48579/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6190",
+        "numero_pregunta": 19,
+        "fecha": "2024-10-15T18:32:29",
+        "votacion_id": 48581,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48581/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48581/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6190",
+        "numero_pregunta": 20,
+        "fecha": "2024-10-15T18:34:09",
+        "votacion_id": 48582,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48582/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48582/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6190",
+        "numero_pregunta": 21,
+        "fecha": "2024-10-15T18:41:50",
+        "votacion_id": 48583,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48583/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48583/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6080",
+        "numero_pregunta": 22,
+        "fecha": "2024-10-15T18:44:00",
+        "votacion_id": 48585,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48585/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48585/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6080",
+        "numero_pregunta": 23,
+        "fecha": "2024-10-15T18:45:51",
+        "votacion_id": 48586,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48586/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48586/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6080",
+        "numero_pregunta": 24,
+        "fecha": "2024-10-15T18:49:32",
+        "votacion_id": 48587,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48587/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48587/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6080",
+        "numero_pregunta": 25,
+        "fecha": "2024-10-15T18:51:12",
+        "votacion_id": 48588,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48588/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48588/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6080",
+        "numero_pregunta": 26,
+        "fecha": "2024-10-15T18:52:53",
+        "votacion_id": 48589,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48589/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48589/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6080",
+        "numero_pregunta": 27,
+        "fecha": "2024-10-15T18:54:24",
+        "votacion_id": 48590,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48590/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48590/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6080",
+        "numero_pregunta": 28,
+        "fecha": "2024-10-15T18:58:38",
+        "votacion_id": 48591,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48591/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48591/41232"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6080",
+        "numero_pregunta": 29,
+        "fecha": "2024-10-15T19:06:49",
+        "votacion_id": 48592,
+        "evento_id": 41232,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48592/41232",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48592/41232"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T14:11:52+00:00"
+}

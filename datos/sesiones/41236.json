@@ -1,0 +1,394 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "45",
+  "fecha": "2024-10-29T01:06:13",
+  "evento_id": 41236,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41236",
+  "listado": {
+    "sesion": 45,
+    "fase": 1,
+    "fecha": "2024-10-29T01:06:13",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE CRÚZ)",
+        "numero_pregunta": 1,
+        "fecha": "2024-10-29T16:09:39",
+        "votacion_id": 48660,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48660/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48660/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE MORATAYA)",
+        "numero_pregunta": 2,
+        "fecha": "2024-10-29T16:11:17",
+        "votacion_id": 48662,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48662/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48662/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 3,
+        "fecha": "2024-10-29T16:12:53",
+        "votacion_id": 48663,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48663/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48663/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LAS PROPUESTAS INCORPORADAS",
+        "numero_pregunta": 4,
+        "fecha": "2024-10-29T16:14:14",
+        "votacion_id": 48661,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48661/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48661/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 5,
+        "fecha": "2024-10-29T16:16:46",
+        "votacion_id": 48655,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48655/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48655/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6388",
+        "numero_pregunta": 6,
+        "fecha": "2024-10-29T16:27:30",
+        "votacion_id": 48656,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48656/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48656/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONTIENE LOS ARTÍCULOS DEL 1 AL 3 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 7,
+        "fecha": "2024-10-29T16:31:27",
+        "votacion_id": 48664,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48664/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48664/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 8,
+        "fecha": "2024-10-29T16:36:42",
+        "votacion_id": 48665,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48665/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48665/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II QUE CONTIENE LOS ARTÍCULOS DEL 4 AL 6 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 9,
+        "fecha": "2024-10-29T16:37:44",
+        "votacion_id": 48666,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48666/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48666/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 10,
+        "fecha": "2024-10-29T16:46:22",
+        "votacion_id": 48667,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48667/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48667/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 11,
+        "fecha": "2024-10-29T16:47:21",
+        "votacion_id": 48668,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48668/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48668/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO III QUE CONTIENE LOS ARTÍCULOS DEL 7 AL 10 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 12,
+        "fecha": "2024-10-29T16:48:32",
+        "votacion_id": 48669,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48669/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48669/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 16 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 13,
+        "fecha": "2024-10-29T16:57:39",
+        "votacion_id": 48670,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48670/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48670/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 17 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 14,
+        "fecha": "2024-10-29T16:58:47",
+        "votacion_id": 48671,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48671/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48671/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO IV QUE CONTIENE LOS ARTÍCULOS DEL 11 AL 19 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 15,
+        "fecha": "2024-10-29T16:59:48",
+        "votacion_id": 48672,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48672/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48672/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 21 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 16,
+        "fecha": "2024-10-29T17:06:35",
+        "votacion_id": 48673,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48673/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48673/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO V QUE CONTIENE LOS ARTÍCULOS DEL 20 AL 25 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 17,
+        "fecha": "2024-10-29T17:07:42",
+        "votacion_id": 48674,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48674/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48674/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 26 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 18,
+        "fecha": "2024-10-29T17:12:23",
+        "votacion_id": 48678,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48678/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48678/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO VI QUE CONTIENE LOS ARTÍCULOS DEL 26 AL 28 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 19,
+        "fecha": "2024-10-29T17:13:27",
+        "votacion_id": 48679,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48679/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48679/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO VII QUE CONTIENE LOS ARTÍCULOS DEL 29 AL 30 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 20,
+        "fecha": "2024-10-29T17:15:46",
+        "votacion_id": 48675,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48675/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48675/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 21,
+        "fecha": "2024-10-29T17:20:26",
+        "votacion_id": 48676,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48676/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48676/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 22,
+        "fecha": "2024-10-29T17:48:30",
+        "votacion_id": 48677,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48677/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48677/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL, RETORNO A COMISIÓN 5074",
+        "numero_pregunta": 23,
+        "fecha": "2024-10-29T18:35:49",
+        "votacion_id": 48698,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48698/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48698/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 24,
+        "fecha": "2024-10-29T18:45:44",
+        "votacion_id": 48680,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48680/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48680/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 25,
+        "fecha": "2024-10-29T19:08:29",
+        "votacion_id": 48681,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48681/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48681/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONTIENE EL CAPÍTULO ÚNICO Y LOS ARTÍCULOS DEL 1 AL 4 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 26,
+        "fecha": "2024-10-29T19:09:50",
+        "votacion_id": 48682,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48682/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48682/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 27,
+        "fecha": "2024-10-29T19:42:08",
+        "votacion_id": 48683,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48683/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48683/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 28,
+        "fecha": "2024-10-29T19:43:28",
+        "votacion_id": 48684,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48684/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48684/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 29,
+        "fecha": "2024-10-29T19:44:31",
+        "votacion_id": 48685,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48685/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48685/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 30,
+        "fecha": "2024-10-29T19:45:33",
+        "votacion_id": 48686,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48686/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48686/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 31,
+        "fecha": "2024-10-29T19:46:28",
+        "votacion_id": 48687,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48687/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48687/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONTIENE EL CAPÍTULO ÚNICO Y LOS ARTÍCULOS DE 5 AL 12 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 32,
+        "fecha": "2024-10-29T19:47:19",
+        "votacion_id": 48688,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48688/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48688/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONTIENE EL CAPÍTULO ÚNICO Y LOS ARTÍCULOS DEL 13 AL 15 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 33,
+        "fecha": "2024-10-29T19:52:05",
+        "votacion_id": 48689,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48689/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48689/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 16 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 34,
+        "fecha": "2024-10-29T19:59:49",
+        "votacion_id": 48690,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48690/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48690/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO IV QUE CONTIENE EL CAPITULO I Y LOS ARTÍCULOS DEL 16 AL 19 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 35,
+        "fecha": "2024-10-29T20:01:08",
+        "votacion_id": 48691,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48691/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48691/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL TÍTULO III, PROTECCIÓN PORTUARIA, DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 36,
+        "fecha": "2024-10-29T20:13:59",
+        "votacion_id": 48692,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48692/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48692/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONTIENE LOS CAPÍTULOS DEL I AL II Y LOS ARTÍCULOS DEL 20 AL 38 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 37,
+        "fecha": "2024-10-29T20:15:07",
+        "votacion_id": 48693,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48693/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48693/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL TÍTULO IV, DISPOSICIONES TRANSITORIAS Y FINALES, DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 38,
+        "fecha": "2024-10-29T20:20:16",
+        "votacion_id": 48694,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48694/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48694/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 39 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 39,
+        "fecha": "2024-10-29T20:21:12",
+        "votacion_id": 48699,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48699/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48699/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO IV QUE CONTIENE LOS CAPÍTULOS DEL I AL II Y LOS ARTÍCULOS DEL 39 AL 51 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 40,
+        "fecha": "2024-10-29T20:22:15",
+        "votacion_id": 48695,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48695/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48695/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 41,
+        "fecha": "2024-10-29T20:24:58",
+        "votacion_id": 48696,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48696/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48696/41236"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5545",
+        "numero_pregunta": 42,
+        "fecha": "2024-10-29T21:14:37",
+        "votacion_id": 48697,
+        "evento_id": 41236,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48697/41236",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48697/41236"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T14:07:40+00:00"
+}

@@ -1,0 +1,232 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "43",
+  "fecha": "2024-10-22T01:03:21",
+  "evento_id": 41234,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41234",
+  "listado": {
+    "sesion": 43,
+    "fase": 1,
+    "fecha": "2024-10-22T01:03:21",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-10-22T16:04:51",
+        "votacion_id": 48597,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48597/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48597/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-10-22T16:06:22",
+        "votacion_id": 48599,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48599/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48599/41234"
+      },
+      {
+        "pregunta": "ELECCIÓN DE PLANILLA ÚNICA",
+        "numero_pregunta": 3,
+        "fecha": "2024-10-22T16:14:23",
+        "votacion_id": 48600,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48600/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48600/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (ELECCIÓN DE LA JUNTA DIRECTIVA PERIODO LEGISLATIVO 2025-2026)",
+        "numero_pregunta": 4,
+        "fecha": "2024-10-22T17:05:32",
+        "votacion_id": 48602,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48602/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48602/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 5,
+        "fecha": "2024-10-22T17:35:40",
+        "votacion_id": 48615,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48615/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48615/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 6,
+        "fecha": "2024-10-22T17:37:37",
+        "votacion_id": 48603,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48603/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48603/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 7,
+        "fecha": "2024-10-22T17:39:39",
+        "votacion_id": 48617,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48617/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48617/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 8,
+        "fecha": "2024-10-22T17:41:03",
+        "votacion_id": 48618,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48618/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48618/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 9,
+        "fecha": "2024-10-22T17:43:04",
+        "votacion_id": 48619,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48619/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48619/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 10,
+        "fecha": "2024-10-22T17:44:40",
+        "votacion_id": 48620,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48620/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48620/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 11,
+        "fecha": "2024-10-22T17:46:06",
+        "votacion_id": 48621,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48621/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48621/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 12,
+        "fecha": "2024-10-22T17:47:38",
+        "votacion_id": 48622,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48622/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48622/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 13,
+        "fecha": "2024-10-22T17:49:59",
+        "votacion_id": 48626,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48626/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48626/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 14,
+        "fecha": "2024-10-22T17:51:02",
+        "votacion_id": 48627,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48627/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48627/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 15,
+        "fecha": "2024-10-22T17:54:33",
+        "votacion_id": 48624,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48624/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48624/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5114",
+        "numero_pregunta": 16,
+        "fecha": "2024-10-22T17:59:47",
+        "votacion_id": 48625,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48625/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48625/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVELEGIADA VERBAL PARA ALTERAR EL ORDEN DÍA (REPRESENTANTE CASTELLANOS)",
+        "numero_pregunta": 17,
+        "fecha": "2024-10-22T18:10:57",
+        "votacion_id": 48628,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48628/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48628/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6312",
+        "numero_pregunta": 18,
+        "fecha": "2024-10-22T18:13:29",
+        "votacion_id": 48629,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48629/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48629/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONSTA DE LOS ARTÍCULOS 1 Y 2 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6312",
+        "numero_pregunta": 19,
+        "fecha": "2024-10-22T18:27:10",
+        "votacion_id": 48630,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48630/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48630/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II QUE CONSTA DE LOS ARTÍCULOS 3 AL 5 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6312",
+        "numero_pregunta": 20,
+        "fecha": "2024-10-22T18:30:17",
+        "votacion_id": 48631,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48631/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48631/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO III QUE CONSTA DE LOS ARTÍCULOS 6 Y 7 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6312",
+        "numero_pregunta": 21,
+        "fecha": "2024-10-22T18:33:34",
+        "votacion_id": 48632,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48632/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48632/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6312",
+        "numero_pregunta": 22,
+        "fecha": "2024-10-22T18:38:04",
+        "votacion_id": 48633,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48633/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48633/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6312",
+        "numero_pregunta": 23,
+        "fecha": "2024-10-22T18:47:54",
+        "votacion_id": 48634,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48634/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48634/41234"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 24,
+        "fecha": "2024-10-22T18:51:46",
+        "votacion_id": 48647,
+        "evento_id": 41234,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48647/41234",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48647/41234"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T14:09:36+00:00"
+}
