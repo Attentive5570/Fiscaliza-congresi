@@ -1,0 +1,124 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "29",
+  "fecha": "2024-08-20T01:00:22",
+  "evento_id": 41206,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41206",
+  "listado": {
+    "sesion": 29,
+    "fase": 1,
+    "fecha": "2024-08-20T01:00:22",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-08-20T15:37:44",
+        "votacion_id": 47723,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47723/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47723/41206"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-08-20T15:39:43",
+        "votacion_id": 47725,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47725/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47725/41206"
+      },
+      {
+        "pregunta": "APROBACION DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE FLORES)",
+        "numero_pregunta": 3,
+        "fecha": "2024-08-20T16:32:34",
+        "votacion_id": 47730,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47730/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47730/41206"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (CONFERIR LA CONDECORACIÓN DE LA ORDEN NACIONAL DENOMINADA DEL \"SOBERANO CONGRESO NACIONAL\" EN EL GRADO DE GRAN COLLAR, A LA DISTINGUIDA DEPORTISTA ADRIANA RUANO OLIVA.)",
+        "numero_pregunta": 4,
+        "fecha": "2024-08-20T17:36:25",
+        "votacion_id": 47727,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47727/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47727/41206"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (CONFERIR LA CONDECORACIÓN DE LA ORDEN NACIONAL DENOMINADA DEL \"SOBERANO CONGRESO NACIONAL\" EN EL GRADO DE CABALLERO, AL DISTINGUIDO DEPORTISTA JEAN PIERRE BROL CÁRDENAS.)",
+        "numero_pregunta": 5,
+        "fecha": "2024-08-20T17:43:52",
+        "votacion_id": 47728,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47728/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47728/41206"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (PARTICIPACIÓN DE LOS 16 ATLETAS GUATEMALTECOS EN LOS JUEGOS OLÍMPICOS DE PARÍS 2024)",
+        "numero_pregunta": 6,
+        "fecha": "2024-08-20T17:55:53",
+        "votacion_id": 47729,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47729/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47729/41206"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 7,
+        "fecha": "2024-08-20T17:58:39",
+        "votacion_id": 47731,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47731/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47731/41206"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 8,
+        "fecha": "2024-08-20T18:22:06",
+        "votacion_id": 47733,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47733/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47733/41206"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE FLORES)",
+        "numero_pregunta": 9,
+        "fecha": "2024-08-20T18:23:37",
+        "votacion_id": 47734,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47734/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47734/41206"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 10,
+        "fecha": "2024-08-20T18:26:58",
+        "votacion_id": 47732,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47732/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47732/41206"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6351",
+        "numero_pregunta": 11,
+        "fecha": "2024-08-20T18:46:21",
+        "votacion_id": 47735,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47735/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47735/41206"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5698",
+        "numero_pregunta": 12,
+        "fecha": "2024-08-20T18:48:51",
+        "votacion_id": 47736,
+        "evento_id": 41206,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47736/41206",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47736/41206"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T16:21:37+00:00"
+}

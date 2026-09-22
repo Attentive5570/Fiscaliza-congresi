@@ -1,0 +1,52 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "33",
+  "fecha": "2024-09-03T01:04:28",
+  "evento_id": 41211,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41211",
+  "listado": {
+    "sesion": 33,
+    "fase": 1,
+    "fecha": "2024-09-03T01:04:28",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-09-03T15:18:01",
+        "votacion_id": 47778,
+        "evento_id": 41211,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47778/41211",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47778/41211"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2024-09-03T15:19:29",
+        "votacion_id": 47780,
+        "evento_id": 41211,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47780/41211",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47780/41211"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO",
+        "numero_pregunta": 3,
+        "fecha": "2024-09-03T16:56:58",
+        "votacion_id": 47783,
+        "evento_id": 41211,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47783/41211",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47783/41211"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DE LAS OBJECIONES Y OBSERVACIONES PRESENTADAS",
+        "numero_pregunta": 4,
+        "fecha": "2024-09-03T17:44:45",
+        "votacion_id": 47782,
+        "evento_id": 41211,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47782/41211",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47782/41211"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T16:18:19+00:00"
+}

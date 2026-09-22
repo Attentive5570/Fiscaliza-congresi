@@ -1,0 +1,385 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "28",
+  "fecha": "2024-08-13T01:31:50",
+  "evento_id": 41205,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41205",
+  "listado": {
+    "sesion": 28,
+    "fase": 1,
+    "fecha": "2024-08-13T01:31:50",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA, CON LA RATIFICACIÓN DE LA HORA PARA LA SESIÓN DEL DÍA DE HOY A LAS 14:30 HORAS",
+        "numero_pregunta": 1,
+        "fecha": "2024-08-13T16:10:36",
+        "votacion_id": 47675,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47675/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47675/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA RATIFICACIÓN DE LOS DÍAS Y HORAS DE SESIONES PLENARIAS PROPUESTA EN LA INSTANCIA DE JEFES DE BLOQUE",
+        "numero_pregunta": 2,
+        "fecha": "2024-08-13T16:22:05",
+        "votacion_id": 47679,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47679/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47679/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2024-08-13T16:24:26",
+        "votacion_id": 47673,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47673/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47673/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LIMITAR EL TIEMPO DEL USO DE LA PALABRA A 5 MINUTOS",
+        "numero_pregunta": 4,
+        "fecha": "2024-08-13T17:15:18",
+        "votacion_id": 47685,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47685/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47685/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA CONOCER LAS MOCIONES DE DISPENSA DE DICTAMEN Y DE URGENCIA NACIONAL (6403)",
+        "numero_pregunta": 5,
+        "fecha": "2024-08-13T17:30:23",
+        "votacion_id": 47676,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47676/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47676/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA DISPENSAR DE DICTAMEN INICIATIVA 6403",
+        "numero_pregunta": 6,
+        "fecha": "2024-08-13T19:15:39",
+        "votacion_id": 47678,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47678/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47678/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA DECLARAR DE URGENCIA NACIONAL INICIATIVA 6403",
+        "numero_pregunta": 7,
+        "fecha": "2024-08-13T19:20:20",
+        "votacion_id": 47677,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47677/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47677/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 8,
+        "fecha": "2024-08-13T19:26:03",
+        "votacion_id": 47680,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47680/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47680/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 9,
+        "fecha": "2024-08-13T19:31:03",
+        "votacion_id": 47681,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47681/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47681/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 10,
+        "fecha": "2024-08-13T19:38:24",
+        "votacion_id": 47682,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47682/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47682/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 11,
+        "fecha": "2024-08-13T19:51:35",
+        "votacion_id": 47704,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47704/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47704/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 12,
+        "fecha": "2024-08-13T19:54:09",
+        "votacion_id": 47705,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47705/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47705/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 13,
+        "fecha": "2024-08-13T19:56:27",
+        "votacion_id": 47684,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47684/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47684/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 14,
+        "fecha": "2024-08-13T19:58:38",
+        "votacion_id": 47686,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47686/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47686/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 15,
+        "fecha": "2024-08-13T20:01:09",
+        "votacion_id": 47687,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47687/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47687/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 16,
+        "fecha": "2024-08-13T20:03:39",
+        "votacion_id": 47688,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47688/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47688/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 17,
+        "fecha": "2024-08-13T20:08:44",
+        "votacion_id": 47689,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47689/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47689/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 18,
+        "fecha": "2024-08-13T20:13:52",
+        "votacion_id": 47690,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47690/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47690/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 19,
+        "fecha": "2024-08-13T20:18:43",
+        "votacion_id": 47691,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47691/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47691/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 20,
+        "fecha": "2024-08-13T20:31:11",
+        "votacion_id": 47706,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47706/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47706/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 11 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 21,
+        "fecha": "2024-08-13T20:33:48",
+        "votacion_id": 47707,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47707/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47707/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 22,
+        "fecha": "2024-08-13T20:38:03",
+        "votacion_id": 47693,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47693/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47693/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 13 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 23,
+        "fecha": "2024-08-13T21:11:38",
+        "votacion_id": 47714,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47714/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47714/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 13 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 24,
+        "fecha": "2024-08-13T21:14:24",
+        "votacion_id": 47715,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47715/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47715/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 14 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 25,
+        "fecha": "2024-08-13T21:18:47",
+        "votacion_id": 47695,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47695/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47695/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 15 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 26,
+        "fecha": "2024-08-13T21:24:51",
+        "votacion_id": 47716,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47716/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47716/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 15 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 27,
+        "fecha": "2024-08-13T21:26:53",
+        "votacion_id": 47696,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47696/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47696/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 16 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 28,
+        "fecha": "2024-08-13T21:30:15",
+        "votacion_id": 47697,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47697/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47697/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 17 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 29,
+        "fecha": "2024-08-13T21:33:10",
+        "votacion_id": 47698,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47698/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47698/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 18 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 30,
+        "fecha": "2024-08-13T21:37:33",
+        "votacion_id": 47718,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47718/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47718/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 18 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 31,
+        "fecha": "2024-08-13T21:38:54",
+        "votacion_id": 47699,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47699/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47699/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ANTES DEL ARTÍCULO 19 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 32,
+        "fecha": "2024-08-13T21:46:02",
+        "votacion_id": 47708,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47708/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47708/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ANTES DEL ARTÍCULO 19 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 33,
+        "fecha": "2024-08-13T21:54:30",
+        "votacion_id": 47709,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47709/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47709/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ANTES DEL ARTÍCULO 19 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 34,
+        "fecha": "2024-08-13T21:58:12",
+        "votacion_id": 47710,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47710/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47710/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 19 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 35,
+        "fecha": "2024-08-13T22:03:16",
+        "votacion_id": 47700,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47700/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47700/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 19 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 36,
+        "fecha": "2024-08-13T22:07:13",
+        "votacion_id": 47719,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47719/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47719/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 19 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 37,
+        "fecha": "2024-08-13T22:08:54",
+        "votacion_id": 47701,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47701/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47701/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 38,
+        "fecha": "2024-08-13T22:12:33",
+        "votacion_id": 47702,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47702/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47702/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN (6403)",
+        "numero_pregunta": 39,
+        "fecha": "2024-08-13T23:00:04",
+        "votacion_id": 47720,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47720/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47720/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE FONDO DE REVISIÓN DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 40,
+        "fecha": "2024-08-14T00:20:41",
+        "votacion_id": 47721,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47721/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47721/41205"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6403",
+        "numero_pregunta": 41,
+        "fecha": "2024-08-14T00:22:56",
+        "votacion_id": 47703,
+        "evento_id": 41205,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47703/41205",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47703/41205"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T16:24:32+00:00"
+}

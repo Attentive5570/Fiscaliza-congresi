@@ -1,0 +1,295 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "40",
+  "fecha": "2024-10-03T09:18:00",
+  "evento_id": 41228,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41228",
+  "listado": {
+    "sesion": 40,
+    "fase": 1,
+    "fecha": "2024-10-03T09:18:00",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-10-03T11:39:46",
+        "votacion_id": 48229,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48229/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48229/41228"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2024-10-03T11:41:07",
+        "votacion_id": 48225,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48225/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48225/41228"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2024-10-03T12:07:13",
+        "votacion_id": 48227,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48227/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48227/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CÉSAR AUGUSTO ÁVILA APARICIO COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 4,
+        "fecha": "2024-10-03T12:26:52",
+        "votacion_id": 47900,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47900/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47900/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CARLOS RODIMIRO LUCERO PAZ COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 5,
+        "fecha": "2024-10-03T12:29:02",
+        "votacion_id": 47901,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47901/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47901/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE WENDY ANGELICA RAMÍREZ LÓPEZ COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 6,
+        "fecha": "2024-10-03T12:30:24",
+        "votacion_id": 47902,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47902/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47902/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CLAUDIA LUCRECIA PAREDES CASTAÑEDA COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 7,
+        "fecha": "2024-10-03T12:32:00",
+        "votacion_id": 47903,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47903/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47903/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE GUSTAVO ADOLFO MORALES DUARTE COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 8,
+        "fecha": "2024-10-03T12:33:14",
+        "votacion_id": 47904,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47904/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47904/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JORGE EDUARDO TUCUX COYOY COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 9,
+        "fecha": "2024-10-03T12:37:34",
+        "votacion_id": 47905,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47905/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47905/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JENNY NOEMY ALVARADO TENI COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 10,
+        "fecha": "2024-10-03T12:39:48",
+        "votacion_id": 47906,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47906/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47906/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE IGMAÍN GALICIA PIMENTEL COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 11,
+        "fecha": "2024-10-03T12:41:45",
+        "votacion_id": 47907,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47907/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47907/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE FLOR DE MARÍA GÁLVEZ BARRIOS COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 12,
+        "fecha": "2024-10-03T12:44:33",
+        "votacion_id": 47908,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47908/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47908/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CARLOS RAMIRO CONTRERAS VALENZUELA COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 13,
+        "fecha": "2024-10-03T12:47:08",
+        "votacion_id": 47909,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47909/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47909/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MARTA SUSANA VIDES LAVARREDA COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 14,
+        "fecha": "2024-10-03T12:50:55",
+        "votacion_id": 47910,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47910/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47910/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LIDIA JUDITH URIZAR CASTELLANOS COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 15,
+        "fecha": "2024-10-03T12:52:42",
+        "votacion_id": 47911,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47911/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47911/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE FLOR DE MARÍA GARCÍA VILLATORO COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 16,
+        "fecha": "2024-10-03T12:54:19",
+        "votacion_id": 47912,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47912/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47912/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE VILMA ROSSANA REYES GONZÁLEZ COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 17,
+        "fecha": "2024-10-03T12:55:40",
+        "votacion_id": 47913,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47913/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47913/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE DIMAS JIMÉNEZ Y JIMÉNEZ COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 18,
+        "fecha": "2024-10-03T12:57:08",
+        "votacion_id": 47914,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47914/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47914/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CLEMEN VANESSA JUÁREZ MIDENCE COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 19,
+        "fecha": "2024-10-03T12:58:48",
+        "votacion_id": 47915,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47915/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47915/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE TEODULO ILDEFONSO CIFUENTES MALDONADO COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 20,
+        "fecha": "2024-10-03T13:00:06",
+        "votacion_id": 47916,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47916/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47916/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MARIO RENÉ MANCILLA BARILLAS COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 21,
+        "fecha": "2024-10-03T13:06:17",
+        "votacion_id": 47917,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47917/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47917/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ERWIN IVÁN ROMERO MORALES COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 22,
+        "fecha": "2024-10-03T13:08:23",
+        "votacion_id": 47918,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47918/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47918/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EDGAR ORLANDO RUANJO GODOY COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 23,
+        "fecha": "2024-10-03T13:10:20",
+        "votacion_id": 47919,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47919/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47919/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ESTUARDO ADOLFO CÁRDENAS COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 24,
+        "fecha": "2024-10-03T13:11:44",
+        "votacion_id": 47920,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47920/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47920/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS MAURICIO CORADO CAMPOS COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 25,
+        "fecha": "2024-10-03T13:13:48",
+        "votacion_id": 47921,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47921/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47921/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ASTRID SIOMARA MORALES VIRULA COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 26,
+        "fecha": "2024-10-03T13:16:28",
+        "votacion_id": 47922,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47922/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47922/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE RENÉ GUILLERMO GIRÓN PALACIOS COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 27,
+        "fecha": "2024-10-03T13:18:47",
+        "votacion_id": 47923,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47923/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47923/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MANUEL DE JESÚS MEJICANOS JIMÉNEZ COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 28,
+        "fecha": "2024-10-03T13:20:25",
+        "votacion_id": 47924,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47924/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47924/41228"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JORGE ALBERTO GONZALEZ BARRIOS COMO MAGISTRADO DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 29,
+        "fecha": "2024-10-03T13:22:34",
+        "votacion_id": 47925,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47925/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47925/41228"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO ELECCIÓN DE LOS MAGISTRADOS DE LA CORTE SUPREMA DE JUSTICIA 2024-2029",
+        "numero_pregunta": 30,
+        "fecha": "2024-10-03T13:49:12",
+        "votacion_id": 48228,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48228/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48228/41228"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 31,
+        "fecha": "2024-10-03T14:19:56",
+        "votacion_id": 48231,
+        "evento_id": 41228,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48231/41228",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48231/41228"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T16:14:11+00:00"
+}

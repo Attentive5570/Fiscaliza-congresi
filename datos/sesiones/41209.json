@@ -1,0 +1,241 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "31",
+  "fecha": "2024-08-27T02:01:44",
+  "evento_id": 41209,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41209",
+  "listado": {
+    "sesion": 31,
+    "fase": 1,
+    "fecha": "2024-08-27T02:01:44",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-08-27T14:23:01",
+        "votacion_id": 47743,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47743/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47743/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-08-27T14:25:35",
+        "votacion_id": 47746,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47746/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47746/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA DECLARAR DE URGENCIA NACIONAL INICIATIVA 6439",
+        "numero_pregunta": 3,
+        "fecha": "2024-08-27T17:16:55",
+        "votacion_id": 47748,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47748/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47748/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LIMITAR EL TIEMPO DEL USO DE LA PALABRA A 5 MINUTOS",
+        "numero_pregunta": 4,
+        "fecha": "2024-08-27T17:35:08",
+        "votacion_id": 47770,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47770/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47770/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 5,
+        "fecha": "2024-08-27T17:50:04",
+        "votacion_id": 47750,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47750/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47750/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 6,
+        "fecha": "2024-08-27T17:51:47",
+        "votacion_id": 47751,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47751/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47751/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 7,
+        "fecha": "2024-08-27T17:55:46",
+        "votacion_id": 47752,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47752/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47752/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 8,
+        "fecha": "2024-08-27T18:03:21",
+        "votacion_id": 47753,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47753/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47753/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 9,
+        "fecha": "2024-08-27T18:05:21",
+        "votacion_id": 47754,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47754/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47754/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 10,
+        "fecha": "2024-08-27T18:08:06",
+        "votacion_id": 47755,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47755/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47755/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 11,
+        "fecha": "2024-08-27T18:14:31",
+        "votacion_id": 47756,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47756/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47756/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 12,
+        "fecha": "2024-08-27T18:18:41",
+        "votacion_id": 47757,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47757/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47757/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 13,
+        "fecha": "2024-08-27T18:21:39",
+        "votacion_id": 47758,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47758/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47758/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 14,
+        "fecha": "2024-08-27T18:24:42",
+        "votacion_id": 47759,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47759/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47759/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 15,
+        "fecha": "2024-08-27T18:33:34",
+        "votacion_id": 47760,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47760/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47760/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 16,
+        "fecha": "2024-08-27T18:39:00",
+        "votacion_id": 47761,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47761/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47761/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 17,
+        "fecha": "2024-08-27T19:02:52",
+        "votacion_id": 47762,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47762/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47762/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 13 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 18,
+        "fecha": "2024-08-27T19:09:32",
+        "votacion_id": 47763,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47763/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47763/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 14 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 19,
+        "fecha": "2024-08-27T19:13:11",
+        "votacion_id": 47764,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47764/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47764/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 15 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 20,
+        "fecha": "2024-08-27T19:18:12",
+        "votacion_id": 47766,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47766/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47766/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 15 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 21,
+        "fecha": "2024-08-27T19:21:12",
+        "votacion_id": 47767,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47767/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47767/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 22,
+        "fecha": "2024-08-27T19:26:40",
+        "votacion_id": 47768,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47768/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47768/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN (6439)",
+        "numero_pregunta": 23,
+        "fecha": "2024-08-27T20:10:27",
+        "votacion_id": 47771,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47771/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47771/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DE FONDO DE REVISIÓN DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 24,
+        "fecha": "2024-08-27T20:55:58",
+        "votacion_id": 47772,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47772/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47772/41209"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL CON EL FONDO DE REVISIÓN INCORPORADO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6439",
+        "numero_pregunta": 25,
+        "fecha": "2024-08-27T21:03:55",
+        "votacion_id": 47773,
+        "evento_id": 41209,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47773/41209",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47773/41209"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T16:20:28+00:00"
+}

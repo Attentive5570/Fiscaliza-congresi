@@ -1,0 +1,15 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "38",
+  "fecha": "2024-09-19T08:54:29",
+  "evento_id": 41217,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41217",
+  "listado": {
+    "sesion": 38,
+    "fase": 1,
+    "fecha": "2024-09-19T08:54:29",
+    "tipo": "Ordinaria",
+    "votaciones": []
+  },
+  "recolectado_en": "2026-09-22T16:14:27+00:00"
+}

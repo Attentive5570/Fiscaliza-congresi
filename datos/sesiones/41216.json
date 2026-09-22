@@ -1,0 +1,214 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "37",
+  "fecha": "2024-09-17T12:50:01",
+  "evento_id": 41216,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41216",
+  "listado": {
+    "sesion": 37,
+    "fase": 1,
+    "fecha": "2024-09-17T12:50:01",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-09-17T15:12:12",
+        "votacion_id": 47825,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47825/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47825/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2024-09-17T15:15:10",
+        "votacion_id": 47827,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47827/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47827/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 3,
+        "fecha": "2024-09-17T16:40:57",
+        "votacion_id": 47830,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47830/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47830/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 4,
+        "fecha": "2024-09-17T17:42:29",
+        "votacion_id": 47831,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47831/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47831/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 5,
+        "fecha": "2024-09-17T17:44:20",
+        "votacion_id": 47832,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47832/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47832/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 6,
+        "fecha": "2024-09-17T17:45:45",
+        "votacion_id": 47833,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47833/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47833/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 7,
+        "fecha": "2024-09-17T17:47:00",
+        "votacion_id": 47834,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47834/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47834/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONTIENE LOS ARTÍCULOS DEL 1 AL 4 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 8,
+        "fecha": "2024-09-17T17:48:32",
+        "votacion_id": 47835,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47835/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47835/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 9,
+        "fecha": "2024-09-17T17:58:52",
+        "votacion_id": 47836,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47836/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47836/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 10,
+        "fecha": "2024-09-17T18:00:46",
+        "votacion_id": 47837,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47837/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47837/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INSERTO DESPUÉS DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 11,
+        "fecha": "2024-09-17T18:02:22",
+        "votacion_id": 47842,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47842/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47842/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 12,
+        "fecha": "2024-09-17T18:03:45",
+        "votacion_id": 47838,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47838/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47838/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II QUE CONTIENE LOS ARTÍCULOS DEL 5 AL 9 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 13,
+        "fecha": "2024-09-17T18:05:17",
+        "votacion_id": 47839,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47839/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47839/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 14,
+        "fecha": "2024-09-17T18:08:15",
+        "votacion_id": 47840,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47840/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47840/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 15,
+        "fecha": "2024-09-17T18:17:49",
+        "votacion_id": 47841,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47841/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47841/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6367",
+        "numero_pregunta": 16,
+        "fecha": "2024-09-17T18:41:25",
+        "votacion_id": 47843,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47843/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47843/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6367",
+        "numero_pregunta": 17,
+        "fecha": "2024-09-17T18:44:53",
+        "votacion_id": 47844,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47844/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47844/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6367",
+        "numero_pregunta": 18,
+        "fecha": "2024-09-17T18:46:28",
+        "votacion_id": 47845,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47845/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47845/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6367",
+        "numero_pregunta": 19,
+        "fecha": "2024-09-17T18:48:48",
+        "votacion_id": 47849,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47849/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47849/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6367",
+        "numero_pregunta": 20,
+        "fecha": "2024-09-17T18:50:12",
+        "votacion_id": 47850,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47850/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47850/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6367",
+        "numero_pregunta": 21,
+        "fecha": "2024-09-17T18:54:03",
+        "votacion_id": 47847,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47847/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47847/41216"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6367",
+        "numero_pregunta": 22,
+        "fecha": "2024-09-17T18:59:09",
+        "votacion_id": 47848,
+        "evento_id": 41216,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47848/41216",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47848/41216"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T16:16:03+00:00"
+}

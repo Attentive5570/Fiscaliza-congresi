@@ -1,0 +1,196 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "35",
+  "fecha": "2024-09-10T12:54:09",
+  "evento_id": 41213,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41213",
+  "listado": {
+    "sesion": 35,
+    "fase": 1,
+    "fecha": "2024-09-10T12:54:09",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (DIP. VILLAGRAN)",
+        "numero_pregunta": 1,
+        "fecha": "2024-09-10T15:37:05",
+        "votacion_id": 47792,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47792/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47792/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (DIP. PALENCIA)",
+        "numero_pregunta": 2,
+        "fecha": "2024-09-10T15:39:22",
+        "votacion_id": 47795,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47795/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47795/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 3,
+        "fecha": "2024-09-10T15:41:06",
+        "votacion_id": 47787,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47787/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47787/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA DE ORDEN DEL DÍA",
+        "numero_pregunta": 4,
+        "fecha": "2024-09-10T16:08:59",
+        "votacion_id": 47797,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47797/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47797/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 5,
+        "fecha": "2024-09-10T16:15:33",
+        "votacion_id": 47811,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47811/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47811/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 6,
+        "fecha": "2024-09-10T16:37:54",
+        "votacion_id": 47801,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47801/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47801/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 7,
+        "fecha": "2024-09-10T16:39:48",
+        "votacion_id": 47802,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47802/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47802/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 8,
+        "fecha": "2024-09-10T16:52:27",
+        "votacion_id": 47803,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47803/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47803/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 9,
+        "fecha": "2024-09-10T16:54:20",
+        "votacion_id": 47804,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47804/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47804/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 10,
+        "fecha": "2024-09-10T17:05:28",
+        "votacion_id": 47805,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47805/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47805/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 11,
+        "fecha": "2024-09-10T17:07:32",
+        "votacion_id": 47806,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47806/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47806/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 12,
+        "fecha": "2024-09-10T17:12:10",
+        "votacion_id": 47807,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47807/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47807/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 13,
+        "fecha": "2024-09-10T17:16:20",
+        "votacion_id": 47812,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47812/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47812/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 14,
+        "fecha": "2024-09-10T18:32:47",
+        "votacion_id": 47813,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47813/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47813/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 15,
+        "fecha": "2024-09-10T18:34:36",
+        "votacion_id": 47814,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47814/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47814/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5563",
+        "numero_pregunta": 16,
+        "fecha": "2024-09-10T18:45:12",
+        "votacion_id": 47810,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47810/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47810/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6379",
+        "numero_pregunta": 17,
+        "fecha": "2024-09-10T18:49:34",
+        "votacion_id": 47818,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47818/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47818/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6343",
+        "numero_pregunta": 18,
+        "fecha": "2024-09-10T18:55:06",
+        "votacion_id": 47819,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47819/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47819/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6081",
+        "numero_pregunta": 19,
+        "fecha": "2024-09-10T18:57:20",
+        "votacion_id": 47820,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47820/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47820/41213"
+      },
+      {
+        "pregunta": "APROBACIÓN PARA EL CAMBIO DE HORARIO DE LA SESIÓN CONVOCADA PARA EL DÍA JUEVES 12 DE SEPTIEMBRE 2024",
+        "numero_pregunta": 20,
+        "fecha": "2024-09-10T18:59:46",
+        "votacion_id": 47794,
+        "evento_id": 41213,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47794/41213",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47794/41213"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T16:17:46+00:00"
+}
