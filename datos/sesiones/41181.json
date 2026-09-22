@@ -1,0 +1,178 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "13",
+  "fecha": "2024-02-29T09:01:22",
+  "evento_id": 41181,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41181",
+  "listado": {
+    "sesion": 13,
+    "fase": 1,
+    "fecha": "2024-02-29T09:01:22",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-02-29T11:09:35",
+        "votacion_id": 47162,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47162/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47162/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-02-29T11:11:14",
+        "votacion_id": 47164,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47164/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47164/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 3,
+        "fecha": "2024-02-29T11:45:55",
+        "votacion_id": 47166,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47166/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47166/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 4,
+        "fecha": "2024-02-29T11:48:38",
+        "votacion_id": 47173,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47173/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47173/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 5,
+        "fecha": "2024-02-29T12:15:43",
+        "votacion_id": 47174,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47174/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47174/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 6,
+        "fecha": "2024-02-29T12:17:48",
+        "votacion_id": 47175,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47175/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47175/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 7,
+        "fecha": "2024-02-29T12:19:52",
+        "votacion_id": 47176,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47176/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47176/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 8,
+        "fecha": "2024-02-29T12:22:50",
+        "votacion_id": 47177,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47177/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47177/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 9,
+        "fecha": "2024-02-29T12:25:22",
+        "votacion_id": 47178,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47178/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47178/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONTIENE LOS ARTÍCULOS DEL 1 AL 10 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 10,
+        "fecha": "2024-02-29T12:27:38",
+        "votacion_id": 47179,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47179/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47179/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 11,
+        "fecha": "2024-02-29T12:42:19",
+        "votacion_id": 47180,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47180/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47180/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DEL ARTÍCULO 13 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 12,
+        "fecha": "2024-02-29T12:44:46",
+        "votacion_id": 47182,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47182/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47182/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 15 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 13,
+        "fecha": "2024-02-29T12:47:23",
+        "votacion_id": 47181,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47181/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47181/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 14,
+        "fecha": "2024-02-29T12:49:43",
+        "votacion_id": 47184,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47184/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47184/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II Y LOS ARTÍCULOS DEL 11 AL 16 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 15,
+        "fecha": "2024-02-29T12:51:30",
+        "votacion_id": 47183,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47183/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47183/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 16,
+        "fecha": "2024-02-29T12:57:54",
+        "votacion_id": 47171,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47171/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47171/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN (5463)",
+        "numero_pregunta": 17,
+        "fecha": "2024-02-29T13:28:27",
+        "votacion_id": 47185,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47185/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47185/41181"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 18,
+        "fecha": "2024-02-29T13:29:53",
+        "votacion_id": 47172,
+        "evento_id": 41181,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47172/41181",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47172/41181"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T18:08:22+00:00"
+}

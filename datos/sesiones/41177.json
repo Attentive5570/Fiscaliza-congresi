@@ -1,0 +1,331 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "9",
+  "fecha": "2024-02-15T09:03:48",
+  "evento_id": 41177,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41177",
+  "listado": {
+    "sesion": 9,
+    "fase": 1,
+    "fecha": "2024-02-15T09:03:48",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-02-15T10:56:25",
+        "votacion_id": 47007,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47007/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47007/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-02-15T11:01:15",
+        "votacion_id": 47010,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47010/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47010/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5463",
+        "numero_pregunta": 3,
+        "fecha": "2024-02-15T11:48:23",
+        "votacion_id": 47011,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47011/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47011/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5082",
+        "numero_pregunta": 4,
+        "fecha": "2024-02-15T12:31:52",
+        "votacion_id": 47012,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47012/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47012/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 5,
+        "fecha": "2024-02-15T13:40:46",
+        "votacion_id": 47024,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47024/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47024/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 6,
+        "fecha": "2024-02-15T13:42:25",
+        "votacion_id": 47025,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47025/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47025/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONTIENE LOS ARTÍCULOS DEL 1 AL 3 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 7,
+        "fecha": "2024-02-15T13:59:01",
+        "votacion_id": 47026,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47026/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47026/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL AL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 8,
+        "fecha": "2024-02-15T15:12:30",
+        "votacion_id": 47028,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47028/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47028/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 9,
+        "fecha": "2024-02-15T15:15:34",
+        "votacion_id": 47029,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47029/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47029/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 10,
+        "fecha": "2024-02-15T15:17:13",
+        "votacion_id": 47031,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47031/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47031/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 11,
+        "fecha": "2024-02-15T15:18:59",
+        "votacion_id": 47033,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47033/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47033/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 12,
+        "fecha": "2024-02-15T15:20:20",
+        "votacion_id": 47032,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47032/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47032/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO A CONTINUACIÓN DEL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 13,
+        "fecha": "2024-02-15T15:22:34",
+        "votacion_id": 47036,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47036/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47036/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO A CONTINUACIÓN DEL ARTÍCULO 13 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 14,
+        "fecha": "2024-02-15T15:27:42",
+        "votacion_id": 47037,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47037/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47037/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 16 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 15,
+        "fecha": "2024-02-15T15:29:01",
+        "votacion_id": 47034,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47034/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47034/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II QUE CONTIENE LOS ARTÍCULOS DEL 4 AL 16 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 16,
+        "fecha": "2024-02-15T15:31:17",
+        "votacion_id": 47035,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47035/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47035/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO III QUE CONTIENE LOS ARTÍCULOS DEL 17 AL 33 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 17,
+        "fecha": "2024-02-15T15:49:17",
+        "votacion_id": 47016,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47016/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47016/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 34 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 18,
+        "fecha": "2024-02-15T16:03:10",
+        "votacion_id": 47039,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47039/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47039/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 39 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 19,
+        "fecha": "2024-02-15T16:05:34",
+        "votacion_id": 47041,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47041/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47041/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO A CONTINUACIÓN DEL ARTÍCULO 42 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 20,
+        "fecha": "2024-02-15T16:07:23",
+        "votacion_id": 47048,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47048/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47048/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO IV QUE CONTIENE LOS ARTÍCULOS DEL 34 AL 42 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 21,
+        "fecha": "2024-02-15T16:43:10",
+        "votacion_id": 47042,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47042/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47042/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO V QUE CONTIENE LAS SECCIONES I Y II Y LOS ARTÍCULOS DEL 43 AL 54 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 22,
+        "fecha": "2024-02-15T16:56:23",
+        "votacion_id": 47019,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47019/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47019/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 55 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 23,
+        "fecha": "2024-02-15T17:08:41",
+        "votacion_id": 47043,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47043/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47043/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL AL ARTÍCULO 56 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 24,
+        "fecha": "2024-02-15T17:11:06",
+        "votacion_id": 47044,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47044/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47044/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL AL ARTÍCULO 59 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 25,
+        "fecha": "2024-02-15T17:14:05",
+        "votacion_id": 47045,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47045/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47045/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 62 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 26,
+        "fecha": "2024-02-15T17:15:02",
+        "votacion_id": 47046,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47046/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47046/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO VI QUE CONTIENE LOS ARTÍCULOS DEL 55 AL 66 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 27,
+        "fecha": "2024-02-15T17:15:59",
+        "votacion_id": 47047,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47047/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47047/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 28,
+        "fecha": "2024-02-15T17:21:02",
+        "votacion_id": 47021,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47021/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47021/41177"
+      },
+      {
+        "pregunta": "CONSULTA AL PLENO DE REPRODUCIR UN VIDEO",
+        "numero_pregunta": 29,
+        "fecha": "2024-02-15T18:51:22",
+        "votacion_id": 47053,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47053/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47053/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN 5544 (1)",
+        "numero_pregunta": 30,
+        "fecha": "2024-02-15T19:18:36",
+        "votacion_id": 47050,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47050/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47050/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL FONDO DE REVISIÓN QUE DISPONE APROBAR EL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544 (VARIOS ARTÍCULOS)",
+        "numero_pregunta": 31,
+        "fecha": "2024-02-15T19:23:05",
+        "votacion_id": 47051,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47051/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47051/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN 5544 (2)",
+        "numero_pregunta": 32,
+        "fecha": "2024-02-15T20:46:46",
+        "votacion_id": 47055,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47055/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47055/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL FONDO DE REVISIÓN DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544 (VARIOS ARTÍCULOS)",
+        "numero_pregunta": 33,
+        "fecha": "2024-02-15T20:50:59",
+        "votacion_id": 47057,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47057/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47057/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN 5544 (3)",
+        "numero_pregunta": 34,
+        "fecha": "2024-02-15T20:54:08",
+        "votacion_id": 47056,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47056/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47056/41177"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL CON EL FONDO DE REVISIÓN INCORPORADO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 35,
+        "fecha": "2024-02-15T20:55:59",
+        "votacion_id": 47052,
+        "evento_id": 41177,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47052/41177",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47052/41177"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T18:15:46+00:00"
+}

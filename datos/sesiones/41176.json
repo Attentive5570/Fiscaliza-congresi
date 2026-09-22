@@ -1,0 +1,88 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "8",
+  "fecha": "2024-02-13T01:05:33",
+  "evento_id": 41176,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41176",
+  "listado": {
+    "sesion": 8,
+    "fase": 1,
+    "fecha": "2024-02-13T01:05:33",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-02-13T14:39:34",
+        "votacion_id": 46986,
+        "evento_id": 41176,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46986/41176",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46986/41176"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-02-13T14:42:01",
+        "votacion_id": 46989,
+        "evento_id": 41176,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46989/41176",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46989/41176"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE ALDANA)",
+        "numero_pregunta": 3,
+        "fecha": "2024-02-13T15:23:07",
+        "votacion_id": 46998,
+        "evento_id": 41176,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46998/41176",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46998/41176"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE CASTAÑASA)",
+        "numero_pregunta": 4,
+        "fecha": "2024-02-13T15:48:56",
+        "votacion_id": 47000,
+        "evento_id": 41176,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47000/41176",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47000/41176"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE RODRÍGUEZ)",
+        "numero_pregunta": 5,
+        "fecha": "2024-02-13T16:51:17",
+        "votacion_id": 47004,
+        "evento_id": 41176,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47004/41176",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47004/41176"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO",
+        "numero_pregunta": 6,
+        "fecha": "2024-02-13T16:59:40",
+        "votacion_id": 46999,
+        "evento_id": 41176,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46999/41176",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46999/41176"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA QUE SE ALTERE EL ORDEN DEL DÍA (PROYECTO DE ACUERDO DISTRIBUCIÓN DE COMISIONES PENDIENTES)",
+        "numero_pregunta": 7,
+        "fecha": "2024-02-13T17:12:27",
+        "votacion_id": 47005,
+        "evento_id": 41176,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47005/41176",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47005/41176"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (DISTRIBUCIÓN DE COMISIONES PENDIENTES)",
+        "numero_pregunta": 8,
+        "fecha": "2024-02-13T17:17:17",
+        "votacion_id": 47006,
+        "evento_id": 41176,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47006/41176",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47006/41176"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T18:16:24+00:00"
+}

@@ -1,0 +1,79 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "3",
+  "fecha": "2024-01-25T08:57:14",
+  "evento_id": 41171,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41171",
+  "listado": {
+    "sesion": 3,
+    "fase": 1,
+    "fecha": "2024-01-25T08:57:14",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTES PAZ Y GUTIERREZ)",
+        "numero_pregunta": 1,
+        "fecha": "2024-01-25T12:36:09",
+        "votacion_id": 46909,
+        "evento_id": 41171,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46909/41171",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46909/41171"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE ARZÚ)",
+        "numero_pregunta": 2,
+        "fecha": "2024-01-25T12:41:16",
+        "votacion_id": 46912,
+        "evento_id": 41171,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46912/41171",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46912/41171"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE PORTILLO)",
+        "numero_pregunta": 3,
+        "fecha": "2024-01-25T12:42:48",
+        "votacion_id": 46913,
+        "evento_id": 41171,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46913/41171",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46913/41171"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE MARROQUÍN)",
+        "numero_pregunta": 4,
+        "fecha": "2024-01-25T12:54:02",
+        "votacion_id": 46911,
+        "evento_id": 41171,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46911/41171",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46911/41171"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LAS PROPUESTAS INCORPORADAS",
+        "numero_pregunta": 5,
+        "fecha": "2024-01-25T12:57:19",
+        "votacion_id": 46910,
+        "evento_id": 41171,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46910/41171",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46910/41171"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (PRIMER DEBATE 5563)",
+        "numero_pregunta": 6,
+        "fecha": "2024-01-25T13:00:35",
+        "votacion_id": 46915,
+        "evento_id": 41171,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46915/41171",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46915/41171"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LAS ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 7,
+        "fecha": "2024-01-25T13:02:33",
+        "votacion_id": 46900,
+        "evento_id": 41171,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46900/41171",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46900/41171"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T18:20:10+00:00"
+}

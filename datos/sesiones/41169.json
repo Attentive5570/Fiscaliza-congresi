@@ -1,0 +1,97 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "1",
+  "fecha": "2024-01-19T01:02:50",
+  "evento_id": 41169,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41169",
+  "listado": {
+    "sesion": 1,
+    "fase": 1,
+    "fecha": "2024-01-19T01:02:50",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-01-19T15:24:35",
+        "votacion_id": 46884,
+        "evento_id": 41169,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46884/41169",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46884/41169"
+      },
+      {
+        "pregunta": "ELECCIÓN DE PLANILLA ÚNICA",
+        "numero_pregunta": 2,
+        "fecha": "2024-01-19T16:01:03",
+        "votacion_id": 46880,
+        "evento_id": 41169,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46880/41169",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46880/41169"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO ELECCIÓN DE JUNTA DIRECTIVA PARA EL PERIODO LEGISLATIVO 2024-2025",
+        "numero_pregunta": 3,
+        "fecha": "2024-01-19T16:29:04",
+        "votacion_id": 46879,
+        "evento_id": 41169,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46879/41169",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46879/41169"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 4,
+        "fecha": "2024-01-19T16:55:10",
+        "votacion_id": 46882,
+        "evento_id": 41169,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46882/41169",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46882/41169"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 5,
+        "fecha": "2024-01-19T16:58:10",
+        "votacion_id": 46887,
+        "evento_id": 41169,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46887/41169",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46887/41169"
+      },
+      {
+        "pregunta": "AUTORIZACIÓN DEL PERMISO SOLICITADO",
+        "numero_pregunta": 6,
+        "fecha": "2024-01-19T17:03:40",
+        "votacion_id": 46885,
+        "evento_id": 41169,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46885/41169",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46885/41169"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE DECLARA LA VACANTE TEMPORAL",
+        "numero_pregunta": 7,
+        "fecha": "2024-01-19T17:09:20",
+        "votacion_id": 46886,
+        "evento_id": 41169,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46886/41169",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46886/41169"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO",
+        "numero_pregunta": 8,
+        "fecha": "2024-01-19T17:44:16",
+        "votacion_id": 46888,
+        "evento_id": 41169,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46888/41169",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46888/41169"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (APROBAR CREDENCIALES)",
+        "numero_pregunta": 9,
+        "fecha": "2024-01-19T17:52:19",
+        "votacion_id": 46889,
+        "evento_id": 41169,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46889/41169",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46889/41169"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T18:21:04+00:00"
+}

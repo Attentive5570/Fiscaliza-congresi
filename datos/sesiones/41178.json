@@ -1,0 +1,250 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "10",
+  "fecha": "2024-02-20T01:02:22",
+  "evento_id": 41178,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41178",
+  "listado": {
+    "sesion": 10,
+    "fase": 1,
+    "fecha": "2024-02-20T01:02:22",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-02-20T14:51:50",
+        "votacion_id": 47060,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47060/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47060/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-02-20T14:57:49",
+        "votacion_id": 47063,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47063/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47063/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE CELIS)",
+        "numero_pregunta": 3,
+        "fecha": "2024-02-20T16:35:06",
+        "votacion_id": 47075,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47075/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47075/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DE REGRESO A COMISIÓN 5928",
+        "numero_pregunta": 4,
+        "fecha": "2024-02-20T16:58:11",
+        "votacion_id": 47082,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47082/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47082/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE CASTELLANOS)",
+        "numero_pregunta": 5,
+        "fecha": "2024-02-20T17:34:03",
+        "votacion_id": 47083,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47083/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47083/41178"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DE LA RENUNCIA PRESENTADA (LICENCIADO NOE VENTURA)",
+        "numero_pregunta": 6,
+        "fecha": "2024-02-20T17:49:06",
+        "votacion_id": 47087,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47087/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47087/41178"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MARÍA EUGENIA MORALES ACEÑA DE SIERRA COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL",
+        "numero_pregunta": 7,
+        "fecha": "2024-02-20T17:58:46",
+        "votacion_id": 47076,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47076/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47076/41178"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ROALDO ISAÍAS CHÁVEZ PÉREZ COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL",
+        "numero_pregunta": 8,
+        "fecha": "2024-02-20T17:59:55",
+        "votacion_id": 47077,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47077/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47077/41178"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS FELIPE LEPE MONTERROSO COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL",
+        "numero_pregunta": 9,
+        "fecha": "2024-02-20T18:01:07",
+        "votacion_id": 47078,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47078/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47078/41178"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JOSÉ ALFREDO AGUILAR ORELLANA COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL",
+        "numero_pregunta": 10,
+        "fecha": "2024-02-20T18:02:25",
+        "votacion_id": 47079,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47079/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47079/41178"
+      },
+      {
+        "pregunta": "ELECCIÓN DE PABLO ADOLFO LEAL OLIVA COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL",
+        "numero_pregunta": 11,
+        "fecha": "2024-02-20T18:03:46",
+        "votacion_id": 47080,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47080/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47080/41178"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JULIO ENRIQUE RICARDO DOUGHERTY LIEKENS COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL",
+        "numero_pregunta": 12,
+        "fecha": "2024-02-20T18:05:22",
+        "votacion_id": 47081,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47081/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47081/41178"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ROSA MARIELLA JOSABETH RIVERA ACEVEDO COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL",
+        "numero_pregunta": 13,
+        "fecha": "2024-02-20T18:06:33",
+        "votacion_id": 47084,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47084/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47084/41178"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JORGE GUILLERMO ARAUZ AGUILAR COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL",
+        "numero_pregunta": 14,
+        "fecha": "2024-02-20T18:07:52",
+        "votacion_id": 47085,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47085/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47085/41178"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MARTA LIDIA NIJ PATZÁN COMO MAGISTRADO SUPLENTE DEL TRIBUNAL SUPREMO ELECTORAL",
+        "numero_pregunta": 15,
+        "fecha": "2024-02-20T18:09:09",
+        "votacion_id": 47086,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47086/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47086/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (ELECCIÓN MAGISTRADO SUPLENTE TRIBUNAL SUPREMO ELECTORAL)",
+        "numero_pregunta": 16,
+        "fecha": "2024-02-20T18:15:09",
+        "votacion_id": 47088,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47088/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47088/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5606",
+        "numero_pregunta": 17,
+        "fecha": "2024-02-20T18:35:19",
+        "votacion_id": 47064,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47064/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47064/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5606",
+        "numero_pregunta": 18,
+        "fecha": "2024-02-20T18:37:41",
+        "votacion_id": 47065,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47065/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47065/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5606",
+        "numero_pregunta": 19,
+        "fecha": "2024-02-20T18:40:57",
+        "votacion_id": 47072,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47072/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47072/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5606",
+        "numero_pregunta": 20,
+        "fecha": "2024-02-20T18:43:15",
+        "votacion_id": 47073,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47073/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47073/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5606",
+        "numero_pregunta": 21,
+        "fecha": "2024-02-20T18:45:10",
+        "votacion_id": 47067,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47067/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47067/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5606",
+        "numero_pregunta": 22,
+        "fecha": "2024-02-20T18:46:54",
+        "votacion_id": 47068,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47068/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47068/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ENTRE LOS ARTÍCULO 4 Y 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5606",
+        "numero_pregunta": 23,
+        "fecha": "2024-02-20T18:49:40",
+        "votacion_id": 47074,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47074/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47074/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5606",
+        "numero_pregunta": 24,
+        "fecha": "2024-02-20T18:51:35",
+        "votacion_id": 47069,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47069/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47069/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5606",
+        "numero_pregunta": 25,
+        "fecha": "2024-02-20T18:55:41",
+        "votacion_id": 47070,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47070/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47070/41178"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5606",
+        "numero_pregunta": 26,
+        "fecha": "2024-02-20T19:03:03",
+        "votacion_id": 47071,
+        "evento_id": 41178,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47071/41178",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47071/41178"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T18:13:17+00:00"
+}

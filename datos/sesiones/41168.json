@@ -1,0 +1,79 @@
+{
+  "tipo": "Solemne",
+  "numero": "1",
+  "fecha": "2024-01-14T07:55:20",
+  "evento_id": 41168,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41168",
+  "listado": {
+    "sesion": 1,
+    "fase": 1,
+    "fecha": "2024-01-14T07:55:20",
+    "tipo": "Solemne",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL PROYECTO DE ACUERDO QUE DECLARA INSTALADA LA LEGISLATURA 2024-2028",
+        "numero_pregunta": 1,
+        "fecha": "2024-01-14T20:16:58",
+        "votacion_id": 46870,
+        "evento_id": 41168,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46870/41168",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46870/41168"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PROYECTO DE ACUERDO QUE DECLARA INAUGURADO EL PERIODO ORDINARIO DE SESIONES DEL CONGRESO DE LA REPÚBLICA 2024-2025",
+        "numero_pregunta": 2,
+        "fecha": "2024-01-14T20:21:47",
+        "votacion_id": 46869,
+        "evento_id": 41168,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46869/41168",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46869/41168"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LA PLANILLA NÚMERO 1",
+        "numero_pregunta": 3,
+        "fecha": "2024-01-14T21:28:13",
+        "votacion_id": 46871,
+        "evento_id": 41168,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46871/41168",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46871/41168"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LA PLANILLA NÚMERO 2",
+        "numero_pregunta": 4,
+        "fecha": "2024-01-14T21:33:26",
+        "votacion_id": 46872,
+        "evento_id": 41168,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46872/41168",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46872/41168"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (REFORMA AL ACUERDO 1-2024)",
+        "numero_pregunta": 5,
+        "fecha": "2024-01-14T21:50:38",
+        "votacion_id": 46878,
+        "evento_id": 41168,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46878/41168",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46878/41168"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (REFORMA ACUERDO 1-2024)",
+        "numero_pregunta": 6,
+        "fecha": "2024-01-14T22:06:35",
+        "votacion_id": 46877,
+        "evento_id": 41168,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46877/41168",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46877/41168"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO ELECCIÓN DE JUNTA DIRECTIVA PARA EL PERIODO LEGISLATIVO 2024-2025",
+        "numero_pregunta": 7,
+        "fecha": "2024-01-14T22:16:26",
+        "votacion_id": 46873,
+        "evento_id": 41168,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46873/41168",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46873/41168"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T18:21:37+00:00"
+}

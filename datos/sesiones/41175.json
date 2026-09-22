@@ -1,0 +1,79 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "7",
+  "fecha": "2024-02-08T09:04:02",
+  "evento_id": 41175,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41175",
+  "listado": {
+    "sesion": 7,
+    "fase": 1,
+    "fecha": "2024-02-08T09:04:02",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-02-08T10:47:56",
+        "votacion_id": 46969,
+        "evento_id": 41175,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46969/41175",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46969/41175"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-02-08T10:58:11",
+        "votacion_id": 46972,
+        "evento_id": 41175,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46972/41175",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46972/41175"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (PROYECTO DE PUNTO RESOLUTIVO)",
+        "numero_pregunta": 3,
+        "fecha": "2024-02-08T11:22:05",
+        "votacion_id": 46980,
+        "evento_id": 41175,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46980/41175",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46980/41175"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL REPRESENTANTE GUARDADO (RETORNO A COMISIÓN)",
+        "numero_pregunta": 4,
+        "fecha": "2024-02-08T11:42:24",
+        "votacion_id": 46981,
+        "evento_id": 41175,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46981/41175",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46981/41175"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL PUNTO PRIMERO DEL PROYECTO DE PUNTO RESOLUTIVO",
+        "numero_pregunta": 5,
+        "fecha": "2024-02-08T13:49:33",
+        "votacion_id": 46982,
+        "evento_id": 41175,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46982/41175",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46982/41175"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PROYECTO DE PUNTO RESOLUTIVO CON LA ENMIENDA INCORPORADA",
+        "numero_pregunta": 6,
+        "fecha": "2024-02-08T13:51:35",
+        "votacion_id": 46983,
+        "evento_id": 41175,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46983/41175",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46983/41175"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO (MINISTERIO DE GOBERNACIÓN, POLICÍA NACIONAL CIVIL Y MINISTERIO PÚBLICO)",
+        "numero_pregunta": 7,
+        "fecha": "2024-02-08T14:04:46",
+        "votacion_id": 46979,
+        "evento_id": 41175,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46979/41175",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46979/41175"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T18:16:57+00:00"
+}

@@ -1,0 +1,97 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "6",
+  "fecha": "2024-02-06T12:53:39",
+  "evento_id": 41174,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41174",
+  "listado": {
+    "sesion": 6,
+    "fase": 1,
+    "fecha": "2024-02-06T12:53:39",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-02-06T14:42:54",
+        "votacion_id": 46954,
+        "evento_id": 41174,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46954/41174",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46954/41174"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-02-06T14:50:50",
+        "votacion_id": 46957,
+        "evento_id": 41174,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46957/41174",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46957/41174"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (PROYECTO DE ACUERDO JM)",
+        "numero_pregunta": 3,
+        "fecha": "2024-02-06T15:35:14",
+        "votacion_id": 46961,
+        "evento_id": 41174,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46961/41174",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46961/41174"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (PROCESO DE ELECCIÓN DE INTEGRANTE TITULAR ANTE LA JUNTA MONETARIA)",
+        "numero_pregunta": 4,
+        "fecha": "2024-02-06T15:41:06",
+        "votacion_id": 46962,
+        "evento_id": 41174,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46962/41174",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46962/41174"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE AJCIP)",
+        "numero_pregunta": 5,
+        "fecha": "2024-02-06T16:43:59",
+        "votacion_id": 46960,
+        "evento_id": 41174,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46960/41174",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46960/41174"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (PROYECTO DE PUNTO RESOLUTIVO)",
+        "numero_pregunta": 6,
+        "fecha": "2024-02-06T17:02:32",
+        "votacion_id": 46964,
+        "evento_id": 41174,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46964/41174",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46964/41174"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO",
+        "numero_pregunta": 7,
+        "fecha": "2024-02-06T17:14:37",
+        "votacion_id": 46963,
+        "evento_id": 41174,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46963/41174",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46963/41174"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5544",
+        "numero_pregunta": 8,
+        "fecha": "2024-02-06T17:43:10",
+        "votacion_id": 46958,
+        "evento_id": 41174,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46958/41174",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46958/41174"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5378",
+        "numero_pregunta": 9,
+        "fecha": "2024-02-06T18:12:49",
+        "votacion_id": 46959,
+        "evento_id": 41174,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46959/41174",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46959/41174"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T18:17:38+00:00"
+}

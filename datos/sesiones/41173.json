@@ -1,0 +1,106 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "5",
+  "fecha": "2024-02-01T09:06:01",
+  "evento_id": 41173,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41173",
+  "listado": {
+    "sesion": 5,
+    "fase": 1,
+    "fecha": "2024-02-01T09:06:01",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-02-01T11:02:48",
+        "votacion_id": 46938,
+        "evento_id": 41173,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46938/41173",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46938/41173"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-02-01T11:04:40",
+        "votacion_id": 46940,
+        "evento_id": 41173,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46940/41173",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46940/41173"
+      },
+      {
+        "pregunta": "ELECCIÓN DE INTEGRANTES DE LA COMISIÓN DE DERECHOS HUMANOS DEL CONGRESO DE LA REPÚBLICA",
+        "numero_pregunta": 3,
+        "fecha": "2024-02-01T12:39:33",
+        "votacion_id": 46941,
+        "evento_id": 41173,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46941/41173",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46941/41173"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (ELECCIÓN INTEGRANTES DE LA COMISIÓN DE DERECHOS HUMANOS DEL CONGRESO DE LA REPÚBLICA)",
+        "numero_pregunta": 4,
+        "fecha": "2024-02-01T12:46:52",
+        "votacion_id": 46945,
+        "evento_id": 41173,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46945/41173",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46945/41173"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (PROYECTO DE PUNTO RESOLUTIVO)",
+        "numero_pregunta": 5,
+        "fecha": "2024-02-01T13:38:10",
+        "votacion_id": 46946,
+        "evento_id": 41173,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46946/41173",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46946/41173"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL PUNTO TERCERO DEL PROYECTO DE PUNTO RESOLUTIVO",
+        "numero_pregunta": 6,
+        "fecha": "2024-02-01T13:44:57",
+        "votacion_id": 46948,
+        "evento_id": 41173,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46948/41173",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46948/41173"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN A CONTINUACIÓN DEL PUNTO TERCERO AL PROYECTO DE PUNTO RESOLUTIVO",
+        "numero_pregunta": 7,
+        "fecha": "2024-02-01T13:46:48",
+        "votacion_id": 46950,
+        "evento_id": 41173,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46950/41173",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46950/41173"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO CON LA ENMIENDA INCORPORADA (SEGURO MÉDICO ESCOLAR)",
+        "numero_pregunta": 8,
+        "fecha": "2024-02-01T13:48:31",
+        "votacion_id": 46947,
+        "evento_id": 41173,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46947/41173",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46947/41173"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO (ELECCIONES DE LA REPÚBLICA DE VENEZUELA)",
+        "numero_pregunta": 9,
+        "fecha": "2024-02-01T14:14:46",
+        "votacion_id": 46942,
+        "evento_id": 41173,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46942/41173",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46942/41173"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (PROYECTO DE PUNTO RESOLUTIVO)",
+        "numero_pregunta": 10,
+        "fecha": "2024-02-01T14:29:27",
+        "votacion_id": 46951,
+        "evento_id": 41173,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/46951/41173",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/46951/41173"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T18:18:24+00:00"
+}
