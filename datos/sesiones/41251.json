@@ -1,0 +1,52 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "2",
+  "fecha": "2025-01-23T09:15:07",
+  "evento_id": 41251,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41251",
+  "listado": {
+    "sesion": 2,
+    "fase": 1,
+    "fecha": "2025-01-23T09:15:07",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-01-23T12:00:00",
+        "votacion_id": 49063,
+        "evento_id": 41251,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49063/41251",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49063/41251"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2025-01-23T12:04:16",
+        "votacion_id": 49064,
+        "evento_id": 41251,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49064/41251",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49064/41251"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA DE JEFES DE BLOQUES QUE DISPONE APROBAR LOS DÍAS Y HORAS PARA LA CELEBRACIÓN DE SESIONES PLENARIAS DURANTE EL PERÍODO LEGISLATIVO 2025-2026",
+        "numero_pregunta": 3,
+        "fecha": "2025-01-23T12:10:34",
+        "votacion_id": 49065,
+        "evento_id": 41251,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49065/41251",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49065/41251"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 4,
+        "fecha": "2025-01-23T12:12:42",
+        "votacion_id": 49062,
+        "evento_id": 41251,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49062/41251",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49062/41251"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T13:09:14+00:00"
+}

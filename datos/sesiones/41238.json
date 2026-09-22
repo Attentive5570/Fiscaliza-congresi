@@ -1,0 +1,151 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "47",
+  "fecha": "2024-11-05T01:00:54",
+  "evento_id": 41238,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41238",
+  "listado": {
+    "sesion": 47,
+    "fase": 1,
+    "fecha": "2024-11-05T01:00:54",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (DIPUTADO ALVAREZ)",
+        "numero_pregunta": 1,
+        "fecha": "2024-11-05T15:24:28",
+        "votacion_id": 48713,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48713/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48713/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 2,
+        "fecha": "2024-11-05T15:25:38",
+        "votacion_id": 48702,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48702/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48702/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA DE ORDEN DEL DÍA",
+        "numero_pregunta": 3,
+        "fecha": "2024-11-05T15:32:31",
+        "votacion_id": 48714,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48714/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48714/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 4,
+        "fecha": "2024-11-05T16:37:20",
+        "votacion_id": 48705,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48705/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48705/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONTIENE LOS ARTÍCULOS DEL 1 AL 2 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INCIATIVA DE LEY 6388",
+        "numero_pregunta": 5,
+        "fecha": "2024-11-05T16:40:35",
+        "votacion_id": 48715,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48715/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48715/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6388",
+        "numero_pregunta": 6,
+        "fecha": "2024-11-05T17:03:15",
+        "votacion_id": 48725,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48725/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48725/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6388",
+        "numero_pregunta": 7,
+        "fecha": "2024-11-05T17:04:51",
+        "votacion_id": 48720,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48720/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48720/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II QUE CONTIENE EL ARTÍCULO 3 ÚNICAMENTE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INCIATIVA DE LEY 6388",
+        "numero_pregunta": 8,
+        "fecha": "2024-11-05T17:06:09",
+        "votacion_id": 48723,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48723/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48723/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6388",
+        "numero_pregunta": 9,
+        "fecha": "2024-11-05T17:15:34",
+        "votacion_id": 48722,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48722/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48722/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL CAPÍTULO II DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6388",
+        "numero_pregunta": 10,
+        "fecha": "2024-11-05T17:17:09",
+        "votacion_id": 48721,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48721/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48721/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II, DISPOSICIONES TRANSITORIAS Y FINALES , QUE CONTIENE LOS ARTÍCULOS DEL 4 AL 5 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INCIATIVA DE LEY 6388",
+        "numero_pregunta": 11,
+        "fecha": "2024-11-05T17:18:23",
+        "votacion_id": 48724,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48724/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48724/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6388",
+        "numero_pregunta": 12,
+        "fecha": "2024-11-05T17:28:33",
+        "votacion_id": 48718,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48718/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48718/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6388",
+        "numero_pregunta": 13,
+        "fecha": "2024-11-05T17:40:08",
+        "votacion_id": 48719,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48719/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48719/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 14,
+        "fecha": "2024-11-05T17:42:53",
+        "votacion_id": 48730,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48730/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48730/41238"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PREYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6000",
+        "numero_pregunta": 15,
+        "fecha": "2024-11-05T17:44:58",
+        "votacion_id": 48731,
+        "evento_id": 41238,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48731/41238",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48731/41238"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T13:25:07+00:00"
+}

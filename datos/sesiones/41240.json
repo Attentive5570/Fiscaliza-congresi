@@ -1,0 +1,592 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "49",
+  "fecha": "2024-11-12T12:55:58",
+  "evento_id": 41240,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41240",
+  "listado": {
+    "sesion": 49,
+    "fase": 1,
+    "fecha": "2024-11-12T12:55:58",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-11-12T15:34:57",
+        "votacion_id": 48737,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48737/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48737/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2024-11-12T15:36:57",
+        "votacion_id": 48739,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48739/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48739/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVELIGIADA VERBAL (RETORNO A COMISIÓN 6378)",
+        "numero_pregunta": 3,
+        "fecha": "2024-11-12T15:59:31",
+        "votacion_id": 48768,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48768/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48768/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVELIGIADA VERBAL (RETORNO A COMISIÓN 6404 )",
+        "numero_pregunta": 4,
+        "fecha": "2024-11-12T16:03:10",
+        "votacion_id": 48772,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48772/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48772/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LAS OBJECIONES PRESENTADAS",
+        "numero_pregunta": 5,
+        "fecha": "2024-11-12T16:43:48",
+        "votacion_id": 48765,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48765/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48765/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 6,
+        "fecha": "2024-11-12T16:46:23",
+        "votacion_id": 48740,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48740/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48740/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 7,
+        "fecha": "2024-11-12T16:48:57",
+        "votacion_id": 48741,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48741/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48741/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 8,
+        "fecha": "2024-11-12T16:53:20",
+        "votacion_id": 48743,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48743/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48743/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 9,
+        "fecha": "2024-11-12T16:55:30",
+        "votacion_id": 48744,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48744/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48744/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 10,
+        "fecha": "2024-11-12T16:58:18",
+        "votacion_id": 48746,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48746/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48746/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 11,
+        "fecha": "2024-11-12T16:59:08",
+        "votacion_id": 48745,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48745/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48745/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 12,
+        "fecha": "2024-11-12T17:05:13",
+        "votacion_id": 48749,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48749/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48749/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 13,
+        "fecha": "2024-11-12T17:06:38",
+        "votacion_id": 48750,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48750/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48750/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 14,
+        "fecha": "2024-11-12T17:12:29",
+        "votacion_id": 48752,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48752/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48752/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 15,
+        "fecha": "2024-11-12T17:14:00",
+        "votacion_id": 48753,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48753/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48753/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 16,
+        "fecha": "2024-11-12T17:17:08",
+        "votacion_id": 48754,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48754/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48754/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ENTRE EL ARTÍCULO 7 Y ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 17,
+        "fecha": "2024-11-12T17:20:27",
+        "votacion_id": 48769,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48769/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48769/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 18,
+        "fecha": "2024-11-12T17:22:58",
+        "votacion_id": 48755,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48755/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48755/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 19,
+        "fecha": "2024-11-12T17:26:50",
+        "votacion_id": 48770,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48770/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48770/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 9 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 20,
+        "fecha": "2024-11-12T17:28:16",
+        "votacion_id": 48771,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48771/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48771/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 21,
+        "fecha": "2024-11-12T17:30:45",
+        "votacion_id": 48757,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48757/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48757/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 22,
+        "fecha": "2024-11-12T17:34:18",
+        "votacion_id": 48759,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48759/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48759/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 11 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 23,
+        "fecha": "2024-11-12T17:35:43",
+        "votacion_id": 48760,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48760/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48760/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 24,
+        "fecha": "2024-11-12T17:37:54",
+        "votacion_id": 48761,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48761/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48761/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 13 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 25,
+        "fecha": "2024-11-12T17:40:33",
+        "votacion_id": 48773,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48773/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48773/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 13 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 26,
+        "fecha": "2024-11-12T17:42:26",
+        "votacion_id": 48774,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48774/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48774/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 27,
+        "fecha": "2024-11-12T17:45:54",
+        "votacion_id": 48763,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48763/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48763/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5704",
+        "numero_pregunta": 28,
+        "fecha": "2024-11-12T17:56:43",
+        "votacion_id": 48764,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48764/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48764/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 29,
+        "fecha": "2024-11-12T19:09:11",
+        "votacion_id": 48782,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48782/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48782/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 30,
+        "fecha": "2024-11-12T19:18:21",
+        "votacion_id": 48783,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48783/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48783/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 15 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 31,
+        "fecha": "2024-11-12T19:19:39",
+        "votacion_id": 48784,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48784/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48784/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 19 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 32,
+        "fecha": "2024-11-12T19:20:35",
+        "votacion_id": 48785,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48785/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48785/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 20 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 33,
+        "fecha": "2024-11-12T19:21:31",
+        "votacion_id": 48786,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48786/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48786/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 21 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 34,
+        "fecha": "2024-11-12T19:22:47",
+        "votacion_id": 48787,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48787/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48787/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL DEL ARTÍCULO 29 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 35,
+        "fecha": "2024-11-12T19:23:37",
+        "votacion_id": 48788,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48788/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48788/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONSTA DE LOS CAPÍTULOS I AL III Y LOS ARTÍCULOS DEL 1 AL 30 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 36,
+        "fecha": "2024-11-12T19:24:42",
+        "votacion_id": 48789,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48789/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48789/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 38 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 37,
+        "fecha": "2024-11-12T20:32:17",
+        "votacion_id": 48790,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48790/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48790/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL DEL ARTÍCULO 43 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 38,
+        "fecha": "2024-11-12T20:33:57",
+        "votacion_id": 48804,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48804/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48804/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONSTA DE LOS CAPÍTULOS I AL VIII Y LOS ARTÍCULOS DEL 31 AL 71 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 39,
+        "fecha": "2024-11-12T20:34:55",
+        "votacion_id": 48791,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48791/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48791/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 74 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 40,
+        "fecha": "2024-11-12T20:53:24",
+        "votacion_id": 48792,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48792/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48792/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 75 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 41,
+        "fecha": "2024-11-12T20:54:33",
+        "votacion_id": 48793,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48793/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48793/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 76 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 42,
+        "fecha": "2024-11-12T20:55:21",
+        "votacion_id": 48794,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48794/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48794/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 81 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 43,
+        "fecha": "2024-11-12T20:56:12",
+        "votacion_id": 48795,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48795/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48795/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONSTA DE LOS CAPÍTULOS I AL III Y LOS ARTÍCULOS DEL 72 AL 82 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 44,
+        "fecha": "2024-11-12T20:57:07",
+        "votacion_id": 48796,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48796/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48796/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 84 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 45,
+        "fecha": "2024-11-12T21:04:17",
+        "votacion_id": 48797,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48797/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48797/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO IV QUE CONSTA DE LOS CAPÍTULOS I AL IV Y LOS ARTÍCULOS DEL 83 AL 86 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 46,
+        "fecha": "2024-11-12T21:05:16",
+        "votacion_id": 48798,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48798/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48798/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 87 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 47,
+        "fecha": "2024-11-12T21:51:33",
+        "votacion_id": 48799,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48799/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48799/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 88 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 48,
+        "fecha": "2024-11-12T21:52:32",
+        "votacion_id": 48805,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48805/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48805/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 89 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 49,
+        "fecha": "2024-11-12T21:53:35",
+        "votacion_id": 48806,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48806/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48806/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 91 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 50,
+        "fecha": "2024-11-12T21:54:32",
+        "votacion_id": 48800,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48800/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48800/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 95 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 51,
+        "fecha": "2024-11-12T21:55:38",
+        "votacion_id": 48801,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48801/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48801/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 114 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 52,
+        "fecha": "2024-11-12T21:56:44",
+        "votacion_id": 48802,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48802/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48802/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 116 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 53,
+        "fecha": "2024-11-12T21:57:34",
+        "votacion_id": 48809,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48809/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48809/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO V QUE CONSTA DE LOS CAPÍTULOS I Y II Y LOS ARTÍCULOS DEL 87 AL 116 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 54,
+        "fecha": "2024-11-12T21:58:46",
+        "votacion_id": 48803,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48803/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48803/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 55,
+        "fecha": "2024-11-12T22:01:23",
+        "votacion_id": 48780,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48780/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48780/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5431",
+        "numero_pregunta": 56,
+        "fecha": "2024-11-12T23:39:05",
+        "votacion_id": 48781,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48781/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48781/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6173",
+        "numero_pregunta": 57,
+        "fecha": "2024-11-13T00:16:19",
+        "votacion_id": 48811,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48811/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48811/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6173",
+        "numero_pregunta": 58,
+        "fecha": "2024-11-13T00:17:42",
+        "votacion_id": 48812,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48812/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48812/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6173",
+        "numero_pregunta": 59,
+        "fecha": "2024-11-13T00:22:18",
+        "votacion_id": 48813,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48813/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48813/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6173",
+        "numero_pregunta": 60,
+        "fecha": "2024-11-13T00:23:42",
+        "votacion_id": 48814,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48814/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48814/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6173",
+        "numero_pregunta": 61,
+        "fecha": "2024-11-13T00:24:42",
+        "votacion_id": 48815,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48815/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48815/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6173",
+        "numero_pregunta": 62,
+        "fecha": "2024-11-13T00:25:34",
+        "votacion_id": 48820,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48820/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48820/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6173",
+        "numero_pregunta": 63,
+        "fecha": "2024-11-13T00:28:27",
+        "votacion_id": 48818,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48818/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48818/41240"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6173",
+        "numero_pregunta": 64,
+        "fecha": "2024-11-13T00:36:06",
+        "votacion_id": 48819,
+        "evento_id": 41240,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48819/41240",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48819/41240"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T13:23:53+00:00"
+}

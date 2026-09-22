@@ -1,0 +1,34 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "50",
+  "fecha": "2024-11-14T09:05:01",
+  "evento_id": 41241,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41241",
+  "listado": {
+    "sesion": 50,
+    "fase": 1,
+    "fecha": "2024-11-14T09:05:01",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-11-14T11:33:34",
+        "votacion_id": 48821,
+        "evento_id": 41241,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48821/41241",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48821/41241"
+      },
+      {
+        "pregunta": "APROBACIÓN PARA EL INGRESO DE LAS PERSONAS Y EQUIPO AUDIOVISUAL QUE ACOMPAÑAN AL SEÑOR MINISTRO DE RELACIONES EXTERIORES LIC. CARLOS RAMIRO MARTÍNEZ ALVARADO",
+        "numero_pregunta": 2,
+        "fecha": "2024-11-14T12:03:16",
+        "votacion_id": 48824,
+        "evento_id": 41241,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48824/41241",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48824/41241"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T13:19:17+00:00"
+}

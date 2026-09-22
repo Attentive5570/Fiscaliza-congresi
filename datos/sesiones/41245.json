@@ -1,0 +1,601 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "54",
+  "fecha": "2024-11-26T01:00:27",
+  "evento_id": 41245,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41245",
+  "listado": {
+    "sesion": 54,
+    "fase": 1,
+    "fecha": "2024-11-26T01:00:27",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-11-26T16:03:54",
+        "votacion_id": 48964,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48964/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48964/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2024-11-26T16:06:04",
+        "votacion_id": 48965,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48965/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48965/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2024-11-26T16:08:03",
+        "votacion_id": 48962,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48962/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48962/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA URGENCIA NACIONAL (6485)",
+        "numero_pregunta": 4,
+        "fecha": "2024-11-26T17:13:34",
+        "votacion_id": 48966,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48966/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48966/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6485",
+        "numero_pregunta": 5,
+        "fecha": "2024-11-26T17:15:05",
+        "votacion_id": 48967,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48967/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48967/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6485",
+        "numero_pregunta": 6,
+        "fecha": "2024-11-26T17:18:55",
+        "votacion_id": 48969,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48969/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48969/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6485",
+        "numero_pregunta": 7,
+        "fecha": "2024-11-26T17:20:31",
+        "votacion_id": 48973,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48973/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48973/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6485",
+        "numero_pregunta": 8,
+        "fecha": "2024-11-26T17:23:05",
+        "votacion_id": 48975,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48975/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48975/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6485",
+        "numero_pregunta": 9,
+        "fecha": "2024-11-26T17:24:44",
+        "votacion_id": 48976,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48976/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48976/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6485",
+        "numero_pregunta": 10,
+        "fecha": "2024-11-26T17:27:39",
+        "votacion_id": 48971,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48971/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48971/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6485",
+        "numero_pregunta": 11,
+        "fecha": "2024-11-26T17:31:28",
+        "votacion_id": 48972,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48972/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48972/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 12,
+        "fecha": "2024-11-26T17:40:35",
+        "votacion_id": 48978,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48978/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48978/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (DISCUSIÓN EN PRIMER DEBATE DEL DICTAMEN Y PROYECTO DE DECRETO DE LA INICIATIVA IDENTIFICADA CON EL NÚMERO 6483)",
+        "numero_pregunta": 13,
+        "fecha": "2024-11-26T18:16:38",
+        "votacion_id": 48968,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48968/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48968/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA URGENCIA NACIONAL (6483)",
+        "numero_pregunta": 14,
+        "fecha": "2024-11-26T19:08:43",
+        "votacion_id": 48977,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48977/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48977/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 15,
+        "fecha": "2024-11-26T20:30:41",
+        "votacion_id": 48979,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48979/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48979/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL AL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 16,
+        "fecha": "2024-11-26T21:05:56",
+        "votacion_id": 48980,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48980/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48980/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL AL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 17,
+        "fecha": "2024-11-26T21:07:02",
+        "votacion_id": 48981,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48981/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48981/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 18,
+        "fecha": "2024-11-26T21:08:04",
+        "votacion_id": 48982,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48982/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48982/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 19,
+        "fecha": "2024-11-26T21:08:50",
+        "votacion_id": 48992,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48992/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48992/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 20,
+        "fecha": "2024-11-26T21:09:32",
+        "votacion_id": 48990,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48990/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48990/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 21,
+        "fecha": "2024-11-26T21:10:15",
+        "votacion_id": 48989,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48989/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48989/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 14 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 22,
+        "fecha": "2024-11-26T21:11:25",
+        "votacion_id": 48983,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48983/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48983/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 15 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 23,
+        "fecha": "2024-11-26T21:12:21",
+        "votacion_id": 48984,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48984/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48984/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONSTA DE LOS CAPÍTULOS I AL III Y LOS ARTÍCULOS DEL 1 AL 16 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 24,
+        "fecha": "2024-11-26T21:13:28",
+        "votacion_id": 48991,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48991/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48991/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL AL ARTÍCULO 27 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 25,
+        "fecha": "2024-11-26T21:30:55",
+        "votacion_id": 48993,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48993/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48993/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONSTA DE LOS CAPÍTULOS I AL III Y LOS ARTÍCULOS DEL 17 AL 31 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 26,
+        "fecha": "2024-11-26T21:32:46",
+        "votacion_id": 48994,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48994/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48994/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO A CONTINUACIÓN DEL ARTÍCULO 40 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 27,
+        "fecha": "2024-11-26T21:45:19",
+        "votacion_id": 48995,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48995/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48995/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONSTA DE LOS CAPÍTULOS I AL IV Y LOS ARTÍCULOS DEL 32 AL 48 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 28,
+        "fecha": "2024-11-26T21:46:26",
+        "votacion_id": 48996,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48996/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48996/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO IV QUE CONSTA DEL CAPÍTULO ÚNICO Y LOS ARTÍCULOS DEL 49 AL 55 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 29,
+        "fecha": "2024-11-26T21:50:57",
+        "votacion_id": 48999,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48999/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48999/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 60 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 30,
+        "fecha": "2024-11-26T22:21:19",
+        "votacion_id": 49000,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49000/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49000/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 62 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 31,
+        "fecha": "2024-11-26T22:22:18",
+        "votacion_id": 48998,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48998/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48998/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO V QUE CONSTA DE LOS CAPÍTULOS I AL VI Y LOS ARTÍCULOS DEL 56 AL 78 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 32,
+        "fecha": "2024-11-26T22:24:09",
+        "votacion_id": 49001,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49001/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49001/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 79 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 33,
+        "fecha": "2024-11-26T22:38:04",
+        "votacion_id": 49004,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49004/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49004/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO VI QUE CONSTA DE LOS CAPÍTULOS I AL III Y LOS ARTÍCULOS DEL 79 AL 89 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 34,
+        "fecha": "2024-11-26T22:39:23",
+        "votacion_id": 49003,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49003/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49003/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 35,
+        "fecha": "2024-11-26T22:41:20",
+        "votacion_id": 49005,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49005/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49005/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN 6483",
+        "numero_pregunta": 36,
+        "fecha": "2024-11-26T23:13:26",
+        "votacion_id": 49007,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49007/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49007/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL FONDO DE REVISIÓN DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 37,
+        "fecha": "2024-11-26T23:17:21",
+        "votacion_id": 49008,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49008/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49008/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL CON EL FONDO DE REVISIÓN INCORPORADO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6483",
+        "numero_pregunta": 38,
+        "fecha": "2024-11-26T23:18:22",
+        "votacion_id": 49009,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49009/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49009/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE BLANCO)",
+        "numero_pregunta": 39,
+        "fecha": "2024-11-26T23:20:27",
+        "votacion_id": 48987,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48987/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48987/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE BLANCO)",
+        "numero_pregunta": 40,
+        "fecha": "2024-11-26T23:22:26",
+        "votacion_id": 49011,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49011/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49011/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 41,
+        "fecha": "2024-11-26T23:24:16",
+        "votacion_id": 48986,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48986/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48986/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL PROYECTO DE ACUERDO QUE DISPONE APROBAR PRESUPUESTO DE INGRESOS Y EGRESOS DEL ORGANISMO LEGISLATIVO PARA EL EJERCICIO FISCAL DOS MIL VEINTICINCO",
+        "numero_pregunta": 42,
+        "fecha": "2024-11-26T23:43:20",
+        "votacion_id": 48950,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48950/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48950/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL PUNTO TERCERO DEL PROYECTO DE ACUERDO QUE DISPONE APROBAR PRESUPUESTO DE INGRESOS Y EGRESOS DEL ORGANISMO LEGISLATIVO PARA EL EJERCICIO FISCAL DOS MIL VEINTICINCO",
+        "numero_pregunta": 43,
+        "fecha": "2024-11-26T23:44:31",
+        "votacion_id": 49010,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49010/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49010/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL DICTAMEN Y PROYECTO DE ACUERDO QUE DISPONE APROBAR PRESUPUESTO DE INGRESOS Y EGRESOS DEL ORGANISMO LEGISLATIVO PARA EL EJERCICIO FISCAL DOS MIL VEINTICINCO CON LAS ENMIENDAS INCORPORADAS",
+        "numero_pregunta": 44,
+        "fecha": "2024-11-26T23:46:21",
+        "votacion_id": 49015,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49015/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49015/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA URGENCIA NACIONAL 6444",
+        "numero_pregunta": 45,
+        "fecha": "2024-11-27T01:34:28",
+        "votacion_id": 49012,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49012/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49012/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 46,
+        "fecha": "2024-11-27T01:54:45",
+        "votacion_id": 49013,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49013/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49013/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONSTA DE LOS ARTÍCULOS DEL 1 AL 5 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 47,
+        "fecha": "2024-11-27T02:12:48",
+        "votacion_id": 49014,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49014/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49014/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONSTA DE LOS CAPÍTULOS DEL I AL IX Y LOS ARTÍCULOS DEL 6 AL 102 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 48,
+        "fecha": "2024-11-27T03:35:38",
+        "votacion_id": 49016,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49016/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49016/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 110 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 49,
+        "fecha": "2024-11-27T04:09:39",
+        "votacion_id": 49024,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49024/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49024/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 127 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 50,
+        "fecha": "2024-11-27T04:10:54",
+        "votacion_id": 49023,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49023/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49023/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 132 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 51,
+        "fecha": "2024-11-27T04:12:13",
+        "votacion_id": 49028,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49028/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49028/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 132 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 52,
+        "fecha": "2024-11-27T04:14:20",
+        "votacion_id": 49020,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49020/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49020/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 132 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 53,
+        "fecha": "2024-11-27T04:15:04",
+        "votacion_id": 49029,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49029/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49029/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 127 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 54,
+        "fecha": "2024-11-27T04:17:30",
+        "votacion_id": 49030,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49030/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49030/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ENTRE LOS ARTÍCULOS 134 Y 135 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 55,
+        "fecha": "2024-11-27T04:19:18",
+        "votacion_id": 49025,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49025/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49025/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 140 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 56,
+        "fecha": "2024-11-27T04:20:14",
+        "votacion_id": 49021,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49021/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49021/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ENTRE LOS ARTÍCULOS 140 Y 141 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 57,
+        "fecha": "2024-11-27T04:22:58",
+        "votacion_id": 49027,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49027/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49027/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ENTRE LOS ARTÍCULOS 140 Y 141 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 58,
+        "fecha": "2024-11-27T04:24:38",
+        "votacion_id": 49026,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49026/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49026/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 143 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 59,
+        "fecha": "2024-11-27T04:32:12",
+        "votacion_id": 49031,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49031/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49031/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONSTA DE LOS ARTÍCULOS DEL 103 AL 143 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 60,
+        "fecha": "2024-11-27T04:33:24",
+        "votacion_id": 49022,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49022/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49022/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 61,
+        "fecha": "2024-11-27T04:37:37",
+        "votacion_id": 49018,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49018/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49018/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN 6444",
+        "numero_pregunta": 62,
+        "fecha": "2024-11-27T05:36:18",
+        "votacion_id": 49032,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49032/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49032/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE FONDO DE REVISIÓN DEL PROYECTO DE DECRETO QUE DSIPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 63,
+        "fecha": "2024-11-27T05:38:29",
+        "votacion_id": 49033,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49033/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49033/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL CON EL FONDO DE REVISIÓN INCORPORADO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6444",
+        "numero_pregunta": 64,
+        "fecha": "2024-11-27T05:39:55",
+        "votacion_id": 49034,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49034/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49034/41245"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA CANCELAR LA SESIÓN PARA EL 27 DE NOVIEMBRE 2024",
+        "numero_pregunta": 65,
+        "fecha": "2024-11-27T05:41:59",
+        "votacion_id": 49035,
+        "evento_id": 41245,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49035/41245",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49035/41245"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T13:14:57+00:00"
+}

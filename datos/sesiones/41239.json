@@ -1,0 +1,25 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "48",
+  "fecha": "2024-11-07T09:00:46",
+  "evento_id": 41239,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41239",
+  "listado": {
+    "sesion": 48,
+    "fase": 1,
+    "fecha": "2024-11-07T09:00:46",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-11-07T11:24:38",
+        "votacion_id": 48732,
+        "evento_id": 41239,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48732/41239",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48732/41239"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T13:24:01+00:00"
+}

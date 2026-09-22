@@ -1,0 +1,61 @@
+{
+  "tipo": "Extraordinaria",
+  "numero": "6",
+  "fecha": "2024-12-05T09:00:44",
+  "evento_id": 41247,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41247",
+  "listado": {
+    "sesion": 6,
+    "fase": 1,
+    "fecha": "2024-12-05T09:00:44",
+    "tipo": "Extraordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-12-05T11:38:09",
+        "votacion_id": 49037,
+        "evento_id": 41247,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49037/41247",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49037/41247"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-12-05T11:39:27",
+        "votacion_id": 49039,
+        "evento_id": 41247,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49039/41247",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49039/41247"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LAS OBJECIONES PRESENTADAS (DECRETO 34-2024)",
+        "numero_pregunta": 3,
+        "fecha": "2024-12-05T12:09:12",
+        "votacion_id": 49041,
+        "evento_id": 41247,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49041/41247",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49041/41247"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LAS OBJECIONES PRESENTADAS (DECRETO 35-2024)",
+        "numero_pregunta": 4,
+        "fecha": "2024-12-05T13:02:59",
+        "votacion_id": 49042,
+        "evento_id": 41247,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49042/41247",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49042/41247"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LAS OBJECIONES PRESENTADAS (DECRETO 36-2024)",
+        "numero_pregunta": 5,
+        "fecha": "2024-12-05T13:25:51",
+        "votacion_id": 49043,
+        "evento_id": 41247,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49043/41247",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49043/41247"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T13:10:14+00:00"
+}

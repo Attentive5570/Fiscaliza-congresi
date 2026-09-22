@@ -1,0 +1,187 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "53",
+  "fecha": "2024-11-22T10:04:17",
+  "evento_id": 41244,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41244",
+  "listado": {
+    "sesion": 53,
+    "fase": 1,
+    "fecha": "2024-11-22T10:04:17",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-11-22T13:15:22",
+        "votacion_id": 48939,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48939/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48939/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2024-11-22T13:16:45",
+        "votacion_id": 48941,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48941/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48941/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (URGENCIA NACIONAL 6483)",
+        "numero_pregunta": 3,
+        "fecha": "2024-11-22T14:42:44",
+        "votacion_id": 48948,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48948/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48948/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 4,
+        "fecha": "2024-11-22T15:23:40",
+        "votacion_id": 48873,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48873/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48873/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 5,
+        "fecha": "2024-11-22T15:28:55",
+        "votacion_id": 48874,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48874/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48874/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 6,
+        "fecha": "2024-11-22T15:30:30",
+        "votacion_id": 48875,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48875/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48875/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 7,
+        "fecha": "2024-11-22T15:34:44",
+        "votacion_id": 48954,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48954/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48954/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 8,
+        "fecha": "2024-11-22T15:36:42",
+        "votacion_id": 48955,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48955/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48955/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 9,
+        "fecha": "2024-11-22T15:43:53",
+        "votacion_id": 48878,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48878/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48878/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 10,
+        "fecha": "2024-11-22T15:45:57",
+        "votacion_id": 48879,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48879/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48879/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ENTRE LOS ARTÍCULOS 3 Y 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 11,
+        "fecha": "2024-11-22T15:49:28",
+        "votacion_id": 48882,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48882/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48882/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ENTRE LOS ARTÍCULOS 3 Y 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 12,
+        "fecha": "2024-11-22T15:52:31",
+        "votacion_id": 48883,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48883/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48883/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ENTRE LOS ARTÍCULOS 3 Y 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 13,
+        "fecha": "2024-11-22T15:56:15",
+        "votacion_id": 48881,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48881/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48881/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 14,
+        "fecha": "2024-11-22T15:58:12",
+        "votacion_id": 48884,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48884/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48884/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 15,
+        "fecha": "2024-11-22T16:00:06",
+        "votacion_id": 48885,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48885/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48885/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 16,
+        "fecha": "2024-11-22T16:02:05",
+        "votacion_id": 48886,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48886/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48886/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 17,
+        "fecha": "2024-11-22T16:03:57",
+        "votacion_id": 48887,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48887/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48887/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 18,
+        "fecha": "2024-11-22T16:07:03",
+        "votacion_id": 48888,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48888/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48888/41244"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6063-6122-6322",
+        "numero_pregunta": 19,
+        "fecha": "2024-11-22T16:18:53",
+        "votacion_id": 48889,
+        "evento_id": 41244,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/48889/41244",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/48889/41244"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T13:16:22+00:00"
+}
