@@ -1,0 +1,61 @@
+{
+  "numero": "6504",
+  "texto_oficial": "Iniciativa que dispone aprobar Ampliación al Presupuesto General de Ingresos y Egresos del Estado para el Ejercicio Fiscal Dos Mil Veinticinco.",
+  "institucion": "Organismo Ejecutivo",
+  "ponentes": [],
+  "fecha_pleno": "2025-02-10",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-02-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-02-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-02-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-02-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-02-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-02-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-02-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-02-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-02-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-02-20",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6207",
+  "recolectado_en": "2026-09-22T06:21:17+00:00"
+}

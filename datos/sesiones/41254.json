@@ -1,0 +1,232 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "5",
+  "fecha": "2025-02-11T01:43:55",
+  "evento_id": 41254,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41254",
+  "listado": {
+    "sesion": 5,
+    "fase": 1,
+    "fecha": "2025-02-11T01:43:55",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-02-11T15:46:02",
+        "votacion_id": 49076,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49076/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49076/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-02-11T15:47:58",
+        "votacion_id": 49077,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49077/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49077/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (TRAGEDIA 10 DE FEBRERO DE 2025)",
+        "numero_pregunta": 3,
+        "fecha": "2025-02-11T16:50:30",
+        "votacion_id": 49078,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49078/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49078/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (PRIMER DEBATE 6445)",
+        "numero_pregunta": 4,
+        "fecha": "2025-02-11T17:23:06",
+        "votacion_id": 49082,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49082/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49082/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (CONOCER INICIATIVA 6504)",
+        "numero_pregunta": 5,
+        "fecha": "2025-02-11T17:47:53",
+        "votacion_id": 49079,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49079/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49079/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA URGENCIA NACIONAL 6504",
+        "numero_pregunta": 6,
+        "fecha": "2025-02-11T17:57:13",
+        "votacion_id": 49080,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49080/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49080/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 7,
+        "fecha": "2025-02-11T17:59:05",
+        "votacion_id": 49081,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49081/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49081/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 8,
+        "fecha": "2025-02-11T18:00:55",
+        "votacion_id": 49083,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49083/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49083/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 9,
+        "fecha": "2025-02-11T18:03:39",
+        "votacion_id": 49084,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49084/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49084/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 10,
+        "fecha": "2025-02-11T18:05:34",
+        "votacion_id": 49085,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49085/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49085/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 11,
+        "fecha": "2025-02-11T18:07:01",
+        "votacion_id": 49086,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49086/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49086/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 12,
+        "fecha": "2025-02-11T18:08:52",
+        "votacion_id": 49087,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49087/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49087/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 13,
+        "fecha": "2025-02-11T18:10:19",
+        "votacion_id": 49088,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49088/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49088/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 14,
+        "fecha": "2025-02-11T18:12:03",
+        "votacion_id": 49089,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49089/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49089/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 15,
+        "fecha": "2025-02-11T18:14:57",
+        "votacion_id": 49090,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49090/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49090/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 16,
+        "fecha": "2025-02-11T18:17:05",
+        "votacion_id": 49091,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49091/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49091/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 17,
+        "fecha": "2025-02-11T18:55:40",
+        "votacion_id": 49092,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49092/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49092/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 18,
+        "fecha": "2025-02-11T19:00:28",
+        "votacion_id": 49093,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49093/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49093/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 19,
+        "fecha": "2025-02-11T19:02:45",
+        "votacion_id": 49094,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49094/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49094/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 12 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 20,
+        "fecha": "2025-02-11T19:03:59",
+        "votacion_id": 49095,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49095/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49095/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PRÉAMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 21,
+        "fecha": "2025-02-11T19:06:03",
+        "votacion_id": 49096,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49096/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49096/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN 6504",
+        "numero_pregunta": 22,
+        "fecha": "2025-02-11T19:37:08",
+        "votacion_id": 49099,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49099/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49099/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6504",
+        "numero_pregunta": 23,
+        "fecha": "2025-02-11T19:38:40",
+        "votacion_id": 49097,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49097/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49097/41254"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 24,
+        "fecha": "2025-02-11T19:42:59",
+        "votacion_id": 49103,
+        "evento_id": 41254,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49103/41254",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49103/41254"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T06:20:40+00:00"
+}

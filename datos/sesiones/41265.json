@@ -1,0 +1,61 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "14",
+  "fecha": "2025-03-18T01:01:24",
+  "evento_id": 41265,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41265",
+  "listado": {
+    "sesion": 14,
+    "fase": 1,
+    "fecha": "2025-03-18T01:01:24",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 1,
+        "fecha": "2025-03-18T18:37:48",
+        "votacion_id": 49236,
+        "evento_id": 41265,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49236/41265",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49236/41265"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE RODRÍGUEZ)",
+        "numero_pregunta": 2,
+        "fecha": "2025-03-18T18:38:56",
+        "votacion_id": 49240,
+        "evento_id": 41265,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49240/41265",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49240/41265"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE ALVAREZ)",
+        "numero_pregunta": 3,
+        "fecha": "2025-03-18T18:39:55",
+        "votacion_id": 49242,
+        "evento_id": 41265,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49242/41265",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49242/41265"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE AJCIP)",
+        "numero_pregunta": 4,
+        "fecha": "2025-03-18T18:41:53",
+        "votacion_id": 49245,
+        "evento_id": 41265,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49245/41265",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49245/41265"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LAS PROPUESTAS INCORPORADAS",
+        "numero_pregunta": 5,
+        "fecha": "2025-03-18T18:42:59",
+        "votacion_id": 49241,
+        "evento_id": 41265,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49241/41265",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49241/41265"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T06:13:18+00:00"
+}

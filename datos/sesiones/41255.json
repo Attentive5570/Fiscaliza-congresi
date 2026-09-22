@@ -1,0 +1,34 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "6",
+  "fecha": "2025-02-13T09:53:01",
+  "evento_id": 41255,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41255",
+  "listado": {
+    "sesion": 6,
+    "fase": 1,
+    "fecha": "2025-02-13T09:53:01",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-02-13T11:05:58",
+        "votacion_id": 49105,
+        "evento_id": 41255,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49105/41255",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49105/41255"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-02-13T11:07:28",
+        "votacion_id": 49106,
+        "evento_id": 41255,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49106/41255",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49106/41255"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T06:18:40+00:00"
+}

@@ -1,0 +1,78 @@
+{
+  "numero": "6454",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 17-73 del Congreso de la República, Código Penal. Reforma el art. 327 B. Agravación por delitos migratorios y adiciona el art. 327 G. Clonación de Tarjeta de Crédito o Débito.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Karina Alexandra Paz Rosales"
+  ],
+  "fecha_pleno": "2024-09-24",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-09-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-11-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-01-16",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-02-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-02-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2025-02-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-02-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-02-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-02-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-02-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-03-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-03-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-03-08",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6182",
+  "recolectado_en": "2026-09-22T06:21:25+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "19",
+  "fecha": "2025-04-29T12:56:37",
+  "evento_id": 41271,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41271",
+  "listado": {
+    "sesion": 19,
+    "fase": 1,
+    "fecha": "2025-04-29T12:56:37",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE SAMUEL PÉREZ)",
+        "numero_pregunta": 1,
+        "fecha": "2025-04-29T14:44:07",
+        "votacion_id": 49274,
+        "evento_id": 41271,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49274/41271",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49274/41271"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 2,
+        "fecha": "2025-04-29T14:53:39",
+        "votacion_id": 49269,
+        "evento_id": 41271,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49269/41271",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49269/41271"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE RODAS)",
+        "numero_pregunta": 3,
+        "fecha": "2025-04-29T14:57:44",
+        "votacion_id": 49277,
+        "evento_id": 41271,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49277/41271",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49277/41271"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE ILLESCAS)",
+        "numero_pregunta": 4,
+        "fecha": "2025-04-29T15:03:59",
+        "votacion_id": 49278,
+        "evento_id": 41271,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49278/41271",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49278/41271"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 5,
+        "fecha": "2025-04-29T15:07:24",
+        "votacion_id": 49280,
+        "evento_id": 41271,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49280/41271",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49280/41271"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T06:12:03+00:00"
+}

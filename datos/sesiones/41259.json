@@ -1,0 +1,187 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "9",
+  "fecha": "2025-02-25T12:55:15",
+  "evento_id": 41259,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41259",
+  "listado": {
+    "sesion": 9,
+    "fase": 1,
+    "fecha": "2025-02-25T12:55:15",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-02-25T17:46:31",
+        "votacion_id": 49153,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49153/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49153/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE MORATAYA)",
+        "numero_pregunta": 2,
+        "fecha": "2025-02-25T17:48:11",
+        "votacion_id": 49156,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49156/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49156/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LAS PROPUESTAS INCORPORADAS",
+        "numero_pregunta": 3,
+        "fecha": "2025-02-25T17:50:03",
+        "votacion_id": 49157,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49157/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49157/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 4,
+        "fecha": "2025-02-25T17:51:54",
+        "votacion_id": 49149,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49149/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49149/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA CONOCER DE URGENCIA NACIONAL LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 5,
+        "fecha": "2025-02-25T17:58:54",
+        "votacion_id": 49155,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49155/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49155/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN EN SEGUNDO Y ÚLTIMO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 6,
+        "fecha": "2025-02-25T18:01:45",
+        "votacion_id": 49166,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49166/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49166/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 7,
+        "fecha": "2025-02-25T18:52:37",
+        "votacion_id": 49162,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49162/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49162/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 8,
+        "fecha": "2025-02-25T18:55:08",
+        "votacion_id": 49167,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49167/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49167/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 9,
+        "fecha": "2025-02-25T18:56:39",
+        "votacion_id": 49172,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49172/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49172/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 10,
+        "fecha": "2025-02-25T20:14:57",
+        "votacion_id": 49173,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49173/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49173/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 11,
+        "fecha": "2025-02-25T20:16:10",
+        "votacion_id": 49164,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49164/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49164/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 1 AL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 12,
+        "fecha": "2025-02-25T20:18:40",
+        "votacion_id": 49171,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49171/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49171/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 13,
+        "fecha": "2025-02-25T20:20:39",
+        "votacion_id": 49163,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49163/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49163/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 14,
+        "fecha": "2025-02-25T20:22:05",
+        "votacion_id": 49165,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49165/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49165/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PRÉAMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 15,
+        "fecha": "2025-02-25T20:24:28",
+        "votacion_id": 49160,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49160/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49160/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6456",
+        "numero_pregunta": 16,
+        "fecha": "2025-02-25T20:29:20",
+        "votacion_id": 49161,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49161/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49161/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA LA ELECCIÓN DE INTEGRANTES DE LA COMISIÓN DE DERECHOS HUMANOS DEL CONGRESO DE LA REPUBLICA",
+        "numero_pregunta": 17,
+        "fecha": "2025-02-25T20:50:49",
+        "votacion_id": 49150,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49150/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49150/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE DECLARA ELECTOS A LOS INTEGRANTES DE LA COMISIÓN DE DERECHOS HUMANOS DEL CONGRESO DE LA REPUBLICA",
+        "numero_pregunta": 18,
+        "fecha": "2025-02-25T20:54:09",
+        "votacion_id": 49151,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49151/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49151/41259"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5770",
+        "numero_pregunta": 19,
+        "fecha": "2025-02-25T20:56:30",
+        "votacion_id": 49152,
+        "evento_id": 41259,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49152/41259",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49152/41259"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T06:16:00+00:00"
+}

@@ -1,0 +1,259 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "7",
+  "fecha": "2025-02-18T01:02:24",
+  "evento_id": 41256,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41256",
+  "listado": {
+    "sesion": 7,
+    "fase": 1,
+    "fecha": "2025-02-18T01:02:24",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-02-18T16:31:12",
+        "votacion_id": 49112,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49112/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49112/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-02-18T16:35:51",
+        "votacion_id": 49113,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49113/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49113/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE APRUEBA LA DISTRIBUCIÓN DE LAS PRESIDENCIAS DE COMISIONES ORDINARIAS DE TRABAJO",
+        "numero_pregunta": 3,
+        "fecha": "2025-02-18T17:13:41",
+        "votacion_id": 49104,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49104/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49104/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6454",
+        "numero_pregunta": 4,
+        "fecha": "2025-02-18T17:24:57",
+        "votacion_id": 49110,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49110/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49110/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6454",
+        "numero_pregunta": 5,
+        "fecha": "2025-02-18T17:28:27",
+        "votacion_id": 49114,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49114/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49114/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6454",
+        "numero_pregunta": 6,
+        "fecha": "2025-02-18T17:31:48",
+        "votacion_id": 49115,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49115/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49115/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ENTRE LOS ARTÍCULOS 2 Y 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6454",
+        "numero_pregunta": 7,
+        "fecha": "2025-02-18T17:36:47",
+        "votacion_id": 49118,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49118/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49118/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6454",
+        "numero_pregunta": 8,
+        "fecha": "2025-02-18T17:38:15",
+        "votacion_id": 49116,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49116/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49116/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PRÉAMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6454",
+        "numero_pregunta": 9,
+        "fecha": "2025-02-18T17:41:56",
+        "votacion_id": 49117,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49117/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49117/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6454",
+        "numero_pregunta": 10,
+        "fecha": "2025-02-18T17:47:45",
+        "votacion_id": 49119,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49119/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49119/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (PROYECTO DE ACUERDO DE COMISIONES DE TRABAJO)",
+        "numero_pregunta": 11,
+        "fecha": "2025-02-18T17:57:36",
+        "votacion_id": 49132,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49132/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49132/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN EN TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 12,
+        "fecha": "2025-02-18T18:11:28",
+        "votacion_id": 49120,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49120/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49120/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 13,
+        "fecha": "2025-02-18T18:14:29",
+        "votacion_id": 49121,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49121/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49121/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 14,
+        "fecha": "2025-02-18T18:17:14",
+        "votacion_id": 49122,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49122/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49122/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 15,
+        "fecha": "2025-02-18T18:23:12",
+        "votacion_id": 49123,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49123/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49123/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 16,
+        "fecha": "2025-02-18T18:24:18",
+        "votacion_id": 49124,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49124/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49124/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 17,
+        "fecha": "2025-02-18T18:27:45",
+        "votacion_id": 49136,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49136/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49136/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 18,
+        "fecha": "2025-02-18T18:28:54",
+        "votacion_id": 49137,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49137/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49137/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 19,
+        "fecha": "2025-02-18T18:31:04",
+        "votacion_id": 49126,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49126/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49126/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 20,
+        "fecha": "2025-02-18T18:33:45",
+        "votacion_id": 49138,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49138/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49138/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 21,
+        "fecha": "2025-02-18T18:34:57",
+        "votacion_id": 49139,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49139/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49139/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 22,
+        "fecha": "2025-02-18T18:36:09",
+        "votacion_id": 49128,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49128/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49128/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PRÉAMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 23,
+        "fecha": "2025-02-18T18:39:04",
+        "votacion_id": 49129,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49129/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49129/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6384",
+        "numero_pregunta": 24,
+        "fecha": "2025-02-18T18:47:26",
+        "votacion_id": 49130,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49130/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49130/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (PROYECTO DE ACUERDO DE COMISIONES DE TRABAJO)",
+        "numero_pregunta": 25,
+        "fecha": "2025-02-18T18:56:07",
+        "votacion_id": 49135,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49135/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49135/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE APRUEBA LA DISTRIBUCIÓN DE COMISIONES ORDINARIAS DE TRABAJO",
+        "numero_pregunta": 26,
+        "fecha": "2025-02-18T19:00:21",
+        "votacion_id": 49133,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49133/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49133/41256"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA Y SE ENTRE A CONOCER EL PRIMER DEBATE DEL PROYECTO DE DECRETO DE 6456",
+        "numero_pregunta": 27,
+        "fecha": "2025-02-18T19:02:50",
+        "votacion_id": 49140,
+        "evento_id": 41256,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49140/41256",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49140/41256"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T06:18:27+00:00"
+}

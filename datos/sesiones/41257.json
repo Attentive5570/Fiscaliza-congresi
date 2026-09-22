@@ -1,0 +1,43 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "8",
+  "fecha": "2025-02-20T09:27:05",
+  "evento_id": 41257,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41257",
+  "listado": {
+    "sesion": 8,
+    "fase": 1,
+    "fecha": "2025-02-20T09:27:05",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-02-20T11:33:30",
+        "votacion_id": 49141,
+        "evento_id": 41257,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49141/41257",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49141/41257"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2025-02-20T11:34:59",
+        "votacion_id": 49142,
+        "evento_id": 41257,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49142/41257",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49142/41257"
+      },
+      {
+        "pregunta": "AUTORIZACIÓN PARA EL INGRESO DE LAS PERSONAS QUE ACOMPAÑAN AL SEÑOR MINISTRO Y HACER USO DE EQUIPO AUDIOVISUAL",
+        "numero_pregunta": 3,
+        "fecha": "2025-02-20T11:38:40",
+        "votacion_id": 49145,
+        "evento_id": 41257,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49145/41257",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49145/41257"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T06:16:18+00:00"
+}

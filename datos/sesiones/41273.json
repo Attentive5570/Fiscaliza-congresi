@@ -1,0 +1,15 @@
+{
+  "tipo": "Extraordinaria",
+  "numero": "1",
+  "fecha": "2025-05-22T08:57:40",
+  "evento_id": 41273,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41273",
+  "listado": {
+    "sesion": 1,
+    "fase": 1,
+    "fecha": "2025-05-22T08:57:40",
+    "tipo": "Extraordinaria",
+    "votaciones": []
+  },
+  "recolectado_en": "2026-09-22T06:11:18+00:00"
+}

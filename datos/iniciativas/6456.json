@@ -1,0 +1,87 @@
+{
+  "numero": "6456",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto 22-2022 del Congreso de la República de Guatemala, Ley que Declara el Diecinueve de Mayo de cada año \"Día Nacional de la Comadrona guatemalteca IYOM Y/O RATI´T AK´AL\". Reforma el art. 3. Se dignifica la labor de las abuelas comadronas.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Sonia Marina Gutierrez Raguay",
+    "Sofía Jeanetth Hernández Herrera",
+    "Sandra Carolina Orellana Cruz",
+    "César Augusto Amézquita Del Valle",
+    "Sandra Yanet Milian Gomez",
+    "Sabino Sebastián Velásquez Bámaca",
+    "Evelyn Oddeth Morataya Marroquín",
+    "Randy Araely Coc Figueroa",
+    "Julio César Portillo Paz",
+    "Alberto Eduardo De León Benítez",
+    "Byron Leonidas Tejeda Marroquín",
+    "José Alberto Chic Cardona",
+    "César Augusto Fión Morales",
+    "Marleni Lineth Matías Santiago",
+    "Cornelio Gonzalo García García"
+  ],
+  "fecha_pleno": "2024-09-26",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-09-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-10-15",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-11-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-02-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-02-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2025-02-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2025-02-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2025-02-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2025-03-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2025-03-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2025-03-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-03-11",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6173",
+  "recolectado_en": "2026-09-22T06:21:21+00:00"
+}

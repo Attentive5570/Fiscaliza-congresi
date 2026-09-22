@@ -1,0 +1,56 @@
+{
+  "numero": "6430",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para Prevenir el Abuso Sexual Infantil.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Raúl Amilcar Barrera Robles",
+    "Ana Lucrecia Marroquín Godoy De Palomo",
+    "Olga Isabel Villalta Pereira",
+    "Brenda Marleny Mejía López"
+  ],
+  "fecha_pleno": "2024-08-08",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-08-08",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-07-31",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2025-08-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2025-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-04-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-04-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-04-14",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6146",
+  "recolectado_en": "2026-09-22T06:21:28+00:00"
+}

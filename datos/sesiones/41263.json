@@ -1,0 +1,61 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "12",
+  "fecha": "2025-03-11T12:59:46",
+  "evento_id": 41263,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41263",
+  "listado": {
+    "sesion": 12,
+    "fase": 1,
+    "fecha": "2025-03-11T12:59:46",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-03-11T15:30:56",
+        "votacion_id": 49188,
+        "evento_id": 41263,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49188/41263",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49188/41263"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-03-11T15:36:41",
+        "votacion_id": 49190,
+        "evento_id": 41263,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49190/41263",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49190/41263"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (RETORNO A COMISIÓN)",
+        "numero_pregunta": 3,
+        "fecha": "2025-03-11T16:26:40",
+        "votacion_id": 49191,
+        "evento_id": 41263,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49191/41263",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49191/41263"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL (RETORNO A COMISIÓN)",
+        "numero_pregunta": 4,
+        "fecha": "2025-03-11T17:35:28",
+        "votacion_id": 49192,
+        "evento_id": 41263,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49192/41263",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49192/41263"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL (RETORNO A COMISIÓN) REPRESENTANTE PALENCIA",
+        "numero_pregunta": 5,
+        "fecha": "2025-03-11T17:48:03",
+        "votacion_id": 49193,
+        "evento_id": 41263,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49193/41263",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49193/41263"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T06:13:58+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "11",
+  "fecha": "2025-03-06T09:09:04",
+  "evento_id": 41262,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41262",
+  "listado": {
+    "sesion": 11,
+    "fase": 1,
+    "fecha": "2025-03-06T09:09:04",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-03-06T10:37:32",
+        "votacion_id": 49183,
+        "evento_id": 41262,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49183/41262",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49183/41262"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2025-03-06T10:39:12",
+        "votacion_id": 49185,
+        "evento_id": 41262,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49185/41262",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49185/41262"
+      },
+      {
+        "pregunta": "APROBACIÓN PARA EL INGRESO DE LAS PERSONAS QUE ACOMPAÑAN AL SEÑOR MINISTRO DE SALUD PÚBLICA Y ASISTENCIA SOCIAL DOCTOR JOAQUÍN BARNOYA PÉREZ Y USO DE EQUIPO AUDIOVISUAL",
+        "numero_pregunta": 3,
+        "fecha": "2025-03-06T10:56:10",
+        "votacion_id": 49174,
+        "evento_id": 41262,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49174/41262",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49174/41262"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T06:14:16+00:00"
+}

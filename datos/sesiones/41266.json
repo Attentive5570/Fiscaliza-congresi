@@ -1,0 +1,25 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "15",
+  "fecha": "2025-03-20T09:04:41",
+  "evento_id": 41266,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41266",
+  "listado": {
+    "sesion": 15,
+    "fase": 1,
+    "fecha": "2025-03-20T09:04:41",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2025-03-20T11:07:44",
+        "votacion_id": 49246,
+        "evento_id": 41266,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/49246/41266",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/49246/41266"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T06:12:51+00:00"
+}
