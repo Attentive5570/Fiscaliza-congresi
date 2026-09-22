@@ -1,0 +1,151 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "16",
+  "fecha": "2024-03-14T08:55:57",
+  "evento_id": 41184,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41184",
+  "listado": {
+    "sesion": 16,
+    "fase": 1,
+    "fecha": "2024-03-14T08:55:57",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE LAM)",
+        "numero_pregunta": 1,
+        "fecha": "2024-03-14T11:06:27",
+        "votacion_id": 47303,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47303/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47303/41184"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA)",
+        "numero_pregunta": 2,
+        "fecha": "2024-03-14T11:10:03",
+        "votacion_id": 47304,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47304/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47304/41184"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE DE LEÓN)",
+        "numero_pregunta": 3,
+        "fecha": "2024-03-14T11:20:50",
+        "votacion_id": 47312,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47312/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47312/41184"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE ARZÚ)",
+        "numero_pregunta": 4,
+        "fecha": "2024-03-14T11:47:23",
+        "votacion_id": 47314,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47314/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47314/41184"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LAS PROPUESTAS INCORPORADAS",
+        "numero_pregunta": 5,
+        "fecha": "2024-03-14T12:04:23",
+        "votacion_id": 47305,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47305/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47305/41184"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 6,
+        "fecha": "2024-03-14T12:06:55",
+        "votacion_id": 47290,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47290/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47290/41184"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (RETORNO A COMISIÓN 5777)",
+        "numero_pregunta": 7,
+        "fecha": "2024-03-14T12:27:41",
+        "votacion_id": 47315,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47315/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47315/41184"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PALALA)",
+        "numero_pregunta": 8,
+        "fecha": "2024-03-14T12:34:25",
+        "votacion_id": 47317,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47317/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47317/41184"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA Y SE CONOZCA OBJECIÓN PLANTEADA",
+        "numero_pregunta": 9,
+        "fecha": "2024-03-14T12:51:48",
+        "votacion_id": 47318,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47318/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47318/41184"
+      },
+      {
+        "pregunta": "ADMISIÓN DEL DICTAMEN FAVORABLE DE LA COMISIÓN DE DEFENSA NACIONAL",
+        "numero_pregunta": 10,
+        "fecha": "2024-03-14T14:24:49",
+        "votacion_id": 47323,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47323/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47323/41184"
+      },
+      {
+        "pregunta": "ADMISIÓN DEL DICTAMEN FAVORABLE DE LA COMISIÓN DE GOBERNACIÓN",
+        "numero_pregunta": 11,
+        "fecha": "2024-03-14T14:26:33",
+        "votacion_id": 47321,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47321/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47321/41184"
+      },
+      {
+        "pregunta": "ADMISIÓN DEL DICTAMEN FAVORABLE DE LA COMISIÓN DE ASUNTOS DE SEGURIDAD NACIONAL",
+        "numero_pregunta": 12,
+        "fecha": "2024-03-14T14:28:22",
+        "votacion_id": 47322,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47322/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47322/41184"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO (MINISTERIO DE LA DEFENSA)",
+        "numero_pregunta": 13,
+        "fecha": "2024-03-14T15:09:27",
+        "votacion_id": 47319,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47319/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47319/41184"
+      },
+      {
+        "pregunta": "ELECCIÓN DE HENRY ESTUARDO CASTILLO VILLATORO COMO MIEMBRO TITULAR EN REPRESENTACIÓN DEL CONGRESO DE LA REPÚBLICA ANTE LA JUNTA MONETARIA",
+        "numero_pregunta": 14,
+        "fecha": "2024-03-14T15:19:56",
+        "votacion_id": 47226,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47226/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47226/41184"
+      },
+      {
+        "pregunta": "ELECCIÓN DE FERNANDO LINAREZ-BELTRANENA COMO MIEMBRO TITULAR EN REPRESENTACIÓN DEL CONGRESO DE LA REPÚBLICA ANTE LA JUNTA MONETARIA",
+        "numero_pregunta": 15,
+        "fecha": "2024-03-14T15:20:58",
+        "votacion_id": 47227,
+        "evento_id": 41184,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47227/41184",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47227/41184"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T17:19:50+00:00"
+}

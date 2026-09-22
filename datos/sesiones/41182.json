@@ -1,0 +1,43 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "14",
+  "fecha": "2024-03-05T01:02:09",
+  "evento_id": 41182,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41182",
+  "listado": {
+    "sesion": 14,
+    "fase": 1,
+    "fecha": "2024-03-05T01:02:09",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE CHIC)",
+        "numero_pregunta": 1,
+        "fecha": "2024-03-05T15:03:39",
+        "votacion_id": 47214,
+        "evento_id": 41182,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47214/41182",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47214/41182"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2024-03-05T15:07:23",
+        "votacion_id": 47217,
+        "evento_id": 41182,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47217/41182",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47217/41182"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2024-03-05T15:12:32",
+        "votacion_id": 47190,
+        "evento_id": 41182,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47190/41182",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47190/41182"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T17:22:49+00:00"
+}

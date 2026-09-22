@@ -1,0 +1,34 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "26",
+  "fecha": "2024-05-07T12:13:20",
+  "evento_id": 41195,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41195",
+  "listado": {
+    "sesion": 26,
+    "fase": 1,
+    "fecha": "2024-05-07T12:13:20",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-05-07T15:01:06",
+        "votacion_id": 47579,
+        "evento_id": 41195,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47579/41195",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47579/41195"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LAS ACTAS DE LAS SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2024-05-07T15:03:17",
+        "votacion_id": 47581,
+        "evento_id": 41195,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47581/41195",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47581/41195"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T17:10:13+00:00"
+}

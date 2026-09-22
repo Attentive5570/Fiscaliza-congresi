@@ -1,0 +1,88 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "27",
+  "fecha": "2024-08-06T01:00:35",
+  "evento_id": 41203,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41203",
+  "listado": {
+    "sesion": 27,
+    "fase": 1,
+    "fecha": "2024-08-06T01:00:35",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-08-06T15:41:10",
+        "votacion_id": 47660,
+        "evento_id": 41203,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47660/41203",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47660/41203"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-08-06T15:42:53",
+        "votacion_id": 47662,
+        "evento_id": 41203,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47662/41203",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47662/41203"
+      },
+      {
+        "pregunta": "ELECCIÓN DE RONY EULALIO LÓPEZ CONTRERAS COMO DIRECTOR GENERAL DEL INSTITUTO DE LA DEFENSA PÚBLICA PENAL",
+        "numero_pregunta": 3,
+        "fecha": "2024-08-06T16:10:38",
+        "votacion_id": 47665,
+        "evento_id": 41203,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47665/41203",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47665/41203"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CARLOS HUMBERTO SANDOVAL ORELLANA COMO DIRECTOR GENERAL DEL INSTITUTO DE LA DEFENSA PÚBLICA PENAL",
+        "numero_pregunta": 4,
+        "fecha": "2024-08-06T16:12:44",
+        "votacion_id": 47663,
+        "evento_id": 41203,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47663/41203",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47663/41203"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LESBIA MARLENY SIS CHÉN COMO DIRECTORA GENERAL DEL INSTITUTO DE LA DEFENSA PÚBLICA PENAL",
+        "numero_pregunta": 5,
+        "fecha": "2024-08-06T16:14:18",
+        "votacion_id": 47664,
+        "evento_id": 41203,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47664/41203",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47664/41203"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE DECLARA ELECTO AL DIRECTOR GENERAL DEL INSTITUTO DE LA DEFENSA PÚBLICA PENAL",
+        "numero_pregunta": 6,
+        "fecha": "2024-08-06T16:19:05",
+        "votacion_id": 47666,
+        "evento_id": 41203,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47666/41203",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47666/41203"
+      },
+      {
+        "pregunta": "AUTORIZACIÓN PARA EL INGRESO DE PERSONAS QUE ACOMPAÑAN AL SEÑOR MINISTRO DE GOBERNACIÓN LICENCIADO FRANCISCO JÍMENEZ IRUNGARAY Y PARA EL USO DE AUDIOVISUALES EN EL HEMICICLO",
+        "numero_pregunta": 7,
+        "fecha": "2024-08-06T16:27:48",
+        "votacion_id": 47668,
+        "evento_id": 41203,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47668/41203",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47668/41203"
+      },
+      {
+        "pregunta": "CONSULTA AL PLENO SOBRE LA SOLICITUD PRESENTADA",
+        "numero_pregunta": 8,
+        "fecha": "2024-08-06T16:44:17",
+        "votacion_id": 47669,
+        "evento_id": 41203,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47669/41203",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47669/41203"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T17:06:11+00:00"
+}

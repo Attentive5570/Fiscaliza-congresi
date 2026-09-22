@@ -1,0 +1,15 @@
+{
+  "tipo": "Solemne",
+  "numero": "2",
+  "fecha": "2024-05-30T09:05:23",
+  "evento_id": 41197,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41197",
+  "listado": {
+    "sesion": 2,
+    "fase": 1,
+    "fecha": "2024-05-30T09:05:23",
+    "tipo": "Solemne",
+    "votaciones": []
+  },
+  "recolectado_en": "2026-09-22T17:10:01+00:00"
+}

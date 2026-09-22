@@ -1,0 +1,984 @@
+{
+  "sesion": 1,
+  "fase": 1,
+  "fecha": "2024-06-06T09:08:01",
+  "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+  "numero_pregunta": 2,
+  "conteo": {
+    "a_favor": 65,
+    "en_contra": 13,
+    "ausente": 68,
+    "licencia_excusa": 14
+  },
+  "total_diputados": 160,
+  "diputados": [
+    {
+      "nombre": "Ramos y Ramos Nery Abilio",
+      "clave": "ramos-y-ramos-nery-abilio",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Dávila Cordova Cesar Roberto",
+      "clave": "davila-cordova-cesar-roberto",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "De León Benitez Alberto Eduardo",
+      "clave": "de-leon-benitez-alberto-eduardo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Tejeda Marroquín Byron Leonidas",
+      "clave": "tejeda-marroquin-byron-leonidas",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "López Maldonado Carlos Enrique",
+      "clave": "lopez-maldonado-carlos-enrique",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Ralda Conde Guillermo Antonio",
+      "clave": "ralda-conde-guillermo-antonio",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Orellana Sandoval Jairo Danilo",
+      "clave": "orellana-sandoval-jairo-danilo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Estrada Domínguez Julio Héctor",
+      "clave": "estrada-dominguez-julio-hector",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Escobar Castillo Kevyn Luis Carlo",
+      "clave": "escobar-castillo-kevyn-luis-carlo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Aguirre Estrada Luis Fernando",
+      "clave": "aguirre-estrada-luis-fernando",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Archila Cordón Manuel de Jesús",
+      "clave": "archila-cordon-manuel-de-jesus",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Tebelan Pantzay Marcos Eduardo",
+      "clave": "tebelan-pantzay-marcos-eduardo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Velásquez Pérez Mario",
+      "clave": "velasquez-perez-mario",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Cifuentes Ovalle Pablo Leonel",
+      "clave": "cifuentes-ovalle-pablo-leonel",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Guzmán Figueroa Rolando",
+      "clave": "guzman-figueroa-rolando",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Celis Navas Sergio Leonel",
+      "clave": "celis-navas-sergio-leonel",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Javier Javier Esduin Jerson",
+      "clave": "javier-javier-esduin-jerson",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Alvarez y Alvarez Cristian Rodolfo",
+      "clave": "alvarez-y-alvarez-cristian-rodolfo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Mendoza Franco Jose Pablo",
+      "clave": "mendoza-franco-jose-pablo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Pellecer Rodríguez Rodrigo Antonio",
+      "clave": "pellecer-rodriguez-rodrigo-antonio",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Pereira Delgado Rudy Berner",
+      "clave": "pereira-delgado-rudy-berner",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Preciado Navarijo Vivian Beatriz",
+      "clave": "preciado-navarijo-vivian-beatriz",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Rodríguez Palacios Byron Bladimiro",
+      "clave": "rodriguez-palacios-byron-bladimiro",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "García García Cornelio Gonzalo",
+      "clave": "garcia-garcia-cornelio-gonzalo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Madrazo Mazariegos Danilo",
+      "clave": "madrazo-mazariegos-danilo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Alejos Lorenzana Felipe",
+      "clave": "alejos-lorenzana-felipe",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Cifuentes Navarro Gustavo Adolfo",
+      "clave": "cifuentes-navarro-gustavo-adolfo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Zepeda Zepeda Marvin Adrian",
+      "clave": "zepeda-zepeda-marvin-adrian",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Ipiña Leiva Benjamin",
+      "clave": "ipina-leiva-benjamin",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Lucas Paz Darwin Alberto",
+      "clave": "lucas-paz-darwin-alberto",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Lam Ruano Francisco Vitelio",
+      "clave": "lam-ruano-francisco-vitelio",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Marroquín Ordoñez Julio Daniel",
+      "clave": "marroquin-ordonez-julio-daniel",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Cardona Arreaga de Pojoy Karla Betzaida",
+      "clave": "cardona-arreaga-de-pojoy-karla-betzaida",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Barrera Villanueva León Felipe",
+      "clave": "barrera-villanueva-leon-felipe",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "De León Torres Lourdes Teresita",
+      "clave": "de-leon-torres-lourdes-teresita",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "López Bolaños Luis Javier",
+      "clave": "lopez-bolanos-luis-javier",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Mejía Alfaro Marco Aurelio",
+      "clave": "mejia-alfaro-marco-aurelio",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Gálvez Muñoz Mario Ernesto",
+      "clave": "galvez-munoz-mario-ernesto",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Matías Santiago Marleni Lineth",
+      "clave": "matias-santiago-marleni-lineth",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Solórzano Quevedo Raúl Antonio",
+      "clave": "solorzano-quevedo-raul-antonio",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Ovalle Barrios Rolando Miguel",
+      "clave": "ovalle-barrios-rolando-miguel",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Enríquez Garzaro Sergio Guillermo",
+      "clave": "enriquez-garzaro-sergio-guillermo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Cifuentes Delgado Victor Hugo",
+      "clave": "cifuentes-delgado-victor-hugo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "López Girón Carlos Enrique",
+      "clave": "lopez-giron-carlos-enrique",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Palencia Reyes Elmer Josué",
+      "clave": "palencia-reyes-elmer-josue",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Bran Colindres Ernesto",
+      "clave": "bran-colindres-ernesto",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Salazar Cordero Faver Emilio",
+      "clave": "salazar-cordero-faver-emilio",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Díaz Mazariegos Gerardín Ariel",
+      "clave": "diaz-mazariegos-gerardin-ariel",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Ayala Marroquín Jorge Estuardo",
+      "clave": "ayala-marroquin-jorge-estuardo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Galindo De León José Luis",
+      "clave": "galindo-de-leon-jose-luis",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Guardado Linares de Nájera Mercedes Cristabel",
+      "clave": "guardado-linares-de-najera-mercedes-cristabel",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Jovel Polanco Sandra Erica",
+      "clave": "jovel-polanco-sandra-erica",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Arévalo Ávila Sherol Ivanisse",
+      "clave": "arevalo-avila-sherol-ivanisse",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Martínez Hernández Erick Geovany",
+      "clave": "martinez-hernandez-erick-geovany",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Lucero Vásquez Jaime Octavio Augusto",
+      "clave": "lucero-vasquez-jaime-octavio-augusto",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "García Barrios José Arnulfo",
+      "clave": "garcia-barrios-jose-arnulfo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Rosales Polanco Oswaldo",
+      "clave": "rosales-polanco-oswaldo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Rivera Estévez Juan Carlos",
+      "clave": "rivera-estevez-juan-carlos",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "De Jesús Mejía Edin Alexander",
+      "clave": "de-jesus-mejia-edin-alexander",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Lima Pop Fidencio",
+      "clave": "lima-pop-fidencio",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Barragan Morales Gerson Geovanny",
+      "clave": "barragan-morales-gerson-geovanny",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Crúz Montoya Gustavo Adolfo",
+      "clave": "cruz-montoya-gustavo-adolfo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Castro Delgado Jorge Romeo",
+      "clave": "castro-delgado-jorge-romeo",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Bonilla Gonzalez Victor Vicente",
+      "clave": "bonilla-gonzalez-victor-vicente",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Gutiérrez Raguay Sonia Marina",
+      "clave": "gutierrez-raguay-sonia-marina",
+      "estado": "PRESENTE",
+      "voto": "a_favor"
+    },
+    {
+      "nombre": "Chocooj de la Cruz Bequer Neftali",
+      "clave": "chocooj-de-la-cruz-bequer-neftali",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "López Escobar Julio César",
+      "clave": "lopez-escobar-julio-cesar",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Portillo Paz Julio César",
+      "clave": "portillo-paz-julio-cesar",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Pérez Álvarez Samuel Andrés",
+      "clave": "perez-alvarez-samuel-andres",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Arzú Escobar Alvaro Enrique",
+      "clave": "arzu-escobar-alvaro-enrique",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Salazar Samayoa Leopoldo",
+      "clave": "salazar-samayoa-leopoldo",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Orellana Cruz Sandra Carolina",
+      "clave": "orellana-cruz-sandra-carolina",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Hernández Herrera Sofía Jeanetth",
+      "clave": "hernandez-herrera-sofia-jeanetth",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Amézquita del Valle Cesar Augusto",
+      "clave": "amezquita-del-valle-cesar-augusto",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Mazariegos López Nery René",
+      "clave": "mazariegos-lopez-nery-rene",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Castañasa Mendizabal Obbed Ediberto",
+      "clave": "castanasa-mendizabal-obbed-ediberto",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Chic Cardona Jose Alberto",
+      "clave": "chic-cardona-jose-alberto",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Blanco Lapola Orlando Joaquín",
+      "clave": "blanco-lapola-orlando-joaquin",
+      "estado": "PRESENTE",
+      "voto": "en_contra"
+    },
+    {
+      "nombre": "Villagrán Alvarez Jorge Mario",
+      "clave": "villagran-alvarez-jorge-mario",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Reyes Lee Fidel",
+      "clave": "reyes-lee-fidel",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Samayoa Reyes Lucrecia Carola",
+      "clave": "samayoa-reyes-lucrecia-carola",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Velásquez Bámaca Sabino Sebastián",
+      "clave": "velasquez-bamaca-sabino-sebastian",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Rodas Méndez Nery Mamfredo",
+      "clave": "rodas-mendez-nery-mamfredo",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Contreras Colindres Luis Alberto",
+      "clave": "contreras-colindres-luis-alberto",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Ajcip Canel Hellen Magaly Alexandra",
+      "clave": "ajcip-canel-hellen-magaly-alexandra",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Guerrero de la Cruz Alma Luz",
+      "clave": "guerrero-de-la-cruz-alma-luz",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Villagrán Antón Andrea Beatriz",
+      "clave": "villagran-anton-andrea-beatriz",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Reyes Zeceña Andrea María",
+      "clave": "reyes-zecena-andrea-maria",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Mejía López Brenda Marleny",
+      "clave": "mejia-lopez-brenda-marleny",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Obregón Castañeda Byron Alesky",
+      "clave": "obregon-castaneda-byron-alesky",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Illescas Sandoval David Mauricio",
+      "clave": "illescas-sandoval-david-mauricio",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Luján Padilla Ivanna María",
+      "clave": "lujan-padilla-ivanna-maria",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Sanabria Arias Jose Carlos",
+      "clave": "sanabria-arias-jose-carlos",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Toledo Cruz José Diego",
+      "clave": "toledo-cruz-jose-diego",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Pérez Marroquín José Orlando",
+      "clave": "perez-marroquin-jose-orlando",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Marroquín Cordón Laura Fabiola",
+      "clave": "marroquin-cordon-laura-fabiola",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Caceres Gamarro Luis Antonio",
+      "clave": "caceres-gamarro-luis-antonio",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Ventura Urbina Luis Enrique",
+      "clave": "ventura-urbina-luis-enrique",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Castañon González Manfredo Duvalier",
+      "clave": "castanon-gonzalez-manfredo-duvalier",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Monzón Escobedo Mercedes del Rosario",
+      "clave": "monzon-escobedo-mercedes-del-rosario",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Godoy Palala Mirna Victoria",
+      "clave": "godoy-palala-mirna-victoria",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Villalta Pereira Olga Isabel",
+      "clave": "villalta-pereira-olga-isabel",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Barrera Robles Raúl Amilcar",
+      "clave": "barrera-robles-raul-amilcar",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Cua Tumin Raul Arnulfo",
+      "clave": "cua-tumin-raul-arnulfo",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Castellanos Caal Román Wilfredo",
+      "clave": "castellanos-caal-roman-wilfredo",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Ochaeta Aguilar Ronalth Ivan",
+      "clave": "ochaeta-aguilar-ronalth-ivan",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "De León Torres Nadia Lorena",
+      "clave": "de-leon-torres-nadia-lorena",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Marroquín Godoy de Palomo Ana Lucrecia",
+      "clave": "marroquin-godoy-de-palomo-ana-lucrecia",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Fión Morales César Augusto",
+      "clave": "fion-morales-cesar-augusto",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Ramírez Cámeros Darwin Edgardo",
+      "clave": "ramirez-cameros-darwin-edgardo",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Maldonado Molina Ervin Adim",
+      "clave": "maldonado-molina-ervin-adim",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Castillo Martínez José Inés",
+      "clave": "castillo-martinez-jose-ines",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Quijada Heredia Juán Ignacio",
+      "clave": "quijada-heredia-juan-ignacio",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Galvez de León Manrique Obel",
+      "clave": "galvez-de-leon-manrique-obel",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Nicolás Segundo Martín",
+      "clave": "nicolas-segundo-martin",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Rivera Salazar Mynor Francisco",
+      "clave": "rivera-salazar-mynor-francisco",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Maldonado Alonzo Vasny Adiel",
+      "clave": "maldonado-alonzo-vasny-adiel",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Rodríguez Reyes Allan Estuardo",
+      "clave": "rodriguez-reyes-allan-estuardo",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "España Cáceres Boris Roberto",
+      "clave": "espana-caceres-boris-roberto",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Rojas Alarcón Carlos Napoleón",
+      "clave": "rojas-alarcon-carlos-napoleon",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Rodas Cardona Cesar Augusto",
+      "clave": "rodas-cardona-cesar-augusto",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Martínez Juarez Christian Joel",
+      "clave": "martinez-juarez-christian-joel",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Tzun De León Erick José",
+      "clave": "tzun-de-leon-erick-jose",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Cifuentes Barragan Gladis Carolina",
+      "clave": "cifuentes-barragan-gladis-carolina",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "De León De León Greicy Domenica",
+      "clave": "de-leon-de-leon-greicy-domenica",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Cifuentes Barragán Guillermo Alberto",
+      "clave": "cifuentes-barragan-guillermo-alberto",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Aldana Reyes Héctor Adolfo",
+      "clave": "aldana-reyes-hector-adolfo",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Echeverría Casado Herman Otoniel",
+      "clave": "echeverria-casado-herman-otoniel",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Martínez Herrera Joel Rubén",
+      "clave": "martinez-herrera-joel-ruben",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Solano José Carlo",
+      "clave": "solano-jose-carlo",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Lemus Cifuentes Josué Edmundo",
+      "clave": "lemus-cifuentes-josue-edmundo",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Rivas García Juan Ramón",
+      "clave": "rivas-garcia-juan-ramon",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Rodríguez Reyes Luis Alberto",
+      "clave": "rodriguez-reyes-luis-alberto",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Alvarado Vásquez Manuel Geovany",
+      "clave": "alvarado-vasquez-manuel-geovany",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Perez Toribio Marco Alejandro",
+      "clave": "perez-toribio-marco-alejandro",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Castillo y Castillo Maynor Estuardo",
+      "clave": "castillo-y-castillo-maynor-estuardo",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Mejía Popol Maynor Gabriel",
+      "clave": "mejia-popol-maynor-gabriel",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "De la Rosa Palacios Mynor Alfonso",
+      "clave": "de-la-rosa-palacios-mynor-alfonso",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Martínez Alarcón Ricardo Leonel",
+      "clave": "martinez-alarcon-ricardo-leonel",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Portillo Cordón Ronald Yomelfy",
+      "clave": "portillo-cordon-ronald-yomelfy",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Rivera Zaldaña Shirley Joanna",
+      "clave": "rivera-zaldana-shirley-joanna",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Ramírez Retana Thelma Elizabeth",
+      "clave": "ramirez-retana-thelma-elizabeth",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Coc Figueroa Randy Araely",
+      "clave": "coc-figueroa-randy-araely",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Milian Gomez Sandra Yanet",
+      "clave": "milian-gomez-sandra-yanet",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Dominguez Orozco Jeovanni Omar",
+      "clave": "dominguez-orozco-jeovanni-omar",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Flores Divas Jairo Joaquín",
+      "clave": "flores-divas-jairo-joaquin",
+      "estado": "AUSENTE",
+      "voto": "ausente"
+    },
+    {
+      "nombre": "Motta Kolleff Elena Sofía",
+      "clave": "motta-kolleff-elena-sofia",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Cerna Acevedo Damaris Carolina",
+      "clave": "cerna-acevedo-damaris-carolina",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Quezada Valdéz José Adolfo",
+      "clave": "quezada-valdez-jose-adolfo",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Gómez Gómez Julio Pedro",
+      "clave": "gomez-gomez-julio-pedro",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Corleto Rivera Oscar Rolando",
+      "clave": "corleto-rivera-oscar-rolando",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Leal Gómez Candido Fernando",
+      "clave": "leal-gomez-candido-fernando",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Calderon Galvez Carlos Roberto",
+      "clave": "calderon-galvez-carlos-roberto",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Martínez Salazar Duay Antoni",
+      "clave": "martinez-salazar-duay-antoni",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Reyes Lee Edgar Raul",
+      "clave": "reyes-lee-edgar-raul",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Cabrera Ordoñez Jorge Mario",
+      "clave": "cabrera-ordonez-jorge-mario",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Arana Roca Sergio David",
+      "clave": "arana-roca-sergio-david",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Valenzuela Argueta Victor Alfredo",
+      "clave": "valenzuela-argueta-victor-alfredo",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Morataya Marroquín Evelyn Oddeth",
+      "clave": "morataya-marroquin-evelyn-oddeth",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    },
+    {
+      "nombre": "Paz Rosales Karina Alexandra",
+      "clave": "paz-rosales-karina-alexandra",
+      "estado": "LICENCIA / EXCUSA",
+      "voto": "licencia_excusa"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_de_votacion/47587/41198",
+  "sha256_pagina": "298752ff1c535f6f5a53b3b0750c45a238f1680532d93e05a990e2fc09e08b04",
+  "recolectado_en": "2026-09-22T17:09:48+00:00",
+  "problemas": [],
+  "votacion_id": 47587,
+  "evento_id": 41198,
+  "tipo_sesion": "Extraordinaria",
+  "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47587/41198"
+}

@@ -1,0 +1,133 @@
+{
+  "tipo": "Extraordinaria",
+  "numero": "2",
+  "fecha": "2024-06-20T08:53:00",
+  "evento_id": 41199,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41199",
+  "listado": {
+    "sesion": 2,
+    "fase": 1,
+    "fecha": "2024-06-20T08:53:00",
+    "tipo": "Extraordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA 1 PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-06-20T12:00:40",
+        "votacion_id": 47598,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47598/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47598/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE PALENCIA, INICIATIVA 6410)",
+        "numero_pregunta": 2,
+        "fecha": "2024-06-20T12:04:09",
+        "votacion_id": 47600,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47600/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47600/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LAS PROPUESTAS INCORPORADAS",
+        "numero_pregunta": 3,
+        "fecha": "2024-06-20T12:06:54",
+        "votacion_id": 47599,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47599/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47599/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 4,
+        "fecha": "2024-06-20T12:09:38",
+        "votacion_id": 47597,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47597/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47597/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (6402)",
+        "numero_pregunta": 5,
+        "fecha": "2024-06-20T12:39:53",
+        "votacion_id": 47601,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47601/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47601/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA DISPENSAR DE DICTAMEN Y DECLARAR DE URGENCIA NACIONAL (6402)",
+        "numero_pregunta": 6,
+        "fecha": "2024-06-20T12:47:57",
+        "votacion_id": 47602,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47602/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47602/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6402",
+        "numero_pregunta": 7,
+        "fecha": "2024-06-20T12:50:25",
+        "votacion_id": 47603,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47603/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47603/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6402",
+        "numero_pregunta": 8,
+        "fecha": "2024-06-20T12:52:59",
+        "votacion_id": 47604,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47604/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47604/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6402",
+        "numero_pregunta": 9,
+        "fecha": "2024-06-20T12:55:52",
+        "votacion_id": 47606,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47606/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47606/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6402",
+        "numero_pregunta": 10,
+        "fecha": "2024-06-20T12:57:25",
+        "votacion_id": 47607,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47607/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47607/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6402",
+        "numero_pregunta": 11,
+        "fecha": "2024-06-20T13:00:00",
+        "votacion_id": 47608,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47608/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47608/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6402",
+        "numero_pregunta": 12,
+        "fecha": "2024-06-20T13:03:08",
+        "votacion_id": 47609,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47609/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47609/41199"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE MARROQUÍN DE PALOMO)",
+        "numero_pregunta": 13,
+        "fecha": "2024-06-20T13:19:10",
+        "votacion_id": 47610,
+        "evento_id": 41199,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47610/41199",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47610/41199"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T17:09:36+00:00"
+}

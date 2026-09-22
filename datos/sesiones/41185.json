@@ -1,0 +1,268 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "17",
+  "fecha": "2024-04-02T01:00:19",
+  "evento_id": 41185,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41185",
+  "listado": {
+    "sesion": 17,
+    "fase": 1,
+    "fecha": "2024-04-02T01:00:19",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-04-02T15:01:38",
+        "votacion_id": 47328,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47328/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47328/41185"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-04-02T15:08:54",
+        "votacion_id": 47331,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47331/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47331/41185"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (ELECCIÓN REPRESENTANTE JUNTA MONETARIA)",
+        "numero_pregunta": 3,
+        "fecha": "2024-04-02T15:50:20",
+        "votacion_id": 47344,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47344/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47344/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MANUEL DE JESÚS ARCHILA CORDÓN COMO MIEMBRO TITULAR EN REPRESENTACIÓN DEL CONGRESO DE LA REPÚBLICA ANTE LA JUNTA MONETARIA",
+        "numero_pregunta": 4,
+        "fecha": "2024-04-02T15:54:44",
+        "votacion_id": 47346,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47346/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47346/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS JAVIER LÓPEZ BOLAÑOS COMO MIEMBRO TITULAR EN REPRESENTACIÓN DEL CONGRESO DE LA REPÚBLICA ANTE LA JUNTA MONETARIA",
+        "numero_pregunta": 5,
+        "fecha": "2024-04-02T15:55:53",
+        "votacion_id": 47347,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47347/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47347/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CRISTIAN RODOLFO ÁLVAREZ Y ÁLVAREZ COMO MIEMBRO TITULAR EN REPRESENTACIÓN DEL CONGRESO DE LA REPÚBLICA ANTE LA JUNTA MONETARIA",
+        "numero_pregunta": 6,
+        "fecha": "2024-04-02T15:57:46",
+        "votacion_id": 47348,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47348/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47348/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE HENRY ESTUARDO CASTILLO VILLATORO COMO MIEMBRO SUPLENTE EN REPRESENTACIÓN DEL CONGRESO DE LA REPÚBLICA ANTE LA JUNTA MONETARIA",
+        "numero_pregunta": 7,
+        "fecha": "2024-04-02T16:00:40",
+        "votacion_id": 47349,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47349/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47349/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE FERNANDO LINAREZ-BELTRANENA COMO MIEMBRO SUPLENTE EN REPRESENTACIÓN DEL CONGRESO DE LA REPÚBLICA ANTE LA JUNTA MONETARIA",
+        "numero_pregunta": 8,
+        "fecha": "2024-04-02T16:02:02",
+        "votacion_id": 47350,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47350/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47350/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE FERNANDO LINAREZ-BELTRANENA COMO MIEMBRO SUPLENTE EN REPRESENTACIÓN DEL CONGRESO DE LA REPÚBLICA ANTE LA JUNTA MONETARIA",
+        "numero_pregunta": 9,
+        "fecha": "2024-04-02T16:04:35",
+        "votacion_id": 47355,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47355/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47355/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MANUEL DE JESÚS ARCHILA CORDÓN COMO MIEMBRO SUPLENTE EN REPRESENTACIÓN DEL CONGRESO DE LA REPÚBLICA ANTE LA JUNTA MONETARIA",
+        "numero_pregunta": 10,
+        "fecha": "2024-04-02T16:14:36",
+        "votacion_id": 47357,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47357/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47357/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE CRISTIAN RODOLFO ÁLVAREZ Y ÁLVAREZ COMO MIEMBRO SUPLENTE EN REPRESENTACIÓN DEL CONGRESO DE LA REPÚBLICA ANTE LA JUNTA MONETARIA",
+        "numero_pregunta": 11,
+        "fecha": "2024-04-02T16:16:01",
+        "votacion_id": 47354,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47354/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47354/41185"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (ELECCIÓN DE MIEMBRO TITULAR Y SUPLENTE ANTE LA JUNTA MONETARIA)",
+        "numero_pregunta": 12,
+        "fecha": "2024-04-02T16:32:03",
+        "votacion_id": 47358,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47358/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47358/41185"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (PROYECTO DE PUNTO RESOLUTIVO)",
+        "numero_pregunta": 13,
+        "fecha": "2024-04-02T16:40:16",
+        "votacion_id": 47359,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47359/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47359/41185"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL PUNTO PRIMERO DEL PROYECTO DE PUNTO RESOLUTIVO",
+        "numero_pregunta": 14,
+        "fecha": "2024-04-02T17:28:32",
+        "votacion_id": 47361,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47361/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47361/41185"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO CON LA ENMIENDA INCORPORADA",
+        "numero_pregunta": 15,
+        "fecha": "2024-04-02T17:30:26",
+        "votacion_id": 47362,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47362/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47362/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EVELYN PATRICIA MORALES VIDAL COMO RELATORA TITULAR DE LA OFICINA NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES",
+        "numero_pregunta": 16,
+        "fecha": "2024-04-02T17:40:49",
+        "votacion_id": 47332,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47332/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47332/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE GILMA ESPERANZA VALLADARES ORELLANA COMO RELATORA TITULAR DE LA OFICINA NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES",
+        "numero_pregunta": 17,
+        "fecha": "2024-04-02T17:42:24",
+        "votacion_id": 47333,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47333/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47333/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JHONATHAN JOSUÉ MAYORGA URRUTIA COMO RELATOR TITULAR DE LA OFICINA NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES",
+        "numero_pregunta": 18,
+        "fecha": "2024-04-02T17:43:57",
+        "votacion_id": 47334,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47334/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47334/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EVELYN PATRICIA MORALES VIDAL COMO RELATORA SUPLENTE DE LA OFICINA NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES",
+        "numero_pregunta": 19,
+        "fecha": "2024-04-02T17:45:42",
+        "votacion_id": 47335,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47335/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47335/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE GILMA ESPERANZA VALLADARES ORELLANA COMO RELATORA SUPLENTE DE LA OFICINA NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES",
+        "numero_pregunta": 20,
+        "fecha": "2024-04-02T17:47:07",
+        "votacion_id": 47336,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47336/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47336/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MYNOR MAURICIO MOTO MORATAYA COMO RELATOR TITULAR DE LA OFICINA NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES",
+        "numero_pregunta": 21,
+        "fecha": "2024-04-02T17:49:29",
+        "votacion_id": 47338,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47338/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47338/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EVELYN FABIOLA MORALES CHÁVEZ COMO RELATORA TITULAR DE LA OFICINA NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES",
+        "numero_pregunta": 22,
+        "fecha": "2024-04-02T17:50:54",
+        "votacion_id": 47339,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47339/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47339/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE FRANCK STEVEN RÍOS RÍOS COMO RELATOR TITULAR DE LA OFICINA NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES",
+        "numero_pregunta": 23,
+        "fecha": "2024-04-02T17:53:10",
+        "votacion_id": 47340,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47340/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47340/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE COMO MYNOR MAURICIO MOTO MORATAYA RELATOR SUPLENTE DE LA OFICINA NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES",
+        "numero_pregunta": 24,
+        "fecha": "2024-04-02T17:54:46",
+        "votacion_id": 47341,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47341/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47341/41185"
+      },
+      {
+        "pregunta": "ELECCIÓN DE EVELYN FABIOLA MORALES CHÁVEZ COMO RELATORA SUPLENTE DE LA OFICINA NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES",
+        "numero_pregunta": 25,
+        "fecha": "2024-04-02T17:55:49",
+        "votacion_id": 47342,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47342/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47342/41185"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (ELECCIÓN RELATORES TITULARES Y SUPLENTES)",
+        "numero_pregunta": 26,
+        "fecha": "2024-04-02T18:07:06",
+        "votacion_id": 47363,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47363/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47363/41185"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (CONVOCAR AL CONSEJO DEL INSTITUTO DE LA DEFENSA PÚBLICA PENAL PARA QUE INTEGRE LA COMISIÓN DE POSTULACIÓN)",
+        "numero_pregunta": 27,
+        "fecha": "2024-04-02T18:46:17",
+        "votacion_id": 47372,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47372/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47372/41185"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN VERBAL (REPRESENTANTE RODRÍGUEZ)",
+        "numero_pregunta": 28,
+        "fecha": "2024-04-02T18:49:06",
+        "votacion_id": 47373,
+        "evento_id": 41185,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47373/41185",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47373/41185"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T17:18:29+00:00"
+}

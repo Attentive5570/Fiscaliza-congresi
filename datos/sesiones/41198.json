@@ -1,0 +1,52 @@
+{
+  "tipo": "Extraordinaria",
+  "numero": "1",
+  "fecha": "2024-06-06T09:08:01",
+  "evento_id": 41198,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41198",
+  "listado": {
+    "sesion": 1,
+    "fase": 1,
+    "fecha": "2024-06-06T09:08:01",
+    "tipo": "Extraordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-06-06T11:39:12",
+        "votacion_id": 47591,
+        "evento_id": 41198,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47591/41198",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47591/41198"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 2,
+        "fecha": "2024-06-06T11:40:50",
+        "votacion_id": 47587,
+        "evento_id": 41198,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47587/41198",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47587/41198"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE LAS SESIONES ANTERIORES",
+        "numero_pregunta": 3,
+        "fecha": "2024-06-06T11:43:07",
+        "votacion_id": 47590,
+        "evento_id": 41198,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47590/41198",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47590/41198"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (INTERPELACIONES)",
+        "numero_pregunta": 4,
+        "fecha": "2024-06-06T12:30:57",
+        "votacion_id": 47593,
+        "evento_id": 41198,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47593/41198",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47593/41198"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T17:09:57+00:00"
+}

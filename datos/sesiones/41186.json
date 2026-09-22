@@ -1,0 +1,169 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "18",
+  "fecha": "2024-04-04T09:08:54",
+  "evento_id": 41186,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41186",
+  "listado": {
+    "sesion": 18,
+    "fase": 1,
+    "fecha": "2024-04-04T09:08:54",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-04-04T11:03:20",
+        "votacion_id": 47388,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47388/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47388/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2024-04-04T11:05:11",
+        "votacion_id": 47389,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47389/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47389/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2024-04-04T11:08:05",
+        "votacion_id": 47376,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47376/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47376/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (PROYECTO DE PUNTO RESOLUTIVO)",
+        "numero_pregunta": 4,
+        "fecha": "2024-04-04T12:40:33",
+        "votacion_id": 47400,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47400/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47400/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO (INCENTIVOS FORESTALES)",
+        "numero_pregunta": 5,
+        "fecha": "2024-04-04T12:46:05",
+        "votacion_id": 47401,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47401/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47401/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6314",
+        "numero_pregunta": 6,
+        "fecha": "2024-04-04T12:49:39",
+        "votacion_id": 47396,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47396/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47396/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 13 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6314",
+        "numero_pregunta": 7,
+        "fecha": "2024-04-04T12:51:25",
+        "votacion_id": 47397,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47397/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47397/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONTIENE LOS ARTÍCULOS DEL 1 AL 13 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6314",
+        "numero_pregunta": 8,
+        "fecha": "2024-04-04T12:53:30",
+        "votacion_id": 47391,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47391/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47391/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 14 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6314",
+        "numero_pregunta": 9,
+        "fecha": "2024-04-04T12:59:39",
+        "votacion_id": 47398,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47398/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47398/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 15 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6314",
+        "numero_pregunta": 10,
+        "fecha": "2024-04-04T13:01:46",
+        "votacion_id": 47399,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47399/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47399/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II QUE CONTIENE LOS ARTÍCULOS DEL 14 AL 16 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6314",
+        "numero_pregunta": 11,
+        "fecha": "2024-04-04T13:04:12",
+        "votacion_id": 47393,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47393/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47393/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6314",
+        "numero_pregunta": 12,
+        "fecha": "2024-04-04T13:09:03",
+        "votacion_id": 47394,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47394/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47394/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA CORRECCIÓN SOLICITADA",
+        "numero_pregunta": 13,
+        "fecha": "2024-04-04T13:21:54",
+        "votacion_id": 47403,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47403/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47403/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6314",
+        "numero_pregunta": 14,
+        "fecha": "2024-04-04T13:24:13",
+        "votacion_id": 47395,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47395/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47395/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA MODIFICAR EL ORDEN DEL DÍA (REPRESENTANTE DOMÍNGUEZ)",
+        "numero_pregunta": 15,
+        "fecha": "2024-04-04T14:11:12",
+        "votacion_id": 47404,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47404/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47404/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE TEJEDA)",
+        "numero_pregunta": 16,
+        "fecha": "2024-04-04T14:43:11",
+        "votacion_id": 47406,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47406/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47406/41186"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 17,
+        "fecha": "2024-04-04T14:59:11",
+        "votacion_id": 47408,
+        "evento_id": 41186,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47408/41186",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47408/41186"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T17:16:21+00:00"
+}

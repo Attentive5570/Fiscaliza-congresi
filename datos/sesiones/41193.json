@@ -1,0 +1,232 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "24",
+  "fecha": "2024-04-30T01:01:33",
+  "evento_id": 41193,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41193",
+  "listado": {
+    "sesion": 24,
+    "fase": 1,
+    "fecha": "2024-04-30T01:01:33",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-04-30T15:25:34",
+        "votacion_id": 47544,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47544/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47544/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-04-30T15:28:58",
+        "votacion_id": 47547,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47547/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47547/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA. RETORNO A COMISIÓN DICTAMEN 5431",
+        "numero_pregunta": 3,
+        "fecha": "2024-04-30T16:11:00",
+        "votacion_id": 47548,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47548/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47548/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TERCER DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5608",
+        "numero_pregunta": 4,
+        "fecha": "2024-04-30T16:14:35",
+        "votacion_id": 47549,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47549/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47549/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 5,
+        "fecha": "2024-04-30T16:20:05",
+        "votacion_id": 47551,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47551/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47551/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 6,
+        "fecha": "2024-04-30T16:23:15",
+        "votacion_id": 47552,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47552/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47552/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 7,
+        "fecha": "2024-04-30T16:29:51",
+        "votacion_id": 47553,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47553/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47553/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 8,
+        "fecha": "2024-04-30T16:31:03",
+        "votacion_id": 47571,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47571/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47571/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 9,
+        "fecha": "2024-04-30T16:35:56",
+        "votacion_id": 47555,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47555/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47555/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 10,
+        "fecha": "2024-04-30T16:38:58",
+        "votacion_id": 47556,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47556/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47556/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 11,
+        "fecha": "2024-04-30T16:42:13",
+        "votacion_id": 47557,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47557/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47557/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 12,
+        "fecha": "2024-04-30T16:43:34",
+        "votacion_id": 47572,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47572/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47572/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 13,
+        "fecha": "2024-04-30T16:46:34",
+        "votacion_id": 47559,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47559/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47559/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 14,
+        "fecha": "2024-04-30T16:48:41",
+        "votacion_id": 47560,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47560/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47560/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 15,
+        "fecha": "2024-04-30T16:50:29",
+        "votacion_id": 47561,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47561/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47561/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 16,
+        "fecha": "2024-04-30T16:53:34",
+        "votacion_id": 47562,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47562/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47562/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 17,
+        "fecha": "2024-04-30T16:57:15",
+        "votacion_id": 47563,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47563/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47563/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 18,
+        "fecha": "2024-04-30T16:59:07",
+        "votacion_id": 47573,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47573/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47573/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 19,
+        "fecha": "2024-04-30T17:01:03",
+        "votacion_id": 47565,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47565/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47565/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 13 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 20,
+        "fecha": "2024-04-30T17:04:18",
+        "votacion_id": 47566,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47566/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47566/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 13 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 21,
+        "fecha": "2024-04-30T17:05:18",
+        "votacion_id": 47574,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47574/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47574/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 14 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 22,
+        "fecha": "2024-04-30T17:07:08",
+        "votacion_id": 47568,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47568/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47568/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 23,
+        "fecha": "2024-04-30T17:10:35",
+        "votacion_id": 47569,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47569/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47569/41193"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5928",
+        "numero_pregunta": 24,
+        "fecha": "2024-04-30T17:23:10",
+        "votacion_id": 47570,
+        "evento_id": 41193,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47570/41193",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47570/41193"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T17:12:16+00:00"
+}

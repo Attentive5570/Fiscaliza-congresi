@@ -1,0 +1,124 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "20",
+  "fecha": "2024-04-11T09:09:37",
+  "evento_id": 41188,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41188",
+  "listado": {
+    "sesion": 20,
+    "fase": 1,
+    "fecha": "2024-04-11T09:09:37",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2024-04-11T11:27:16",
+        "votacion_id": 47468,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47468/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47468/41188"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2024-04-11T11:29:10",
+        "votacion_id": 47470,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47470/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47470/41188"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (RATIFICAR EL DECRETO GUBERNATIVO NÚMERO 1-2024 EN UN SOLO ACTO)",
+        "numero_pregunta": 3,
+        "fecha": "2024-04-11T15:13:20",
+        "votacion_id": 47483,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47483/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47483/41188"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (IMPROBAR EL DECRETO GUBERNATIVO NÚMERO 1-2024 EN UN SOLO ACTO)",
+        "numero_pregunta": 4,
+        "fecha": "2024-04-11T15:17:36",
+        "votacion_id": 47487,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47487/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47487/41188"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL (IMPROBAR EL DECRETO GUBERNATIVO NÚMERO 1-2024 EN UN SOLO ACTO)",
+        "numero_pregunta": 5,
+        "fecha": "2024-04-11T15:22:21",
+        "votacion_id": 47488,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47488/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47488/41188"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL (RATIFICAR EL DECRETO GUBERNATIVO NÚMERO 1-2024 EN UN SOLO ACTO)",
+        "numero_pregunta": 6,
+        "fecha": "2024-04-11T15:30:11",
+        "votacion_id": 47491,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47491/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47491/41188"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL REPRESENTANTE MALDONADO (IMPROBAR EL DECRETO GUBERNATIVO NÚMERO 1-2024 EN UN SOLO ACTO)",
+        "numero_pregunta": 7,
+        "fecha": "2024-04-11T15:34:51",
+        "votacion_id": 47492,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47492/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47492/41188"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE DECRETO QUE DISPONE IMPROBAR EL DECRETO GUBERNATIVO 1-2024",
+        "numero_pregunta": 8,
+        "fecha": "2024-04-11T15:47:54",
+        "votacion_id": 47486,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47486/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47486/41188"
+      },
+      {
+        "pregunta": "MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA (CONOCER SOLICITUD DE PERMISO)",
+        "numero_pregunta": 9,
+        "fecha": "2024-04-11T15:52:39",
+        "votacion_id": 47489,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47489/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47489/41188"
+      },
+      {
+        "pregunta": "AUTORIZACIÓN DEL PERMISO SOLICITADO",
+        "numero_pregunta": 10,
+        "fecha": "2024-04-11T15:56:49",
+        "votacion_id": 47493,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47493/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47493/41188"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (LLAMAR AL CIUDADANO PARA OCUPAR LA VACANTE TEMPORAL PRODUCIDA POR EL PERMISO CONCEDIDO)",
+        "numero_pregunta": 11,
+        "fecha": "2024-04-11T16:00:47",
+        "votacion_id": 47494,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47494/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47494/41188"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 12,
+        "fecha": "2024-04-11T16:10:22",
+        "votacion_id": 47495,
+        "evento_id": 41188,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/47495/41188",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/47495/41188"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-22T17:14:09+00:00"
+}
