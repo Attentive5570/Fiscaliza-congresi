@@ -1,0 +1,95 @@
+{
+  "numero": "6114",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para la Atención Integral del Cáncer.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Herbert Salvador Figueroa Pérez",
+    "Esteban Ruben Barrios Galindo",
+    "Hellen Magaly Alexándra Ajcip Canel",
+    "Aníbal Estuardo Rojas Espino",
+    "Lucrecia María Hernández Mack",
+    "Rudy Wostbeli González Cardona",
+    "Evelyn Oddeth Morataya Marroquín",
+    "Armando Damián Castillo Alvarado",
+    "Pedro Saloj Quisquiná",
+    "Leopoldo Salazar Samayoa",
+    "Sergio David Arana Roca",
+    "Oscar Stuardo Chinchilla Guzmán",
+    "Karla Andrea Martínez Hernández",
+    "Marleni Lineth Matías Santiago",
+    "José Adolfo Quezada Valdéz",
+    "Josué Edmundo Lemus Cifuentes",
+    "Nery René Mazariegos López",
+    "César Bernardo Arévalo De León",
+    "Samuel Andrés Pérez Alvarez",
+    "Andrea Beatríz Villagrán Antón De Pantoja",
+    "Ligia Iveth Hernández Gómez",
+    "Luis Fernando Pineda Lemus",
+    "Román Wilfredo Castellanos Caal"
+  ],
+  "fecha_pleno": "2022-07-18",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2022-07-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2023-02-08",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-02-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-03-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-03-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-03-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-03-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-03-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-03-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-03-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-03-25",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-04-02",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5985",
+  "recolectado_en": "2026-09-23T06:12:11+00:00"
+}

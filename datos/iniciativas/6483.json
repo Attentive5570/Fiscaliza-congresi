@@ -1,0 +1,77 @@
+{
+  "numero": "6483",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley de la Policía Nacional Civil.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Nery Abilio Ramos Y Ramos",
+    "Jorge Mario Villagrán Alvarez",
+    "Gustavo Adolfo Crúz Montoya",
+    "Mirna Victoria Godoy Palala",
+    "Karina Alexandra Paz Rosales",
+    "Darwin Alberto Lucas Paz",
+    "Raúl Antonio Solórzano Quevedo",
+    "César Roberto Dávila Córdova",
+    "Victor Alfredo Valenzuela Argueta",
+    "Rodrigo Antonio Pellecer Rodriguez"
+  ],
+  "fecha_pleno": "2024-11-22",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-11-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-11-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-12-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-12-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-12-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-12-10",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6190",
+  "recolectado_en": "2026-09-23T06:11:12+00:00"
+}

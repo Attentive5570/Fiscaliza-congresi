@@ -1,0 +1,205 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "45",
+  "fecha": "2026-09-22T12:54:39",
+  "evento_id": 41389,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41389",
+  "listado": {
+    "sesion": 45,
+    "fase": 1,
+    "fecha": "2026-09-22T12:54:39",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-09-22T14:56:02",
+        "votacion_id": 51388,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51388/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51388/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2026-09-22T14:57:27",
+        "votacion_id": 51390,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51390/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51390/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (URGENCIA NACIONAL 6852)",
+        "numero_pregunta": 3,
+        "fecha": "2026-09-22T17:43:53",
+        "votacion_id": 51393,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51393/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51393/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 4,
+        "fecha": "2026-09-22T17:45:46",
+        "votacion_id": 51394,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51394/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51394/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 5,
+        "fecha": "2026-09-22T17:48:04",
+        "votacion_id": 51395,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51395/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51395/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 6,
+        "fecha": "2026-09-22T17:50:31",
+        "votacion_id": 51396,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51396/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51396/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL AL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 7,
+        "fecha": "2026-09-22T17:55:04",
+        "votacion_id": 51398,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51398/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51398/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 8,
+        "fecha": "2026-09-22T17:56:30",
+        "votacion_id": 51400,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51400/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51400/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 9,
+        "fecha": "2026-09-22T17:59:22",
+        "votacion_id": 51399,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51399/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51399/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 10,
+        "fecha": "2026-09-22T18:06:45",
+        "votacion_id": 51401,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51401/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51401/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 11,
+        "fecha": "2026-09-22T18:08:50",
+        "votacion_id": 51402,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51402/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51402/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 12,
+        "fecha": "2026-09-22T18:11:03",
+        "votacion_id": 51403,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51403/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51403/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 13,
+        "fecha": "2026-09-22T18:14:03",
+        "votacion_id": 51404,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51404/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51404/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 14,
+        "fecha": "2026-09-22T18:16:05",
+        "votacion_id": 51405,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51405/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51405/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 15,
+        "fecha": "2026-09-22T18:19:40",
+        "votacion_id": 51407,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51407/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51407/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 9 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 16,
+        "fecha": "2026-09-22T18:22:15",
+        "votacion_id": 51408,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51408/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51408/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 17,
+        "fecha": "2026-09-22T18:25:19",
+        "votacion_id": 51409,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51409/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51409/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 18,
+        "fecha": "2026-09-22T18:26:57",
+        "votacion_id": 51410,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51410/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51410/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 19,
+        "fecha": "2026-09-22T18:29:55",
+        "votacion_id": 51411,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51411/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51411/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 20,
+        "fecha": "2026-09-22T18:34:11",
+        "votacion_id": 51412,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51412/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51412/41389"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6852",
+        "numero_pregunta": 21,
+        "fecha": "2026-09-22T18:47:45",
+        "votacion_id": 51413,
+        "evento_id": 41389,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51413/41389",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51413/41389"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-23T06:11:00+00:00"
+}

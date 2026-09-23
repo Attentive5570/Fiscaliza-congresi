@@ -1,0 +1,66 @@
+{
+  "numero": "6444",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley del Presupuesto General de Ingresos y Egresos del Estado para el Ejercicio Fiscal Dos Mil Veinticinco (2025).",
+  "institucion": "Organismo Ejecutivo",
+  "ponentes": [],
+  "fecha_pleno": "2024-09-02",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-09-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-11-20",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-11-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-11-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-11-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-11-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-12-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-12-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-12-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-01-01",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6157",
+  "recolectado_en": "2026-09-23T06:11:16+00:00"
+}

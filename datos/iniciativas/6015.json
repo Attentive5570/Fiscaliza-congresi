@@ -1,0 +1,47 @@
+{
+  "numero": "6015",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley de la Policía Nacional Civil.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Osmundo René Ponce Serrano",
+    "Andrea Beatríz Villagrán Antón De Pantoja",
+    "Oscar Arturo Argueta Mayén",
+    "Eduardo Zachrisson Castillo",
+    "Carlos Enrique Mencos Morales"
+  ],
+  "fecha_pleno": "2022-01-10",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2022-01-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-02-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-09-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-09-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-09-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2024-10-15",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6046",
+  "recolectado_en": "2026-09-23T06:12:21+00:00"
+}

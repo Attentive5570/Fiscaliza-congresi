@@ -1,0 +1,93 @@
+{
+  "numero": "6388",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para la Agilización en la Ejecución de Obras de Consejos de Desarrollo Urbano y Rural.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Julio Héctor Estrada Domínguez",
+    "Carlos Enrique López Maldonado",
+    "Alberto Eduardo De León Benítez",
+    "Ervin Adim Maldonado Molina",
+    "Byron Leonidas Tejeda Marroquín",
+    "Mario Velásquez Pérez",
+    "Darwin Edgardo Ramírez Cameros",
+    "Jairo Danilo Orellana Sandoval",
+    "Jorge Romeo Castro Delgado",
+    "Jorge Estuardo Ayala Marroquin",
+    "Elmer Josué Palencia Reyes",
+    "César Augusto Fión Morales",
+    "Felipe Alejos Lorenzana",
+    "Nery Abilio Ramos Y Ramos",
+    "Darwin Alberto Lucas Paz",
+    "Rolando Miguel Ovalle Barrios"
+  ],
+  "fecha_pleno": "2024-04-30",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-04-30",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-05-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-10-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-10-15",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-10-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2024-10-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-11-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-11-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-11-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-11-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-12-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-12-06",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6114",
+  "recolectado_en": "2026-09-23T06:11:37+00:00"
+}

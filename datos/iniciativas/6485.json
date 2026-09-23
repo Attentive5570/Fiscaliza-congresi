@@ -1,0 +1,64 @@
+{
+  "numero": "6485",
+  "texto_oficial": "Iniciativa que dispone aprobar reforma al artículo 82 de la Ley Contra la Delincuencia Organizada, Decreto Número 21-2006 del Congreso de la República.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Andrea Beatríz Villagrán Antón De Pantoja",
+    "Samuel Andrés Pérez Alvarez"
+  ],
+  "fecha_pleno": "2024-11-26",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-11-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-12-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-12-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-12-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-12-07",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6195",
+  "recolectado_en": "2026-09-23T06:11:09+00:00"
+}

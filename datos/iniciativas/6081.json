@@ -1,0 +1,93 @@
+{
+  "numero": "6081",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley de Vacunación.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Herbert Salvador Figueroa Pérez",
+    "Esteban Ruben Barrios Galindo",
+    "Oscar Stuardo Chinchilla Guzmán",
+    "Karla Andrea Martínez Hernández",
+    "Hellen Magaly Alexándra Ajcip Canel",
+    "Rudy Wostbeli González Cardona",
+    "Sergio David Arana Roca",
+    "Leopoldo Salazar Samayoa",
+    "José Adolfo Quezada Valdéz",
+    "Marleni Lineth Matías Santiago",
+    "Lucrecia María Hernández Mack",
+    "Armando Damián Castillo Alvarado",
+    "Nery René Mazariegos López",
+    "Evelyn Oddeth Morataya Marroquín",
+    "Pedro Saloj Quisquiná",
+    "Andy Arnoldo Figueroa Gil"
+  ],
+  "fecha_pleno": "2022-05-18",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2022-05-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-02-01",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-04-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-04-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-04-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2024-09-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-10-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-10-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-10-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-11-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-11-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-11-15",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-12-15",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6044",
+  "recolectado_en": "2026-09-23T06:12:14+00:00"
+}

@@ -1,0 +1,81 @@
+{
+  "numero": "5928",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para la Disolución y Liquidación del Fondo de Desarrollo de la Telefonía -FONDETEL-.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Oscar Stuardo Chinchilla Guzmán",
+    "Cristian Rodolfo Alvarez Y Alvarez",
+    "Hugo Otoniel Rodríguez Chinchilla",
+    "José Rodolfo Neutze Aguirre"
+  ],
+  "fecha_pleno": "2021-06-24",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2021-06-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2023-09-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2023-12-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-02-20",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-02-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2024-02-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-04-30",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-04-30",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-04-30",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-05-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-05-20",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-05-31",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-06-01",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6026",
+  "recolectado_en": "2026-09-23T06:12:25+00:00"
+}

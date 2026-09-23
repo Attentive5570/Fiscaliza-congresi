@@ -1,0 +1,100 @@
+{
+  "numero": "6351",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para la Integración del Sector Productivo Primario y Agropecuario.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Luis Fernando Aguirre Estrada",
+    "Julio Héctor Estrada Domínguez",
+    "Nery Mamfredo Rodas Méndez",
+    "Manuel De Jesús Archila Cordón",
+    "Sergio Leonel Celis Navas",
+    "Pablo Leonel Cifuentes Ovalle",
+    "Rolando Guzmán Figueroa",
+    "Guillermo Antonio Ralda Conde",
+    "Alberto Eduardo De León Benítez",
+    "Mario Velásquez Pérez",
+    "Julio César López Escobar",
+    "Carlos Enrique López Maldonado",
+    "Marcos Eduardo Tebelán Pantzay",
+    "Byron Leonidas Tejeda Marroquín",
+    "Julio César Portillo Paz",
+    "Jairo Danilo Orellana Sandoval",
+    "Kevyn Luis Carlo Escobar Castillo",
+    "Esduín Jerson Javier Javier",
+    "Carlos Roberto Calderon Galvez",
+    "Boris Roberto España Cáceres",
+    "Edgar Raúl Reyes Lee",
+    "Thelma Elizabeth Ramirez Retana",
+    "Benjamin Ipiña Leiva"
+  ],
+  "fecha_pleno": "2024-03-05",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-03-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-03-14",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-04-08",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-04-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-04-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2024-08-20",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-11-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-11-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-11-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-12-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-12-06",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-12-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2025-04-09",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6078",
+  "recolectado_en": "2026-09-23T06:11:50+00:00"
+}

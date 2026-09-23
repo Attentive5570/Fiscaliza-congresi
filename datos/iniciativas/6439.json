@@ -1,0 +1,64 @@
+{
+  "numero": "6439",
+  "texto_oficial": "Iniciativa que dispone aprobar Ampliación al Presupuesto General de Ingresos y Egresos del Estado para el Ejercicio Fiscal Dos Mil Veinticuatro.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Román Wilfredo Castellanos Caal",
+    "Andrea Beatríz Villagrán Antón De Pantoja"
+  ],
+  "fecha_pleno": "2024-08-27",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-08-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-09-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-09-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-09-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-09-05",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6155",
+  "recolectado_en": "2026-09-23T06:11:19+00:00"
+}

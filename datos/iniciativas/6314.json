@@ -1,0 +1,102 @@
+{
+  "numero": "6314",
+  "texto_oficial": "Iniciativa que dispone aprobar reforma a la Ley de Creación del Instituto de Recreación de los Trabajadores de la Empresa Privada de Guatemala, Decreto Número 1528. Reforma el art. 3. El instituto emitirá a sus afiliados un carnet, art. 5. El instituto tendrá su domicilio y oficinas centrales en la ciudad de Guatemala, art. 6. El instituto tiene a su cargo las siguientes funciones, art. 7. La Junta Directiva, art. 9. El presidente de la Junta Directiva, art. 10. La elaboración, formulación y gestión del presupuesto anual, art. 11. La Junta Directiva queda facultada para emitir los estatutos, art. 12. Se crea un impuesto equivalente al uno por ciento, art. 13. Constituyen el patrimonio del Instituto, art. 20. El instituto quedará sujeto al control y fiscalización de la Contraloría General de Cuentas, art. 24. De conformidad con lo establecido en el Artículo 134 de la Constitución Política de la República, la coordinación de la política general del Estado y la del Instituto se realizarán por conducto del órgano especial del ramo que corresponda.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Shirley Joanna Rivera Zaldaña",
+    "Lazaro Vinicio Zamora Ruíz",
+    "Douglas Rivero Mérida",
+    "Alvaro Enrique Arzú Escobar",
+    "Maynor Gabriel Mejía Popol",
+    "Manuel Eduardo Conde Orellana",
+    "Rudy Wostbeli González Cardona",
+    "Fidel Reyes Lee",
+    "Candido Fernando Leal Gómez",
+    "Hérber Armando Melgar Padilla",
+    "Guillermo Alberto Cifuentes Barragán",
+    "Josué Edmundo Lemus Cifuentes",
+    "Javier Alfonso Hernández Franco",
+    "Carlos Enrique López Maldonado",
+    "Cornelio Gonzalo García García",
+    "Aníbal Estuardo Rojas Espino",
+    "Oscar Stuardo Chinchilla Guzmán",
+    "Carlos Napoleon Rojas Alarcón",
+    "Leopoldo Salazar Samayoa",
+    "Carlos Roberto Calderon Galvez",
+    "Boris Roberto España Cáceres",
+    "César Augusto Fión Morales",
+    "Felipe Alejos Lorenzana",
+    "José Adolfo Quezada Valdéz",
+    "Victor Israel Guerra Velásquez"
+  ],
+  "fecha_pleno": "2023-11-28",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2023-11-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2023-11-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2023-12-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-02-13",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-02-15",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2024-02-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-04-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-04-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-04-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-04-16",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-04-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-04-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-05-04",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6031",
+  "recolectado_en": "2026-09-23T06:11:57+00:00"
+}

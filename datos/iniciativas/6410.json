@@ -1,0 +1,76 @@
+{
+  "numero": "6410",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley de Dragados y Rescate de la Capacidad Portuaria Marítima Nacional.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Julio Héctor Estrada Domínguez",
+    "Luis Fernando Aguirre Estrada",
+    "Manfredo Duvalier Castañón González",
+    "Julio César López Escobar",
+    "Pablo Leonel Cifuentes Ovalle",
+    "Esduín Jerson Javier Javier",
+    "Jorge Mario Villagrán Alvarez",
+    "Mercedes Cristabel Guardado Linares De Nájera",
+    "José Luis Galindo De León",
+    "César Augusto Fión Morales",
+    "Leopoldo Salazar Samayoa",
+    "Román Wilfredo Castellanos Caal",
+    "Elmer Josué Palencia Reyes",
+    "Jorge Romeo Castro Delgado",
+    "Allan Estuardo Rodríguez Reyes",
+    "Ervin Adim Maldonado Molina",
+    "Marco Aurelio Mejía Alfaro",
+    "Sherol Ivanisse Arévalo Avila",
+    "Ernesto Bran Colindres",
+    "Sergio Leonel Celis Navas",
+    "Gerardín Ariel Díaz Mazariegos",
+    "León Felipe Barrera Villanueva",
+    "Jorge Estuardo Ayala Marroquin",
+    "Faver Emilio Salazar Cordero",
+    "Manuel De Jesús Archila Cordón",
+    "Alberto Eduardo De León Benítez",
+    "Rolando Guzmán Figueroa",
+    "Kevyn Luis Carlo Escobar Castillo",
+    "Gustavo Adolfo Crúz Montoya",
+    "Víctor Vicente Bonilla González",
+    "Francisco Vitelio Lam Ruano",
+    "Benjamin Ipiña Leiva",
+    "Karla Betzaida Cardona Arreaga",
+    "César Augusto Rodas Cardona",
+    "Herman Otoniel Echeverría Casado",
+    "Vivian Beatriz Preciado Navarijo",
+    "Fidencio Lima Pop",
+    "Sandra Erica Jovel Polanco",
+    "Luis Alberto Contreras Colíndres"
+  ],
+  "fecha_pleno": "2024-06-19",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-06-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-06-20",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-09-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-09-24",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-10-15",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6126",
+  "recolectado_en": "2026-09-23T06:11:23+00:00"
+}

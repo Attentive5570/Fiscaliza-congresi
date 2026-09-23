@@ -1,0 +1,109 @@
+{
+  "numero": "6379",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para la Disposición de Bienes Muebles Inservibles del Ministerio de Salud Pública y Asistencia Social.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Evelyn Oddeth Morataya Marroquín",
+    "Karina Alexandra Paz Rosales",
+    "Sofía Jeanetth Hernández Herrera",
+    "Felipe Alejos Lorenzana",
+    "Pablo Leonel Cifuentes Ovalle",
+    "Byron Bladimiro Rodríguez Palacios",
+    "José Alberto Chic Cardona",
+    "Jeovanni Omar Dominguez Orozco",
+    "Darwin Alberto Lucas Paz",
+    "Jaime Octavio Augusto Lucero Vásquez",
+    "Rudy Berner Pereira Delgado",
+    "José Pablo Mendoza Franco",
+    "Jorge Mario Villagrán Alvarez",
+    "Nery Abilio Ramos Y Ramos",
+    "Erick Geovany Martínez Hernández",
+    "César Roberto Dávila Córdova",
+    "Maynor Gabriel Mejía Popol",
+    "Gladis Carolina Cifuentes Barragán",
+    "Karla Betzaida Cardona Arreaga",
+    "Luis Fernando Aguirre Estrada",
+    "Jairo Joaquín Flores Divas",
+    "Alberto Eduardo De León Benítez",
+    "Fidencio Lima Pop",
+    "César Augusto Amézquita Del Valle",
+    "Elmer Josué Palencia Reyes",
+    "Gustavo Adolfo Crúz Montoya",
+    "Nery René Mazariegos López",
+    "Jorge Romeo Castro Delgado",
+    "Víctor Vicente Bonilla González",
+    "Faver Emilio Salazar Cordero",
+    "Mario Ernesto Gálvez Muñóz",
+    "Ana Lucrecia Marroquín Godoy De Palomo"
+  ],
+  "fecha_pleno": "2024-04-18",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-04-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-04-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-05-31",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-07-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-08-20",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2024-09-10",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-09-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-09-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-09-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-10-01",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-10-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-10-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-10-08",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6103",
+  "recolectado_en": "2026-09-23T06:11:40+00:00"
+}

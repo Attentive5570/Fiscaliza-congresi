@@ -1,0 +1,84 @@
+{
+  "numero": "6367",
+  "texto_oficial": "Iniciativa que dispone aprobar exoneración del pago del Impuesto al Valor Agregado -IVA-, Derechos Arancelarios y cualquier otro tipo de Impuesto, la Importación de Bienes realizada por el Departamento de Estado de los Estados Unidos de América, a través de la Sección de Asuntos Narcóticos y Aplicación de la Ley de la Embajada de los Estados Unidos de América de Guatemala.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Nery Abilio Ramos Y Ramos",
+    "Karina Alexandra Paz Rosales",
+    "Nery Mamfredo Rodas Méndez",
+    "César Roberto Dávila Córdova",
+    "Darwin Alberto Lucas Paz",
+    "Raúl Antonio Solórzano Quevedo",
+    "César Augusto Amézquita Del Valle"
+  ],
+  "fecha_pleno": "2024-04-09",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-04-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-04-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-05-09",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-07-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-08-20",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2024-09-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-09-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-09-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-09-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2024-10-01",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-10-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-10-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-10-08",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6091",
+  "recolectado_en": "2026-09-23T06:11:47+00:00"
+}

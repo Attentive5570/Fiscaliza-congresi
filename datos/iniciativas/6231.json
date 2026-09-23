@@ -1,0 +1,74 @@
+{
+  "numero": "6231",
+  "texto_oficial": "Iniciativa que dispone aprobar reforma al Decreto Número 51-2022 del Congreso de la República, Ley Temporal de Desarrollo Integral. Reforma el último párrafo del art. 5. El ministerio de desarrollo social.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Shirley Joanna Rivera Zaldaña",
+    "Sergio David Arana Roca"
+  ],
+  "fecha_pleno": "2023-04-12",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2023-04-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2023-04-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2023-04-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2023-04-19",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2023-09-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2024-07-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-07-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-07-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-07-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-08-01",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-08-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-08-03",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5996",
+  "recolectado_en": "2026-09-23T06:12:04+00:00"
+}

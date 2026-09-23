@@ -1,0 +1,29 @@
+{
+  "numero": "6404",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para la Creación del Fondo Verde Nacional.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Fidencio Lima Pop",
+    "Dámaris Carolina Cerna Acevedo"
+  ],
+  "fecha_pleno": "2024-05-29",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-05-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-06-20",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2025-02-11",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6127",
+  "recolectado_en": "2026-09-23T06:11:26+00:00"
+}

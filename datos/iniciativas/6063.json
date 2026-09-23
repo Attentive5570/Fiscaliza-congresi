@@ -1,0 +1,74 @@
+{
+  "numero": "6063",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 132-96 del Congreso de la República, Ley de Tránsito. Adiciona el art. 20 bis. Identificación de los vehículos destinados al Servicio Público y art. 20 ter. Responsabilidad de la autoridad responsable de asignar vehículos destinados al servicio público.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Cristian Rodolfo Alvarez Y Alvarez",
+    "José Rodolfo Neutze Aguirre"
+  ],
+  "fecha_pleno": "2022-04-07",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2022-04-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-01-30",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2024-04-08",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2024-08-20",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2024-09-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2024-11-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2024-11-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2024-11-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2024-11-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2024-12-13",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2024-12-16",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2024-12-24",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6040",
+  "recolectado_en": "2026-09-23T06:12:18+00:00"
+}
