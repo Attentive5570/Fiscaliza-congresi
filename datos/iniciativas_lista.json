@@ -88,14 +88,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/78b7e-6015.pdf"
   },
   {
-    "numero": "6028",
-    "fecha_pleno": "2023-02-08",
-    "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 19-2009 del Congreso de la República, Ley de Comisiones de Postulación.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5984",
-    "id_interno": 5984,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/3732c-6028.pdf"
-  },
-  {
     "numero": "6032",
     "fecha_pleno": "2024-11-26",
     "texto_oficial": "Iniciativa que dispone aprobar Ley de Ampliación del Transmetro para los Municipios de la República de Guatemala.",
@@ -176,22 +168,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/9ffc4-6102.pdf"
   },
   {
-    "numero": "6112",
-    "fecha_pleno": "2023-02-08",
-    "texto_oficial": "Iniciativa que dispone aprobar reformas a la Ley Orgánica del Organismo Legislativo, Decreto Número 63-94 del Congreso de la República.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5983",
-    "id_interno": 5983,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/3ba64-6112.pdf"
-  },
-  {
-    "numero": "6114",
-    "fecha_pleno": "2023-02-08",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley para la Atención Integral del Cáncer.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5985",
-    "id_interno": 5985,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/9f58c-6114.pdf"
-  },
-  {
     "numero": "6122",
     "fecha_pleno": "2024-02-22",
     "texto_oficial": "Iniciativa que dispone aprobar reformas a la Ley de Tránsito para la Anulación de Infracciones de Tránsito que no están debidamente Notificadas y Acreditadas.",
@@ -214,14 +190,6 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6071",
     "id_interno": 6071,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/3cdb8-6136.pdf"
-  },
-  {
-    "numero": "6137",
-    "fecha_pleno": "2023-02-08",
-    "texto_oficial": "Iniciativa que dispone aprobar Día Nacional del Bibliotecario.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5982",
-    "id_interno": 5982,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/0bb40-6137.pdf"
   },
   {
     "numero": "6138",
@@ -3741,7 +3709,7 @@
     "texto_oficial": "Iniciativa que dispone aprobar Ley para la Inclusión Educativa de las Personas con Discapacidad y la Superación de las Barreras para el Aprendizaje y la Participación en el Sistema Educativo Nacional.",
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6467",
     "id_interno": 6467,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/94f9e-6786.pdf"
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/35174-6786.pdf"
   },
   {
     "numero": "6788",
@@ -3830,6 +3798,14 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6472",
     "id_interno": 6472,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/54a93-6809.pdf"
+  },
+  {
+    "numero": "6810",
+    "fecha_pleno": "2026-09-22",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley de Protección Económica al Consumidor de Combustible.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6487",
+    "id_interno": 6487,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/557c2-6810.pdf"
   },
   {
     "numero": "6811",
@@ -3976,6 +3952,14 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/af6a5-6840.pdf"
   },
   {
+    "numero": "6841",
+    "fecha_pleno": "2026-09-22",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley del Presupuesto General de Ingresos y Egresos del Estado para el Ejercicio Fiscal Dos Mil Veintisiete.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6488",
+    "id_interno": 6488,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/613db-6841.pdf"
+  },
+  {
     "numero": "6842",
     "fecha_pleno": "2026-09-08",
     "texto_oficial": "Iniciativa que dispone aprobar Ley de Horarios Escalonados para la Movilidad Urbana.",
@@ -3998,5 +3982,21 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6485",
     "id_interno": 6485,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/c6458-6844.pdf"
+  },
+  {
+    "numero": "6850",
+    "fecha_pleno": "2026-09-22",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley de Mediación.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6489",
+    "id_interno": 6489,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/1e856-6850.pdf"
+  },
+  {
+    "numero": "6851",
+    "fecha_pleno": "2026-09-22",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley del Bono Temporal de Emergencia Familiar.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6490",
+    "id_interno": 6490,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/47e86-6851.pdf"
   }
 ]
