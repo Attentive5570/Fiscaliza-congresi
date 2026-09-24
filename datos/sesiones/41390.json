@@ -1,0 +1,52 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "46",
+  "fecha": "2026-09-24T08:44:34",
+  "evento_id": 41390,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41390",
+  "listado": {
+    "sesion": 46,
+    "fase": 1,
+    "fecha": "2026-09-24T08:44:34",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-09-24T10:13:18",
+        "votacion_id": 51417,
+        "evento_id": 41390,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51417/41390",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51417/41390"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-09-24T10:15:32",
+        "votacion_id": 51414,
+        "evento_id": 41390,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51414/41390",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51414/41390"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2026-09-24T10:18:48",
+        "votacion_id": 51416,
+        "evento_id": 41390,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51416/41390",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51416/41390"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LAS OBJECIONES Y OBSERVACIONES PRESENTADAS EN CONTRA DEL DECRETO 21-2026",
+        "numero_pregunta": 4,
+        "fecha": "2026-09-24T10:28:21",
+        "votacion_id": 51415,
+        "evento_id": 41390,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51415/41390",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51415/41390"
+      }
+    ]
+  },
+  "recolectado_en": "2026-09-24T17:06:08+00:00"
+}
