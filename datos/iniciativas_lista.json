@@ -320,14 +320,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/dbb91-6199.pdf"
   },
   {
-    "numero": "6204",
-    "fecha_pleno": "2023-02-22",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley de Competencia.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5986",
-    "id_interno": 5986,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/registro6204.pdf"
-  },
-  {
     "numero": "6206",
     "fecha_pleno": "2023-09-13",
     "texto_oficial": "Iniciativa que dispone aprobar reformas a la Ley Alimentación Escolar, Decreto Número 16-2017 del Congreso de la República.",
@@ -3998,5 +3990,13 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6490",
     "id_interno": 6490,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/47e86-6851.pdf"
+  },
+  {
+    "numero": "6852",
+    "fecha_pleno": "2026-09-22",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley de Exención Tributaria Temporal de Emergencia al Consumidor de Combustibles.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6491",
+    "id_interno": 6491,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/e3d5f-6852.pdf"
   }
 ]

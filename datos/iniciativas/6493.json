@@ -1,0 +1,59 @@
+{
+  "numero": "6493",
+  "texto_oficial": "Iniciativa que dispone aprobar Reformas al Decreto Número 51-92 del Congreso de la República, Código Procesal Penal. Reforma art. 258. Otros Casos de Aprehensión, art. 259. Prisión Preventiva, adiciona el art. 261 Bis. Justificación de la Prisión Preventiva, reforma art. 262. Peligro de Fuga, art. 263. Peligro de Obstaculización, art. 264. Sustitución, adiciona el art. 264 Ter. Unidad de Control de Medidas de Coerción, art. 264 Quater. No podrá concederse ninguna de las medidas sustitutivas, reforma art. 268. Cesación del Encarcelamiento, art. 272. Falta de Mérito, art. 277. Revisión de la medida de Prisión Preventiva, art. 320. Auto de Procesamiento y art. 324 Bis. Control Judicial.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Alvaro Enrique Arzú Escobar",
+    "Greicy Domenica De León De León",
+    "Byron Bladimiro Rodríguez Palacios",
+    "Ronald Yomelfy Portillo Cordón",
+    "Victor Alfredo Valenzuela Argueta",
+    "Héctor Adolfo Aldana Reyes",
+    "Lourdes Teresita De León Torres",
+    "Sandra Erica Jovel Polanco",
+    "José Carlos Sanabria Arias",
+    "Andrea María Reyes Zeceña",
+    "Julio César López Escobar",
+    "Bequer Neftali Chocooj De La Cruz"
+  ],
+  "fecha_pleno": "2025-01-13",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-01-13",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-01-21",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2026-07-16",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-08-04",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2026-08-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-09-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-09-29",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6201",
+  "recolectado_en": "2026-09-30T06:10:42+00:00"
+}
