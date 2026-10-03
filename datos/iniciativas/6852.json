@@ -59,8 +59,33 @@
       "paso": "Aprobación de redacción final",
       "fecha": "2026-09-22",
       "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2026-09-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2026-09-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2026-09-29",
+      "estado": "completado"
+    },
+    {
+      "paso": "Publicación diario oficial",
+      "fecha": "2026-09-30",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2026-10-01",
+      "estado": "completado"
     }
   ],
   "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6491",
-  "recolectado_en": "2026-09-30T06:10:16+00:00"
+  "recolectado_en": "2026-10-03T06:15:21+00:00"
 }
