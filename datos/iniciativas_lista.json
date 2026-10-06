@@ -272,14 +272,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/5f790-6168.pdf"
   },
   {
-    "numero": "6173",
-    "fecha_pleno": "2023-02-22",
-    "texto_oficial": "Iniciativa que dispone aprobar las negociaciones de los Contratos de Préstamos Números 5181/OC-GU y 5182/KI-GU a celebrarse entre la República de Guatemala y el Banco Interamericano de Desarrollo -BID-, para apoyar la ejecución del denominado Programa para la...",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5988",
-    "id_interno": 5988,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/registro6173.pdf"
-  },
-  {
     "numero": "6179",
     "fecha_pleno": "2024-04-30",
     "texto_oficial": "Iniciativa que aprobar Ley de Disolución, Liquidación y Supresión de la Empresa Guatemalteca de Telecomunicaciones (GUATEL).",
@@ -304,14 +296,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/29cb7-6187.pdf"
   },
   {
-    "numero": "6197",
-    "fecha_pleno": "2023-02-22",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley que aprueba el Contrato de Préstamo No. 5497/OC-GU, a ser Celebrado entre la República de Guatemala y el Banco Interamericano de Desarrollo -BID-, denominado \"Programa de Apoyo a la Mejora de la Calidad del Gasto Social\", cuyos Recursos...",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5987",
-    "id_interno": 5987,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/registro6197.pdf"
-  },
-  {
     "numero": "6199",
     "fecha_pleno": "2023-04-19",
     "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 81-87 del Congreso de la República, Ley Orgánica del Benemérito Cuerpo Voluntario de Bomberos de Guatemala.",
@@ -334,14 +318,6 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5990",
     "id_interno": 5990,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/b00b4-6207.pdf"
-  },
-  {
-    "numero": "6208",
-    "fecha_pleno": "2023-03-01",
-    "texto_oficial": "Iniciativa que dispone aprobar el Protocolo como Enmienda del Convenio Firmado en París el 22 de Noviembre de 1928 sobre Exposiciones Internacionales.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5989",
-    "id_interno": 5989,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/f31e7-6208.pdf"
   },
   {
     "numero": "6209",
@@ -3976,6 +3952,22 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/c6458-6844.pdf"
   },
   {
+    "numero": "6846",
+    "fecha_pleno": "2026-09-29",
+    "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 4-2026 del Congreso de la República, Ley de Escuelas e Institutos Normales con Especialidades.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6492",
+    "id_interno": 6492,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/0c904-6846.pdf"
+  },
+  {
+    "numero": "6847",
+    "fecha_pleno": "2026-09-29",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley para Asegurar el Acceso a Medicamentos y Agilización de Trámites Sanitarios.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6493",
+    "id_interno": 6493,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/30979-6847.pdf"
+  },
+  {
     "numero": "6850",
     "fecha_pleno": "2026-09-22",
     "texto_oficial": "Iniciativa que dispone aprobar Ley de Mediación.",
@@ -3998,5 +3990,13 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6491",
     "id_interno": 6491,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/e3d5f-6852.pdf"
+  },
+  {
+    "numero": "6853",
+    "fecha_pleno": "2026-09-29",
+    "texto_oficial": "Iniciativa que dispone aprobar reformas al Código Tributario, Decreto Número 6-91 del Congreso de la República de Guatemala.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6494",
+    "id_interno": 6494,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/ad4c9-6853.pdf"
   }
 ]
