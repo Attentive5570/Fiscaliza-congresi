@@ -1,0 +1,124 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "49",
+  "fecha": "2026-10-06T12:54:00",
+  "evento_id": 41393,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41393",
+  "listado": {
+    "sesion": 49,
+    "fase": 1,
+    "fecha": "2026-10-06T12:54:00",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-10-06T15:08:11",
+        "votacion_id": 51464,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51464/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51464/41393"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2026-10-06T15:09:53",
+        "votacion_id": 51466,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51466/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51466/41393"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE PUNTO RESOLUTIVO (SAN MIGUEL PETAPA)",
+        "numero_pregunta": 3,
+        "fecha": "2026-10-06T16:20:45",
+        "votacion_id": 51468,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51468/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51468/41393"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE CONVOCA A LA PRESIDENTA ELECTA DEL ORGANISMO JUDICIAL Y DE LA CORTE SUPREMA DE JUSTICIA",
+        "numero_pregunta": 4,
+        "fecha": "2026-10-06T16:30:56",
+        "votacion_id": 51469,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51469/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51469/41393"
+      },
+      {
+        "pregunta": "ELECCIÓN DE LUIS ANTONIO MARROQUIN PIMENTEL COMO JEFE DE LA CONTRALORÍA GENERAL DE CUENTAS PARA EL PERÍODO CONSTITUCIONAL 2026-2030",
+        "numero_pregunta": 5,
+        "fecha": "2026-10-06T16:40:13",
+        "votacion_id": 51474,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51474/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51474/41393"
+      },
+      {
+        "pregunta": "ELECCIÓN DE MARCO ANTONIO VÉLEZ GONZÁLEZ COMO JEFE DE LA CONTRALORÍA GENERAL DE CUENTAS PARA EL PERÍODO CONSTITUCIONAL 2026-2030",
+        "numero_pregunta": 6,
+        "fecha": "2026-10-06T16:42:01",
+        "votacion_id": 51476,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51476/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51476/41393"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JORGE GIOVANNI CASTELLANOS GUDIEL COMO JEFE DE LA CONTRALORÍA GENERAL DE CUENTAS PARA EL PERÍODO CONSTITUCIONAL 2026-2030",
+        "numero_pregunta": 7,
+        "fecha": "2026-10-06T16:43:57",
+        "votacion_id": 51472,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51472/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51472/41393"
+      },
+      {
+        "pregunta": "ELECCIÓN DE ELFEGO ODAIR CASTAÑON GONZÁLEZ COMO JEFE DE LA CONTRALORÍA GENERAL DE CUENTAS PARA EL PERÍODO CONSTITUCIONAL 2026-2030",
+        "numero_pregunta": 8,
+        "fecha": "2026-10-06T16:45:56",
+        "votacion_id": 51471,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51471/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51471/41393"
+      },
+      {
+        "pregunta": "ELECCIÓN OSCAR ALBERTO HERNÁNDEZ ROMERO COMO JEFE DE LA CONTRALORÍA GENERAL DE CUENTAS PARA EL PERÍODO CONSTITUCIONAL 2026-2030",
+        "numero_pregunta": 9,
+        "fecha": "2026-10-06T16:47:58",
+        "votacion_id": 51473,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51473/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51473/41393"
+      },
+      {
+        "pregunta": "ELECCIÓN DE JULIO OTONIEL ROCA MORALES COMO JEFE DE LA CONTRALORÍA GENERAL DE CUENTAS PARA EL PERÍODO CONSTITUCIONAL 2026-2030",
+        "numero_pregunta": 10,
+        "fecha": "2026-10-06T16:49:58",
+        "votacion_id": 51475,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51475/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51475/41393"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (JEFE DE LA CONTRALORIA GENERAL DE CUENTAS)",
+        "numero_pregunta": 11,
+        "fecha": "2026-10-06T16:56:35",
+        "votacion_id": 51477,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51477/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51477/41393"
+      },
+      {
+        "pregunta": "APROBACION DEL PROYECTO DE ACUERDO (ACEPTACION DEL VETO AL DECRETO NUMERO 21-2026)",
+        "numero_pregunta": 12,
+        "fecha": "2026-10-06T17:14:18",
+        "votacion_id": 51478,
+        "evento_id": 41393,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51478/41393",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51478/41393"
+      }
+    ]
+  },
+  "recolectado_en": "2026-10-07T06:10:24+00:00"
+}
