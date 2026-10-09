@@ -240,14 +240,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/5b8a2-6154.pdf"
   },
   {
-    "numero": "6155",
-    "fecha_pleno": "2023-03-01",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley para el Uso Racional y Legítimo de la Fuerza.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5992",
-    "id_interno": 5992,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/0cb38-6155.pdf"
-  },
-  {
     "numero": "6156",
     "fecha_pleno": "2024-02-13",
     "texto_oficial": "Iniciativa que dispone aprobar Ley para la Libertad de Empresas.",
@@ -262,14 +254,6 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6081",
     "id_interno": 6081,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/a0f4d-6162.pdf"
-  },
-  {
-    "numero": "6168",
-    "fecha_pleno": "2023-03-01",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley del Día Nacional del Pueblo Maya Ch´orti´.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5991",
-    "id_interno": 5991,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/5f790-6168.pdf"
   },
   {
     "numero": "6179",
@@ -312,14 +296,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/909cc-6206.pdf"
   },
   {
-    "numero": "6207",
-    "fecha_pleno": "2023-03-01",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley para Regular el Funcionamiento de las Tiendas Libres.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5990",
-    "id_interno": 5990,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/b00b4-6207.pdf"
-  },
-  {
     "numero": "6209",
     "fecha_pleno": "2024-02-16",
     "texto_oficial": "Iniciativa que dispone aprobar Ley de Afiliación Voluntaria al Instituto Guatemalteco de Seguridad Social.",
@@ -358,14 +334,6 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5997",
     "id_interno": 5997,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/425fb-6215.pdf"
-  },
-  {
-    "numero": "6218",
-    "fecha_pleno": "2023-03-15",
-    "texto_oficial": "Iniciativa que dispone aprobar Ampliación al Presupuesto General de Ingresos y Egresos del Estado para el Ejercicio Fiscal Dos Mil Veintitrés.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5993",
-    "id_interno": 5993,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/b59b9-6218.pdf"
   },
   {
     "numero": "6222",
@@ -3896,6 +3864,14 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/42fee-6834.pdf"
   },
   {
+    "numero": "6835",
+    "fecha_pleno": "2026-10-06",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley del Programa Temporal de Apoyo a Agricultores de Infrasubsistencia y Subsistencia Afectados por la Canícula.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6495",
+    "id_interno": 6495,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/5d15c-6835.pdf"
+  },
+  {
     "numero": "6837",
     "fecha_pleno": "2026-09-08",
     "texto_oficial": "Iniciativa que dispone aprobar reformas al Código Penal y al Código Procesal Penal para el Fortalecimiento de la Legítima Defensa.",
@@ -3998,5 +3974,29 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6494",
     "id_interno": 6494,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/ad4c9-6853.pdf"
+  },
+  {
+    "numero": "6856",
+    "fecha_pleno": "2026-10-06",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley para Fortalecer la Administración del Parque Nacional Tikal.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6496",
+    "id_interno": 6496,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/aad59-6856.pdf"
+  },
+  {
+    "numero": "6857",
+    "fecha_pleno": "2026-10-06",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley Mesa digna para el Fomento de la Donación de Alimentos y la Reducción del Desperdicio Alimentario.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6497",
+    "id_interno": 6497,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/ee05d-6857.pdf"
+  },
+  {
+    "numero": "6859",
+    "fecha_pleno": "2026-10-06",
+    "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 70-94 del Congreso de la República, Ley del Impuesto sobre Circulación de Vehículos Terrestres, Marítimos y Aéreos.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6498",
+    "id_interno": 6498,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/92d3a-6859.pdf"
   }
 ]
