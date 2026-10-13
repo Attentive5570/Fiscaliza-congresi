@@ -1,0 +1,61 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "51",
+  "fecha": "2026-10-13T12:44:13",
+  "evento_id": 41395,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41395",
+  "listado": {
+    "sesion": 51,
+    "fase": 1,
+    "fecha": "2026-10-13T12:44:13",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-10-13T14:40:16",
+        "votacion_id": 51487,
+        "evento_id": 41395,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51487/41395",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51487/41395"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-10-13T14:41:30",
+        "votacion_id": 51488,
+        "evento_id": 41395,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51488/41395",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51488/41395"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 3,
+        "fecha": "2026-10-13T14:44:15",
+        "votacion_id": 51485,
+        "evento_id": 41395,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51485/41395",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51485/41395"
+      },
+      {
+        "pregunta": "ACEPTACION (PERMISO DIPUTADO MENKOS)",
+        "numero_pregunta": 4,
+        "fecha": "2026-10-13T15:02:47",
+        "votacion_id": 51490,
+        "evento_id": 41395,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51490/41395",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51490/41395"
+      },
+      {
+        "pregunta": "APROBACION DE PROYECTO DE ACUERDO (DECLARA LA VACANTE DEL DIPUTADO MENKOS)",
+        "numero_pregunta": 5,
+        "fecha": "2026-10-13T15:06:44",
+        "votacion_id": 51489,
+        "evento_id": 41395,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51489/41395",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51489/41395"
+      }
+    ]
+  },
+  "recolectado_en": "2026-10-13T22:17:09+00:00"
+}
