@@ -304,14 +304,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/bceef-6209.pdf"
   },
   {
-    "numero": "6212",
-    "fecha_pleno": "2023-03-15",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley para el Ejercicio de la Legítima Defensa.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5994",
-    "id_interno": 5994,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/9dffc-6212.pdf"
-  },
-  {
     "numero": "6213",
     "fecha_pleno": "2024-02-08",
     "texto_oficial": "Iniciativa que dispone aprobar Ley Marco para la Prevención y Atención del Acoso Sexual y Acoso Callejero.",
@@ -334,14 +326,6 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5997",
     "id_interno": 5997,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/425fb-6215.pdf"
-  },
-  {
-    "numero": "6222",
-    "fecha_pleno": "2023-03-22",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley Temporal para el Comiso y Destrucción de Armas de Fuego y Municiones.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5995",
-    "id_interno": 5995,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/003b8-6222.pdf"
   },
   {
     "numero": "6223",
@@ -374,14 +358,6 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6015",
     "id_interno": 6015,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/6e23c-6230.pdf"
-  },
-  {
-    "numero": "6231",
-    "fecha_pleno": "2023-04-12",
-    "texto_oficial": "Iniciativa que dispone aprobar reforma al Decreto Número 51-2022 del Congreso de la República, Ley Temporal de Desarrollo Integral.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/5996",
-    "id_interno": 5996,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/440cc-6231.pdf"
   },
   {
     "numero": "6232",
@@ -3976,6 +3952,14 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/ad4c9-6853.pdf"
   },
   {
+    "numero": "6855",
+    "fecha_pleno": "2026-10-13",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley para Trabajadores de Plataformas Digitales.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6499",
+    "id_interno": 6499,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/15143-6855.pdf"
+  },
+  {
     "numero": "6856",
     "fecha_pleno": "2026-10-06",
     "texto_oficial": "Iniciativa que dispone aprobar Ley para Fortalecer la Administración del Parque Nacional Tikal.",
@@ -3998,5 +3982,21 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6498",
     "id_interno": 6498,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/92d3a-6859.pdf"
+  },
+  {
+    "numero": "6861",
+    "fecha_pleno": "2026-10-13",
+    "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6500",
+    "id_interno": 6500,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/0c16d-6861.pdf"
+  },
+  {
+    "numero": "6863",
+    "fecha_pleno": "2026-10-13",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley de Mitigación de Riesgos del Río Pinula.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6501",
+    "id_interno": 6501,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/0ce32-6863.pdf"
   }
 ]
