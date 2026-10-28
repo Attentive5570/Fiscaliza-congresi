@@ -1,0 +1,38 @@
+{
+  "numero": "6671",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para la Subvención Educativa en Áreas Marginales Urbanas y Rurales a través de Entidades Educativas Privadas Gratuitas.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Ana Lucrecia Marroquín Godoy De Palomo"
+  ],
+  "fecha_pleno": "2025-11-11",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2025-11-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2025-11-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2026-01-28",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-04-07",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2026-08-18",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6341",
+  "recolectado_en": "2026-10-28T11:59:46+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "numero": "6830",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para la Implementación de un Sistema Ferroviario de Pasajeros en la Ciudad de Guatemala y Áreas de Influencia.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Mirna Victoria Godoy Palala",
+    "José Carlos Sanabria Arias",
+    "Alma Luz Guerrero De La Cruz",
+    "Brenda Marleny Mejía López",
+    "Raúl Amilcar Barrera Robles",
+    "Olga Isabel Villalta Pereira",
+    "Manfredo Duvalier Castañón González"
+  ],
+  "fecha_pleno": "2026-08-18",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-08-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-08-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2026-10-27",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6457",
+  "recolectado_en": "2026-10-28T11:59:21+00:00"
+}

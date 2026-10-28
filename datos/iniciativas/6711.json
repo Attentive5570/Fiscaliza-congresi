@@ -1,0 +1,41 @@
+{
+  "numero": "6711",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley para Exonerar del Impuesto al Valor Agregado -IVA- y Derechos Arancelarios a las Importaciones de Bienes, Suministros, Donaciones e Insumos que realice el Departamento de Agricultura de los Estados Unidos de América (USDA).",
+  "institucion": "N/A",
+  "ponentes": [
+    "Luis Alberto Contreras Colíndres",
+    "Kevyn Luis Carlo Escobar Castillo",
+    "Julio César López Escobar",
+    "Lucrecia Carola Samayoa Reyes"
+  ],
+  "fecha_pleno": "2026-02-11",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-02-11",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-02-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2026-04-23",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-08-18",
+      "estado": "completado"
+    },
+    {
+      "paso": "Segundo debate",
+      "fecha": "2026-08-25",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6381",
+  "recolectado_en": "2026-10-28T11:59:42+00:00"
+}
