@@ -34,8 +34,23 @@
       "paso": "Segundo debate",
       "fecha": "2026-08-25",
       "estado": "completado"
+    },
+    {
+      "paso": "Tercer debate",
+      "fecha": "2026-10-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-10-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-10-27",
+      "estado": "completado"
     }
   ],
   "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6381",
-  "recolectado_en": "2026-10-28T11:59:42+00:00"
+  "recolectado_en": "2026-11-01T12:33:17+00:00"
 }

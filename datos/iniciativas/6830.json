@@ -27,8 +27,23 @@
       "paso": "Dictamen de comisión",
       "fecha": "2026-10-27",
       "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-10-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-10-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-10-27",
+      "estado": "completado"
     }
   ],
   "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6457",
-  "recolectado_en": "2026-10-28T11:59:21+00:00"
+  "recolectado_en": "2026-11-01T12:32:57+00:00"
 }
