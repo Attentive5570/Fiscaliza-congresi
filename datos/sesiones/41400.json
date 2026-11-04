@@ -1,0 +1,376 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "56",
+  "fecha": "2026-11-03T12:57:59",
+  "evento_id": 41400,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41400",
+  "listado": {
+    "sesion": 56,
+    "fase": 1,
+    "fecha": "2026-11-03T12:57:59",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-11-03T14:47:20",
+        "votacion_id": 51593,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51593/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51593/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 2,
+        "fecha": "2026-11-03T14:48:53",
+        "votacion_id": 51594,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51594/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51594/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 3,
+        "fecha": "2026-11-03T14:50:50",
+        "votacion_id": 51591,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51591/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51591/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE PUNTO NUEVO AL DICTAMEN Y PROYECTO DE ACUERDO",
+        "numero_pregunta": 4,
+        "fecha": "2026-11-03T16:02:45",
+        "votacion_id": 51598,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51598/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51598/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL DICTAMEN Y PROYECTO DE ACUERDO (PRESUPUESTO DE INGRESOS Y EGRESOS DEL ORGANISMO LEGISLATIVO PARA EL EJERCICIO FISCAL DOS MIL VEINTISIETE)",
+        "numero_pregunta": 5,
+        "fecha": "2026-11-03T16:03:36",
+        "votacion_id": 51599,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51599/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51599/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 6,
+        "fecha": "2026-11-03T16:42:53",
+        "votacion_id": 51595,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51595/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51595/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (URGENCIA NACIONAL 6347)",
+        "numero_pregunta": 7,
+        "fecha": "2026-11-03T17:41:47",
+        "votacion_id": 51600,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51600/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51600/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 8,
+        "fecha": "2026-11-03T17:48:03",
+        "votacion_id": 51602,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51602/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51602/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 9,
+        "fecha": "2026-11-03T18:49:57",
+        "votacion_id": 51616,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51616/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51616/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONSTA DE LOS CAPÍTULOS I Y II Y LOS ARTÍCULOS DEL 1 AL 5 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 10,
+        "fecha": "2026-11-03T18:58:22",
+        "votacion_id": 51617,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51617/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51617/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 11,
+        "fecha": "2026-11-03T19:32:20",
+        "votacion_id": 51618,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51618/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51618/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 31 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 12,
+        "fecha": "2026-11-03T19:34:20",
+        "votacion_id": 51620,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51620/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51620/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUÉS DEL ARTÍCULO 31 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 13,
+        "fecha": "2026-11-03T19:35:42",
+        "votacion_id": 51621,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51621/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51621/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONSTA DE LOS CAPÍTULOS I AL VI Y LOS ARTÍCULOS DEL 6 AL 33 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 14,
+        "fecha": "2026-11-03T19:37:23",
+        "votacion_id": 51619,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51619/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51619/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONSTA DEL CAPÍTULO ÚNICO Y LOS ARTÍCULOS DEL 34 AL 42 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 15,
+        "fecha": "2026-11-03T19:43:38",
+        "votacion_id": 51605,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51605/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51605/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 43 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 16,
+        "fecha": "2026-11-03T20:10:14",
+        "votacion_id": 51641,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51641/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51641/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 44 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 17,
+        "fecha": "2026-11-03T20:11:58",
+        "votacion_id": 51622,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51622/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51622/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 45 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 18,
+        "fecha": "2026-11-03T20:13:30",
+        "votacion_id": 51623,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51623/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51623/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 46 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 19,
+        "fecha": "2026-11-03T20:15:07",
+        "votacion_id": 51624,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51624/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51624/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 47 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 20,
+        "fecha": "2026-11-03T20:16:32",
+        "votacion_id": 51625,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51625/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51625/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 48 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 21,
+        "fecha": "2026-11-03T20:18:43",
+        "votacion_id": 51626,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51626/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51626/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 49 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 22,
+        "fecha": "2026-11-03T20:20:13",
+        "votacion_id": 51627,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51627/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51627/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 50 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 23,
+        "fecha": "2026-11-03T20:21:49",
+        "votacion_id": 51628,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51628/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51628/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO DESPUES DEL ARTÍCULO 51 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 24,
+        "fecha": "2026-11-03T20:23:23",
+        "votacion_id": 51629,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51629/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51629/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 52 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 25,
+        "fecha": "2026-11-03T20:25:14",
+        "votacion_id": 51630,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51630/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51630/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO IV QUE CONSTA DE LOS CAPÍTULOS I AL III Y LOS ARTÍCULOS DEL 43 AL 55 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 26,
+        "fecha": "2026-11-03T20:27:00",
+        "votacion_id": 51631,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51631/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51631/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN EN EL ARTÍCULO 62 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 27,
+        "fecha": "2026-11-03T20:42:36",
+        "votacion_id": 51633,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51633/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51633/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN EN EL ARTÍCULO 64 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 28,
+        "fecha": "2026-11-03T20:44:04",
+        "votacion_id": 51634,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51634/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51634/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 70 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 29,
+        "fecha": "2026-11-03T20:45:26",
+        "votacion_id": 51635,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51635/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51635/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO V QUE CONSTA DE LOS CAPÍTULOS I Y II Y LOS ARTÍCULOS DEL 56 AL 72 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 30,
+        "fecha": "2026-11-03T20:48:46",
+        "votacion_id": 51636,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51636/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51636/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO VI QUE CONSTA DEL CAPÍTULO ÚNICO Y LOS ARTÍCULOS DEL 73 AL 82 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 31,
+        "fecha": "2026-11-03T20:57:03",
+        "votacion_id": 51608,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51608/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51608/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 87 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 32,
+        "fecha": "2026-11-03T21:05:26",
+        "votacion_id": 51637,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51637/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51637/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 88 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 33,
+        "fecha": "2026-11-03T21:06:45",
+        "votacion_id": 51638,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51638/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51638/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 96 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 34,
+        "fecha": "2026-11-03T21:08:11",
+        "votacion_id": 51639,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51639/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51639/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO VII QUE CONSTA DEL CAPÍTULO ÚNICO Y LOS ARTÍCULOS DEL 83 AL 96 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 35,
+        "fecha": "2026-11-03T21:09:41",
+        "votacion_id": 51640,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51640/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51640/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 36,
+        "fecha": "2026-11-03T21:13:23",
+        "votacion_id": 51610,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51610/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51610/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN (6347)",
+        "numero_pregunta": 37,
+        "fecha": "2026-11-03T22:41:06",
+        "votacion_id": 51642,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51642/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51642/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE FONDO DE REVISIÓN DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 38,
+        "fecha": "2026-11-03T22:43:20",
+        "votacion_id": 51643,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51643/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51643/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL CON EL FONDO DE REVISIÓN INCORPORADO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6347",
+        "numero_pregunta": 39,
+        "fecha": "2026-11-03T22:44:32",
+        "votacion_id": 51644,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51644/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51644/41400"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL (RETORNO A COMISIÓN)",
+        "numero_pregunta": 40,
+        "fecha": "2026-11-03T22:46:16",
+        "votacion_id": 51645,
+        "evento_id": 41400,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51645/41400",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51645/41400"
+      }
+    ]
+  },
+  "recolectado_en": "2026-11-04T13:43:09+00:00"
+}
