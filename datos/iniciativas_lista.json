@@ -368,38 +368,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/72410-6237.pdf"
   },
   {
-    "numero": "6244",
-    "fecha_pleno": "2023-09-06",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley de Exención del Impuesto al Valor Agregado -IVA- y Derechos Arancelarios a las Importaciones de Bienes, Suministros, Donaciones e Insumos que realice la Entidad La Fundación de Asistencia Social de la Iglesia Católica de la...",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6007",
-    "id_interno": 6007,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/4d5e6-6244.pdf"
-  },
-  {
-    "numero": "6245",
-    "fecha_pleno": "2023-09-06",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley de Exención del Impuesto al Valor Agregado -IVA- y Derechos Arancelarios a las Importaciones de Bienes, Suministros, Donaciones e Insumos que realice la Entidad Alianza Evangélica de Guatemala, en el Marco de sus respectivos Estatutos, sus Proyectos...",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6006",
-    "id_interno": 6006,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/06647-6245.pdf"
-  },
-  {
-    "numero": "6246",
-    "fecha_pleno": "2023-09-06",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley de Exención del Impuesto al Valor Agregado -IVA- y Derechos Arancelarios a las Importaciones de Bienes, Suministros, Donaciones e Insumos que realice la Entidad Obras Sociales del Santo Hermano Pedro OFM, en el Marco de sus respectivos Estatutos y sus...",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6005",
-    "id_interno": 6005,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/2ac72-6246.pdf"
-  },
-  {
-    "numero": "6252",
-    "fecha_pleno": "2023-09-06",
-    "texto_oficial": "Iniciativa que dispone aprobar reforma al Decreto Número 65-90 del Congreso de la República, Ley de la Academia de las Lenguas Mayas de Guatemala. (Reconocimiento del idioma Maya K´UB´UL, del Municipio de Cubulco, Baja Verapaz.)",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6004",
-    "id_interno": 6004,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/2803e-6252.pdf"
-  },
-  {
     "numero": "6257",
     "fecha_pleno": "2023-09-27",
     "texto_oficial": "Iniciativa que dispone aprobar Ley Orgánica del Instituto Nacional Geocientífico.",
@@ -3936,6 +3904,14 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/92d3a-6859.pdf"
   },
   {
+    "numero": "6860",
+    "fecha_pleno": "2026-11-03",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley de Rescate y Continuidad de las Escuelas e Institutos Normales con Especialidades.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6510",
+    "id_interno": 6510,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/321b5-6860.pdf"
+  },
+  {
     "numero": "6861",
     "fecha_pleno": "2026-10-13",
     "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto.",
@@ -3960,12 +3936,28 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/11836-6864.pdf"
   },
   {
+    "numero": "6866",
+    "fecha_pleno": "2026-11-03",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley para la Continuidad de Proyectos Públicos Judicializados.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6511",
+    "id_interno": 6511,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/9d751-6866.pdf"
+  },
+  {
     "numero": "6868",
     "fecha_pleno": "2026-10-27",
     "texto_oficial": "Iniciativa que dispone aprobar Ley para la Atención Integral de la Endometriosis en Guatemala.",
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6504",
     "id_interno": 6504,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/300b7-6868.pdf"
+  },
+  {
+    "numero": "6870",
+    "fecha_pleno": "2026-11-03",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley para Reducir el Consumo de Grasas Dañinas desde la Niñez.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6512",
+    "id_interno": 6512,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/bf681-6870.pdf"
   },
   {
     "numero": "6871",
@@ -3998,5 +3990,13 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6508",
     "id_interno": 6508,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/ca04d-6876.pdf"
+  },
+  {
+    "numero": "6882",
+    "fecha_pleno": "2026-11-03",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley de Innovación Agrícola.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6513",
+    "id_interno": 6513,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/e91e5-6882.pdf"
   }
 ]

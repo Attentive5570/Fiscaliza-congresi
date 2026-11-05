@@ -1,0 +1,30 @@
+{
+  "numero": "6347",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley de Ciberseguridad.",
+  "institucion": "N/A",
+  "ponentes": [
+    "José Pablo Mendoza Franco",
+    "Cristian Rodolfo Alvarez Y Alvarez",
+    "Gustavo Adolfo Crúz Montoya"
+  ],
+  "fecha_pleno": "2024-02-27",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2024-02-27",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2024-03-05",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2026-09-30",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6074",
+  "recolectado_en": "2026-11-05T13:52:59+00:00"
+}
