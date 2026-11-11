@@ -1,0 +1,493 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "58",
+  "fecha": "2026-11-10T12:58:30",
+  "evento_id": 41402,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41402",
+  "listado": {
+    "sesion": 58,
+    "fase": 1,
+    "fecha": "2026-11-10T12:58:30",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-11-10T15:02:22",
+        "votacion_id": 51650,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51650/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51650/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ACTA DE LA SESIÓN ANTERIOR",
+        "numero_pregunta": 2,
+        "fecha": "2026-11-10T15:03:49",
+        "votacion_id": 51652,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51652/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51652/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO (LAMENTA EL FALLECIMIENTO DEL DIPUTADO JULIO PORTILLO)",
+        "numero_pregunta": 3,
+        "fecha": "2026-11-10T16:20:16",
+        "votacion_id": 51654,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51654/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51654/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE DECLARA LA VACANTE DE DIPUTADO AL CONGRESO DE LA REPÚBLICA",
+        "numero_pregunta": 4,
+        "fecha": "2026-11-10T16:24:10",
+        "votacion_id": 51655,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51655/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51655/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN PARA LIMITAR EL TIEMPO DEL USO DE LA PALABRA",
+        "numero_pregunta": 5,
+        "fecha": "2026-11-10T17:22:57",
+        "votacion_id": 51677,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51677/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51677/41402"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DE LAS OBJECIONES Y OBSERVACIONES PRESENTADAS EN CONTRA DEL DECRETO 26-2026",
+        "numero_pregunta": 6,
+        "fecha": "2026-11-10T17:32:00",
+        "votacion_id": 51392,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51392/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51392/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (CITACIÓN AL MINISTRO DE GOBERNACIÓN)",
+        "numero_pregunta": 7,
+        "fecha": "2026-11-10T17:35:53",
+        "votacion_id": 51659,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51659/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51659/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL (URGENCIA NACIONAL 5906)",
+        "numero_pregunta": 8,
+        "fecha": "2026-11-10T18:30:42",
+        "votacion_id": 51678,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51678/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51678/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 9,
+        "fecha": "2026-11-10T18:32:12",
+        "votacion_id": 51681,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51681/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51681/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO I QUE CONSTA DE LOS ARTÍCULOS DEL 1 AL 5 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 10,
+        "fecha": "2026-11-10T18:44:08",
+        "votacion_id": 51682,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51682/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51682/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 11,
+        "fecha": "2026-11-10T18:51:28",
+        "votacion_id": 51714,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51714/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51714/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO II QUE CONSTA DE LOS ARTÍCULOS 6 AL 8 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 12,
+        "fecha": "2026-11-10T18:53:01",
+        "votacion_id": 51718,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51718/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51718/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL EN EL ARTÍCULO 15 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 13,
+        "fecha": "2026-11-10T19:05:22",
+        "votacion_id": 51717,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51717/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51717/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO III QUE CONSTA DE LOS ARTÍCULOS DEL 9 AL 17 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 14,
+        "fecha": "2026-11-10T19:06:56",
+        "votacion_id": 51719,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51719/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51719/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO IV QUE CONSTA DE LOS ARTÍCULOS DEL 18 AL 21 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 15,
+        "fecha": "2026-11-10T19:11:58",
+        "votacion_id": 51685,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51685/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51685/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 22 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 16,
+        "fecha": "2026-11-10T19:22:04",
+        "votacion_id": 51716,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51716/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51716/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 23 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 17,
+        "fecha": "2026-11-10T19:23:42",
+        "votacion_id": 51715,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51715/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51715/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 26 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 18,
+        "fecha": "2026-11-10T19:25:21",
+        "votacion_id": 51724,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51724/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51724/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL EN EL ARTÍCULO 27 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 19,
+        "fecha": "2026-11-10T19:26:43",
+        "votacion_id": 51725,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51725/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51725/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO V QUE CONSTA DE LOS ARTÍCULOS DEL 22 AL 27 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 20,
+        "fecha": "2026-11-10T19:28:16",
+        "votacion_id": 51726,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51726/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51726/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO VI QUE CONSTA DE LOS ARTÍCULOS DEL 28 AL 33 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 21,
+        "fecha": "2026-11-10T19:35:16",
+        "votacion_id": 51687,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51687/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51687/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO VII QUE CONSTA DE LOS ARTÍCULOS DEL 34 AL 38 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 22,
+        "fecha": "2026-11-10T19:38:55",
+        "votacion_id": 51688,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51688/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51688/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 46 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 23,
+        "fecha": "2026-11-10T19:46:19",
+        "votacion_id": 51727,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51727/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51727/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL CAPÍTULO VIII QUE CONSTA DE LOS ARTÍCULOS DEL 39 AL 46 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 24,
+        "fecha": "2026-11-10T19:47:41",
+        "votacion_id": 51728,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51728/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51728/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 25,
+        "fecha": "2026-11-10T19:50:26",
+        "votacion_id": 51690,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51690/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51690/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 5906",
+        "numero_pregunta": 26,
+        "fecha": "2026-11-10T20:20:30",
+        "votacion_id": 51691,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51691/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51691/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 27,
+        "fecha": "2026-11-10T20:23:08",
+        "votacion_id": 51713,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51713/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51713/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (DISPENSA DE DICTAMEN Y URGENCIA NACIONAL 6876)",
+        "numero_pregunta": 28,
+        "fecha": "2026-11-10T20:25:49",
+        "votacion_id": 51711,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51711/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51711/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (DISPENSA DE DICTAMEN Y URGENCIA NACIONAL 6876)",
+        "numero_pregunta": 29,
+        "fecha": "2026-11-10T20:27:50",
+        "votacion_id": 51729,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51729/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51729/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN EN UNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 30,
+        "fecha": "2026-11-10T20:30:06",
+        "votacion_id": 51730,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51730/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51730/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONSTA DE LOS ARTÍCULOS 1 AL 5 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 31,
+        "fecha": "2026-11-10T20:41:01",
+        "votacion_id": 51731,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51731/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51731/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 32,
+        "fecha": "2026-11-10T21:19:04",
+        "votacion_id": 51752,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51752/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51752/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 33,
+        "fecha": "2026-11-10T21:20:11",
+        "votacion_id": 51753,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51753/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51753/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 34,
+        "fecha": "2026-11-10T21:21:36",
+        "votacion_id": 51754,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51754/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51754/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL AL ARTÍCULO 13 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 35,
+        "fecha": "2026-11-10T21:24:45",
+        "votacion_id": 51755,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51755/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51755/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONSTA DE LOS CAPÍTULOS I Y II Y LOS ARTÍCULOS DEL 6 AL 16 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 36,
+        "fecha": "2026-11-10T21:26:34",
+        "votacion_id": 51733,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51733/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51733/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL EN EL ARTÍCULO 17 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 37,
+        "fecha": "2026-11-10T21:31:47",
+        "votacion_id": 51745,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51745/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51745/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONSTA DE LOS ARTÍCULOS DEL 17 AL 23 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 38,
+        "fecha": "2026-11-10T21:33:25",
+        "votacion_id": 51751,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51751/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51751/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 25 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 39,
+        "fecha": "2026-11-10T21:42:09",
+        "votacion_id": 51746,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51746/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51746/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 32 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 40,
+        "fecha": "2026-11-10T21:43:13",
+        "votacion_id": 51747,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51747/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51747/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO IV QUE CONSTA DE LOS CAPÍTULOS DEL I AL IV Y LOS ARTÍCULOS DEL 24 AL 33 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 41,
+        "fecha": "2026-11-10T21:44:53",
+        "votacion_id": 51756,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51756/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51756/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 40 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 42,
+        "fecha": "2026-11-10T21:53:20",
+        "votacion_id": 51748,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51748/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51748/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO V QUE CONSTA DE LOS ARTÍCULOS DEL 34 AL 41 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 43,
+        "fecha": "2026-11-10T21:54:54",
+        "votacion_id": 51757,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51757/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51757/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO VI QUE CONSTA DE LOS ARTÍCULOS DEL 42 AL 46 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 44,
+        "fecha": "2026-11-10T21:58:16",
+        "votacion_id": 51737,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51737/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51737/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN AL ARTÍCULO 47 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 45,
+        "fecha": "2026-11-10T22:02:09",
+        "votacion_id": 51749,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51749/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51749/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO VII QUE CONSTA DE LOS ARTÍCULOS DEL 47 AL 49 INCLUSIVE CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 46,
+        "fecha": "2026-11-10T22:03:22",
+        "votacion_id": 51758,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51758/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51758/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 56 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 47,
+        "fecha": "2026-11-10T22:12:50",
+        "votacion_id": 51763,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51763/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51763/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 58 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 48,
+        "fecha": "2026-11-10T22:13:49",
+        "votacion_id": 51750,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51750/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51750/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO VIII QUE CONSTA DE LOS CAPÍTULOS I AL II Y LOS ARTÍCULOS DEL 50 AL 58 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 49,
+        "fecha": "2026-11-10T22:15:00",
+        "votacion_id": 51759,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51759/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51759/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 50,
+        "fecha": "2026-11-10T22:20:18",
+        "votacion_id": 51740,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51740/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51740/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN DE REVISIÓN 6876",
+        "numero_pregunta": 51,
+        "fecha": "2026-11-10T23:02:35",
+        "votacion_id": 51760,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51760/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51760/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE FONDO DE REVISIÓN DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 52,
+        "fecha": "2026-11-10T23:07:10",
+        "votacion_id": 51761,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51761/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51761/41402"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL CON EL FONDO DE REVISIÓN INCORPORADO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6876",
+        "numero_pregunta": 53,
+        "fecha": "2026-11-10T23:08:34",
+        "votacion_id": 51762,
+        "evento_id": 41402,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51762/41402",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51762/41402"
+      }
+    ]
+  },
+  "recolectado_en": "2026-11-11T13:29:57+00:00"
+}

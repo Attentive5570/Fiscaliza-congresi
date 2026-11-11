@@ -1,0 +1,43 @@
+{
+  "numero": "6876",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley del Fondo Nacional de Becas.",
+  "institucion": "N/A",
+  "ponentes": [
+    "José Carlos Sanabria Arias",
+    "Mirna Victoria Godoy Palala",
+    "Raúl Amilcar Barrera Robles",
+    "Brenda Marleny Mejía López",
+    "Olga Isabel Villalta Pereira",
+    "Laura Fabiola Marroquín Cordón",
+    "Ana Patricia Orantes Thomas",
+    "Sabino Sebastián Velásquez Bámaca",
+    "Alma Luz Guerrero De La Cruz",
+    "Andrea María Reyes Zeceña",
+    "Román Wilfredo Castellanos Caal",
+    "José Alberto Chic Cardona",
+    "Raúl Arnulfo Cuá Tumín",
+    "Mercedes Del Rosario Monzón Escobedo",
+    "Samuel Andrés Pérez Alvarez",
+    "Elena Sofia Motta Kolleff",
+    "Mynor Alfonso De La Rosa Palacios",
+    "Nery Abilio Ramos Y Ramos",
+    "Andrea Beatríz Villagrán Antón De Pantoja",
+    "Francisco Vitelio Lam Ruano",
+    "Victor Hugo Cifuentes Delgado"
+  ],
+  "fecha_pleno": "2026-10-26",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-10-26",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-10-27",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6508",
+  "recolectado_en": "2026-11-11T13:30:06+00:00"
+}
