@@ -1,0 +1,25 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "59",
+  "fecha": "2026-11-12T08:57:06",
+  "evento_id": 41403,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41403",
+  "listado": {
+    "sesion": 59,
+    "fase": 1,
+    "fecha": "2026-11-12T08:57:06",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-11-12T10:23:10",
+        "votacion_id": 51764,
+        "evento_id": 41403,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51764/41403",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51764/41403"
+      }
+    ]
+  },
+  "recolectado_en": "2026-11-12T20:37:03+00:00"
+}
