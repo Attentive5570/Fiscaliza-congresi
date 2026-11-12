@@ -192,14 +192,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/3cdb8-6136.pdf"
   },
   {
-    "numero": "6138",
-    "fecha_pleno": "2023-09-06",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley del Día de la Dignificación de las Mujeres Indígenas.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6010",
-    "id_interno": 6010,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/44f41-6138.pdf"
-  },
-  {
     "numero": "6140",
     "fecha_pleno": "2024-03-05",
     "texto_oficial": "Iniciativa que dispone aprobar reformas a la Ley de Protección Animal, Decreto Número 5-2017, que amplía la competencia de la Unidad de Bienestar Animal alusivo a la realización masiva de Jornadas de Esterilización y Castración.",
@@ -320,14 +312,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/100e3-6223.pdf"
   },
   {
-    "numero": "6226",
-    "fecha_pleno": "2023-09-06",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley del Instituto Técnico Industrial Georg Kerschensteiner.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6009",
-    "id_interno": 6009,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/44290-6226.pdf"
-  },
-  {
     "numero": "6229",
     "fecha_pleno": "2024-04-11",
     "texto_oficial": "Iniciativa que dispone aprobar reformas a la Ley del Impuesto Único Sobre Inmuebles, Decreto Número 15-98 del Congreso de la República, relativas a la Fijación de una Tasa Única y la Creación de Exenciones Especiales.",
@@ -350,14 +334,6 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6062",
     "id_interno": 6062,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/06ba5-6232.pdf"
-  },
-  {
-    "numero": "6236",
-    "fecha_pleno": "2023-09-06",
-    "texto_oficial": "Iniciativa que dispone aprobar reforma al Código Penal, Decreto Número 17-73 del Congreso de la República.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6008",
-    "id_interno": 6008,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/8e87f-6236.pdf"
   },
   {
     "numero": "6237",
@@ -424,14 +400,6 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/caab7-6282.pdf"
   },
   {
-    "numero": "6283",
-    "fecha_pleno": "2023-09-13",
-    "texto_oficial": "Iniciativa que dispone aprobar Ley para la Protección de Obtenciones Vegetales.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6012",
-    "id_interno": 6012,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/5fdec-6283.pdf"
-  },
-  {
     "numero": "6285",
     "fecha_pleno": "2023-09-20",
     "texto_oficial": "Iniciativa que dispone aprobar Tratado de Libre Comercio entre el Gobierno de la República de Guatemala y el Gobierno del Estado de Israel.",
@@ -446,14 +414,6 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6019",
     "id_interno": 6019,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/9e2fd-6286.pdf"
-  },
-  {
-    "numero": "6287",
-    "fecha_pleno": "2023-09-13",
-    "texto_oficial": "Iniciativa que dispone aprobar Derogatoria Expresa de Diversos Decretos.",
-    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6011",
-    "id_interno": 6011,
-    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/24bff-6287.pdf"
   },
   {
     "numero": "6292",
@@ -3672,6 +3632,14 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/2be6f-6816.pdf"
   },
   {
+    "numero": "6820",
+    "fecha_pleno": "2026-11-10",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley del Día del Profesional del Diseño Gráfico y del Profesional de la Arquitectura.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6514",
+    "id_interno": 6514,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/f2186-6820.pdf"
+  },
+  {
     "numero": "6821",
     "fecha_pleno": "2026-09-08",
     "texto_oficial": "Iniciativa que dispone aprobar Ley de Reparación Histórica y Titulación de Tierras Ancestrales de la Laguna del Tigre.",
@@ -3816,6 +3784,14 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/c6458-6844.pdf"
   },
   {
+    "numero": "6845",
+    "fecha_pleno": "2026-11-10",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley de Defensa Rural y Comunitaria Frente a la Infraestructura de Transporte de Energía Eléctrica.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6515",
+    "id_interno": 6515,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/9c7b7-6845.pdf"
+  },
+  {
     "numero": "6846",
     "fecha_pleno": "2026-09-29",
     "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 4-2026 del Congreso de la República, Ley de Escuelas e Institutos Normales con Especialidades.",
@@ -3944,6 +3920,14 @@
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/9d751-6866.pdf"
   },
   {
+    "numero": "6867",
+    "fecha_pleno": "2026-11-10",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley de Beneficio Energético para Comunidades Aledañas a Centrales Hidroeléctricas.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6516",
+    "id_interno": 6516,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/527d4-6867.pdf"
+  },
+  {
     "numero": "6868",
     "fecha_pleno": "2026-10-27",
     "texto_oficial": "Iniciativa que dispone aprobar Ley para la Atención Integral de la Endometriosis en Guatemala.",
@@ -3998,5 +3982,21 @@
     "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6513",
     "id_interno": 6513,
     "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/e91e5-6882.pdf"
+  },
+  {
+    "numero": "6885",
+    "fecha_pleno": "2026-11-10",
+    "texto_oficial": "Iniciativa que dispone aprobar reforma a la Ley de Exención Tributaria Temporal de Emergencia al Consumidor de Combustible, Decreto Número 22-2026.",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6517",
+    "id_interno": 6517,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/623d0-6885.pdf"
+  },
+  {
+    "numero": "6886",
+    "fecha_pleno": "2026-11-10",
+    "texto_oficial": "Iniciativa que dispone aprobar Ley de Exención Tributaria temporal a las Familias Consumidoras de Gas Propano (Gas Licuado de Petróleo -GLP-).",
+    "detalle_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6518",
+    "id_interno": 6518,
+    "pdf_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/66fe9-6886.pdf"
   }
 ]
