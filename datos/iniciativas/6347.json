@@ -23,8 +23,43 @@
       "paso": "Dictamen de comisión",
       "fecha": "2026-09-30",
       "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-11-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-11-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-11-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Número de Decreto",
+      "fecha": "2026-11-03",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha envío al ejecutivo",
+      "fecha": "2026-11-12",
+      "estado": "completado"
+    },
+    {
+      "paso": "Sanciones",
+      "fecha": "2026-11-16",
+      "estado": "completado"
+    },
+    {
+      "paso": "Fecha de entrada en vigencia",
+      "fecha": "2026-12-17",
+      "estado": "completado"
     }
   ],
   "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6074",
-  "recolectado_en": "2026-11-14T12:52:14+00:00"
+  "recolectado_en": "2026-11-17T15:24:22+00:00"
 }
