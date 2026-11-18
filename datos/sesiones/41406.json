@@ -1,0 +1,457 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "60",
+  "fecha": "2026-11-17T01:03:37",
+  "evento_id": 41406,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41406",
+  "listado": {
+    "sesion": 60,
+    "fase": 1,
+    "fecha": "2026-11-17T01:03:37",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 1,
+        "fecha": "2026-11-17T15:13:15",
+        "votacion_id": 51822,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51822/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51822/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROPUESTA PARA MODIFICAR EL ORDEN DEL DÍA (DIPUTADO CHIC)",
+        "numero_pregunta": 2,
+        "fecha": "2026-11-17T15:15:25",
+        "votacion_id": 51824,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51824/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51824/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ORDEN DEL DÍA CON LA PROPUESTA INCORPORADA",
+        "numero_pregunta": 3,
+        "fecha": "2026-11-17T15:16:26",
+        "votacion_id": 51823,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51823/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51823/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE ORANTES)",
+        "numero_pregunta": 4,
+        "fecha": "2026-11-17T15:23:46",
+        "votacion_id": 51825,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51825/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51825/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (REPRESENTANTE PEREZ)",
+        "numero_pregunta": 5,
+        "fecha": "2026-11-17T15:27:15",
+        "votacion_id": 51826,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51826/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51826/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 6,
+        "fecha": "2026-11-17T15:30:33",
+        "votacion_id": 51818,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51818/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51818/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (SESIÓN ADICIONAL 25/11/2026)",
+        "numero_pregunta": 7,
+        "fecha": "2026-11-17T16:11:30",
+        "votacion_id": 51827,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51827/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51827/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (RATIFICAR EN UN SOLO ACTO Y CON MAYORÍA ABSOLUTA EL DECRETO GUBERNATIVO 8-2026)",
+        "numero_pregunta": 8,
+        "fecha": "2026-11-17T17:17:44",
+        "votacion_id": 51819,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51819/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51819/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO 8-2026 (6889)",
+        "numero_pregunta": 9,
+        "fecha": "2026-11-17T17:28:46",
+        "votacion_id": 51846,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51846/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51846/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO 8-2026 (6889)",
+        "numero_pregunta": 10,
+        "fecha": "2026-11-17T17:30:27",
+        "votacion_id": 51848,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51848/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51848/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO 8-2026 (6889)",
+        "numero_pregunta": 11,
+        "fecha": "2026-11-17T17:31:26",
+        "votacion_id": 51850,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51850/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51850/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO 8-2026 (6889)",
+        "numero_pregunta": 12,
+        "fecha": "2026-11-17T18:16:12",
+        "votacion_id": 51853,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51853/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51853/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO 8-2026 (6889)",
+        "numero_pregunta": 13,
+        "fecha": "2026-11-17T18:18:00",
+        "votacion_id": 51854,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51854/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51854/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PROYECTO DE DECRETO QUE DISPONE RATIFICAR EL DECRETO GUBERNATIVO 8-2026 CON LAS ENMIENDAS INCORPORADAS (6889)",
+        "numero_pregunta": 14,
+        "fecha": "2026-11-17T18:20:33",
+        "votacion_id": 51820,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51820/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51820/41406"
+      },
+      {
+        "pregunta": "ACEPTACIÓN DE LAS OBJECIONES Y OBSERVACIONES PRESENTADAS AL DECRETO 27-2026 DEL CONGRESO DE LA REPÚBLICA",
+        "numero_pregunta": 15,
+        "fecha": "2026-11-17T18:43:15",
+        "votacion_id": 51380,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51380/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51380/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE ACEPTA EL VETO AL DECRETO NÚMERO 23-2026 DEL CONGRESO DE LA REPÚBLICA",
+        "numero_pregunta": 16,
+        "fecha": "2026-11-17T18:47:19",
+        "votacion_id": 51821,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51821/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51821/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (DISPENSA DE DICTAMEN Y URGENCIA NACIONAL 6890)",
+        "numero_pregunta": 17,
+        "fecha": "2026-11-17T19:07:05",
+        "votacion_id": 51828,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51828/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51828/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 18,
+        "fecha": "2026-11-17T19:08:53",
+        "votacion_id": 51855,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51855/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51855/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 19,
+        "fecha": "2026-11-17T19:12:50",
+        "votacion_id": 51866,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51866/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51866/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 20,
+        "fecha": "2026-11-17T19:15:23",
+        "votacion_id": 51867,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51867/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51867/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 21,
+        "fecha": "2026-11-17T19:17:05",
+        "votacion_id": 51868,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51868/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51868/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 22,
+        "fecha": "2026-11-17T19:19:45",
+        "votacion_id": 51869,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51869/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51869/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 23,
+        "fecha": "2026-11-17T19:22:55",
+        "votacion_id": 51870,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51870/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51870/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 24,
+        "fecha": "2026-11-17T19:29:49",
+        "votacion_id": 51871,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51871/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51871/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 7 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 25,
+        "fecha": "2026-11-17T19:32:52",
+        "votacion_id": 51872,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51872/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51872/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 8 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 26,
+        "fecha": "2026-11-17T19:35:52",
+        "votacion_id": 51873,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51873/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51873/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 9 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 27,
+        "fecha": "2026-11-17T19:37:57",
+        "votacion_id": 51874,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51874/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51874/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 10 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 28,
+        "fecha": "2026-11-17T19:41:48",
+        "votacion_id": 51875,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51875/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51875/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 11 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 29,
+        "fecha": "2026-11-17T19:43:22",
+        "votacion_id": 51876,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51876/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51876/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 12 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 30,
+        "fecha": "2026-11-17T19:46:01",
+        "votacion_id": 51877,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51877/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51877/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 13 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 31,
+        "fecha": "2026-11-17T19:47:44",
+        "votacion_id": 51878,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51878/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51878/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 14 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 32,
+        "fecha": "2026-11-17T19:50:02",
+        "votacion_id": 51879,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51879/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51879/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 15 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 33,
+        "fecha": "2026-11-17T19:51:26",
+        "votacion_id": 51880,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51880/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51880/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 16 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 34,
+        "fecha": "2026-11-17T19:54:02",
+        "votacion_id": 51881,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51881/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51881/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 17 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 35,
+        "fecha": "2026-11-17T19:56:23",
+        "votacion_id": 51883,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51883/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51883/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 17 CON LA ENMIENDA INCORPORADA DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 36,
+        "fecha": "2026-11-17T19:57:44",
+        "votacion_id": 51884,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51884/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51884/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 37,
+        "fecha": "2026-11-17T20:00:27",
+        "votacion_id": 51885,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51885/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51885/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6890",
+        "numero_pregunta": 38,
+        "fecha": "2026-11-17T20:26:56",
+        "votacion_id": 51886,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51886/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51886/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (URGENCIA NACIONAL 6887)",
+        "numero_pregunta": 39,
+        "fecha": "2026-11-17T21:05:05",
+        "votacion_id": 51864,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51864/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51864/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6887",
+        "numero_pregunta": 40,
+        "fecha": "2026-11-17T21:06:20",
+        "votacion_id": 51891,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51891/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51891/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 1 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6887",
+        "numero_pregunta": 41,
+        "fecha": "2026-11-17T21:07:50",
+        "votacion_id": 51856,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51856/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51856/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 2 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6887",
+        "numero_pregunta": 42,
+        "fecha": "2026-11-17T21:10:13",
+        "votacion_id": 51857,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51857/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51857/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 3 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6887",
+        "numero_pregunta": 43,
+        "fecha": "2026-11-17T21:11:40",
+        "votacion_id": 51858,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51858/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51858/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 4 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6887",
+        "numero_pregunta": 44,
+        "fecha": "2026-11-17T21:12:51",
+        "votacion_id": 51859,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51859/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51859/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6887",
+        "numero_pregunta": 45,
+        "fecha": "2026-11-17T21:14:22",
+        "votacion_id": 51860,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51860/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51860/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6887",
+        "numero_pregunta": 46,
+        "fecha": "2026-11-17T21:16:07",
+        "votacion_id": 51861,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51861/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51861/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO ANTES DEL ARTÍCULO 5 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6887",
+        "numero_pregunta": 47,
+        "fecha": "2026-11-17T21:53:52",
+        "votacion_id": 51895,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51895/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51895/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6887",
+        "numero_pregunta": 48,
+        "fecha": "2026-11-17T21:56:16",
+        "votacion_id": 51862,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51862/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51862/41406"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6887",
+        "numero_pregunta": 49,
+        "fecha": "2026-11-17T22:03:59",
+        "votacion_id": 51863,
+        "evento_id": 41406,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51863/41406",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51863/41406"
+      }
+    ]
+  },
+  "recolectado_en": "2026-11-18T15:02:00+00:00"
+}
