@@ -1,0 +1,49 @@
+{
+  "numero": "6887",
+  "texto_oficial": "Iniciativa que dispone aprobar reformas al Decreto Número 22-2026 del Congreso de la República, Ley de Exención Tributaria Temporal de Emergencia al Consumidor de Combustibles. Reforma el segundo y tercer párrafo del art. 2. La exención establecida en este artículo será aplicable a partir de la entrada en vigencia del presente decreto y hasta el treinta de junio de dos mil veintisiete, reforma el segundo y tercer párrafo del art. 3 y reforma el segundo párrafo del art. 4. A partir del uno de julio de dos mil veintisiete será nuevamente aplicable el artículo 4.",
+  "institucion": "N/A",
+  "ponentes": [
+    "José Carlos Sanabria Arias",
+    "Jorge Mario Villagrán Alvarez",
+    "Edin Alexander De Jesús Mejía",
+    "Willy Ralda",
+    "Nery Abilio Ramos Y Ramos",
+    "Elmer Josué Palencia Reyes",
+    "Cornelio Gonzalo García García",
+    "Julio César López Escobar",
+    "Ervin Adim Maldonado Molina",
+    "Gerson Geovanny Barragán Morales",
+    "Juan Carlos Rivera Estevez",
+    "José Inés Castillo Martínez"
+  ],
+  "fecha_pleno": "2026-11-16",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-11-16",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-11-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-11-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-11-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-11-17",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6522",
+  "recolectado_en": "2026-11-19T15:06:12+00:00"
+}

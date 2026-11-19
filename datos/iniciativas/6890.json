@@ -1,0 +1,54 @@
+{
+  "numero": "6890",
+  "texto_oficial": "Iniciativa que dispone aprobar reforma al decreto número 51-92 del Congreso de la República, Código Procesal Penal. Reforma art. 258. Otros casos de aprehensión, art. 259. Prisión Preventiva, art. 261 Bis. Justificación de la Prisión Preventiva, art. 262. Peligro de Fuga, art. 263. Peligro de obstaculización a la averiguación de la verdad, art. 264. Sustitución, art. 264 Ter. Unidad de Control de Medidas de Coerción, adiciona el art. 264 Quáter. Prohibición de medidas sustitutivas, art. 268. Cesación del encarcelamiento, art. 268 Bis. Sustitución de privación de libertad por incumplimiento de plazos, art. 272. Falta de mérito, art. 277. Revisión de la medida de coerción, art. 320. Auto de procesamiento y art. 324 Bis. Control judicial.",
+  "institucion": "N/A",
+  "ponentes": [
+    "Alvaro Enrique Arzú Escobar",
+    "José Carlos Sanabria Arias",
+    "Ronald Yomelfy Portillo Cordón",
+    "Raúl Amilcar Barrera Robles",
+    "Edin Alexander De Jesús Mejía",
+    "Gerson Geovanny Barragán Morales",
+    "Cornelio Gonzalo García García",
+    "José Adolfo Quezada Valdéz",
+    "Jorge Mario Villagrán Alvarez",
+    "Luis Fernando Aguirre Estrada",
+    "José Inés Castillo Martínez",
+    "Julio César López Escobar",
+    "Carlos Enrique López Girón",
+    "Andrea María Reyes Zeceña",
+    "Boris Roberto España Cáceres",
+    "Héctor Adolfo Aldana Reyes",
+    "Cristian Rodolfo Alvarez Y Alvarez"
+  ],
+  "fecha_pleno": "2026-11-17",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-11-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-11-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Primer debate",
+      "fecha": "2026-11-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación por artículos",
+      "fecha": "2026-11-17",
+      "estado": "completado"
+    },
+    {
+      "paso": "Aprobación de redacción final",
+      "fecha": "2026-11-17",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6524",
+  "recolectado_en": "2026-11-19T15:06:09+00:00"
+}
