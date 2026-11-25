@@ -1,0 +1,26 @@
+{
+  "numero": "6841",
+  "texto_oficial": "Iniciativa que dispone aprobar Ley del Presupuesto General de Ingresos y Egresos del Estado para el Ejercicio Fiscal Dos Mil Veintisiete.",
+  "institucion": "N/A",
+  "ponentes": [],
+  "fecha_pleno": "2026-09-02",
+  "pasos": [
+    {
+      "paso": "Dirección legislativa",
+      "fecha": "2026-09-02",
+      "estado": "completado"
+    },
+    {
+      "paso": "Presentación pleno",
+      "fecha": "2026-09-22",
+      "estado": "completado"
+    },
+    {
+      "paso": "Dictamen de comisión",
+      "fecha": "2026-11-24",
+      "estado": "completado"
+    }
+  ],
+  "fuente_url": "https://www.congreso.gob.gt/detalle_pdf/iniciativas/6488",
+  "recolectado_en": "2026-11-25T16:43:39+00:00"
+}

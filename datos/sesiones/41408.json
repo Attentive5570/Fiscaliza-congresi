@@ -1,0 +1,313 @@
+{
+  "tipo": "Ordinaria",
+  "numero": "62",
+  "fecha": "2026-11-24T12:59:29",
+  "evento_id": 41408,
+  "url": "https://www.congreso.gob.gt/eventos_votaciones/41408",
+  "listado": {
+    "sesion": 62,
+    "fase": 1,
+    "fecha": "2026-11-24T12:59:29",
+    "tipo": "Ordinaria",
+    "votaciones": [
+      {
+        "pregunta": "APROBACION DEL ORDEN DEL DIA",
+        "numero_pregunta": 1,
+        "fecha": "2026-11-24T14:41:41",
+        "votacion_id": 51898,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51898/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51898/41408"
+      },
+      {
+        "pregunta": "APROBACION DE ACTAS DE SESIONES ANTERIORES",
+        "numero_pregunta": 2,
+        "fecha": "2026-11-24T14:43:15",
+        "votacion_id": 51899,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51899/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51899/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE PROYECTO DE ACUERDO QUE ACEPTA EL VETO AL DECRETO NÚMERO 10-2026 DEL CONGRESO DE LA REPÚBLICA",
+        "numero_pregunta": 3,
+        "fecha": "2026-11-24T14:51:03",
+        "votacion_id": 51900,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51900/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51900/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (URGENCIA NACIONAL 6774)",
+        "numero_pregunta": 4,
+        "fecha": "2026-11-24T16:22:19",
+        "votacion_id": 51901,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51901/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51901/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (URGENCIA NACIONAL 6774)",
+        "numero_pregunta": 5,
+        "fecha": "2026-11-24T16:25:12",
+        "votacion_id": 51903,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51903/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51903/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN PARA LIMITAR EL TIEMPO EN EL USO DE LA PALABRA",
+        "numero_pregunta": 6,
+        "fecha": "2026-11-24T17:07:14",
+        "votacion_id": 51904,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51904/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51904/41408"
+      },
+      {
+        "pregunta": "APROBACION DE MOCION PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA (PRIMER DEBATE 6841)",
+        "numero_pregunta": 7,
+        "fecha": "2026-11-24T18:16:01",
+        "votacion_id": 51905,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51905/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51905/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA (URGENCIA NACIONAL 6841)",
+        "numero_pregunta": 8,
+        "fecha": "2026-11-24T18:36:30",
+        "votacion_id": 51906,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51906/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51906/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA VERBAL (RETORNO A COMISIÓN 6841)",
+        "numero_pregunta": 9,
+        "fecha": "2026-11-24T18:42:13",
+        "votacion_id": 51907,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51907/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51907/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN EN ÚNICO DEBATE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 10,
+        "fecha": "2026-11-24T18:44:29",
+        "votacion_id": 51908,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51908/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51908/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO I QUE CONSTA DE LOS ARTÍCULOS 1 AL 5 INCLUSIVE DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 11,
+        "fecha": "2026-11-24T19:10:33",
+        "votacion_id": 51910,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51910/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51910/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 6 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 12,
+        "fecha": "2026-11-25T01:09:38",
+        "votacion_id": 51947,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51947/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51947/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 21 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 13,
+        "fecha": "2026-11-25T01:12:34",
+        "votacion_id": 51935,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51935/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51935/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN PARCIAL DEL ARTÍCULO 28 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 14,
+        "fecha": "2026-11-25T01:17:02",
+        "votacion_id": 51945,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51945/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51945/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 28 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 15,
+        "fecha": "2026-11-25T01:25:48",
+        "votacion_id": 51950,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51950/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51950/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 98 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 16,
+        "fecha": "2026-11-25T01:29:48",
+        "votacion_id": 51948,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51948/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51948/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 106 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 17,
+        "fecha": "2026-11-25T01:31:31",
+        "votacion_id": 51933,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51933/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51933/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 106 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 18,
+        "fecha": "2026-11-25T01:34:03",
+        "votacion_id": 51951,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51951/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51951/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR ADICIÓN DE UN ARTÍCULO NUEVO INMEDIATAMENTE DESPUÉS DEL ARTÍCULO 106 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 19,
+        "fecha": "2026-11-25T01:36:02",
+        "votacion_id": 51946,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51946/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51946/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 125 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 20,
+        "fecha": "2026-11-25T01:43:35",
+        "votacion_id": 51941,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51941/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51941/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUPRESIÓN TOTAL DEL ARTÍCULO 125 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 21,
+        "fecha": "2026-11-25T01:44:59",
+        "votacion_id": 51952,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51952/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51952/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 125 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 22,
+        "fecha": "2026-11-25T01:46:24",
+        "votacion_id": 51949,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51949/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51949/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 125 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 23,
+        "fecha": "2026-11-25T01:50:20",
+        "votacion_id": 51953,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51953/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51953/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO II QUE CONSTA DE LOS CAPÍTULOS I AL IX Y LOS ARTÍCULOS DEL 6 AL 133 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 24,
+        "fecha": "2026-11-25T01:52:54",
+        "votacion_id": 51940,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51940/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51940/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 148 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 25,
+        "fecha": "2026-11-25T02:42:18",
+        "votacion_id": 51937,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51937/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51937/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 152 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 26,
+        "fecha": "2026-11-25T02:43:41",
+        "votacion_id": 51939,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51939/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51939/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN PARCIAL AL ARTÍCULO 154 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 27,
+        "fecha": "2026-11-25T02:46:07",
+        "votacion_id": 51955,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51955/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51955/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE ENMIENDA POR SUSTITUCIÓN TOTAL DEL ARTÍCULO 161 DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 28,
+        "fecha": "2026-11-25T02:48:36",
+        "votacion_id": 51932,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51932/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51932/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL TÍTULO III QUE CONSTA DE LOS ARTÍCULOS DEL 134 AL 161 INCLUSIVE CON LAS ENMIENDAS INCORPORADAS DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 29,
+        "fecha": "2026-11-25T02:50:14",
+        "votacion_id": 51914,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51914/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51914/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DEL PREÁMBULO DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 30,
+        "fecha": "2026-11-25T02:53:14",
+        "votacion_id": 51916,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51916/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51916/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE LA REDACCIÓN FINAL DEL PROYECTO DE DECRETO QUE DISPONE APROBAR LA INICIATIVA DE LEY 6841",
+        "numero_pregunta": 31,
+        "fecha": "2026-11-25T06:11:18",
+        "votacion_id": 51917,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51917/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51917/41408"
+      },
+      {
+        "pregunta": "CONSULTA AL PLENO SOBRE LA CANCELACIÓN DE LA SESIÓN DEL DÍA MIÉRCOLES 25/11/2026",
+        "numero_pregunta": 32,
+        "fecha": "2026-11-25T06:13:25",
+        "votacion_id": 51956,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51956/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51956/41408"
+      },
+      {
+        "pregunta": "APROBACIÓN DE MOCIÓN PRIVILEGIADA PARA ALTERAR EL ORDEN DEL DÍA",
+        "numero_pregunta": 33,
+        "fecha": "2026-11-25T06:15:20",
+        "votacion_id": 51954,
+        "evento_id": 41408,
+        "detalle_url": "https://www.congreso.gob.gt/detalle_de_votacion/51954/41408",
+        "pdf_url": "https://www.congreso.gob.gt/pdf_resultado_votacion/51954/41408"
+      }
+    ]
+  },
+  "recolectado_en": "2026-11-25T16:43:17+00:00"
+}
